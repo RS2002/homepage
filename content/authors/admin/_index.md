@@ -14,7 +14,7 @@ organizations:
     url: https://www.sysu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio:
+bio: This is a brief bio.
 
 # Interests to show in About widget
 interests:
@@ -29,7 +29,7 @@ education:
     - course: BSc in Computer Science and Technology
       institution: School of Computer Science and Engineering, Sun Yat-sen University
       year: 2024
-      GPA:90/100
+      GPA: 3.9/4(90/100)
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -69,7 +69,5 @@ highlight_name: true
 ---
 
 I am a senior undergraduate in [School of Computer Science and Engineering](https://cse.sysu.edu.cn/), [Sun Yat-sen University](https://www.sysu.edu.cn/) supervised by [Prof. Kai Huang](https://cse.sysu.edu.cn/content/2466) and [Prof. Ning Liu](https://cse.sysu.edu.cn/node/2495). Currently, I am studying at [Shenzhen Research Institute of Big Data](http://www.sribd.cn/), associated with [Chinese University of Hong Kong (Shenzhen)](https://www.cuhk.edu.cn/zh-hans) as a visiting student under the supervision of [Dr. Guangxu Zhu](https://sites.google.com/view/guangxuzhu).
-
-
 
 {style="text-align: justify;"}
