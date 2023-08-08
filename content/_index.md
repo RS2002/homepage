@@ -34,6 +34,14 @@ sections:
           date_start: '2023-08-01'
           date_end: '2024-07-31'
           description:
+        - title: Bachelor
+          company: School of Computer Science and Engineering, Sun Yat-sen University
+          company_url: ''
+          company_logo: 
+          location: Shanghai
+          date_start: '2021-07-01'
+          date_end: '2024-07-01'
+          description: 
         - title: Tutor
           company: Shanghai Zhangxiaomen Education Technology Co., Ltd.
           company_url: ''
@@ -43,20 +51,12 @@ sections:
           date_end: '2021-09-01'
           description: 
         - title: Bachelor
-          company: School of Computer Science and Engineering, Sun Yat-sen University
-          company_url: ''
-          company_logo: 
-          location: Shanghai
-          date_start: '2021-07-01'
-          date_end: '2024-07-01'
-          description: 
-        - title: Bachelor
           company: School of Electronics and Communication Engineering, Sun Yat-sen University
           company_url: ''
           company_logo: 
           location: Shanghai
-          date_start: '2021-07-01'
-          date_end: '2020-09-01'
+          date_start: '2020-09-01'
+          date_end: '2021-07-01'
           description: 
 
 
@@ -75,30 +75,17 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
+        - certificate_url:
           date_end: ''
-          date_start: '2021-01-25'
+          date_start: '2021-10'
           description: ''
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
+          organization: Sun Yat-sen University
+          organization_url:
+          title: First-class Scholarship for Outstanding student of Sun Yat-sen University
           url: ''
-        - certificate_url: https://www.edx.org
-          date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
-          description: ''
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
-          url: ''
+
+
+
     design:
       columns: '2'
  
