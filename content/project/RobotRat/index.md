@@ -1,22 +1,22 @@
 ---
-title: KD-ACR
-summary: An example of using the in-built project page.
+title: A Rope-driven Bionic Rat Robot with Flexible Spine
+summary: 
 tags:
   - Music Information Retrieval
-date: '2023-01-01T00:00:00Z'
+date: '2022-09-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: 'https://github.com/RS2002/PianoBart'
+external_link: 'https://github.com/RS2002/Robot-mouse'
 
 image:
-  caption: Photo by rawpixel on Unsplash
-  focal_point: Smart
+  caption: 
+  focal_point: 
 
 links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
+  - icon: 
+    icon_pack: 
+    name: 
+    url: 
 url_code: ''
 url_pdf: ''
 url_slides: ''
@@ -29,5 +29,3 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
-
-Description:
