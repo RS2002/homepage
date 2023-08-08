@@ -171,12 +171,10 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Music Information Retrieval
-          tag: Music Information Retrieval
-        - name: Robot Reinforcement
-          tag: Robot Reinforcement
+        - name: Deep Learning
+          tag: Deep Learning
         - name: Other
-          tag: Other
+          tag: Demo
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
