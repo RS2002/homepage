@@ -75,62 +75,7 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url:
-          date_end: ''
-          date_start: '2023-07-01'
-          description: ''
-          organization: Consortium for Mathematics and Its Application
-          organization_url:
-          title: Meritorious Winner in the Mathematical Contest in Modeling
-          url: ''
-        - certificate_url:
-          date_end: ''
-          date_start: '2022-11-01'
-          description: ''
-          organization: Chinese Mathematical Society
-          organization_url:
-          title: Provincial First Prize in the Chinese Mathematics Competitions
-          url: ''
-        - certificate_url:
-          date_end: ''
-          date_start: '2022-10-01'
-          description: ''
-          organization: Sun Yat-sen University
-          organization_url:
-          title: Second-class Scholarship for Outstanding student of Sun Yat-sen University
-          url: ''
-        - certificate_url:
-          date_end: ''
-          date_start: '2022-07-01'
-          description: ''
-          organization: Statistical Education Society of China
-          organization_url:
-          title: Provincial Second Prize in SPSS University Contest in Modeling
-          url: ''
-        - certificate_url:
-          date_end: ''
-          date_start: '2021-12-01'
-          description: ''
-          organization: Beijing Society of Image and Graphics, APMCM Organizing Committee
-          organization_url:
-          title: Second Prize in Asia and Pacific Mathematical Contest in Modeling
-          url: ''
-        - certificate_url:
-          date_end: ''
-          date_start: '2021-10-01'
-          description: ''
-          organization: China Society for Industrial and Applied Mathematics
-          organization_url:
-          title: Provincial Third Prize in the Chinese Mathematics Competitions 
-          url: ''
-        - certificate_url:
-          date_end: ''
-          date_start: '2021-10-01'
-          description: ''
-          organization: Chinese Mathematical Society
-          organization_url:
-          title: Provincial First Prize in the Chinese Mathematics Competitions
-          url: ''
+
         - certificate_url:
           date_end: ''
           date_start: '2021-10-01'
