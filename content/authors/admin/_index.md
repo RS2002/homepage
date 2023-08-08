@@ -29,7 +29,6 @@ education:
     - course: BSc in Computer Science and Technology
       institution: School of Computer Science and Engineering, Sun Yat-sen University
       year: 2024
-      GPA: 3.9/4(90/100)
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -38,22 +37,10 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: 'mailto:rs2002zhao@gmail.com'
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://github.com/RS2002
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -62,7 +49,7 @@ social:
     link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'rs2002zhao@gmail.com'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
