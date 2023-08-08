@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Zijian Zhao 赵子健
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Zijian
+last_name: Zhao
 
 # Status emoji
 status:
