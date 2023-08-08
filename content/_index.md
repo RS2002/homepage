@@ -27,7 +27,7 @@ sections:
         - title: Tutor
           company: Shanghai Zhangxiaomen Education Technology Co., Ltd.
           company_url: ''
-          company_logo: org-
+          company_logo: 
           location: Shanghai
           date_start: '2020-12-01'
           date_end: '2021-09-01'
@@ -35,7 +35,7 @@ sections:
         - title: Visiting Student 
           company: Shenzhen Research Institute of Big Data, associated with the Chinese University of Hong Kong (Shenzhen)
           company_url: ''
-          company_logo: org-SRIBD
+          company_logo: 
           location: Shenzhen
           date_start: '2023-08-01'
           date_end: '2024-07-31'
