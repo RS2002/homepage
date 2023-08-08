@@ -77,7 +77,7 @@ sections:
       items:
         - certificate_url:
           date_end: ''
-          date_start: '2021-10'
+          date_start: '2021-10-01'
           description: ''
           organization: Sun Yat-sen University
           organization_url:
