@@ -173,8 +173,8 @@ sections:
           tag: '*'
         - name: Music Information Retrieval
           tag: Music Information Retrieval
-        - name: Robot Reinforcement
-          tag: Robot Reinforcement
+        - name: Robot Reinforcement Learning
+          tag: Robot Reinforcement Learning
         - name: Other
           tag: Other
     design:

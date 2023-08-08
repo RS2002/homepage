@@ -1,6 +1,6 @@
 ---
 title: PianoBART
-summary: An example of using the in-built project page.
+summary: Symbolic Piano Music Understanding and Generating with Large-Scale Pre-Training
 tags:
   - Music Information Retrieval
 date: '2023-01-01T00:00:00Z'
@@ -13,10 +13,10 @@ image:
   focal_point: Smart
 
 links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
+  - icon:
+    icon_pack:
+    name:
+    url:
 url_code: ''
 url_pdf: ''
 url_slides: ''
