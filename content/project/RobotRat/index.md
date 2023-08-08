@@ -2,7 +2,7 @@
 title: A Rope-driven Bionic Rat Robot with Flexible Spine
 summary: 
 tags:
-  - Music Information Retrieval
+  - Robot Reinforcement Learning
 date: '2022-09-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
