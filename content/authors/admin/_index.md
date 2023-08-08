@@ -59,6 +59,6 @@ I am a senior undergraduate in [School of Computer Science and Engineering](http
 
 My research interests span a wide range of AI, and I am eager to explore various fields during my undergraduate studies. I am currently seeking an opportunity to pursue a Ph.D. in the field of AI, with a strong passion for computer science and mathematics. I am open to exploring any interesting field during my Ph.D. as I believe that the most important aspect of my doctoral studies is to develop my learning and research skills.
 
-If you would like to learn more about my previous research, please feel free to download my CV or contact me directly. I would greatly appreciate any opportunity to join a research group.
+If you would like to learn more about my previous research, please feel free to download my CV or contact me directly (zhaozj28@mail2.sysu.edu.cn). I would greatly appreciate any opportunity to join a research group.
 
 {style="text-align: justify;"}
