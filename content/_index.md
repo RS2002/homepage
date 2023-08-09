@@ -38,7 +38,7 @@ sections:
           company: School of Computer Science and Engineering, Sun Yat-sen University
           company_url: ''
           company_logo: 
-          location: Shanghai
+          location: Guangzhou
           date_start: '2021-07-01'
           date_end: '2024-07-01'
           description: 
@@ -46,7 +46,7 @@ sections:
           company: Shanghai Zhangxiaomen Education Technology Co., Ltd.
           company_url: ''
           company_logo: 
-          location: Shanghai
+          location: Online
           date_start: '2020-12-01'
           date_end: '2021-09-01'
           description: 
@@ -54,7 +54,7 @@ sections:
           company: School of Electronics and Communication Engineering, Sun Yat-sen University
           company_url: ''
           company_logo: 
-          location: Shanghai
+          location: Shenzhen
           date_start: '2020-09-01'
           date_end: '2021-07-01'
           description: 
