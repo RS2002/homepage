@@ -25,8 +25,8 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: BSc in Computer Science and Technology
-      institution: School of Computer Science and Engineering, Sun Yat-sen University
+    - course: BEng in Computer Science and Technology
+      institution: Sun Yat-sen University
       year: 2020~2024
 
 # Social/Academic Networking
