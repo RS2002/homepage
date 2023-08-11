@@ -146,7 +146,7 @@ sections:
           description: ''
           organization: Chinese Mathematical Society
           organization_url:
-          title: Second Prize & Provincial First Prize in National High School Mathematics League
+          title: Second Prize and Provincial First Prize in National High School Mathematics League
           url: ''
 
 
