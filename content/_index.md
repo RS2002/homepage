@@ -142,11 +142,11 @@ sections:
           url: ''
         - certificate_url:
           date_end: ''
-          date_start: '2019-9-01'
+          date_start: '2019-09-01'
           description: ''
           organization: Chinese Mathematical Society
           organization_url:
-          title: Second Prize and Provincial First Prize in National High School Mathematics League
+          title: Second Prize & Provincial First Prize in National High School Mathematics League
           url: ''
 
 
