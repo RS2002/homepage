@@ -19,7 +19,7 @@ bio: This is a brief bio.
 # Interests to show in About widget
 interests:
   - NLP & MIR & Multi-modal
-  - Federated Learning & Sensing
+  - Federated Learning & ISAC
   - Robot & Reinforcement Learning
 
 # Education to show in About widget
