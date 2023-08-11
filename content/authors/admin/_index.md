@@ -21,14 +21,13 @@ interests:
   - NLP & MIR & Multi-modal
   - Federated Learning & Sensing
   - Robot & Reinforcement Learning
-  - Machine Learning
 
 # Education to show in About widget
 education:
   courses:
     - course: BSc in Computer Science and Technology
       institution: School of Computer Science and Engineering, Sun Yat-sen University
-      year: 2024
+      year: 2020 ~ 2024
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
