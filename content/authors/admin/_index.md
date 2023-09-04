@@ -60,4 +60,10 @@ My research interests span a wide range of AI, and I am eager to explore various
 
 If you would like to learn more about my previous research, please feel free to download my CV or contact me directly (zhaozj28@mail2.sysu.edu.cn). I would greatly appreciate any opportunity to join a research group.
 
+
+
+P.S. I was also the lead singer and guitarist in the bands [NEWS](https://music.163.com/#/artist?id=52253597) and [Rights of Lethe](https://music.163.com/#/artist?id=52435898). I have a strong passion for heavy rock music, particularly alternative punk, melodic death metal, dark metal, and some core genres. If you are interested in playing or collaborating with me, please feel free to reach out to me via [Weibo](https://weibo.com/u/3829716889) or WeChat (z448708588). You can also find our videos on [bilibili](https://space.bilibili.com/349124347?spm_id_from=333.1007.0.0).
+
+
+
 {style="text-align: justify;"}
