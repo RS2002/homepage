@@ -78,6 +78,14 @@ sections:
 
         - certificate_url:
           date_end: ''
+          date_start: '2023-10-01'
+          description: ''
+          organization: Sun Yat-sen University
+          organization_url:
+          title: Third-class Scholarship for Outstanding student of Sun Yat-sen University
+          url: ''
+        - certificate_url:
+          date_end: ''
           date_start: '2023-07-01'
           description: ''
           organization: Consortium for Mathematics and Its Application
