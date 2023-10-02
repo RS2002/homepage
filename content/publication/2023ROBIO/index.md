@@ -1,5 +1,5 @@
 ---
-title: 'Autonomous Locomotion of a Rat Robot Based on Reinforcement Learning'
+title: 'Adaptive Quadruped Locomotion of a Rat Robot Based on a Hierarchical Reinforcement Learning Framework'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -9,13 +9,14 @@ authors:
   - Yuhong Huang
   - admin
   - Zhenshan Bing
+  - Alois Knoll
   - Kai Huang
 
 # Author notes (optional)
 author_notes:
 
 
-date: '2023-08-05T00:00:00Z'
+date: '2023-10-02T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -28,10 +29,10 @@ publishDate: ''
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *CCF CIRAC*
-publication_short: In *CCF CIRAC*
+publication: In *IEEE ROBIO*
+publication_short: In *IEEE International Conference on Robotics and Biomimetics 2023*
 
-abstract: The rat robot is a soft compact quadrupedal robot with the same size as real rats. It is difficult for such robots to learn effective motions on complex terrain owing to their underactuated nature and limited sensors. This paper proposes a novel approach for the rat robot to learn adaptive motion on rugged terrain based on reinforcement learning. The training architecture is designed for the rat robot’s nonlinear control structure. We gather and analyze perception information based on changes in time slices to monitor environmental changes during robot walking. Our proposed framework demonstrates a significant reduction in training convergence time, from millions to hundreds of thousands, compared to commonly used reinforcement learning methods. We evaluate the efficacy of our approach on a varied set of simulated terrain scenarios, which include various obstacles and terrain undulations. Our results show that our approach effectively achieves efficient motions on complex terrains designed for small-sized robots.
+abstract: Small robots encounter considerable difficulties in learning effective motions on complex terrains owing to their underactuated nature and nonlinear dynamics. In this paper, we present a novel framework for robot motion generation that implements reinforcement learning, based on simplified exploration of the robot’s action and time slice conduction. Our framework controls the robot’s actions using normalized signals and hierarchical mappings on mathematical space, which facilitates the learning process. We execute action in the timeslice to make efficient interaction with the environment. We evaluate the efficacy of our approach on a varied set of simulated terrain scenarios, which include various obstacles and terrain undulations. Our results show that our approach effectively achieves efficient motions on complex terrains designed for small-sized robots.
 
 # Summary. An optional shortened abstract.
 summary: 
