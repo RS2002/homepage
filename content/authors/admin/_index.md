@@ -19,8 +19,8 @@ bio: This is a brief bio.
 # Interests to show in About widget
 interests:
   - NLP & MIR & Multi-modal
-  - ISAC & Edge Intelligence
-  - Robot & Reinforcement Learning
+  - Robot & Sensing
+  - Machine Learning & Optimization
 
 # Education to show in About widget
 education:
@@ -54,13 +54,11 @@ email: 'rs2002zhao@gmail.com'
 highlight_name: true
 ---
 
-I am a senior undergraduate in [School of Computer Science and Engineering](https://cse.sysu.edu.cn/), [Sun Yat-sen University](https://www.sysu.edu.cn/) (GPA:90/100, National Basic Subject Talent Training Plan) supervised by [Prof. Kai Huang](https://cse.sysu.edu.cn/content/2466) (Robot Reinforcement Learning) and [Prof. Ning Liu](https://cse.sysu.edu.cn/node/2495) & [Prof. Chengying Gao](https://cse.sysu.edu.cn/content/2537) (Music AI). Currently, I am studying at [Shenzhen Research Institute of Big Data](http://www.sribd.cn/), associated with [Chinese University of Hong Kong (Shenzhen)](https://www.cuhk.edu.cn/zh-hans) as a visiting student under the supervision of [Dr. Guangxu Zhu](https://sites.google.com/view/guangxuzhu) (Wifi Sensing). I have also studied for a short time supervised by [Pof. Xizhang Wei](https://sece.sysu.edu.cn/szll/js/kjdz/1135755.htm) (Compressed Sensing) and [Prof. Shangsong Liang](https://cse.sysu.edu.cn/content/4569) (Information Retrieval).
+I am a senior undergraduate in [School of Computer Science and Engineering](https://cse.sysu.edu.cn/), [Sun Yat-sen University](https://www.sysu.edu.cn/) (GPA:90/100, National Basic Subject Talent Training Plan) supervised by [Prof. Kai Huang](https://cse.sysu.edu.cn/content/2466) (Robot Reinforcement Learning) and [Prof. Ning Liu](https://cse.sysu.edu.cn/node/2495) & [Prof. Chengying Gao](https://cse.sysu.edu.cn/content/2537) (Music AI). Currently, I am studying at [Shenzhen Research Institute of Big Data](http://www.sribd.cn/), associated with [Chinese University of Hong Kong (Shenzhen)](https://www.cuhk.edu.cn/zh-hans) as a visiting student under the supervision of [Dr. Guangxu Zhu](https://sites.google.com/view/guangxuzhu) (Wifi Sensing). I've also gained valuable experience during brief stints under the guidance of [Pof. Xizhang Wei](https://sece.sysu.edu.cn/szll/js/kjdz/1135755.htm) (Compressed Sensing) and [Prof. Shangsong Liang](https://cse.sysu.edu.cn/content/4569) (Information Retrieval).
 
-My research interests span a wide range of AI, and I am eager to explore various fields during my undergraduate studies. I am currently seeking an opportunity to pursue a Ph.D. in the field of AI, with a strong passion for computer science and mathematics. I am open to exploring any interesting field during my Ph.D. as I believe that the most important aspect of my doctoral studies is to develop my learning and research skills.
+My research interests span a wide range of AI, and I am eager to explore various fields during my undergraduate studies. I am currently seeking an opportunity to pursue a Ph.D. in the field of AI, with a strong passion for electronic computer science and mathematics. I am open to exploring any interesting field during my Ph.D. as I believe that the most important aspect of my doctoral studies is to develop my learning and research skills.
 
 If you would like to learn more about my previous research, please feel free to download my CV or contact me directly (zhaozj28@mail2.sysu.edu.cn). I would greatly appreciate any opportunity to join a research group.
-
-
 
 P.S. I was also the lead singer and guitarist in the bands [NEWS](https://music.163.com/#/artist?id=52253597) and [Rights of Lethe](https://music.163.com/#/artist?id=52435898). I have a strong passion for heavy rock music, particularly alternative punk, melodic death metal, dark metal, and some core genres. If you are interested in playing or collaborating with me, please feel free to reach out to me via [Weibo](https://weibo.com/u/3829716889), mail, or WeChat (z448708588). You can also find our videos on [bilibili](https://space.bilibili.com/349124347?spm_id_from=333.1007.0.0).
 
