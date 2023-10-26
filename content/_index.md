@@ -31,7 +31,7 @@ sections:
           company_logo: 
           location: Hong Kong
           date_start: '2024-09-01'
-          date_end: '--'
+          date_end: ''
           description:
         - title: Visiting Student 
           company: Shenzhen Research Institute of Big Data, associated with the Chinese University of Hong Kong (Shenzhen)
