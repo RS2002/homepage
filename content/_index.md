@@ -25,7 +25,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
 
-        - title: PhD 
+        - title: Ph.D. 
           company: Department of Civil and Environmental Engineering, The Hong Kong University of Science and Technology
           company_url: ''
           company_logo: 
