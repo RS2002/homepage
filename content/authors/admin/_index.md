@@ -25,7 +25,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Civil Engineering (Scientific Computation)
+    - course: Ph.D. in Civil Engineering (Scientific Computation)
       institution: The Hong Kong University of Science and Technology
       year: 2024~
     - course: BEng in Computer Science and Technology

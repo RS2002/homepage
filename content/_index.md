@@ -41,7 +41,7 @@ sections:
           date_start: '2023-08-01'
           date_end: '2024-07-31'
           description:
-        - title: Bachelor
+        - title: BEng 
           company: School of Computer Science and Engineering, Sun Yat-sen University
           company_url: ''
           company_logo: 
@@ -57,7 +57,7 @@ sections:
           date_start: '2020-12-01'
           date_end: '2021-09-01'
           description: 
-        - title: Bachelor
+        - title: BEng 
           company: School of Electronics and Communication Engineering, Sun Yat-sen University
           company_url: ''
           company_logo: 
