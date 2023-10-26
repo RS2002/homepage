@@ -224,5 +224,17 @@ sections:
     design:
       columns: '2'
       view: citation
+
+  - block: collection
+    id: music
+    content:
+      title: My Music
+      filters:
+        folders:
+          - music
+        featured_only: true
+    design:
+      columns: '1'
+      view: card
   
 ---
