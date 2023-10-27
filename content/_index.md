@@ -28,7 +28,7 @@ sections:
         - title: Ph.D. 
           company: Department of Civil and Environmental Engineering, The Hong Kong University of Science and Technology
           company_url: 'https://www.ce.ust.hk/'
-          company_logo: org-hkust
+          company_logo: 
           location: Hong Kong
           date_start: '2024-09-01'
           date_end: ''
@@ -36,7 +36,7 @@ sections:
         - title: Visiting Student 
           company: Shenzhen Research Institute of Big Data (associated with the Chinese University of Hong Kong, Shenzhen)
           company_url: 'http://www.sribd.cn/'
-          company_logo: org-sribd
+          company_logo: 
           location: Shenzhen
           date_start: '2023-08-01'
           date_end: '2024-07-31'
@@ -44,7 +44,7 @@ sections:
         - title: B.Eng. 
           company: School of Computer Science and Engineering, Sun Yat-sen University
           company_url: 'https://cse.sysu.edu.cn/'
-          company_logo: org-sysu
+          company_logo: 
           location: Guangzhou
           date_start: '2021-07-01'
           date_end: '2024-07-01'
@@ -52,7 +52,7 @@ sections:
         - title: Tutor
           company: Shanghai Zhangxiaomen Education Technology Co., Ltd.
           company_url: 'http://zhangmentalent.com/'
-          company_logo: org-xzm
+          company_logo: 
           location: Online
           date_start: '2020-12-01'
           date_end: '2021-09-01'
@@ -60,7 +60,7 @@ sections:
         - title: B.Eng. 
           company: School of Electronics and Communication Engineering, Sun Yat-sen University
           company_url: 'https://sece.sysu.edu.cn/'
-          company_logo: org-sysu
+          company_logo: 
           location: Shenzhen
           date_start: '2020-09-01'
           date_end: '2021-07-01'
