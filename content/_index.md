@@ -83,12 +83,12 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
 
-        - certificate_url:https://www.sysu.edu.cn/
+        - certificate_url:'https://www.sysu.edu.cn/'
           date_end: ''
           date_start: '2023-10-01'
           description: ''
           organization: Sun Yat-sen University
-          organization_url:https://www.sysu.edu.cn/
+          organization_url:'https://www.sysu.edu.cn/'
           title: Third-class Scholarship for Outstanding Student of Sun Yat-sen University
           url: ''
         - certificate_url:
@@ -107,12 +107,12 @@ sections:
           organization_url:
           title: Provincial First Prize in the Chinese Mathematics Competitions
           url: ''
-        - certificate_url:https://www.sysu.edu.cn/
+        - certificate_url:'https://www.sysu.edu.cn/'
           date_end: ''
           date_start: '2022-10-01'
           description: ''
           organization: Sun Yat-sen University
-          organization_url:https://www.sysu.edu.cn/
+          organization_url:'https://www.sysu.edu.cn/'
           title: Second-class Scholarship for Outstanding Student of Sun Yat-sen University
           url: ''
         - certificate_url:
@@ -147,12 +147,12 @@ sections:
           organization_url:
           title: Provincial First Prize in the Chinese Mathematics Competitions
           url: ''
-        - certificate_url:https://www.sysu.edu.cn/
+        - certificate_url:'https://www.sysu.edu.cn/'
           date_end: ''
           date_start: '2021-10-01'
           description: ''
           organization: Sun Yat-sen University
-          organization_url:https://www.sysu.edu.cn/
+          organization_url:'https://www.sysu.edu.cn/'
           title: First-class Scholarship for Outstanding Student of Sun Yat-sen University
           url: ''
         - certificate_url:
