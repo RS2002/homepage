@@ -28,7 +28,7 @@ education:
     - course: Ph.D. in Civil Engineering (Scientific Computation)
       institution: The Hong Kong University of Science and Technology
       year: 2024~
-    - course: BEng in Computer Science and Technology
+    - course: B.Eng. in Computer Science and Technology (National Basic Subject Talent Training Plan)
       institution: Sun Yat-sen University
       year: 2020~2024
 

@@ -27,23 +27,23 @@ sections:
 
         - title: Ph.D. 
           company: Department of Civil and Environmental Engineering, The Hong Kong University of Science and Technology
-          company_url: ''
+          company_url: 'https://www.ce.ust.hk/'
           company_logo: 
           location: Hong Kong
           date_start: '2024-09-01'
           date_end: ''
           description:
         - title: Visiting Student 
-          company: Shenzhen Research Institute of Big Data, associated with the Chinese University of Hong Kong (Shenzhen)
-          company_url: ''
+          company: Shenzhen Research Institute of Big Data (associated with the Chinese University of Hong Kong, Shenzhen)
+          company_url: 'http://www.sribd.cn/'
           company_logo: 
           location: Shenzhen
           date_start: '2023-08-01'
           date_end: '2024-07-31'
           description:
-        - title: BEng 
+        - title: B.Eng. 
           company: School of Computer Science and Engineering, Sun Yat-sen University
-          company_url: ''
+          company_url: 'https://cse.sysu.edu.cn/'
           company_logo: 
           location: Guangzhou
           date_start: '2021-07-01'
@@ -51,15 +51,15 @@ sections:
           description: 
         - title: Tutor
           company: Shanghai Zhangxiaomen Education Technology Co., Ltd.
-          company_url: ''
+          company_url: 'http://zhangmentalent.com/'
           company_logo: 
           location: Online
           date_start: '2020-12-01'
           date_end: '2021-09-01'
           description: 
-        - title: BEng 
+        - title: B.Eng. 
           company: School of Electronics and Communication Engineering, Sun Yat-sen University
-          company_url: ''
+          company_url: 'https://sece.sysu.edu.cn/'
           company_logo: 
           location: Shenzhen
           date_start: '2020-09-01'
@@ -89,7 +89,7 @@ sections:
           description: ''
           organization: Sun Yat-sen University
           organization_url:
-          title: Third-class Scholarship for Outstanding student of Sun Yat-sen University
+          title: Third-class Scholarship for Outstanding Student of Sun Yat-sen University
           url: ''
         - certificate_url:
           date_end: ''
@@ -113,7 +113,7 @@ sections:
           description: ''
           organization: Sun Yat-sen University
           organization_url:
-          title: Second-class Scholarship for Outstanding student of Sun Yat-sen University
+          title: Second-class Scholarship for Outstanding Student of Sun Yat-sen University
           url: ''
         - certificate_url:
           date_end: ''
@@ -153,7 +153,7 @@ sections:
           description: ''
           organization: Sun Yat-sen University
           organization_url:
-          title: First-class Scholarship for Outstanding student of Sun Yat-sen University
+          title: First-class Scholarship for Outstanding Student of Sun Yat-sen University
           url: ''
         - certificate_url:
           date_end: ''
