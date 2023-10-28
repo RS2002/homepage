@@ -25,9 +25,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: Ph.D. in Civil Engineering (Scientific Computation)
-      institution: The Hong Kong University of Science and Technology
-      year: 2024~
+#    - course: Ph.D. in Civil Engineering (Scientific Computation)
+#      institution: The Hong Kong University of Science and Technology
+#      year: 2024~
     - course: B.Eng. in Computer Science and Technology (National Basic Subject Talent Training Plan)
       institution: Sun Yat-sen University
       year: 2020~2024
@@ -60,8 +60,9 @@ email: 'rs2002zhao@gmail.com'
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 
+# In Fall 2024, I'll begin my Ph.D. journey in [Department of Civil and Environmental Engineering](https://www.ce.ust.hk/) at [The Hong Kong University of Science and Technology](https://hkust.edu.hk/), under the supervision of [Prof. Sen Li](https://lisen1990.wixsite.com/senli).  
 ---
 
-I'm a senior undergraduate at [School of Computer Science and Engineering](https://cse.sysu.edu.cn/) at [Sun Yat-sen University](https://www.sysu.edu.cn/), specializing in Robot Reinforcement Learning under [Prof. Kai Huang](https://cse.sysu.edu.cn/content/2466). I'm also involved in Music AI with [Prof. Ning Liu](https://cse.sysu.edu.cn/node/2495) and [Prof. Chengying Gao](https://cse.sysu.edu.cn/content/2537). Currently, I'm a visiting student at the [Shenzhen Research Institute of Big Data](http://www.sribd.cn/) linked to the [Chinese University of Hong Kong (Shenzhen)](https://www.cuhk.edu.cn/zh-hans), focusing on Wifi Sensing under the guidance of [Dr. Guangxu Zhu](https://sites.google.com/view/guangxuzhu). In Fall 2024, I'll begin my Ph.D. journey in [Department of Civil and Environmental Engineering](https://www.ce.ust.hk/) at [The Hong Kong University of Science and Technology](https://hkust.edu.hk/), under the supervision of [Prof. Sen Li](https://lisen1990.wixsite.com/senli).  And my current research mainly focuses on Wifi Sensing and Robot Reinforcement Learning.
+I'm a senior undergraduate at [School of Computer Science and Engineering](https://cse.sysu.edu.cn/) at [Sun Yat-sen University](https://www.sysu.edu.cn/), specializing in Robot Reinforcement Learning under [Prof. Kai Huang](https://cse.sysu.edu.cn/content/2466). I'm also involved in Music AI with [Prof. Ning Liu](https://cse.sysu.edu.cn/node/2495) and [Prof. Chengying Gao](https://cse.sysu.edu.cn/content/2537). Currently, I'm a visiting student at the [Shenzhen Research Institute of Big Data](http://www.sribd.cn/) linked to the [Chinese University of Hong Kong (Shenzhen)](https://www.cuhk.edu.cn/zh-hans), focusing on Wifi Sensing under the guidance of [Dr. Guangxu Zhu](https://sites.google.com/view/guangxuzhu). And my current research mainly focuses on Wifi Sensing and Robot Reinforcement Learning.
 
 Aside from academics, I'm a music enthusiast, having been a lead singer and guitarist in bands like [NEWS](https://music.163.com/#/artist?id=52253597) and [Rights of Lethe](https://music.163.com/#/artist?id=52435898). I have a strong passion for heavy rock music, particularly alternative punk, melodic death metal, dark metal, and some core genres. If you are interested in playing or collaborating with me, please feel free to reach out to me via Weibo or mail. You can also find our videos on [bilibili](https://space.bilibili.com/349124347?spm_id_from=333.1007.0.0).

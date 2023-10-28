@@ -25,14 +25,14 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
 
-        - title: Ph.D. 
-          company: Department of Civil and Environmental Engineering, The Hong Kong University of Science and Technology
-          company_url: 'https://www.ce.ust.hk/'
-          company_logo: 
-          location: Hong Kong
-          date_start: '2024-09-01'
-          date_end: ''
-          description:
+#        - title: Ph.D. 
+#          company: Department of Civil and Environmental Engineering, The Hong Kong University of Science and Technology
+#          company_url: 'https://www.ce.ust.hk/'
+#          company_logo: 
+#          location: Hong Kong
+#          date_start: '2024-09-01'
+#          date_end: ''
+#          description:
         - title: Visiting Student 
           company: Shenzhen Research Institute of Big Data (associated with the Chinese University of Hong Kong, Shenzhen)
           company_url: 'http://www.sribd.cn/'
