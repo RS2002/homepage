@@ -88,7 +88,7 @@ sections:
           date_start: '2023-10-01'
           description: ''
           organization: Sun Yat-sen University
-          organization_url:
+          organization_url: https://www.sysu.edu.cn/
           title: Third-class Scholarship for Outstanding Student of Sun Yat-sen University
           url: ''
         - certificate_url:
@@ -120,7 +120,7 @@ sections:
           date_start: '2022-10-01'
           description: ''
           organization: Sun Yat-sen University
-          organization_url:
+          organization_url: https://www.sysu.edu.cn/
           title: Second-class Scholarship for Outstanding Student of Sun Yat-sen University
           url: ''
         - certificate_url:
@@ -160,7 +160,7 @@ sections:
           date_start: '2021-10-01'
           description: ''
           organization: Sun Yat-sen University
-          organization_url:
+          organization_url: https://www.sysu.edu.cn/
           title: First-class Scholarship for Outstanding Student of Sun Yat-sen University
           url: ''
         - certificate_url:
