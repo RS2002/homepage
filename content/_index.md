@@ -90,7 +90,7 @@ sections:
           organization: Sun Yat-sen University
           organization_url: https://www.sysu.edu.cn/
           title: Third-class Scholarship for Outstanding Student of Sun Yat-sen University
-          url: 'https://www.comap.com/contests/mcm-icm'
+          url: ''
         - certificate_url:
           date_end: ''
           date_start: '2023-07-01'
@@ -98,7 +98,7 @@ sections:
           organization: Consortium for Mathematics and Its Application
           organization_url: https://www.comap.com/
           title: Meritorious Winner in the Mathematical Contest in Modeling
-          url: ''
+          url: 'https://www.comap.com/contests/mcm-icm'
         - certificate_url:
           date_end: ''
           date_start: '2023-05-28'
@@ -106,7 +106,7 @@ sections:
           organization: China Computer Federation
           organization_url: https://www.ccf.org.cn/
           title: CCF-CSP (Certified Software Professional):320 (Top 0.8%)
-          url: ''
+          url: 'https://www.cspro.org/'
         - certificate_url:
           date_end: ''
           date_start: '2022-11-01'
@@ -114,7 +114,7 @@ sections:
           organization: Chinese Mathematical Society
           organization_url: http://www.cms.org.cn/ 
           title: Provincial First Prize in the Chinese Mathematics Competitions
-          url: ''
+          url: 'http://www.cmathc.cn/'
         - certificate_url:
           date_end: ''
           date_start: '2022-10-01'
@@ -130,7 +130,7 @@ sections:
           organization: Statistical Education Society of China
           organization_url: http://www.stats.gov.cn/zt_18555/xhwz/tjjyxh/
           title: Provincial Second Prize in SPSS University Contest in Modeling
-          url: ''
+          url: 'http://tjjmds.ai-learning.net/'
         - certificate_url:
           date_end: ''
           date_start: '2021-12-01'
@@ -138,7 +138,7 @@ sections:
           organization: Beijing Society of Image and Graphics, APMCM Organizing Committee
           organization_url: http://www.bsig.org.cn/
           title: Second Prize in Asia and Pacific Mathematical Contest in Modeling
-          url: ''
+          url: 'http://www.apmcm.org/'
         - certificate_url:
           date_end: ''
           date_start: '2021-10-01'
@@ -146,7 +146,7 @@ sections:
           organization: China Society for Industrial and Applied Mathematics
           organization_url: https://www.csiam.org.cn/
           title: Provincial Third Prize in the Chinese Mathematics Competitions 
-          url: ''
+          url: 'http://www.mcm.edu.cn/'
         - certificate_url:
           date_end: ''
           date_start: '2021-10-01'
@@ -154,7 +154,7 @@ sections:
           organization: Chinese Mathematical Society
           organization_url: http://www.cms.org.cn/
           title: Provincial First Prize in the Chinese Mathematics Competitions
-          url: ''
+          url: 'http://www.cmathc.cn/'
         - certificate_url:
           date_end: ''
           date_start: '2021-10-01'
@@ -170,7 +170,7 @@ sections:
           organization: Chinese Mathematical Society
           organization_url: http://www.cms.org.cn/
           title: Second Prize & Provincial First Prize in National High School Mathematics League
-          url: ''
+          url: 'http://www.cms.org.cn/en/Home/comp/comp/13.html'
 
 
 
