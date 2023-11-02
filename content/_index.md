@@ -99,13 +99,13 @@ sections:
           organization_url:
           title: Meritorious Winner in the Mathematical Contest in Modeling
           url: ''
-        - certificate_url:
+        - certificate_url: https://www.ccf.org.cn/
           date_end: ''
           date_start: '2023-05-28'
           description: ''
-          organization: Consortium for Mathematics and Its Application
+          organization: China Computer Federation
           organization_url:
-          title: CCF-CSP (China Computer Federation - Certified Software Professional):320 (Top 0.8%)
+          title: CCF-CSP (Certified Software Professional): 320 (Top 0.8%)
           url: ''
         - certificate_url:
           date_end: ''
