@@ -105,14 +105,14 @@ sections:
           description: ''
           organization: China Computer Federation
           organization_url:
-          title: CCF-CSP (Certified Software Professional): 320 (Top 0.8%)
+          title: CCF-CSP (Certified Software Professional):320 (Top 0.8%)
           url: ''
         - certificate_url:
           date_end: ''
           date_start: '2022-11-01'
           description: ''
           organization: Chinese Mathematical Society
-          organization_url:
+          organization_url: https://www.ccf.org.cn/
           title: Provincial First Prize in the Chinese Mathematics Competitions
           url: ''
         - certificate_url:
