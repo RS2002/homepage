@@ -105,7 +105,7 @@ sections:
           description: ''
           organization: China Computer Federation
           organization_url:
-          title: CCF-CSP (Certified Software Professional):320 (Top 0.8%)
+          title: CCF-CSP (Certified Software Professional): 320 (Top 0.8%)
           url: ''
         - certificate_url:
           date_end: ''
