@@ -101,6 +101,14 @@ sections:
           url: ''
         - certificate_url:
           date_end: ''
+          date_start: '2023-05-28'
+          description: ''
+          organization: Consortium for Mathematics and Its Application
+          organization_url:
+          title: CCF-CSP (China Computer Federation - Certified Software Professional):320 (Top 0.8%)
+          url: ''
+        - certificate_url:
+          date_end: ''
           date_start: '2022-11-01'
           description: ''
           organization: Chinese Mathematical Society
@@ -224,6 +232,18 @@ sections:
     design:
       columns: '2'
       view: citation
+
+  - block: collection
+    id: patent
+    content:
+      title: Patent
+      filters:
+        folders:
+          - music
+        featured_only: true
+    design:
+      columns: '2'
+      view: card
 
   - block: collection
     id: music
