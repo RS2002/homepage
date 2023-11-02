@@ -99,7 +99,7 @@ sections:
           organization_url:
           title: Meritorious Winner in the Mathematical Contest in Modeling
           url: ''
-        - certificate_url: 
+        - certificate_url:
           date_end: ''
           date_start: '2023-05-28'
           description: ''
