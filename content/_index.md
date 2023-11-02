@@ -103,9 +103,9 @@ sections:
           date_end: ''
           date_start: '2023-05-28'
           description: ''
-          organization: China Computer Federation
+          organization: Consortium for Mathematics and Its Application
           organization_url:
-          title: CCF-CSP (Certified Software Professional): 320 (Top 0.8%)
+          title: CCF-CSP (China Computer Federation - Certified Software Professional):320 (Top 0.8%)
           url: ''
         - certificate_url:
           date_end: ''
