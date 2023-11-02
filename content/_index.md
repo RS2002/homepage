@@ -96,7 +96,7 @@ sections:
           date_start: '2023-07-01'
           description: ''
           organization: Consortium for Mathematics and Its Application
-          organization_url:
+          organization_url: https://www.comap.com/
           title: Meritorious Winner in the Mathematical Contest in Modeling
           url: ''
         - certificate_url:
@@ -104,7 +104,7 @@ sections:
           date_start: '2023-05-28'
           description: ''
           organization: China Computer Federation
-          organization_url:
+          organization_url: https://www.ccf.org.cn/
           title: CCF-CSP (Certified Software Professional):320 (Top 0.8%)
           url: ''
         - certificate_url:
@@ -112,7 +112,7 @@ sections:
           date_start: '2022-11-01'
           description: ''
           organization: Chinese Mathematical Society
-          organization_url: https://www.ccf.org.cn/
+          organization_url: http://www.cms.org.cn/ 
           title: Provincial First Prize in the Chinese Mathematics Competitions
           url: ''
         - certificate_url:
@@ -128,7 +128,7 @@ sections:
           date_start: '2022-07-01'
           description: ''
           organization: Statistical Education Society of China
-          organization_url:
+          organization_url: http://www.stats.gov.cn/zt_18555/xhwz/tjjyxh/
           title: Provincial Second Prize in SPSS University Contest in Modeling
           url: ''
         - certificate_url:
@@ -136,7 +136,7 @@ sections:
           date_start: '2021-12-01'
           description: ''
           organization: Beijing Society of Image and Graphics, APMCM Organizing Committee
-          organization_url:
+          organization_url: http://www.bsig.org.cn/
           title: Second Prize in Asia and Pacific Mathematical Contest in Modeling
           url: ''
         - certificate_url:
@@ -144,7 +144,7 @@ sections:
           date_start: '2021-10-01'
           description: ''
           organization: China Society for Industrial and Applied Mathematics
-          organization_url:
+          organization_url: https://www.csiam.org.cn/
           title: Provincial Third Prize in the Chinese Mathematics Competitions 
           url: ''
         - certificate_url:
@@ -152,7 +152,7 @@ sections:
           date_start: '2021-10-01'
           description: ''
           organization: Chinese Mathematical Society
-          organization_url:
+          organization_url: http://www.cms.org.cn/
           title: Provincial First Prize in the Chinese Mathematics Competitions
           url: ''
         - certificate_url:
@@ -168,7 +168,7 @@ sections:
           date_start: '2019-09-01'
           description: ''
           organization: Chinese Mathematical Society
-          organization_url:
+          organization_url: http://www.cms.org.cn/
           title: Second Prize & Provincial First Prize in National High School Mathematics League
           url: ''
 
