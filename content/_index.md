@@ -83,14 +83,14 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
 
-        - certificate_url: https://www.comap.com/contests/mcm-icm
+        - certificate_url: 
           date_end: ''
           date_start: '2023-10-01'
           description: ''
           organization: Sun Yat-sen University
           organization_url: https://www.sysu.edu.cn/
           title: Third-class Scholarship for Outstanding Student of Sun Yat-sen University
-          url: ''
+          url: 'https://www.comap.com/contests/mcm-icm'
         - certificate_url:
           date_end: ''
           date_start: '2023-07-01'
