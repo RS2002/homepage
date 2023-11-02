@@ -46,6 +46,9 @@ social:
   - icon: weibo
     icon_pack: fab
     link: https://weibo.com/u/3829716889
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/zijian-zhao-link/
 
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
