@@ -41,7 +41,7 @@ sections:
           date_start: '2023-08-01'
           date_end: '2024-07-31'
           description:
-        - title: B.Eng. 
+        - title: B.Eng. (2rd~4th)
           company: School of Computer Science and Engineering, Sun Yat-sen University
           company_url: 'https://cse.sysu.edu.cn/'
           company_logo: 
@@ -57,7 +57,7 @@ sections:
           date_start: '2020-12-01'
           date_end: '2021-09-01'
           description: 
-        - title: B.Eng. 
+        - title: B.Eng. (1st)
           company: School of Electronics and Communication Engineering, Sun Yat-sen University
           company_url: 'https://sece.sysu.edu.cn/'
           company_logo: 
@@ -83,7 +83,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
 
-        - certificate_url:
+        - certificate_url: https://www.comap.com/contests/mcm-icm
           date_end: ''
           date_start: '2023-10-01'
           description: ''
