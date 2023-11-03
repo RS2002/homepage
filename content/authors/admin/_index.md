@@ -39,7 +39,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:rs2002zhao@gmail.com'
+    link: 'mailto:zhaozj28@mail2.sysu.edu.cn'
   - icon: github
     icon_pack: fab
     link: https://github.com/RS2002
@@ -56,6 +56,9 @@ social:
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
+  - icon: weixin
+    icon_pack: fab
+    link: uploads/news.jpg
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'rs2002zhao@gmail.com'
