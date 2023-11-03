@@ -43,6 +43,9 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/RS2002
+  - icon: git
+    icon_pack: fab
+    link: https://gitee.com/zzj_rs
   - icon: weibo
     icon_pack: fab
     link: https://weibo.com/u/3829716889
