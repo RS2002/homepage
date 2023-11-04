@@ -18,8 +18,8 @@ bio: Bachelor in SYSU, Visiting Student at SRIBD, Leader of NEWS Band
 
 # Interests to show in About widget
 interests:
+  - Robot RL & Sensing
   - NLP & MIR & Multi-modal
-  - Robot & Sensing
   - Machine Learning & Optimization
 
 # Education to show in About widget
@@ -38,21 +38,21 @@ education:
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
 
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:zhaozj28@mail2.sysu.edu.cn'
   - icon: github
     icon_pack: fab
     link: https://github.com/RS2002
   - icon: git
     icon_pack: fab
     link: https://gitee.com/zzj_rs
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:zhaozj28@mail2.sysu.edu.cn'
-  - icon: weibo
-    icon_pack: fab
-    link: https://weibo.com/u/3829716889
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/zijian-zhao-link/
+  - icon: weibo
+    icon_pack: fab
+    link: https://weibo.com/u/3829716889
 
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
