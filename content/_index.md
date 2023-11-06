@@ -263,4 +263,20 @@ sections:
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
   
+  - block: collection
+    content:
+    id: talk
+    content:
+      title: Talk
+      filters:
+        folders:
+          - talk
+        featured_only: true
+      filters:
+        folders:
+          - publication
+        exclude_featured: true
+    design:
+      columns: '2'
+      view: citation
 ---
