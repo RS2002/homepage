@@ -1,6 +1,6 @@
 ---
-title: CyberRat - Flexible Spinal Rope-Driven Rat Robot
-summary: 
+title: CyberRat 
+summary: Flexible Spinal Rope-Driven Rat Robot
 tags:
   - Robot Reinforcement Learning
 date: '2022-09-01T00:00:00Z'

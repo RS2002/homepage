@@ -1,12 +1,12 @@
 ---
-title: No Gods, No Masters (Arch Enemy Cover)
-summary: Symbolic Piano Music Understanding and Generating with Large-Scale Pre-Training
+title: NEWS
+summary: 
 tags:
-  - Rights of Lethe
-date: '2022-04-30T00:00:00Z'
+  - NEWS
+date: '2021-09-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: 'https://music.163.com/#/album?id=144225999'
+external_link: 'https://mp.weixin.qq.com/s/6SGDBRerF-Zn3ExzeKtE1w'
 
 
 # Slides (optional).
