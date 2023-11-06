@@ -17,10 +17,8 @@ links:
     icon_pack:
     name:
     url:
-url_code: ''
-url_pdf: ''
-url_slides: ''
-url_video: ''
+
+url_audio: uploads/PianoBART.wav
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
