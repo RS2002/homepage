@@ -16,9 +16,12 @@ main:
   - name: Patent
     url: '#patent'
     weight: 70
+  - name: Talk
+    url: '#talk'
+    weight: 110
   - name: Music
     url: '#music'
-    weight: 90
+    weight: 110
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.

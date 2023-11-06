@@ -233,17 +233,29 @@ sections:
       columns: '2'
       view: citation
 
-  - block: collection
+ - block: collection
     id: patent
     content:
       title: Patent
       filters:
         folders:
-          - music
-        featured_only: true
+          - patent
+        exclude_featured: true
     design:
       columns: '2'
-      view: card
+      view: citation
+
+ - block: collection
+    id: talk
+    content:
+      title: Talk
+      filters:
+        folders:
+          - talk
+        exclude_featured: true
+    design:
+      columns: '2'
+      view: citation
 
   - block: portfolio
     id: music
@@ -266,8 +278,8 @@ sections:
           tag: NEWS
         - name: Rights of Lethe
           tag: Rights of Lethe
-        - name: Other
-          tag: Other
+        - name: Live
+          tag: Live
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'

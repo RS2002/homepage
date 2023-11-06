@@ -10,7 +10,7 @@ external_link: 'https://github.com/RS2002/Robot-mouse'
 
 
 
-url_video: uploads/robot-rat.mp4
+url_video: projects/robot-rat.mp4
 
 # Slides (optional).
 #   Associate this project with Markdown slides.

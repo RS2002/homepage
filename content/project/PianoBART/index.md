@@ -12,7 +12,7 @@ external_link: 'https://github.com/RS2002/PianoBart'
 
 
 
-url_video: uploads/PianoBART.wav
+url_video: projects/PianoBART.wav
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
