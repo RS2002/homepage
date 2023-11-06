@@ -17,9 +17,7 @@ links:
     icon_pack: 
     name: 
     url: 
-url_code: ''
-url_pdf: ''
-url_slides: ''
+
 url_video: uploads/robot-rat.mp4
 
 # Slides (optional).
