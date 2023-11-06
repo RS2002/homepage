@@ -18,7 +18,7 @@ links:
     name:
     url:
 
-url_audio: uploads/PianoBART.wav
+url_video: uploads/PianoBART.wav
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
