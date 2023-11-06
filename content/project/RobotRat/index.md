@@ -8,15 +8,7 @@ date: '2022-09-01T00:00:00Z'
 # Optional external URL for project (replaces project detail page).
 external_link: 'https://github.com/RS2002/Robot-mouse'
 
-image:
-  caption: 
-  focal_point: 
 
-links:
-  - icon: 
-    icon_pack: 
-    name: 
-    url: 
 
 url_video: uploads/robot-rat.mp4
 

@@ -8,15 +8,9 @@ date: '2023-01-01T00:00:00Z'
 # Optional external URL for project (replaces project detail page).
 external_link: 'https://github.com/RS2002/PianoBart'
 
-image:
-  caption: Photo by rawpixel on Unsplash
-  focal_point: Smart
 
-links:
-  - icon:
-    icon_pack:
-    name:
-    url:
+
+
 
 url_video: uploads/PianoBART.wav
 
