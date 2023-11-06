@@ -233,30 +233,6 @@ sections:
       columns: '2'
       view: citation
 
- - block: collection
-    id: patent
-    content:
-      title: Patent
-      filters:
-        folders:
-          - patent
-        exclude_featured: true
-    design:
-      columns: '2'
-      view: citation
-
- - block: collection
-    id: talk
-    content:
-      title: Talk
-      filters:
-        folders:
-          - talk
-        exclude_featured: true
-    design:
-      columns: '2'
-      view: citation
-
   - block: portfolio
     id: music
     content:
