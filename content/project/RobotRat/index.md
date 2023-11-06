@@ -1,5 +1,5 @@
 ---
-title: A Rope-driven Bionic Rat Robot with Flexible Spine
+title: CyberRat - Flexible Spinal Rope-Driven Rat Robot
 summary: 
 tags:
   - Robot Reinforcement Learning
@@ -20,7 +20,7 @@ links:
 url_code: ''
 url_pdf: ''
 url_slides: ''
-url_video: ''
+url_video: uploads/robot-rat.mp4
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
