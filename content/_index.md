@@ -233,6 +233,28 @@ sections:
       columns: '2'
       view: citation
 
+  - block: collection
+    id: patent
+    content:
+      title: Patent
+      filters:
+        folders:
+          - patent
+    design:
+      columns: '2'
+      view: citation
+
+  - block: collection
+    id: talk
+    content:
+      title: Talk
+      filters:
+        folders:
+          - talk
+    design:
+      columns: '2'
+      view: compact
+
   - block: portfolio
     id: music
     content:
@@ -262,21 +284,15 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
-  
+
   - block: collection
+    id: live
     content:
-    id: talk
-    content:
-      title: Talk
+      title: Live
       filters:
         folders:
-          - talk
-        featured_only: true
-      filters:
-        folders:
-          - publication
-        exclude_featured: true
+          - live
     design:
       columns: '2'
-      view: citation
+      view: compact
 ---
