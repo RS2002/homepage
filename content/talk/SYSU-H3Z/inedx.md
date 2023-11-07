@@ -31,7 +31,7 @@ tags: []
 featured: false
 
 image:
-  caption: '(https://mmbiz.qpic.cn/mmbiz_png/pSmMXLkJnw1A7DR56RndHYuPysCiaj7JcFSX0XzibnKHg2W5LkswGkrwPlcfINHn4x8s677MTVFeFUZgZJ0RAJicQ/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)'
+  caption: '(talks/introduction.png)'
   focal_point: Right
 
 
