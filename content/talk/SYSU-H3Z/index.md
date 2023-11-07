@@ -7,10 +7,10 @@ event_url: https://mp.weixin.qq.com/s/FwIBRSy6kAG2Pc0LwkeGvQ
 location: Online
 address:
   street: 
-  city: Harbin
+  city: 
   region: 
   postcode: ''
-  country: China
+  country: 
 
 summary: 
 abstract: ''
@@ -18,7 +18,7 @@ abstract: ''
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2022-02-22T00:00:00Z'
-date_end: '#2022-02-22T00:00:00Z'
+date_end: '2022-02-22T00:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -33,7 +33,6 @@ featured: false
 image:
   caption: ''
   focal_point: Right
-
 
 url_slides: 'https://mp.weixin.qq.com/s/ULuFUB4Q6lppoelM3zBGwA'
 url_video: 'https://mp.weixin.qq.com/s/FwIBRSy6kAG2Pc0LwkeGvQ'
@@ -50,6 +49,6 @@ slides: ""
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: 
+projects:
   - []
 ---
