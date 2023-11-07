@@ -4,13 +4,13 @@ title: 暴躁青年1.0
 event: livehouse
 event_url: https://mp.weixin.qq.com/s/QAV61stqoiUyhK50AllXqQ
 
-location: 广州庙色唇
+location: 庙色唇livehouse
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  street: 番禺区西环路1502号荔园新天地F1
+  city: 广州市
+  region: 广东省
+  postcode: ''
+  country: 中国
 
 summary: 
 abstract: ''
