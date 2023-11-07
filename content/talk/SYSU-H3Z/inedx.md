@@ -31,31 +31,24 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://mmbiz.qpic.cn/mmbiz_png/pSmMXLkJnw1A7DR56RndHYuPysCiaj7JcFSX0XzibnKHg2W5LkswGkrwPlcfINHn4x8s677MTVFeFUZgZJ0RAJicQ/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)'
+  caption: '(https://mmbiz.qpic.cn/mmbiz_png/pSmMXLkJnw1A7DR56RndHYuPysCiaj7JcFSX0XzibnKHg2W5LkswGkrwPlcfINHn4x8s677MTVFeFUZgZJ0RAJicQ/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)'
   focal_point: Right
 
-links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
-url_code: ''
-url_pdf: ''
-url_slides: ''
-url_video: ''
+
+url_slides: 'https://mp.weixin.qq.com/s/ULuFUB4Q6lppoelM3zBGwA'
+url_video: 'https://mp.weixin.qq.com/s/FwIBRSy6kAG2Pc0LwkeGvQ'
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: ""
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects:
-  - example
+projects: []
 ---
