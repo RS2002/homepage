@@ -1,5 +1,5 @@
 ---
-title: 暴躁青年1.0
+title: 爆噪青年1.0
 
 event: livehouse
 event_url: https://mp.weixin.qq.com/s/QAV61stqoiUyhK50AllXqQ
