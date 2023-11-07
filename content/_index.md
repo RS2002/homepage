@@ -236,7 +236,7 @@ sections:
   - block: collection
     id: patent
     content:
-      title: Patent
+      title: Patents
       filters:
         folders:
           - patent
@@ -247,7 +247,7 @@ sections:
   - block: collection
     id: talk
     content:
-      title: Talk
+      title: Talks
       filters:
         folders:
           - talk
