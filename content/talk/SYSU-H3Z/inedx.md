@@ -13,7 +13,7 @@ address:
   country: China
 
 summary: 
-abstract: ' '
+abstract: '新高考迎面而来，为了让在校生初步了解到目前的选科与专业选择、职业发展的关联性，了解大学、专业及其就业前景，意识到生涯规划的重要性，找到适合自己的成长路径，丰富新高考全员导师制的内涵和路径，同时促进我校生涯教育朝着更加特色化、系统化方向发展，哈三中将组织开展第七届大学校友讲师团回校宣讲暨校友生涯导师“传帮带”结对活动。'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
