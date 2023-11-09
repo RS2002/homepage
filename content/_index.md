@@ -36,7 +36,7 @@ sections:
         - title: Visiting Student 
           company: Shenzhen Research Institute of Big Data (associated with the Chinese University of Hong Kong, Shenzhen)
           company_url: 'http://www.sribd.cn/'
-          company_logo: SYSU-CS
+          company_logo: 
           location: Shenzhen
           date_start: '2023-08-01'
           date_end: '2024-07-31'
@@ -44,7 +44,7 @@ sections:
         - title: B.Eng. (2rd~4th)
           company: School of Computer Science and Engineering, Sun Yat-sen University
           company_url: 'https://cse.sysu.edu.cn/'
-          company_logo: 
+          company_logo: SYSU-CS
           location: Guangzhou
           date_start: '2021-07-01'
           date_end: '2024-07-01'
@@ -52,15 +52,15 @@ sections:
         - title: Tutor
           company: Shanghai Zhangxiaomen Education Technology Co., Ltd.
           company_url: 'http://zhangmentalent.com/'
-          company_logo: 
+          company_logo: SRIBD
           location: Online
           date_start: '2020-12-01'
           date_end: '2021-09-01'
-          description: 
+          description: ZM
         - title: B.Eng. (1st)
           company: School of Electronics and Communication Engineering, Sun Yat-sen University
           company_url: 'https://sece.sysu.edu.cn/'
-          company_logo: 
+          company_logo: SYSU
           location: Shenzhen
           date_start: '2020-09-01'
           date_end: '2021-07-01'
