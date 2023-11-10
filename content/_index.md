@@ -28,7 +28,7 @@ sections:
 #        - title: Ph.D. 
 #          company: Department of Civil and Environmental Engineering, The Hong Kong University of Science and Technology
 #          company_url: 'https://www.ce.ust.hk/'
-#          company_logo: 
+#          company_logo: HKUST-SENG
 #          location: Hong Kong
 #          date_start: '2024-09-01'
 #          date_end: ''
