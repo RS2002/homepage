@@ -109,7 +109,7 @@ sections:
           url: 'https://www.cspro.org/'
         - certificate_url: 
           date_end: ''
-          date_start: '2023-2-01'
+          date_start: '2023-02-01'
           description: ''
           organization: Sun Yat-sen University
           organization_url: https://www.sysu.edu.cn/
