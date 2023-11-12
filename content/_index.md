@@ -101,12 +101,20 @@ sections:
           url: 'https://www.comap.com/contests/mcm-icm'
         - certificate_url:
           date_end: ''
-          date_start: '2023-05-28'
+          date_start: '2023-05-01'
           description: ''
           organization: China Computer Federation
           organization_url: https://www.ccf.org.cn/
           title: CCF-CSP (Certified Software Professional):320 (Top 0.8%)
           url: 'https://www.cspro.org/'
+        - certificate_url: 
+          date_end: ''
+          date_start: '2023-2-01'
+          description: ''
+          organization: Sun Yat-sen University
+          organization_url: https://www.sysu.edu.cn/
+          title: Third Prize and Outstanding Resume Award in Sun Yat-sen University Future Job Hunting Competition
+          url: ''
         - certificate_url:
           date_end: ''
           date_start: '2022-11-01'
@@ -125,12 +133,28 @@ sections:
           url: ''
         - certificate_url:
           date_end: ''
+          date_start: '2022-10-01'
+          description: ''
+          organization: China  Society  for  Futures  Studies
+          organization_url: http://www.csfs.org.cn/
+          title: Bronze Award in China College Algorithm Design & Program Challenge Contest
+          url: ''
+        - certificate_url:
+          date_end: ''
           date_start: '2022-07-01'
           description: ''
           organization: Statistical Education Society of China
           organization_url: http://www.stats.gov.cn/zt_18555/xhwz/tjjyxh/
           title: Provincial Second Prize in SPSS University Contest in Modeling
           url: 'http://tjjmds.ai-learning.net/'
+        - certificate_url:
+          date_end: ''
+          date_start: '2022-04-01'
+          description: ''
+          organization: Sun Yat-sen University
+          organization_url: https://www.sysu.edu.cn/
+          title: First Prize in Sun Yat-sen University Novice Programming Competition
+          url: ''
         - certificate_url:
           date_end: ''
           date_start: '2021-12-01'
@@ -162,6 +186,14 @@ sections:
           organization: Sun Yat-sen University
           organization_url: https://www.sysu.edu.cn/
           title: First-class Scholarship for Outstanding Student of Sun Yat-sen University
+          url: ''
+        - certificate_url:
+          date_end: ''
+          date_start: '2020-11-01'
+          description: ''
+          organization: Sun Yat-sen University
+          organization_url: https://www.sysu.edu.cn/
+          title: Excellence Award in Sun Yat-sen University Electronic Design Creative Competition
           url: ''
         - certificate_url:
           date_end: ''
