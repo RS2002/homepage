@@ -112,9 +112,9 @@ sections:
           date_start: '2023-02-01'
           description: ''
           organization: Sun Yat-sen University
-          organization_url: https://www.sysu.edu.cn/
+          organization_url: https://mp.weixin.qq.com/s/fffquCEoXELl6vt4LEPMGg
           title: Third Prize and Outstanding Resume Award in Sun Yat-sen University Future Job Hunting Competition
-          url: ''
+          url: 'https://mp.weixin.qq.com/s/iQtjBspi3h9zodZayHlj9Q'
         - certificate_url:
           date_end: ''
           date_start: '2022-11-01'
@@ -151,8 +151,8 @@ sections:
           date_end: ''
           date_start: '2022-04-01'
           description: ''
-          organization: Sun Yat-sen University
-          organization_url: https://www.sysu.edu.cn/
+          organization: School of Computer Science and Engineering, Sun Yat-sen University
+          organization_url: https://cse.sysu.edu.cn/
           title: First Prize in Sun Yat-sen University Novice Programming Competition
           url: ''
         - certificate_url:
@@ -191,8 +191,8 @@ sections:
           date_end: ''
           date_start: '2020-11-01'
           description: ''
-          organization: Sun Yat-sen University
-          organization_url: https://www.sysu.edu.cn/
+          organization: School of Electronics and Communication Engineering, Sun Yat-sen University
+          organization_url: https://sece.sysu.edu.cn/
           title: Excellence Award in Sun Yat-sen University Electronic Design Creative Competition
           url: ''
         - certificate_url:
