@@ -33,10 +33,10 @@ sections:
 #          date_start: '2024-09-01'
 #          date_end: ''
 #          description:
-        - title: Composition Teacher 
+        - title: Writing Consultant 
           company: FLY Education Ltd. (UK)
-          company_url: ''
-          company_logo: 
+          company_url: 'https://www.linkedin.com/company/fly-education-ltd/'
+          company_logo: FLY
           location: Online
           date_start: '2023-11-01'
           date_end: ''
