@@ -33,13 +33,21 @@ sections:
 #          date_start: '2024-09-01'
 #          date_end: ''
 #          description:
+        - title: Composition Teacher 
+          company: FLY Education Ltd. (UK)
+          company_url: ''
+          company_logo: 
+          location: Online
+          date_start: '2023-11-01'
+          date_end: ''
+          description:
         - title: Visiting Student 
           company: Shenzhen Research Institute of Big Data (associated with the Chinese University of Hong Kong, Shenzhen)
           company_url: 'http://www.sribd.cn/'
           company_logo: SRIBD
           location: Shenzhen
           date_start: '2023-08-01'
-          date_end: '2024-07-31'
+          date_end: '2024-08-01'
           description:
         - title: B.Eng. (2rd~4th)
           company: School of Computer Science and Engineering, Sun Yat-sen University
