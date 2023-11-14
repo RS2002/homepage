@@ -29,15 +29,15 @@ sections:
 #          company: Department of Civil and Environmental Engineering, The Hong Kong University of Science and Technology
 #          company_url: 'https://www.ce.ust.hk/'
 #          company_logo: HKUST-SENG
-#          location: Hong Kong
+#          location: Hong Kong, Full-time
 #          date_start: '2024-09-01'
 #          date_end: ''
 #          description:
-        - title: Writing Consultant 
-          company: FLY Education Ltd. (UK)
+        - title: Writing Consultant & Graduate Application Mentor
+          company: FLY Education Co., Ltd. (UK); Beijing PalmDrive Education Technology Co., Ltd.
           company_url: 'https://www.linkedin.com/company/fly-education-ltd/'
           company_logo: FLY
-          location: Online
+          location: Online, Part-time
           date_start: '2023-11-01'
           date_end: ''
           description:
@@ -45,7 +45,7 @@ sections:
           company: Shenzhen Research Institute of Big Data (associated with the Chinese University of Hong Kong, Shenzhen)
           company_url: 'http://www.sribd.cn/'
           company_logo: SRIBD
-          location: Shenzhen
+          location: Shenzhen, Full-time
           date_start: '2023-08-01'
           date_end: '2024-08-01'
           description:
@@ -53,15 +53,15 @@ sections:
           company: School of Computer Science and Engineering, Sun Yat-sen University
           company_url: 'https://cse.sysu.edu.cn/'
           company_logo: SYSU-CS
-          location: Guangzhou
+          location: Guangzhou, Full-time
           date_start: '2021-07-01'
           date_end: '2024-07-01'
           description: 
         - title: Tutor
-          company: Shanghai Zhangxiaomen Education Technology Co., Ltd.
+          company: Shanghai Zhangxiaomen Education Technology Co., Ltd.; Shanghai Youersi Education Technology Co., Ltd.
           company_url: 'http://zhangmentalent.com/'
           company_logo: ZM
-          location: Online
+          location: Online, Part-time
           date_start: '2020-12-01'
           date_end: '2021-09-01'
           description: 
@@ -69,7 +69,7 @@ sections:
           company: School of Electronics and Communication Engineering, Sun Yat-sen University
           company_url: 'https://sece.sysu.edu.cn/'
           company_logo: SYSU
-          location: Shenzhen
+          location: Shenzhen, Full-time
           date_start: '2020-09-01'
           date_end: '2021-07-01'
           description: 
