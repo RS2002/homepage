@@ -91,6 +91,22 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
 
+#        - certificate_url: 
+#          date_end: ''
+#          date_start: '2023-11-01'
+#          description: ''
+#          organization: Huawei
+#          organization_url: https://www.huaweicloud.com/
+#          title: No.8 (out of 287 teams) in The First Wi-Fi Sensing Contest by Huawei (reached the final)
+#          url: 'https://competition.huaweicloud.com/information/1000041958/introduction'
+#        - certificate_url: 
+#          date_end: ''
+#          date_start: '2023-10-01'
+#          description: ''
+#          organization: International Telecommunication Union (ITU)
+#          organization_url: https://itu.edu/
+#          title: No.3 (out of 713 teams) in AI/ML for 5G-Energy Consumption Modelling by ITU AI/ML in 5G Challenge
+          url: 'https://zindi.africa/competitions/aiml-for-5g-energy-consumption-modelling'
         - certificate_url: 
           date_end: ''
           date_start: '2023-10-01'
