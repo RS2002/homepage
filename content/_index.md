@@ -106,7 +106,7 @@ sections:
 #          organization: International Telecommunication Union (ITU)
 #          organization_url: https://itu.edu/
 #          title: No.3 (out of 713 teams) in AI/ML for 5G-Energy Consumption Modelling by ITU AI/ML in 5G Challenge
-          url: 'https://zindi.africa/competitions/aiml-for-5g-energy-consumption-modelling'
+#          url: 'https://zindi.africa/competitions/aiml-for-5g-energy-consumption-modelling'
         - certificate_url: 
           date_end: ''
           date_start: '2023-10-01'
