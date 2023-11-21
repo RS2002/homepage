@@ -26,10 +26,10 @@ interests:
 education:
   courses:
 #    - course: Ph.D. in Civil Engineering (Scientific Computation)
-#      institution: The Hong Kong University of Science and Technology
+#      institution: The Hong Kong University of Science and Technology (Clearwater Bay Campus, Hong Kong)
 #      year: 2024~
     - course: B.Eng. in Computer Science and Technology (National Basic Subject Talent Training Plan)
-      institution: Sun Yat-sen University
+      institution: Sun Yat-sen University (Guangzhou Campus)
       year: 2020~2024
 
 # Social/Academic Networking
