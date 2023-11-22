@@ -34,7 +34,7 @@ sections:
 #          date_end: ''
 #          description:
         - title: Writing Consultant & Graduate Application Mentor
-          company: FLY Education Co., Ltd. (UK); Beijing PalmDrive Education Technology Co., Ltd.
+          company: FLY Education; PalmDrive Education; Compass Education
           company_url: 'https://www.linkedin.com/company/fly-education-ltd/'
           company_logo: FLY
           location: Online, Part-time
@@ -58,7 +58,7 @@ sections:
           date_end: '2024-07-01'
           description: 
         - title: Tutor
-          company: Shanghai Zhangxiaomen Education Technology Co., Ltd.; Shanghai Youersi Education Technology Co., Ltd.
+          company: Zhangmen Education; Yousi Education
           company_url: 'http://zhangmentalent.com/'
           company_logo: ZM
           location: Online, Part-time
