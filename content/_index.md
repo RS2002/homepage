@@ -34,7 +34,7 @@ sections:
 #          date_end: ''
 #          description:
         - title: Writing Consultant & Graduate Application Mentor
-          company: FLY Education; PalmDrive Education; Compass Education
+          company: FLY Education; Compass Education
           company_url: 'https://www.linkedin.com/company/fly-education-ltd/'
           company_logo: FLY
           location: Online, Part-time
@@ -91,14 +91,14 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
 
-#        - certificate_url: 
-#          date_end: ''
-#          date_start: '2023-11-01'
-#          description: ''
-#          organization: Huawei
-#          organization_url: https://www.huaweicloud.com/
-#          title: No.8 (out of 287 teams) in The First Wi-Fi Sensing Contest by Huawei (reached the final)
-#          url: 'https://competition.huaweicloud.com/information/1000041958/introduction'
+        - certificate_url: 
+          date_end: ''
+          date_start: '2023-11-01'
+          description: ''
+          organization: Huawei, IEEE ISAC-ETI (Integrated Sensing and Communication Emerging Technology Initiative), China Institute of Communications, Huangdanian Chaspark
+          organization_url: https://www.huaweicloud.com/
+          title: Wining Prize (No.7 out of 287 teams) in The First Wi-Fi Sensing Contest by Huawei (reached the final, received a bonus of 20,000 Chinese Yuan)
+          url: 'https://competition.huaweicloud.com/information/1000041958/introduction'
 #        - certificate_url: 
 #          date_end: ''
 #          date_start: '2023-10-01'
@@ -113,7 +113,7 @@ sections:
           description: ''
           organization: Sun Yat-sen University
           organization_url: https://www.sysu.edu.cn/
-          title: Third-class Scholarship for Outstanding Student of Sun Yat-sen University
+          title: Third-class Scholarship for Outstanding Student of Sun Yat-sen University (received a bonus of 2,000 Chinese Yuan)
           url: ''
         - certificate_url:
           date_end: ''
@@ -137,7 +137,7 @@ sections:
           description: ''
           organization: Sun Yat-sen University
           organization_url: https://mp.weixin.qq.com/s/fffquCEoXELl6vt4LEPMGg
-          title: Third Prize and Outstanding Resume Award in Sun Yat-sen University Future Job Hunting Competition
+          title: Third Prize and Outstanding Resume Award in Sun Yat-sen University Future Job Hunting Competition (received a bonus of 300 Chinese Yuan)
           url: 'https://mp.weixin.qq.com/s/iQtjBspi3h9zodZayHlj9Q'
         - certificate_url:
           date_end: ''
@@ -153,7 +153,7 @@ sections:
           description: ''
           organization: Sun Yat-sen University
           organization_url: https://www.sysu.edu.cn/
-          title: Second-class Scholarship for Outstanding Student of Sun Yat-sen University
+          title: Second-class Scholarship for Outstanding Student of Sun Yat-sen University (received a bonus of 3,000 Chinese Yuan)
           url: ''
         - certificate_url:
           date_end: ''
@@ -209,7 +209,7 @@ sections:
           description: ''
           organization: Sun Yat-sen University
           organization_url: https://www.sysu.edu.cn/
-          title: First-class Scholarship for Outstanding Student of Sun Yat-sen University
+          title: First-class Scholarship for Outstanding Student of Sun Yat-sen University (received a bonus of 4,000 Chinese Yuan)
           url: ''
         - certificate_url:
           date_end: ''
