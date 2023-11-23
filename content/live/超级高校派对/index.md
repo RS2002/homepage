@@ -35,6 +35,7 @@ image:
   focal_point: Right
 
 url_slides: 'https://mp.weixin.qq.com/s/uVNuI7K3C5rKlZm5g6fZxw'
+url_slides: 'https://www.pailixiang.com/album_ia2378464919.html'
 url_video: 'https://www.bilibili.com/video/BV1sv4y1z7NW/?spm_id_from=333.999.0.0'
 
 # Markdown Slides (optional).

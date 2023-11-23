@@ -98,7 +98,7 @@ sections:
           organization: Huawei, IEEE ISAC-ETI (Integrated Sensing and Communication Emerging Technology Initiative), China Institute of Communications, Huangdanian Chaspark
           organization_url: https://www.huaweicloud.com/
           title: Wining Prize (No.7 out of 287 teams) in The First Wi-Fi Sensing Contest by Huawei (reached the final, received a bonus of 20,000 Chinese Yuan)
-          url: 'https://competition.huaweicloud.com/information/1000041958/introduction'
+          url: 'https://www.xxpie.com/m/album?id=655b060d70fae914c41012e8&nowatermark=NjU1YjA2MGQ3MGZhZTkxNGM0MTAxMmU4JDA=&mini=0'
 #        - certificate_url: 
 #          date_end: ''
 #          date_start: '2023-10-01'
