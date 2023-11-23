@@ -35,7 +35,7 @@ image:
   focal_point: Right
 
 url_slides: 'https://mp.weixin.qq.com/s/QAV61stqoiUyhK50AllXqQ'
-url_video: 'https://www.bilibili.com/video/BV1Uz4y1W7mX/?spm_id_from=333.999.0.0'
+url_video: 'https://www.bilibili.com/video/BV1Xt4y1h7bd/'
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.

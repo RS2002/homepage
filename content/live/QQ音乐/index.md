@@ -1,12 +1,12 @@
 ---
-title: 乐盟联动 超级高校派对2.0
+title: QQ音乐校园燥乐大赛
 
-event: livehouse
-event_url: https://mp.weixin.qq.com/s/uVNuI7K3C5rKlZm5g6fZxw
+event: contest
+event_url: 
 
-location: 191Space livehouse
+location: 万达广场
 address:
-  street: 越秀区广州大道中路191号(五羊邨地铁站A出口旁)
+  street: 海珠区逸景路238号万达广场
   city: 广州市
   region: 广东省
   postcode: ''
@@ -17,12 +17,12 @@ abstract: ''
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2022-06-18T19:00:00Z'
-date_end: '2022-06-18T22:00:00Z'
+date: '2022-06-12T18:00:00Z'
+date_end: '2022-06-12T22:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2022-06-18T00:00:00Z'
+publishDate: '2022-06-12T00:00:00Z'
 
 authors: []
 tags: []
@@ -34,8 +34,7 @@ image:
   caption: ''
   focal_point: Right
 
-url_pdf: 'https://mp.weixin.qq.com/s/uVNuI7K3C5rKlZm5g6fZxw'
-url_slides: 'https://www.pailixiang.com/album_ia2378464919.html'
+url_slides: 'https://www.xxpie.com/m/album?taskId=6295ed3669686872554990be&nowatermark=NjI5NWVkMzY2OTY4Njg3MjU1NDk5MGJlJDA=&albumSetId='
 url_video: 'https://www.bilibili.com/video/BV1sv4y1z7NW/?spm_id_from=333.999.0.0'
 
 # Markdown Slides (optional).
