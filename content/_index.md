@@ -95,10 +95,10 @@ sections:
           date_end: ''
           date_start: '2023-11-01'
           description: ''
-          organization: Huawei, IEEE ISAC-ETI (Integrated Sensing and Communication Emerging Technology Initiative), China Institute of Communications, Huangdanian Chaspark
+          organization: Huawei, IEEE ISAC-ETI (Integrated Sensing and Communication Emerging Technology Initiative), China Institute of Communications, Huang Danian Chaspark
           organization_url: https://www.huaweicloud.com/
           title: Wining Prize (No.7 out of 287 teams) in The First Wi-Fi Sensing Contest by Huawei (reached the final, received a bonus of 20,000 CNY)
-          url: 'https://www.xxpie.com/m/album?id=655b060d70fae914c41012e8&nowatermark=NjU1YjA2MGQ3MGZhZTkxNGM0MTAxMmU4JDA=&mini=0'
+          url: 'https://www.chaspark.com/#/live/941113361357037568'
 #        - certificate_url: 
 #          date_end: ''
 #          date_start: '2023-10-01'
@@ -106,7 +106,7 @@ sections:
 #          organization: International Telecommunication Union (ITU)
 #          organization_url: https://itu.edu/
 #          title: No.3 (out of 713 teams) in AI/ML for 5G-Energy Consumption Modelling by ITU AI/ML in 5G Challenge
-#          url: 'https://zindi.africa/competitions/aiml-for-5g-energy-consumption-modelling'
+#          url: 'https://neuralnetwork.aiforgood.itu.int/event/ai-for-good/auditorium-archive/618bd56f1ca6ce6ae07960c9/timeslot/6527edd310600a0024ff61a0'
         - certificate_url: 
           date_end: ''
           date_start: '2023-10-01'
