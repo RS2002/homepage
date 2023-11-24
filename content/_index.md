@@ -97,7 +97,7 @@ sections:
           description: ''
           organization: Huawei, IEEE ISAC-ETI (Integrated Sensing and Communication Emerging Technology Initiative), China Institute of Communications, Huangdanian Chaspark
           organization_url: https://www.huaweicloud.com/
-          title: Wining Prize (No.7 out of 287 teams) in The First Wi-Fi Sensing Contest by Huawei (reached the final, received a bonus of 20,000 Chinese Yuan)
+          title: Wining Prize (No.7 out of 287 teams) in The First Wi-Fi Sensing Contest by Huawei (reached the final, received a bonus of 20,000 CNY)
           url: 'https://www.xxpie.com/m/album?id=655b060d70fae914c41012e8&nowatermark=NjU1YjA2MGQ3MGZhZTkxNGM0MTAxMmU4JDA=&mini=0'
 #        - certificate_url: 
 #          date_end: ''
@@ -113,7 +113,7 @@ sections:
           description: ''
           organization: Sun Yat-sen University
           organization_url: https://www.sysu.edu.cn/
-          title: Third-class Scholarship for Outstanding Student of Sun Yat-sen University (received a bonus of 2,000 Chinese Yuan)
+          title: Third-class Scholarship for Outstanding Student of Sun Yat-sen University (received a bonus of 2,000 CNY)
           url: ''
         - certificate_url:
           date_end: ''
@@ -137,7 +137,7 @@ sections:
           description: ''
           organization: Sun Yat-sen University
           organization_url: https://mp.weixin.qq.com/s/fffquCEoXELl6vt4LEPMGg
-          title: Third Prize and Outstanding Resume Award in Sun Yat-sen University Future Job Hunting Competition (received a bonus of 300 Chinese Yuan)
+          title: Third Prize and Outstanding Resume Award in Sun Yat-sen University Future Job Hunting Competition (received a bonus of 300 CNY)
           url: 'https://mp.weixin.qq.com/s/iQtjBspi3h9zodZayHlj9Q'
         - certificate_url:
           date_end: ''
@@ -153,7 +153,7 @@ sections:
           description: ''
           organization: Sun Yat-sen University
           organization_url: https://www.sysu.edu.cn/
-          title: Second-class Scholarship for Outstanding Student of Sun Yat-sen University (received a bonus of 3,000 Chinese Yuan)
+          title: Second-class Scholarship for Outstanding Student of Sun Yat-sen University (received a bonus of 3,000 CNY)
           url: ''
         - certificate_url:
           date_end: ''
@@ -209,7 +209,7 @@ sections:
           description: ''
           organization: Sun Yat-sen University
           organization_url: https://www.sysu.edu.cn/
-          title: First-class Scholarship for Outstanding Student of Sun Yat-sen University (received a bonus of 4,000 Chinese Yuan)
+          title: First-class Scholarship for Outstanding Student of Sun Yat-sen University (received a bonus of 4,000 CNY)
           url: ''
         - certificate_url:
           date_end: ''
