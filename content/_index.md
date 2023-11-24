@@ -94,11 +94,11 @@ sections:
         - certificate_url: 
           date_end: ''
           date_start: '2023-11-01'
-          description: ''
+          description: 'Team Member: Tingwei Chen (team leader), Zhijie Cai, Yihang Jiang, Fanyi Meng, Zijian Zhao; Supervisor: Dr. Guangxu Zhu, Dr. Hang Li, Dr. Xiaoyang Li'
           organization: Huawei, IEEE ISAC-ETI (Integrated Sensing and Communication Emerging Technology Initiative), China Institute of Communications, Huang Danian Chaspark
           organization_url: https://www.huaweicloud.com/
-          title: Wining Prize (No.7 out of 287 teams) in The First Wi-Fi Sensing Contest by Huawei (reached the final, received a bonus of 20,000 CNY)
-          url: 'https://www.chaspark.com/#/live/941113361357037568'
+          title: Thrid Prize (No.6 out of 287 teams) in The First Wi-Fi Sensing Contest by Huawei (reached the final, received a bonus of 20,000 CNY)
+          url: 'https://mp.weixin.qq.com/s/16cauCbcHotlCYzBtyT0DQ'
 #        - certificate_url: 
 #          date_end: ''
 #          date_start: '2023-10-01'
@@ -118,19 +118,11 @@ sections:
         - certificate_url:
           date_end: ''
           date_start: '2023-07-01'
-          description: ''
+          description: 'Team Member: Zijian Zhao (team leader, supervisor), Siyuan Zuo,Fupeng He'
           organization: Consortium for Mathematics and Its Application
           organization_url: https://www.comap.com/
           title: Meritorious Winner in the Mathematical Contest in Modeling
           url: 'https://www.comap.com/contests/mcm-icm'
-        - certificate_url:
-          date_end: ''
-          date_start: '2023-05-01'
-          description: ''
-          organization: China Computer Federation
-          organization_url: https://www.ccf.org.cn/
-          title: CCF-CSP (Certified Software Professional):320 (Top 0.8%)
-          url: 'https://www.cspro.org/'
         - certificate_url: 
           date_end: ''
           date_start: '2023-02-01'
@@ -138,6 +130,14 @@ sections:
           organization: Sun Yat-sen University
           organization_url: https://mp.weixin.qq.com/s/fffquCEoXELl6vt4LEPMGg
           title: Third Prize and Outstanding Resume Award in Sun Yat-sen University Future Job Hunting Competition (received a bonus of 300 CNY)
+        - certificate_url:
+          date_end: ''
+          date_start: '2023-02-01'
+          description: 'Team Member: Zijian Zhao (team leader), Che Zhou, Yiqi Liu; Supervisor: Prof. Chuanxian Ren'
+          organization: Consortium for Mathematics and Its Application
+          organization_url: https://www.comap.com/
+          title: Successful Participant in the Mathematical Contest in Modeling
+          url: 'https://www.comap.com/contests/mcm-icm'
           url: 'https://mp.weixin.qq.com/s/iQtjBspi3h9zodZayHlj9Q'
         - certificate_url:
           date_end: ''
@@ -166,7 +166,7 @@ sections:
         - certificate_url:
           date_end: ''
           date_start: '2022-07-01'
-          description: ''
+          description: 'Team Member: Haoyao He (team leader), Xiangyu Tan, Zijian Zhao; Supervisor: Prof. Qi Liang, Prof. Ruyu Wang'
           organization: Statistical Education Society of China
           organization_url: http://www.stats.gov.cn/zt_18555/xhwz/tjjyxh/
           title: Provincial Second Prize in SPSS University Contest in Modeling
@@ -174,15 +174,23 @@ sections:
         - certificate_url:
           date_end: ''
           date_start: '2022-04-01'
-          description: ''
+          description: 'Team Member: Zijian Zhao (team leader), Weichao Zeng, Fupeng He'
           organization: School of Computer Science and Engineering, Sun Yat-sen University
           organization_url: https://cse.sysu.edu.cn/
           title: First Prize in Sun Yat-sen University Novice Programming Competition
           url: ''
         - certificate_url:
           date_end: ''
+          date_start: '2022-02-01'
+          description: 'Team Member: Zijian Zhao (team leader), Fanqi Zhang, Jiali Liu'
+          organization: Consortium for Mathematics and Its Application
+          organization_url: https://www.comap.com/
+          title: Successful Participant in the Mathematical Contest in Modeling
+          url: 'https://www.comap.com/contests/mcm-icm'
+        - certificate_url:
+          date_end: ''
           date_start: '2021-12-01'
-          description: ''
+          description: 'Team Member: Zijian Zhao (team leader), Haoyao He, Fanqi Zhang'
           organization: Beijing Society of Image and Graphics, APMCM Organizing Committee
           organization_url: http://www.bsig.org.cn/
           title: Second Prize in Asia and Pacific Mathematical Contest in Modeling
@@ -190,7 +198,7 @@ sections:
         - certificate_url:
           date_end: ''
           date_start: '2021-10-01'
-          description: ''
+          description: 'Team Member: Zijian Zhao (team leader), Yifeng Zhao, Ziwan Liu; Supervisor: Prof. Bingpeng Zhou'
           organization: China Society for Industrial and Applied Mathematics
           organization_url: https://www.csiam.org.cn/
           title: Provincial Third Prize in the Chinese Mathematics Competitions 
@@ -213,8 +221,16 @@ sections:
           url: ''
         - certificate_url:
           date_end: ''
+          date_start: '2021-05-01'
+          description: 'Team Member: Zijian Zhao (team leader), Diang Zhao, Kang Zhou'
+          organization: School of Computer Science and Engineering, Sun Yat-sen University
+          organization_url: https://cse.sysu.edu.cn/
+          title: Third Prize in Sun Yat-sen University Novice Programming Competition
+          url: ''
+        - certificate_url:
+          date_end: ''
           date_start: '2020-11-01'
-          description: ''
+          description: 'Team Member: Zijian Zhao (team leader), Quan Zhang, Ziwan Liu'
           organization: School of Electronics and Communication Engineering, Sun Yat-sen University
           organization_url: https://sece.sysu.edu.cn/
           title: Excellence Award in Sun Yat-sen University Electronic Design Creative Competition
@@ -226,6 +242,14 @@ sections:
           organization: Chinese Mathematical Society
           organization_url: http://www.cms.org.cn/
           title: Second Prize & Provincial First Prize in National High School Mathematics League
+          url: 'http://www.cms.org.cn/en/Home/comp/comp/13.html'
+        - certificate_url:
+          date_end: ''
+          date_start: '2018-09-01'
+          description: ''
+          organization: Chinese Mathematical Society
+          organization_url: http://www.cms.org.cn/
+          title: Provincial Third Prize in National High School Mathematics League
           url: 'http://www.cms.org.cn/en/Home/comp/comp/13.html'
 
 
