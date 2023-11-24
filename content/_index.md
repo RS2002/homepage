@@ -102,7 +102,7 @@ sections:
 #        - certificate_url: 
 #          date_end: ''
 #          date_start: '2023-10-01'
-#          description: ''
+#          description: 'Team Member: Tingwei Chen (team leader), Yantao Wang, Hanzhi Chen, Zijian Zhao, Xinhao Li; Supervisor: Dr. Guangxu Zhu'
 #          organization: International Telecommunication Union (ITU)
 #          organization_url: https://itu.edu/
 #          title: No.3 (out of 713 teams) in AI/ML for 5G-Energy Consumption Modelling by ITU AI/ML in 5G Challenge
@@ -139,6 +139,22 @@ sections:
           title: Successful Participant in the Mathematical Contest in Modeling
           url: 'https://www.comap.com/contests/mcm-icm'
           url: 'https://mp.weixin.qq.com/s/iQtjBspi3h9zodZayHlj9Q'
+        - certificate_url:
+          date_end: ''
+          date_start: '2022-12-01'
+          description: ''
+          organization: Association of Fundamental Computing Education in Chinese Universities
+          organization_url: http://www.beidouedu.net/
+          title:  Third Prize in the National College Students’ IT Skills Competition of Chuanzhi Cup
+          url: 'http://www.afcec.com/'
+        - certificate_url:
+          date_end: ''
+          date_start: '2022-12-01'
+          description: ''
+          organization: Shandong Beidou Education Research Institute
+          organization_url: http://www.beidouedu.net/
+          title:  Provincial Third Prize in the National College Students’ Mathematics Competition of Huajiao Cup
+          url: 'http://www.cecmath.com/'
         - certificate_url:
           date_end: ''
           date_start: '2022-11-01'
@@ -187,6 +203,14 @@ sections:
           organization_url: https://www.comap.com/
           title: Successful Participant in the Mathematical Contest in Modeling
           url: 'https://www.comap.com/contests/mcm-icm'
+        - certificate_url:
+          date_end: ''
+          date_start: '2022-02-01'
+          description: ''
+          organization: China  Society  for  Futures  Studies
+          organization_url: http://www.csfs.org.cn/
+          title: Successful Participant in China College Algorithm Design & Program Challenge Contest
+          url: ''
         - certificate_url:
           date_end: ''
           date_start: '2021-12-01'
