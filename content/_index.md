@@ -151,7 +151,7 @@ sections:
           date_end: ''
           date_start: '2022-12-01'
           description: ''
-          organization: Shandong Beidou Education Research Institute
+          organization: Shandong Beidou Education Research Institute, Jilin Provincial Association for Science and Technology Education
           organization_url: http://www.beidouedu.net/
           title:  Provincial Third Prize in the National College Students’ Mathematics Competition of Huajiao Cup
           url: 'http://www.cecmath.com/'
@@ -167,17 +167,25 @@ sections:
           date_end: ''
           date_start: '2022-10-01'
           description: ''
-          organization: Sun Yat-sen University
-          organization_url: https://www.sysu.edu.cn/
-          title: Second-class Scholarship for Outstanding Student of Sun Yat-sen University (received a bonus of 3,000 CNY)
+          organization: China Society for Futures Studies
+          organization_url: http://www.csfs.org.cn/
+          title: Bronze Award in China College Algorithm Design & Program Challenge Contest
           url: ''
         - certificate_url:
           date_end: ''
           date_start: '2022-10-01'
+          description: 'Team Member: Zijian Zhao (team leader), Fanqi Zhang, Jiali Liu; Supervisor: Prof. Zhihong Luo'
+          organization: China Society for Industrial and Applied Mathematics, Education Department of Guangdong Province
+          organization_url: https://www.csiam.org.cn/
+          title: Provincial Third Prize in the Chinese Mathematics Competitions 
+          url: 'http://www.mcm.edu.cn/'
+        - certificate_url:
+          date_end: ''
+          date_start: '2022-10-01'
           description: ''
-          organization: China  Society  for  Futures  Studies
-          organization_url: http://www.csfs.org.cn/
-          title: Bronze Award in China College Algorithm Design & Program Challenge Contest
+          organization: Sun Yat-sen University
+          organization_url: https://www.sysu.edu.cn/
+          title: Second-class Scholarship for Outstanding Student of Sun Yat-sen University (received a bonus of 3,000 CNY)
           url: ''
         - certificate_url:
           date_end: ''
@@ -207,7 +215,7 @@ sections:
           date_end: ''
           date_start: '2022-02-01'
           description: ''
-          organization: China  Society  for  Futures  Studies
+          organization: China Society for Futures Studies
           organization_url: http://www.csfs.org.cn/
           title: Successful Participant in China College Algorithm Design & Program Challenge Contest
           url: ''
@@ -222,19 +230,19 @@ sections:
         - certificate_url:
           date_end: ''
           date_start: '2021-10-01'
-          description: 'Team Member: Zijian Zhao (team leader), Yifeng Zhao, Ziwan Liu; Supervisor: Prof. Bingpeng Zhou'
-          organization: China Society for Industrial and Applied Mathematics
-          organization_url: https://www.csiam.org.cn/
-          title: Provincial Third Prize in the Chinese Mathematics Competitions 
-          url: 'http://www.mcm.edu.cn/'
-        - certificate_url:
-          date_end: ''
-          date_start: '2021-10-01'
           description: ''
           organization: Chinese Mathematical Society
           organization_url: http://www.cms.org.cn/
           title: Provincial First Prize in the Chinese Mathematics Competitions
           url: 'http://www.cmathc.cn/'
+        - certificate_url:
+          date_end: ''
+          date_start: '2021-10-01'
+          description: 'Team Member: Zijian Zhao (team leader), Yifeng Zhao, Ziwan Liu; Supervisor: Prof. Bingpeng Zhou'
+          organization: China Society for Industrial and Applied Mathematics, Education Department of Guangdong Province
+          organization_url: https://www.csiam.org.cn/
+          title: Provincial Third Prize in the Chinese Mathematics Competitions 
+          url: 'http://www.mcm.edu.cn/'
         - certificate_url:
           date_end: ''
           date_start: '2021-10-01'
@@ -275,6 +283,23 @@ sections:
           organization_url: http://www.cms.org.cn/
           title: Provincial Third Prize in National High School Mathematics League
           url: 'http://www.cms.org.cn/en/Home/comp/comp/13.html'
+        - certificate_url:
+          date_end: ''
+          date_start: '2017-10-01'
+          description: ''
+          organization: Harbin NO.3 High School
+          organization_url: http://www.hrb3z.net/
+          title:  Bronze Award in the Mathematics Competition by Harbin NO.3 High School
+          url: ''
+        - certificate_url:
+          date_end: ''
+          date_start: '2017-10-01'
+          description: ''
+          organization: Harbin NO.3 High School
+          organization_url: http://www.hrb3z.net/
+          title:  Third Prize in the Physics Competition by Harbin NO.3 High School
+          url: ''
+
 
 
 
