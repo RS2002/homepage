@@ -17,19 +17,15 @@ sections:
       title: Skills
       items:
         - name: Code
-          description: "Proficient in: C/C++ (CCF-CSP:320, Top 0.8%), Python, Matlab, Pytorch
- Familiar with: Java, MySQL, Git, Linux, TensorFlow
- Knowledgeable in: Assembly, Verilog, Web Scraping, Flask, QT, Docker, Raspberry Pi, ESP32"
+          description: "Proficient in: C/C++ (CCF-CSP:320, Top 0.8%), Python, Matlab, Pytorch <br>  Familiar with: Java, MySQL, Git, Linux, TensorFlow <br>  Knowledgeable in: Assembly, Verilog, Web Scraping, Flask, QT, Docker, Raspberry Pi, ESP32"
           icon: code
           icon_pack: fas
         - name: Music
-          description: "Proficient in: Electric Guitar, Acoustic Guitar, Electronic Keyboard (Grade 10), Music Theory (Grade C)
- Familiar with: Songwriting, Extreme Vocals, Electric Bass, Piano, Drums, Ukulele, Harmonica, Hulusi"
+          description: "Proficient in: Electric Guitar, Acoustic Guitar, Electronic Keyboard (Grade 10), Music Theory (Grade C) <br>  Familiar with: Songwriting, Extreme Vocals, Electric Bass, Piano, Drums, Ukulele, Harmonica, Hulusi"
           icon: music
           icon_pack: fas
         - name: Language
-          description: "English (IELTS:6.5, CET-4:605, CET-6: 561)
- Chinese (mother tongue)"
+          description: "English (IELTS:6.5, CET-4:605, CET-6: 561) <br>  Chinese (mother tongue)"
           icon: book
           icon_pack: fas
 
