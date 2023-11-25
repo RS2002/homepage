@@ -43,8 +43,6 @@ skills:
         icon: chart-line
         icon_pack: fas
   - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
     items:
       - name: Hiking
         description: ''
