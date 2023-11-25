@@ -17,15 +17,15 @@ sections:
       title: Skills
       items:
         - name: Code
-          description: "Proficient in: C/C++ (CCF-CSP:320, Top 0.8%), Python, Matlab, Pytorch<br>Familiar with: Java, MySQL, Git, Linux, TensorFlow<br>Knowledgeable in: Assembly, Verilog, Web Scraping, Flask, QT, Docker, Raspberry Pi, ESP32"
+          description: "<span style='display: block; text-align: left;'>Proficient in: C/C++ (CCF-CSP:320, Top 0.8%), Python, Matlab, Pytorch</span><span style='display: block; text-align: left;'>Familiar with: Java, MySQL, Git, Linux, TensorFlow</span><span style='display: block; text-align: left;'>Knowledgeable in: Assembly, Verilog, Web Scraping, Flask, QT, Docker, Raspberry Pi, ESP32</span>"
           icon: code
           icon_pack: fas
         - name: Music
-          description: "Proficient in: Electronic Keyboard (Grade 10), Music Theory (Grade C), Electric Guitar, Acoustic Guitar<br>Familiar with: Songwriting, Extreme Vocals, Electric Bass, Piano, Drums, Ukulele, Harmonica, Hulusi"
+          description: "<span style='display: block; text-align: left;'>Proficient in: Electric Guitar, Acoustic Guitar, Electronic Keyboard (Grade 10), Music Theory (Grade C)</span><span style='display: block; text-align: left;'>Familiar with: Songwriting, Extreme Vocals, Electric Bass, Piano, Drums, Ukulele, Harmonica, Hulusi</span>"
           icon: music
           icon_pack: fas
         - name: Language
-          description: "English (IELTS:6.5, CET-4:605, CET-6: 561)<br>Chinese (mother tongue)"
+          description: "<span style='display: block; text-align: left;'>English (IELTS:6.5, CET-4:605, CET-6: 561)</span><span style='display: block; text-align: left;'>Chinese (mother tongue)</span>"
           icon: book
           icon_pack: fas
 
