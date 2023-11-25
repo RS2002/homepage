@@ -37,40 +37,40 @@ education:
 skills:
   - name: Technical
     items:
-      - name: C/C++ (CCF-CSP:320, Top 0.8\%), Python, Matlab, Pytorch
+      - name: Python
         description: ''
         percent: 80
-        icon: 
-        icon_pack: 
-      - name: Java, MySQL, Git, Linux, TensorFlow
+        icon: python
+        icon_pack: fab
+      - name: Data Science
         description: ''
-        percent: 60
-        icon: 
-        icon_pack: 
-      - name: Assembly, Verilog, Web Scraping, Flask, QT, Docker, Raspberry Pi, ESP32
+        percent: 100
+        icon: chart-line
+        icon_pack: fas
+      - name: SQL
         description: ''
         percent: 40
-        icon: 
-        icon_pack: 
+        icon: database
+        icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Electric Guitar, Acoustic Guitar, Electronic Keyboard (Grade 10), Music Theory (Grade C)
+      - name: Hiking
+        description: ''
+        percent: 60
+        icon: person-hiking
+        icon_pack: fas
+      - name: Cats
+        description: ''
+        percent: 100
+        icon: cat
+        icon_pack: fas
+      - name: Photography
         description: ''
         percent: 80
-        icon: 
-        icon_pack: 
-      - name: Songwriting, Extreme Vocals, Electric Bass, Piano, Drums, Ukulele, Harmonica, Hulusi
-        description: ''
-        percent: 60
-        icon: 
-        icon_pack: 
-      - name: English (IELTS 6.5, CET6: 561, CET4: 605)
-        description: ''
-        percent: 60
-        icon: 
-        icon_pack: 
+        icon: camera-retro
+        icon_pack: fas
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
