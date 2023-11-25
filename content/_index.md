@@ -21,11 +21,11 @@ sections:
           icon: code
           icon_pack: fas
         - name: Music
-          description: "<div style='text-align: left'>Proficient in: Electric Guitar, Acoustic Guitar, Electronic Keyboard (Grade 10), Music Theory (Grade C)<br>Familiar with: Songwriting, Extreme Vocals, Electric Bass, Piano, Drums, Ukulele, Harmonica, Hulusi"
+          description: "Proficient in: Electronic Keyboard (Grade 10), Music Theory (Grade C), Electric Guitar, Acoustic Guitar<br>Familiar with: Songwriting, Extreme Vocals, Electric Bass, Piano, Drums, Ukulele, Harmonica, Hulusi"
           icon: music
           icon_pack: fas
         - name: Language
-          description: "<div style='text-align: left'>English (IELTS:6.5, CET-4:605, CET-6: 561)<br>Chinese (mother tongue)"
+          description: "English (IELTS:6.5, CET-4:605, CET-6: 561)<br>Chinese (mother tongue)"
           icon: book
           icon_pack: fas
 
