@@ -32,6 +32,17 @@ education:
       institution: Sun Yat-sen University (Guangzhou Campus)
       year: 2020~2024
 
+# Skills
+# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
+skills:
+  - name: Technical
+    items:
+      - name: Data Science
+        description: ''
+        percent: 100
+        icon: chart-line
+        icon_pack: fas
+
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
