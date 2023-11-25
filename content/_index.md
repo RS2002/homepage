@@ -17,15 +17,19 @@ sections:
       title: Skills
       items:
         - name: Code
-          description: 'Proficient in: C/C++ (CCF-CSP:320, Top 0.8%), Python, Matlab, Pytorch \n Familiar with: Java, MySQL, Git, Linux, TensorFlow \n Knowledgeable in: Assembly, Verilog, Web Scraping, Flask, QT, Docker, Raspberry Pi, ESP32'
+          description: "Proficient in: C/C++ (CCF-CSP:320, Top 0.8%), Python, Matlab, Pytorch
+ Familiar with: Java, MySQL, Git, Linux, TensorFlow
+ Knowledgeable in: Assembly, Verilog, Web Scraping, Flask, QT, Docker, Raspberry Pi, ESP32"
           icon: code
           icon_pack: fas
         - name: Music
-          description: 'Proficient in: Electric Guitar, Acoustic Guitar, Electronic Keyboard (Grade 10), Music Theory (Grade C) \n Familiar with: Songwriting, Extreme Vocals, Electric Bass, Piano, Drums, Ukulele, Harmonica, Hulusi'
+          description: "Proficient in: Electric Guitar, Acoustic Guitar, Electronic Keyboard (Grade 10), Music Theory (Grade C)
+ Familiar with: Songwriting, Extreme Vocals, Electric Bass, Piano, Drums, Ukulele, Harmonica, Hulusi"
           icon: music
           icon_pack: fas
         - name: Language
-          description: 'English (IELTS:6.5, CET-4:605, CET-6: 561) \n Chinese (mother tongue)'
+          description: "English (IELTS:6.5, CET-4:605, CET-6: 561)
+ Chinese (mother tongue)"
           icon: book
           icon_pack: fas
 
@@ -59,13 +63,13 @@ sections:
           date_end: ''
           description:
         - title: Visiting Student 
-          company: Shenzhen Research Institute of Big Data (associated with the Chinese University of Hong Kong, Shenzhen)
+          company: Shenzhen Research Institute of Big Data
           company_url: 'http://www.sribd.cn/'
           company_logo: SRIBD
           location: Shenzhen, Full-time
           date_start: '2023-08-01'
           date_end: '2024-08-01'
-          description:
+          description: 'associated with the Chinese University of Hong Kong, Shenzhen'
         - title: B.Eng. (2rd~4th)
           company: School of Computer Science and Engineering, Sun Yat-sen University
           company_url: 'https://cse.sysu.edu.cn/'
