@@ -32,6 +32,46 @@ education:
       institution: Sun Yat-sen University (Guangzhou Campus)
       year: 2020~2024
 
+# Skills
+# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
+skills:
+  - name: Technical
+    items:
+      - name: C/C++ (CCF-CSP:320, Top 0.8\%), Python, Matlab, Pytorch
+        description: ''
+        percent: 80
+        icon: code
+        icon_pack: fas
+      - name: Java, MySQL, Git, Linux, TensorFlow
+        description: ''
+        percent: 60
+        icon: database
+        icon_pack: fas
+      - name: Assembly, Verilog, Web Scraping, Flask, QT, Docker, Raspberry Pi, ESP32
+        description: ''
+        percent: 40
+        icon: computer
+        icon_pack: fas
+  - name: Hobbies
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
+      - name: Electric Guitar, Acoustic Guitar, Electronic Keyboard (Grade 10), Music Theory (Grade C)
+        description: ''
+        percent: 80
+        icon: guitar
+        icon_pack: fas
+      - name: Songwriting, Extreme Vocals, Electric Bass, Piano, Drums, Ukulele, Harmonica, Hulusi
+        description: ''
+        percent: 60
+        icon: music
+        icon_pack: fas
+      - name: English (IELTS 6.5, CET6: 561, CET4: 605)
+        description: ''
+        percent: 60
+        icon: book
+        icon_pack: fas
+
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
