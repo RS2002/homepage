@@ -21,7 +21,7 @@ sections:
           icon: code
           icon_pack: fas
         - name: Music
-          description: "<span style='display: block; text-align: left;'>Proficient in: Electric Guitar, Acoustic Guitar, Electronic Keyboard (Grade 10), Music Theory (Grade C)</span><span style='display: block; text-align: left;'>Familiar with: Songwriting, Extreme Vocals, Electric Bass, Piano, Drums, Ukulele, Harmonica, Hulusi</span>"
+          description: "<span style='display: block; text-align: left;'>Proficient in: Electric Guitar, Acoustic Guitar, Keyboard (Grade 10), Music Theory (Grade C)</span><span style='display: block; text-align: left;'>Familiar with: Songwriting, Extreme Vocals, Electric Bass, Piano, Drums, Ukulele, Harmonica, Hulusi</span>"
           icon: music
           icon_pack: fas
         - name: Language
