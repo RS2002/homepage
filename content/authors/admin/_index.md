@@ -42,6 +42,15 @@ skills:
         percent: 100
         icon: chart-line
         icon_pack: fas
+  - name: Hobbies
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
+      - name: Hiking
+        description: ''
+        percent: 60
+        icon: person-hiking
+        icon_pack: fas
 
 
 # Social/Academic Networking
