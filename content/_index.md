@@ -16,17 +16,17 @@ sections:
     content:
       title: Skills
       items:
-        - name: R
-          description: 90%
-          icon: r-project
-          icon_pack: fab
-        - name: Statistics
-          description: 100%
-          icon: chart-line
+        - name: Code
+          description: Proficient in: C/C++ (CCF-CSP:320, Top 0.8%), Python, Matlab, Pytorch; Familiar with: Java, MySQL, Git, Linux, TensorFlow; Knowledgeable in: Assembly, Verilog, Web Scraping, Flask, QT, Docker, Raspberry Pi, ESP32
+          icon: code
           icon_pack: fas
-        - name: Photography
-          description: 10%
-          icon: camera-retro
+        - name: Music
+          description: Proficient in: Electric Guitar, Acoustic Guitar, Electronic Keyboard (Grade 10), Music Theory (Grade C); Familiar with: Songwriting, Extreme Vocals, Electric Bass, Piano, Drums, Ukulele, Harmonica, Hulusi
+          icon: music
+          icon_pack: fas
+        - name: Language
+          description: English (IELTS:6.5, CET-4:605, CET-6: 561), Chinese (mother tongue)
+          icon: book
           icon_pack: fas
 
   - block: experience
@@ -111,10 +111,10 @@ sections:
         - certificate_url: 
           date_end: ''
           date_start: '2023-11-01'
-          description: 'Team Member: Tingwei Chen (team leader), Zhijie Cai, Yihang Jiang, Fanyi Meng, Zijian Zhao; Supervisor: Dr. Guangxu Zhu, Dr. Hang Li, Dr. Xiaoyang Li'
+          description: 'Rank: 6/287 (reached the final); Bonus: 20,000 CNY; Team Member: Tingwei Chen (team leader), Zhijie Cai, Yihang Jiang, Fanyi Meng, Zijian Zhao; Supervisor: Dr. Guangxu Zhu, Dr. Hang Li, Dr. Xiaoyang Li'
           organization: Huawei, IEEE ISAC-ETI (Integrated Sensing and Communication Emerging Technology Initiative), China Institute of Communications, Huang Danian Chaspark
           organization_url: https://www.huaweicloud.com/
-          title: Thrid Prize (No.6 out of 287 teams) in The First Wi-Fi Sensing Contest by Huawei (reached the final, received a bonus of 20,000 CNY)
+          title: Thrid Prize in The First Wi-Fi Sensing Contest by Huawei
           url: 'https://mp.weixin.qq.com/s/16cauCbcHotlCYzBtyT0DQ'
 #        - certificate_url: 
 #          date_end: ''
@@ -127,10 +127,10 @@ sections:
         - certificate_url: 
           date_end: ''
           date_start: '2023-10-01'
-          description: ''
+          description: 'Bonus: 2,000 CNY'
           organization: Sun Yat-sen University
           organization_url: https://www.sysu.edu.cn/
-          title: Third-class Scholarship for Outstanding Student of Sun Yat-sen University (received a bonus of 2,000 CNY)
+          title: Third-class Scholarship for Outstanding Student of Sun Yat-sen University
           url: ''
         - certificate_url:
           date_end: ''
@@ -143,10 +143,10 @@ sections:
         - certificate_url: 
           date_end: ''
           date_start: '2023-02-01'
-          description: ''
+          description: 'Bonus: 300 CNY'
           organization: Sun Yat-sen University
           organization_url: https://mp.weixin.qq.com/s/fffquCEoXELl6vt4LEPMGg
-          title: Third Prize and Outstanding Resume Award in Sun Yat-sen University Future Job Hunting Competition (received a bonus of 300 CNY)
+          title: Third Prize and Outstanding Resume Award in Sun Yat-sen University Future Job Hunting Competition
         - certificate_url:
           date_end: ''
           date_start: '2023-02-01'
@@ -199,10 +199,10 @@ sections:
         - certificate_url:
           date_end: ''
           date_start: '2022-10-01'
-          description: ''
+          description: 'Bonus: 3,000 CNY'
           organization: Sun Yat-sen University
           organization_url: https://www.sysu.edu.cn/
-          title: Second-class Scholarship for Outstanding Student of Sun Yat-sen University (received a bonus of 3,000 CNY)
+          title: Second-class Scholarship for Outstanding Student of Sun Yat-sen University
           url: ''
         - certificate_url:
           date_end: ''
@@ -263,10 +263,10 @@ sections:
         - certificate_url:
           date_end: ''
           date_start: '2021-10-01'
-          description: ''
+          description: 'Bonus: 4,000 CNY'
           organization: Sun Yat-sen University
           organization_url: https://www.sysu.edu.cn/
-          title: First-class Scholarship for Outstanding Student of Sun Yat-sen University (received a bonus of 4,000 CNY)
+          title: First-class Scholarship for Outstanding Student of Sun Yat-sen University
           url: ''
         - certificate_url:
           date_end: ''
