@@ -65,7 +65,7 @@ sections:
           location: Shenzhen, Full-time
           date_start: '2023-08-01'
           date_end: '2024-08-01'
-          description: 'associated with the Chinese University of Hong Kong, Shenzhen'
+          description: 'Associated with the Chinese University of Hong Kong, Shenzhen'
         - title: B.Eng. (2rd~4th)
           company: School of Computer Science and Engineering, Sun Yat-sen University
           company_url: 'https://cse.sysu.edu.cn/'
@@ -73,7 +73,7 @@ sections:
           location: Guangzhou, Full-time
           date_start: '2021-07-01'
           date_end: '2024-07-01'
-          description: 
+          description: 'GPA: 4.0/5.0 (90/100), Rank: Top 10% in Major'
         - title: Tutor
           company: Zhangmen Education; Yousi Education
           company_url: 'http://zhangmentalent.com/'
@@ -111,9 +111,9 @@ sections:
         - certificate_url: 
           date_end: ''
           date_start: '2023-11-01'
-          description: 'Rank: 6/287 (reached the final); Bonus: 20,000 CNY; Team Member: Tingwei Chen (team leader), Zhijie Cai, Yihang Jiang, Fanyi Meng, Zijian Zhao; Supervisor: Dr. Guangxu Zhu, Dr. Hang Li, Dr. Xiaoyang Li'
+          description: 'Rank: 6/287 (reached the final); Bonus: 20,000 CNY; Team Member: Tingwei Chen (team leader), Zhijie Cai, Yihang Jiang, Zijian Zhao, Fanyi Meng; Supervisor: Dr. Guangxu Zhu, Dr. Hang Li, Dr. Xiaoyang Li'
           organization: Huawei, IEEE ISAC-ETI (Integrated Sensing and Communication Emerging Technology Initiative), China Institute of Communications, Huang Danian Chaspark
-          organization_url: https://www.huaweicloud.com/
+          organization_url: https://www.xxpie.com/m/album?id=655b060d70fae914c41012e8&nowatermark=NjU1YjA2MGQ3MGZhZTkxNGM0MTAxMmU4JDA=&mini=0
           title: Thrid Prize in The First Wi-Fi Sensing Contest by Huawei
           url: 'https://mp.weixin.qq.com/s/16cauCbcHotlCYzBtyT0DQ'
 #        - certificate_url: 
@@ -147,6 +147,7 @@ sections:
           organization: Sun Yat-sen University
           organization_url: https://mp.weixin.qq.com/s/fffquCEoXELl6vt4LEPMGg
           title: Third Prize and Outstanding Resume Award in Sun Yat-sen University Future Job Hunting Competition
+          url: 'https://mp.weixin.qq.com/s/iQtjBspi3h9zodZayHlj9Q'
         - certificate_url:
           date_end: ''
           date_start: '2023-02-01'
@@ -155,7 +156,6 @@ sections:
           organization_url: https://www.comap.com/
           title: Successful Participant in the Mathematical Contest in Modeling
           url: 'https://www.comap.com/contests/mcm-icm'
-          url: 'https://mp.weixin.qq.com/s/iQtjBspi3h9zodZayHlj9Q'
         - certificate_url:
           date_end: ''
           date_start: '2022-12-01'
