@@ -110,20 +110,20 @@ sections:
 
         - certificate_url: 
           date_end: ''
+          date_start: '2023-12-01'
+          description: 'Rank: No.2 out of 776 teams from 83 countries; Bonus: 3,000 CHF; Team Member: Tingwei Chen (team leader), Yantao Wang, Hanzhi Chen, Zijian Zhao, Xinhao Li; Supervisor: Dr. Guangxu Zhu'
+          organization: International Telecommunication Union (ITU), Huawei
+          organization_url: https://neuralnetwork.aiforgood.itu.int/event/ai-for-good/auditorium-archive/618bd56f1ca6ce6ae07960c9/timeslot/6527edd310600a0024ff61a0
+          title:  Runner Up Prize in AI/ML for 5G-Energy Consumption Modelling by ITU AI/ML in 5G Challenge
+          url: 'https://unfccc.int/event/itu-iaea-crowdsourcing-ai-solutions-for-climate-change'
+        - certificate_url: 
+          date_end: ''
           date_start: '2023-11-01'
-          description: 'Rank: 6/287 (reached the final); Bonus: 20,000 CNY; Team Member: Tingwei Chen (team leader), Zhijie Cai, Yihang Jiang, Zijian Zhao, Fanyi Meng; Supervisor: Dr. Guangxu Zhu, Dr. Hang Li, Dr. Xiaoyang Li'
+          description: 'Rank: 6/287 (reached the final); Bonus: 20,000 CNY; Team Member: Tingwei Chen (team leader), Zhijie Cai, Yihang Jiang, Zijian Zhao, Fanyi Meng; Supervisor: Dr. Guangxu Zhu, Dr. Xiaoyang Li, Dr. Hang Li'
           organization: Huawei, IEEE ISAC-ETI (Integrated Sensing and Communication Emerging Technology Initiative), China Institute of Communications, Huang Danian Chaspark
           organization_url: https://www.xxpie.com/m/album?id=655b060d70fae914c41012e8&nowatermark=NjU1YjA2MGQ3MGZhZTkxNGM0MTAxMmU4JDA=&mini=0
           title: Thrid Prize in The First Wi-Fi Sensing Contest by Huawei
           url: 'https://mp.weixin.qq.com/s/16cauCbcHotlCYzBtyT0DQ'
-#        - certificate_url: 
-#          date_end: ''
-#          date_start: '2023-10-01'
-#          description: 'Team Member: Tingwei Chen (team leader), Yantao Wang, Hanzhi Chen, Zijian Zhao, Xinhao Li; Supervisor: Dr. Guangxu Zhu'
-#          organization: International Telecommunication Union (ITU)
-#          organization_url: https://itu.edu/
-#          title: No.3 (out of 713 teams) in AI/ML for 5G-Energy Consumption Modelling by ITU AI/ML in 5G Challenge
-#          url: 'https://neuralnetwork.aiforgood.itu.int/event/ai-for-good/auditorium-archive/618bd56f1ca6ce6ae07960c9/timeslot/6527edd310600a0024ff61a0'
         - certificate_url: 
           date_end: ''
           date_start: '2023-10-01'
