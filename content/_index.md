@@ -112,7 +112,7 @@ sections:
           date_end: ''
           date_start: '2023-12-01'
           description: 'Rank: No.2 out of 776 teams from 83 countries; Bonus: 3,000 CHF; Team Member: Tingwei Chen (team leader), Yantao Wang, Hanzhi Chen, Zijian Zhao, Xinhao Li; Supervisor: Dr. Guangxu Zhu'
-          organization: International Telecommunication Union (ITU), Huawei
+          organization: International Telecommunication Union (ITU), Huawei, Hong Kong Telecommunications (HKT), Zindi
           organization_url: https://neuralnetwork.aiforgood.itu.int/event/ai-for-good/auditorium-archive/618bd56f1ca6ce6ae07960c9/timeslot/6527edd310600a0024ff61a0
           title:  Runner Up Prize in AI/ML for 5G-Energy Consumption Modelling by ITU AI/ML in 5G Challenge
           url: 'https://unfccc.int/event/itu-iaea-crowdsourcing-ai-solutions-for-climate-change'
