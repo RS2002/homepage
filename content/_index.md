@@ -56,8 +56,8 @@ sections:
           company_logo: FLY
           location: Online, Part-time
           date_start: '2023-11-01'
-          date_end: 'Assisted student in obtaining Master offer from HKU'
-          description:
+          date_end: ''
+          description: 'Assisted student in obtaining Master offer from HKU'
         - title: Visiting Student 
           company: Shenzhen Research Institute of Big Data
           company_url: 'http://www.sribd.cn/'
