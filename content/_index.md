@@ -43,13 +43,13 @@ sections:
       items:
 
 #        - title: Ph.D. 
-#          company: Department of Civil and Environmental Engineering, The Hong Kong University of Science and Technology
+#          company: Department of Civil and Environmental Engineering, School of Engineering, The Hong Kong University of Science and Technology
 #          company_url: 'https://www.ce.ust.hk/'
 #          company_logo: HKUST-SENG
 #          location: Hong Kong, Full-time
 #          date_start: '2024-09-01'
 #          date_end: ''
-#          description:
+#          description: 'Supervisor: Prof. Sen Li'
         - title: Writing Consultant & Graduate Application Mentor
           company: FLY Education; Compass Education
           company_url: 'https://www.linkedin.com/company/fly-education-ltd/'
@@ -65,7 +65,7 @@ sections:
           location: Shenzhen, Full-time
           date_start: '2023-08-01'
           date_end: '2024-08-01'
-          description: 'Associated with the Chinese University of Hong Kong, Shenzhen'
+          description: 'Supervisor: Dr. Guangxu Zhu, Associated with the Chinese University of Hong Kong, Shenzhen'
         - title: B.Eng. (2rd~4th)
           company: School of Computer Science and Engineering, Sun Yat-sen University
           company_url: 'https://cse.sysu.edu.cn/'
@@ -73,7 +73,7 @@ sections:
           location: Guangzhou, Full-time
           date_start: '2021-07-01'
           date_end: '2024-07-01'
-          description: 'GPA: 4.0/5.0 (90/100), Rank: Top 10% in Major'
+          description: 'GPA: 4.0/5.0 (90/100), Rank: Top 10% in Major, Supervisor: Prof. Kai Huang, Prof. Ning Liu, Prof. Chengying Gao'
         - title: Tutor
           company: Zhangmen Education; Yousi Education
           company_url: 'http://zhangmentalent.com/'
@@ -81,7 +81,7 @@ sections:
           location: Online, Part-time
           date_start: '2020-12-01'
           date_end: '2021-09-01'
-          description: 'Guided math competition student; Helped student increase math score by 30 points in 3 months'
+          description: 'Guided competition student, Helped student increase math score by 30 points in 3 months'
         - title: B.Eng. (1st)
           company: School of Electronics and Communication Engineering, Sun Yat-sen University
           company_url: 'https://sece.sysu.edu.cn/'
@@ -89,7 +89,7 @@ sections:
           location: Shenzhen, Full-time
           date_start: '2020-09-01'
           date_end: '2021-07-01'
-          description: 'GPA: 4.0/5.0 (90/100), Rank: Top 5% in Department'
+          description: 'GPA: 4.0/5.0 (90/100), Rank: Top 5% in Department, Supervisor: Prof. Xizhang Wei'
 
 
     design:
@@ -112,7 +112,7 @@ sections:
           date_end: ''
           date_start: '2023-12-01'
           description: 'Rank: No.2 out of 776 teams from 83 countries; Bonus: 3,000 CHF; Team Member: Tingwei Chen (team leader), Yantao Wang, Hanzhi Chen, Zijian Zhao, Xinhao Li; Supervisor: Dr. Guangxu Zhu'
-          organization: International Telecommunication Union (ITU), Huawei, Hong Kong Telecommunications (HKT), Zindi
+          organization: International Telecommunication Union (ITU), Huawei
           organization_url: https://neuralnetwork.aiforgood.itu.int/event/ai-for-good/auditorium-archive/618bd56f1ca6ce6ae07960c9/timeslot/6527edd310600a0024ff61a0
           title:  Runner Up Prize in AI/ML for 5G-Energy Consumption Modelling by ITU AI/ML in 5G Challenge
           url: 'https://unfccc.int/event/itu-iaea-crowdsourcing-ai-solutions-for-climate-change'
