@@ -43,7 +43,7 @@ sections:
       items:
 
 #        - title: Ph.D. 
-#          company: Department of Civil and Environmental Engineering, School of Engineering, The Hong Kong University of Science and Technology
+#          company: Department of Civil and Environmental Engineering, School of Engineering, The Hong Kong University of Science and Technology (HKUST)
 #          company_url: 'https://www.ce.ust.hk/'
 #          company_logo: HKUST-SENG
 #          location: Hong Kong, Full-time
@@ -59,21 +59,21 @@ sections:
           date_end: ''
           description: 'Assisted student in obtaining Master offer from HKU'
         - title: Visiting Student 
-          company: Shenzhen Research Institute of Big Data
+          company: Shenzhen Research Institute of Big Data (SRIBD)
           company_url: 'http://www.sribd.cn/'
           company_logo: SRIBD
           location: Shenzhen, Full-time
           date_start: '2023-08-01'
           date_end: '2024-08-01'
-          description: 'Supervisor: Dr. Guangxu Zhu, Associated with the Chinese University of Hong Kong, Shenzhen'
+          description: 'Supervisor: Dr. Guangxu Zhu, Dr. Hang Li; Associated with the Chinese University of Hong Kong, Shenzhen (CUHKSZ)'
         - title: B.Eng. (2rd~4th)
-          company: School of Computer Science and Engineering, Sun Yat-sen University
+          company: School of Computer Science and Engineering, Sun Yat-sen University (SYSU)
           company_url: 'https://cse.sysu.edu.cn/'
           company_logo: SYSU-CS
           location: Guangzhou, Full-time
           date_start: '2021-07-01'
           date_end: '2024-07-01'
-          description: 'GPA: 4.0/5.0 (90/100), Rank: Top 10% in Major, Supervisor: Prof. Kai Huang, Prof. Ning Liu, Prof. Chengying Gao'
+          description: 'GPA: 4.0/5.0 (90/100); Rank: Top 10% in Major; Supervisor: Prof. Kai Huang, Prof. Chengying Gao, Prof. Ning Liu'
         - title: Tutor
           company: Zhangmen Education; Yousi Education
           company_url: 'http://zhangmentalent.com/'
@@ -81,15 +81,15 @@ sections:
           location: Online, Part-time
           date_start: '2020-12-01'
           date_end: '2021-09-01'
-          description: 'Guided competition student, Helped student increase math score by 30 points in 3 months'
+          description: 'Guided competition student; Helped student increase math score by 30 points in 3 months'
         - title: B.Eng. (1st)
-          company: School of Electronics and Communication Engineering, Sun Yat-sen University
+          company: School of Electronics and Communication Engineering, Sun Yat-sen University (SYSU)
           company_url: 'https://sece.sysu.edu.cn/'
           company_logo: SYSU
           location: Shenzhen, Full-time
           date_start: '2020-09-01'
           date_end: '2021-07-01'
-          description: 'GPA: 4.0/5.0 (90/100), Rank: Top 5% in Department, Supervisor: Prof. Xizhang Wei'
+          description: 'GPA: 4.0/5.0 (90/100); Rank: Top 5% in Department; Supervisor: Prof. Xizhang Wei'
 
 
     design:
@@ -120,7 +120,7 @@ sections:
           date_end: ''
           date_start: '2023-11-01'
           description: 'Rank: 6/287 (reached the final); Bonus: 20,000 CNY; Team Member: Tingwei Chen (team leader), Zhijie Cai, Yihang Jiang, Zijian Zhao, Fanyi Meng; Supervisor: Dr. Guangxu Zhu, Dr. Xiaoyang Li, Dr. Hang Li'
-          organization: Huawei, IEEE ISAC-ETI (Integrated Sensing and Communication Emerging Technology Initiative), China Institute of Communications, Huang Danian Chaspark
+          organization: Huawei, IEEE Integrated Sensing and Communication Emerging Technology Initiative (ISAC-ETI), China Institute of Communications, Huang Danian Chaspark
           organization_url: https://www.xxpie.com/m/album?id=655b060d70fae914c41012e8&nowatermark=NjU1YjA2MGQ3MGZhZTkxNGM0MTAxMmU4JDA=&mini=0
           title: Thrid Prize in The First Wi-Fi Sensing Contest by Huawei
           url: 'https://mp.weixin.qq.com/s/16cauCbcHotlCYzBtyT0DQ'
@@ -240,7 +240,7 @@ sections:
           date_end: ''
           date_start: '2021-12-01'
           description: 'Team Member: Zijian Zhao (team leader), Haoyao He, Fanqi Zhang'
-          organization: Beijing Society of Image and Graphics, APMCM Organizing Committee
+          organization: Beijing Society of Image and Graphics
           organization_url: http://www.bsig.org.cn/
           title: Second Prize in Asia and Pacific Mathematical Contest in Modeling
           url: 'http://www.apmcm.org/'
