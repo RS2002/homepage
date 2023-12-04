@@ -56,7 +56,7 @@ sections:
           company_logo: FLY
           location: Online, Part-time
           date_start: '2023-11-01'
-          date_end: ''
+          date_end: 'Assisted student in obtaining Master offer from HKU'
           description:
         - title: Visiting Student 
           company: Shenzhen Research Institute of Big Data
@@ -81,7 +81,7 @@ sections:
           location: Online, Part-time
           date_start: '2020-12-01'
           date_end: '2021-09-01'
-          description: 
+          description: 'Guided math competition student; Helped student increase math score by 30 points in 3 months'
         - title: B.Eng. (1st)
           company: School of Electronics and Communication Engineering, Sun Yat-sen University
           company_url: 'https://sece.sysu.edu.cn/'
@@ -89,7 +89,7 @@ sections:
           location: Shenzhen, Full-time
           date_start: '2020-09-01'
           date_end: '2021-07-01'
-          description: 
+          description: 'GPA: 4.0/5.0 (90/100), Rank: Top 5% in Department'
 
 
     design:
