@@ -107,14 +107,21 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-
+        - certificate_url: 
+          date_end: ''
+          date_start: '2023-12-01'
+          description: 'Paper: Adaptive Quadruped Locomotion of a Rat Robot Based on a Hierarchical Reinforcement Learning Framework; Authors: Zitao Zhang, Yuhong Huang, Zijian Zhao, Zhenshan Bing, Alois Knoll, Kai Huang*'
+          organization: IEEE, IEEE Robotics & Automation Society
+          organization_url: https://mp.weixin.qq.com/s/mbJlQGPkCmArm9S5RnZsbQ
+          title: Best Paper Award in Biomimetics Finalist in IEEE International Conference on Robotics and Biomimetics (ROBIO) 2023
+          url: 'http://robio2023.org/'
         - certificate_url: 
           date_end: ''
           date_start: '2023-12-01'
           description: 'Rank: No.2 out of 776 teams from 83 countries; Bonus: 3,000 CHF; Team Member: Tingwei Chen (team leader), Yantao Wang, Hanzhi Chen, Zijian Zhao, Xinhao Li; Supervisor: Dr. Guangxu Zhu'
           organization: International Telecommunication Union (ITU), Huawei
           organization_url: https://neuralnetwork.aiforgood.itu.int/event/ai-for-good/auditorium-archive/618bd56f1ca6ce6ae07960c9/timeslot/6527edd310600a0024ff61a0
-          title:  Runner Up Prize in AI/ML for 5G-Energy Consumption Modelling by ITU AI/ML in 5G Challenge
+          title: Runner Up Prize in AI/ML for 5G-Energy Consumption Modelling by ITU AI/ML in 5G Challenge
           url: 'https://unfccc.int/event/itu-iaea-crowdsourcing-ai-solutions-for-climate-change'
         - certificate_url: 
           date_end: ''
