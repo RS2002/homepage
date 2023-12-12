@@ -351,6 +351,8 @@ sections:
           tag: Music Information Retrieval
         - name: Robot Reinforcement Learning
           tag: Robot Reinforcement Learning
+        - name: Wifi Sensing
+          tag: Wifi Sensing
         - name: Other
           tag: Other
     design:
