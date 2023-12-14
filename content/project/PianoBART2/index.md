@@ -1,21 +1,23 @@
 ---
-title: NeRmo (Neurorobotic Mouse)
-summary: Reinforcement Learning Design in NeRmo
+title: PianoBART2
+summary: Task-oriented Music Generation Model Based on Adversarial Learning
 tags:
-  - Robot Reinforcement Learning
-date: '2022-09-01T00:00:00Z'
+  - Music Information Retrieval
+date: '2023-12-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: 'https://github.com/RS2002/Robot-mouse'
+external_link: 'https://github.com/RS2002/PianoBART2'
 
 
 
-url_video: projects/robot-rat.mp4
+
+
+url_video: projects/PianoBART.wav
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: 
 ---
