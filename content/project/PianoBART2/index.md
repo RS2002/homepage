@@ -11,9 +11,6 @@ external_link: 'https://github.com/RS2002/PianoBART2'
 
 
 
-
-url_video: projects/PianoBART.wav
-
 # Slides (optional).
 #   Associate this project with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
