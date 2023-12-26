@@ -42,7 +42,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:zhaozj28@mail2.sysu.edu.cn'
-  - icon: google-scholar
+  - icon: google
     icon_pack: fab
     link: 'https://scholar.google.com.hk/citations?hl=zh-CN&user=XkA3qCcAAAAJ'
   - icon: github
