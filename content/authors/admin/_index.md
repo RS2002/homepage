@@ -43,9 +43,7 @@ social:
   - icon: google-scholar
     icon_pack: hb
     link: 'https://scholar.google.com.hk/citations?hl=zh-CN&user=XkA3qCcAAAAJ'
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:zhaozj28@mail2.sysu.edu.cn'
+
   - icon: github
     icon_pack: fab
     link: https://github.com/RS2002
