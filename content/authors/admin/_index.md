@@ -41,7 +41,7 @@ social:
 
 
   - icon: google-scholar
-    icon_pack: fab
+    icon_pack: hb
     link: 'https://scholar.google.com.hk/citations?hl=zh-CN&user=XkA3qCcAAAAJ'
   - icon: envelope
     icon_pack: fas
