@@ -39,11 +39,12 @@ education:
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
 
-
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:zhaozj28@mail2.sysu.edu.cn'
   - icon: google-scholar
-    icon_pack: hb
+    icon_pack: fab
     link: 'https://scholar.google.com.hk/citations?hl=zh-CN&user=XkA3qCcAAAAJ'
-
   - icon: github
     icon_pack: fab
     link: https://github.com/RS2002
