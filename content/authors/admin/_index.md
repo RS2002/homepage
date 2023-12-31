@@ -25,9 +25,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
-#    - course: Ph.D. in Civil Engineering (Scientific Computation)
-#      institution: The Hong Kong University of Science and Technology (Clearwater Bay Campus, Hong Kong)
-#      year: 2024~
+    - course: Ph.D. in Civil Engineering (Scientific Computation)
+      institution: The Hong Kong University of Science and Technology (Clearwater Bay Campus, Hong Kong)
+      year: 2024~
     - course: B.Eng. in Computer Science and Technology (National Basic Subject Talent Training Plan)
       institution: Sun Yat-sen University (Guangzhou Campus)
       year: 2020~2024
@@ -44,7 +44,13 @@ social:
     link: 'mailto:zhaozj28@mail2.sysu.edu.cn'
   - icon: google
     icon_pack: fab
-    link: 'https://scholar.google.com.hk/citations?hl=zh-CN&user=XkA3qCcAAAAJ'
+    link: 'https://scholar.google.com/citations?user=XkA3qCcAAAAJ'
+  - icon: orcid
+    icon_pack: fab
+    link: 'https://orcid.org/0000-0002-3326-9650'
+  - icon: book-open
+    icon_pack: fas
+    link: 'https://www.semanticscholar.org/author/Zijian-Zhao/2276001508'
   - icon: github
     icon_pack: fab
     link: https://github.com/RS2002
@@ -57,13 +63,17 @@ social:
   - icon: weibo
     icon_pack: fab
     link: https://weibo.com/u/3829716889
+  - icon: weixin
+    icon_pack: fab
+    link: uploads/news.jpg
+  - icon: bilibili
+    icon_pack: fab
+    link: https://space.bilibili.com/349124347?spm_id_from=333.1007.0.0
 
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  - icon: weixin
-    icon_pack: fab
-    link: uploads/news.jpg
+
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
@@ -75,10 +85,11 @@ email: 'rs2002zhao@gmail.com'
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 
-# In Fall 2024, I'll begin my Ph.D. journey in [Department of Civil and Environmental Engineering](https://www.ce.ust.hk/) at [The Hong Kong University of Science and Technology](https://hkust.edu.hk/), under the supervision of [Prof. Sen Li](https://lisen1990.wixsite.com/senli).  
 ---
 
-I'm a senior undergraduate at [School of Computer Science and Engineering](https://cse.sysu.edu.cn/) at [Sun Yat-sen University](https://www.sysu.edu.cn/), specializing in Robot Reinforcement Learning under [Prof. Kai Huang](https://cse.sysu.edu.cn/content/2466). I'm also involved in Music AI with [Prof. Ning Liu](https://cse.sysu.edu.cn/node/2495) and [Prof. Chengying Gao](https://cse.sysu.edu.cn/content/2537). Currently, I'm a visiting student at the [Shenzhen Research Institute of Big Data](http://www.sribd.cn/) linked to [The Chinese University of Hong Kong (Shenzhen)](https://www.cuhk.edu.cn/zh-hans), focusing on Wifi Sensing under the guidance of [Dr. Guangxu Zhu](https://sites.google.com/view/guangxuzhu). 
+I'm a senior undergraduate at [School of Computer Science and Engineering](https://cse.sysu.edu.cn/) at [Sun Yat-sen University](https://www.sysu.edu.cn/), specializing in Robot Reinforcement Learning under [Prof. Kai Huang](https://cse.sysu.edu.cn/content/2466). I'm also involved in Music Information Retrieval with [Prof. Ning Liu](https://cse.sysu.edu.cn/node/2495) and [Prof. Chengying Gao](https://cse.sysu.edu.cn/content/2537). Currently, I'm a visiting student at the [Shenzhen Research Institute of Big Data](http://www.sribd.cn/) linked to [The Chinese University of Hong Kong (Shenzhen)](https://www.cuhk.edu.cn/zh-hans), focusing on Wifi Sensing under the guidance of [Dr. Guangxu Zhu](https://sites.google.com/view/guangxuzhu). 
 
-Aside from academics, I'm a music enthusiast, having been a singer and guitarist & bassist in bands [NEWS](https://music.163.com/#/artist?id=52253597) (current my personal band) and [Rights of Lethe](https://music.163.com/#/artist?id=52435898) (dissolved). I have a strong passion for heavy rock music, particularly alternative punk, melodic death metal, dark metal, and some core genres. If you are interested in playing or collaborating with me, please feel free to reach out to me via Weibo or mail. You can also find our videos on [bilibili](https://space.bilibili.com/349124347?spm_id_from=333.1007.0.0).  For information about our shows and ticket purchases, you can visit [xiudong](https://wap.showstart.com/pages/site/artist/artist?id=4832274) and [tonggan](https://github.com/RS2002/homepage/blob/main/static/uploads/tonggan.jpg).
+In Fall 2024, I'll begin my Ph.D. journey in [Department of Civil and Environmental Engineering](https://www.ce.ust.hk/) at [The Hong Kong University of Science and Technology](https://hkust.edu.hk/), under the supervision of [Prof. Sen Li](https://lisen1990.wixsite.com/senli).  
+
+Aside from academics, I'm a music enthusiast, having been a singer and guitarist & bassist in bands [NEWS](https://music.163.com/#/artist?id=52253597) (current my personal band) and [Rights of Lethe](https://music.163.com/#/artist?id=52435898) (dissolved). I have a strong passion for heavy rock music, particularly alternative punk, melodic death metal, dark metal, and some core genres. If you are interested in playing or collaborating with me, please feel free to reach out to me via Weibo or mail.  For information about our shows and ticket purchases, you can visit [xiudong](https://wap.showstart.com/pages/site/artist/artist?id=4832274) and [tonggan](https://github.com/RS2002/homepage/blob/main/static/uploads/tonggan.jpg).
 
