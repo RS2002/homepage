@@ -1,5 +1,5 @@
 ---
-title: 'Adaptive Quadruped Locomotion of a Rat Robot Based on a Hierarchical Reinforcement Learning Framework (2023 IEEE ROBIO Best Paper Award)'
+title: 'Adaptive Quadruped Locomotion of a Rat Robot Based on a Hierarchical Reinforcement Learning Framework (2023 IEEE ROBIO Best Paper Award in Biomimetics Finalist)'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -17,10 +17,10 @@ author_notes:
 
 
 date: '2023-10-02T00:00:00Z'
-doi: ''
+doi: '10.1109/ROBIO58561.2023.10354896'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: ''
+publishDate: '2023-12-22T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -47,7 +47,7 @@ featured: true
 # - name: 
 #   url: 
 
-url_pdf: ''
+url_pdf: 'https://ieeexplore.ieee.org/abstract/document/10354896'
 url_code: ''
 url_dataset: ''
 url_poster: ''

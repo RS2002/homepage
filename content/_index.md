@@ -42,14 +42,14 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
 
-#        - title: Ph.D. 
-#          company: Department of Civil and Environmental Engineering, School of Engineering, The Hong Kong University of Science and Technology (HKUST)
-#          company_url: 'https://www.ce.ust.hk/'
-#          company_logo: HKUST-SENG
-#          location: Hong Kong, Full-time
-#          date_start: '2024-09-01'
-#          date_end: ''
-#          description: 'Supervisor: Prof. Sen Li'
+        - title: Ph.D. 
+          company: Department of Civil and Environmental Engineering, School of Engineering, The Hong Kong University of Science and Technology (HKUST)
+          company_url: 'https://www.ce.ust.hk/'
+          company_logo: HKUST-SENG
+          location: Hong Kong, Full-time
+          date_start: '2024-09-01'
+          date_end: ''
+          description: 'Supervisor: Prof. Sen Li'
         - title: Writing Consultant & Graduate Application Mentor
           company: FLY Education; Compass Education
           company_url: 'https://www.linkedin.com/company/fly-education-ltd/'
@@ -59,13 +59,13 @@ sections:
           date_end: ''
           description: 'Assisted student in obtaining Master offer from HKU'
         - title: Visiting Student 
-          company: Shenzhen Research Institute of Big Data (SRIBD)
+          company: Data-driven Intelligent Information System Laboratory, Shenzhen Research Institute of Big Data (SRIBD)
           company_url: 'http://www.sribd.cn/'
           company_logo: SRIBD
           location: Shenzhen, Full-time
           date_start: '2023-08-01'
           date_end: '2024-08-01'
-          description: 'Supervisor: Dr. Guangxu Zhu, Dr. Hang Li; Associated with the Chinese University of Hong Kong, Shenzhen (CUHKSZ)'
+          description: 'Supervisor: Dr. Guangxu Zhu, Dr. Hang Li, Dr. Xiaoyang Li; Associated with the Chinese University of Hong Kong, Shenzhen (CUHKSZ)'
         - title: B.Eng. (2rd~4th)
           company: School of Computer Science and Engineering, Sun Yat-sen University (SYSU)
           company_url: 'https://cse.sysu.edu.cn/'
@@ -73,7 +73,7 @@ sections:
           location: Guangzhou, Full-time
           date_start: '2021-07-01'
           date_end: '2024-07-01'
-          description: 'GPA: 4.0/5.0 (90/100); Rank: Top 10% in Major; Supervisor: Prof. Kai Huang, Prof. Chengying Gao, Prof. Ning Liu'
+          description: 'GPA: 4.0/5.0 (3.9/4.0, 90/100); Rank: Top 10% in Major; Robotic and Intelligence Computing Lab (Supervisor: Prof. Kai Huang), Intelligent and Multimedia Science Laboratory (Prof. Chengying Gao, Prof. Ning Liu)'
         - title: Tutor
           company: Zhangmen Education; Yousi Education
           company_url: 'http://zhangmentalent.com/'
@@ -89,7 +89,7 @@ sections:
           location: Shenzhen, Full-time
           date_start: '2020-09-01'
           date_end: '2021-07-01'
-          description: 'GPA: 4.0/5.0 (90/100); Rank: Top 5% in Department; Supervisor: Prof. Xizhang Wei'
+          description: 'GPA: 4.0/5.0 (3.9/4.0, 90/100); Rank: Top 5% in Department'
 
 
     design:
@@ -114,7 +114,7 @@ sections:
           organization: IEEE, IEEE Robotics & Automation Society
           organization_url: https://mp.weixin.qq.com/s/mbJlQGPkCmArm9S5RnZsbQ
           title: Best Paper Award in Biomimetics Finalist in IEEE International Conference on Robotics and Biomimetics (ROBIO) 2023
-          url: 'http://robio2023.org/'
+          url: 'http://robio2023.org/Awards.html'
         - certificate_url: 
           date_end: ''
           date_start: '2023-12-01'
@@ -122,7 +122,7 @@ sections:
           organization: International Telecommunication Union (ITU), Huawei
           organization_url: https://neuralnetwork.aiforgood.itu.int/event/ai-for-good/auditorium-archive/618bd56f1ca6ce6ae07960c9/timeslot/6527edd310600a0024ff61a0
           title: Runner Up Prize in AI/ML for 5G-Energy Consumption Modelling by ITU AI/ML in 5G Challenge
-          url: 'https://unfccc.int/event/itu-iaea-crowdsourcing-ai-solutions-for-climate-change'
+          url: ''
         - certificate_url: 
           date_end: ''
           date_start: '2023-11-01'
