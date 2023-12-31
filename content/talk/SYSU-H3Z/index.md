@@ -1,5 +1,5 @@
 ---
-title: The 7th University Alumni Lecture Series at Harbin NO.3 High School
+title: 哈三中第七届大学校友讲师团宣讲会
 
 event: volunteer activity
 event_url: https://mp.weixin.qq.com/s/FwIBRSy6kAG2Pc0LwkeGvQ
