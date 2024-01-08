@@ -42,14 +42,14 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
 
-        - title: Ph.D. 
-          company: Department of Civil and Environmental Engineering, School of Engineering, The Hong Kong University of Science and Technology (HKUST)
-          company_url: 'https://www.ce.ust.hk/'
-          company_logo: HKUST-SENG
-          location: Hong Kong, Full-time
-          date_start: '2024-09-01'
-          date_end: ''
-          description: 'Supervisor: Prof. Sen Li'
+#        - title: Ph.D. 
+#          company: Department of Civil and Environmental Engineering, School of Engineering, The Hong Kong University of Science and Technology (HKUST)
+#          company_url: 'https://www.ce.ust.hk/'
+#          company_logo: HKUST-SENG
+#          location: Hong Kong, Full-time
+#          date_start: '2024-09-01'
+#          date_end: ''
+#          description: 'Supervisor: Prof. Sen Li'
         - title: Writing Consultant & Graduate Application Mentor
           company: FLY Education; Compass Education
           company_url: 'https://www.linkedin.com/company/fly-education-ltd/'
