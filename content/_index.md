@@ -28,6 +28,10 @@ sections:
           description: "<span style='display: block; text-align: left;'>English (IELTS:6.5, CET-4:605, CET-6: 561)</span><span style='display: block; text-align: left;'>Chinese (mother tongue)</span>"
           icon: book
           icon_pack: fas
+        - name: Reviewer
+          description: "<span style='display: block; text-align: left;'> IEEE ICASSP 2024, IEEE WCNC 2024 (TCP Member), IEEE SMC 2023, IEEE ICME 2024, IEEE MTAP"
+          icon: newspaper
+          icon_pack: fas
 
   - block: experience
     content:

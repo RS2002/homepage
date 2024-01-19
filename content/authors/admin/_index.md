@@ -45,12 +45,6 @@ social:
   - icon: google
     icon_pack: fab
     link: 'https://scholar.google.com/citations?user=XkA3qCcAAAAJ'
-  - icon: orcid
-    icon_pack: fab
-    link: 'https://orcid.org/0000-0002-3326-9650'
-  - icon: book-open
-    icon_pack: fas
-    link: 'https://www.semanticscholar.org/author/Zijian-Zhao/2276001508'
   - icon: github
     icon_pack: fab
     link: https://github.com/RS2002
