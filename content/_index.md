@@ -268,9 +268,9 @@ sections:
           title: Provincial Third Prize in the Chinese Mathematics Competitions 
           url: 'http://www.mcm.edu.cn/'
         - certificate_url:
-          date_end: 'Also won scholarship in 2022, 2023.'
+          date_end: ''
           date_start: '2021-10-01'
-          description: 'Bonus: 4,000 CNY'
+          description: 'Also won scholarship in 2022, 2023. Bonus: 4,000 CNY'
           organization: Sun Yat-sen University
           organization_url: https://www.sysu.edu.cn/
           title: First-class Scholarship for Outstanding Student of Sun Yat-sen University
