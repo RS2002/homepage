@@ -65,7 +65,7 @@ sections:
           location: Shenzhen, Full-time
           date_start: '2023-08-01'
           date_end: '2024-08-01'
-          description: 'Supervisor: Dr. Guangxu Zhu, Dr. Hang Li, Dr. Xiaoyang Li; Associated with the Chinese University of Hong Kong, Shenzhen (CUHKSZ)'
+          description: 'Supervisor: Dr. Guangxu Zhu; Associated with the Chinese University of Hong Kong, Shenzhen (CUHKSZ)'
         - title: B.Eng. (2rd~4th)
           company: School of Computer Science and Engineering, Sun Yat-sen University (SYSU)
           company_url: 'https://cse.sysu.edu.cn/'
@@ -254,7 +254,7 @@ sections:
         - certificate_url:
           date_end: ''
           date_start: '2021-10-01'
-          description: ''
+          description: 'Won the award twice.'
           organization: Chinese Mathematical Society
           organization_url: http://www.cms.org.cn/
           title: Provincial First Prize in the Chinese Mathematics Competitions
@@ -262,13 +262,13 @@ sections:
         - certificate_url:
           date_end: ''
           date_start: '2021-10-01'
-          description: 'Team Member: Zijian Zhao (team leader), Yifeng Zhao, Ziwan Liu; Supervisor: Prof. Bingpeng Zhou'
+          description: 'Won the award twice. Team Member: Zijian Zhao (team leader), Yifeng Zhao, Ziwan Liu; Supervisor: Prof. Bingpeng Zhou'
           organization: China Society for Industrial and Applied Mathematics, Education Department of Guangdong Province
           organization_url: https://www.csiam.org.cn/
           title: Provincial Third Prize in the Chinese Mathematics Competitions 
           url: 'http://www.mcm.edu.cn/'
         - certificate_url:
-          date_end: ''
+          date_end: 'Also won scholarship in 2022, 2023.'
           date_start: '2021-10-01'
           description: 'Bonus: 4,000 CNY'
           organization: Sun Yat-sen University
