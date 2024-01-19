@@ -39,9 +39,13 @@ education:
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
 
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:zhaozj28@mail2.sysu.edu.cn'
+  # Link to a PDF of your resume/CV.
+  # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
+  # and uncomment the lines below.
+  - icon: cv
+    icon_pack: ai
+    link: uploads/resume.pdf
+
   - icon: google
     icon_pack: fab
     link: 'https://scholar.google.com/citations?user=XkA3qCcAAAAJ'
@@ -51,26 +55,26 @@ social:
   - icon: git
     icon_pack: fab
     link: https://gitee.com/zzj_rs
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/zijian-zhao-link/
-  - icon: weibo
-    icon_pack: fab
-    link: https://weibo.com/u/3829716889
+
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:zhaozj28@mail2.sysu.edu.cn'
   - icon: weixin
     icon_pack: fab
     link: uploads/news.jpg
+  - icon: weibo
+    icon_pack: fab
+    link: https://weibo.com/u/3829716889
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/zijian-zhao-link/
+
   - icon: bilibili
     icon_pack: fab
     link: https://space.bilibili.com/349124347?spm_id_from=333.1007.0.0
 
-  # Link to a PDF of your resume/CV.
-  # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
-  # and uncomment the lines below.
 
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
+
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
