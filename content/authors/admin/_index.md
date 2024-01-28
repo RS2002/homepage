@@ -18,9 +18,9 @@ bio: Bachelor in SYSU, Visiting Student at SRIBD, Leader of NEWS Band
 
 # Interests to show in About widget
 interests:
-  - Robot RL & Sensing
+  - Deep Learning & Reinforcement Learning
   - NLP & MIR & Multi-modal
-  - Machine Learning & Optimization
+  - Wi-Fi Sensing & Federated Learning
 
 # Education to show in About widget
 education:
@@ -46,8 +46,8 @@ social:
     icon_pack: ai
     link: uploads/resume.pdf
 
-  - icon: google
-    icon_pack: fab
+  - icon: google-scholar
+    icon_pack: ai
     link: 'https://scholar.google.com/citations?user=XkA3qCcAAAAJ'
   - icon: github
     icon_pack: fab
@@ -69,6 +69,9 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/zijian-zhao-link/
 
+  - icon: soundcloud
+    icon_pack: fab
+    link: https://music.163.com/#/artist?id=52253597
   - icon: bilibili
     icon_pack: fab
     link: https://space.bilibili.com/349124347?spm_id_from=333.1007.0.0
