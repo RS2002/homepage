@@ -29,8 +29,8 @@ publishDate: '2023-12-22T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *IEEE ROBIO*
-publication_short: In *IEEE International Conference on Robotics and Biomimetics 2023*
+publication: In *IEEE International Conference on Robotics and Biomimetics 2023*
+publication_short: In *IEEE ROBIO 2023*
 
 abstract: Small robots encounter considerable difficulties in learning effective motions on complex terrains owing to their underactuated nature and nonlinear dynamics. In this paper, we present a novel framework for robot motion generation that implements reinforcement learning, based on simplified exploration of the robot’s action and time slice conduction. Our framework controls the robot’s actions using normalized signals and hierarchical mappings on mathematical space, which facilitates the learning process. We execute action in the timeslice to make efficient interaction with the environment. We evaluate the efficacy of our approach on a varied set of simulated terrain scenarios, which include various obstacles and terrain undulations. Our results show that our approach effectively achieves efficient motions on complex terrains designed for small-sized robots.
 
@@ -69,7 +69,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-  - A Rope-driven Bionic Rat Robot with Flexible Spine
+  - content/project/RobotRat/index.md
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
