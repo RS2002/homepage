@@ -32,7 +32,7 @@ publication_types: ['1']
 publication: In *IEEE International Conference on Computer Communications Deepwireless Workshop 2024*
 publication_short: In *IEEE INFOCOM Deepwireless Workshop 2024*
 
-abstract: The rat robot is a soft compact quadrupedal robot with the same size as real rats. It is difficult for such robots to learn effective motions on complex terrain owing to their underactuated nature and limited sensors. This paper proposes a novel approach for the rat robot to learn adaptive motion on rugged terrain based on reinforcement learning. The training architecture is designed for the rat robot’s nonlinear control structure. We gather and analyze perception information based on changes in time slices to monitor environmental changes during robot walking. Our proposed framework demonstrates a significant reduction in training convergence time, from millions to hundreds of thousands, compared to commonly used reinforcement learning methods. We evaluate the efficacy of our approach on a varied set of simulated terrain scenarios, which include various obstacles and terrain undulations. Our results show that our approach effectively achieves efficient motions on complex terrains designed for small-sized robots.
+abstract: Despite the development of various deep learning methods for Wi-Fi sensing, package loss often results in noncontinuous estimation of the Channel State Information (CSI), which negatively impacts the performance of the learning models. To overcome this challenge, we propose a deep learning model based on Bidirectional Encoder Representations from Transformers (BERT) for CSI recovery, named CSI-BERT. CSI-BERT can be trained in an self-supervised manner on the target dataset without the need for additional data. Furthermore, unlike traditional interpolation methods that focus on one subcarrier at a time, CSI-BERT captures the sequential relationships across different subcarriers. Experimental results demonstrate that CSIBERT achieves lower error rates and faster speed compared to traditional interpolation methods, even when facing with high loss rates. Moreover, by harnessing the recovered CSI obtained from CSI-BERT, other deep learning models like Residual Network and Recurrent Neural Network can achieve an average increase in accuracy of approximately 15% in Wi-Fi sensing tasks. The collected dataset WiGesture and code for our model are publicly available at https://github.com/RS2002/CSI-BERT.
 
 # Summary. An optional shortened abstract.
 summary: 
@@ -40,7 +40,7 @@ summary:
 tags: []
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:
@@ -48,8 +48,8 @@ featured: false
 #   url: 
 
 url_pdf: ''
-url_code: ''
-url_dataset: ''
+url_code: 'https://github.com/RS2002/CSI-BERT'
+url_dataset: 'https://github.com/RS2002/CSI-BERT'
 url_poster: ''
 url_project: ''
 url_slides: ''
@@ -69,7 +69,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-  - content/project/RobotRat/index.md
+  - content/project/CSI-BERT/index.md
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
