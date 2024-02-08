@@ -16,7 +16,7 @@ authors:
 author_notes:
 
 
-date: '2023-08-05T00:00:00Z'
+date: '2024-02-06T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -29,8 +29,8 @@ publishDate: ''
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *CCF CIRAC 2023*
-publication_short: In *CCF CIRAC 2023*
+publication: In *IEEE International Conference on Computer Communications Deepwireless Workshop: Deep Learning for Wireless Communications, Sensing, and Security 2024*
+publication_short: In *IEEE INFOCOM Deepwireless Workshop 2024*
 
 abstract: The rat robot is a soft compact quadrupedal robot with the same size as real rats. It is difficult for such robots to learn effective motions on complex terrain owing to their underactuated nature and limited sensors. This paper proposes a novel approach for the rat robot to learn adaptive motion on rugged terrain based on reinforcement learning. The training architecture is designed for the rat robot’s nonlinear control structure. We gather and analyze perception information based on changes in time slices to monitor environmental changes during robot walking. Our proposed framework demonstrates a significant reduction in training convergence time, from millions to hundreds of thousands, compared to commonly used reinforcement learning methods. We evaluate the efficacy of our approach on a varied set of simulated terrain scenarios, which include various obstacles and terrain undulations. Our results show that our approach effectively achieves efficient motions on complex terrains designed for small-sized robots.
 
@@ -61,7 +61,7 @@ url_video: ''
 image:
   caption: ''
   focal_point: ''
-  preview_only: false
+  preview_only: true
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
