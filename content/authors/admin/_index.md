@@ -59,9 +59,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:zhaozj28@mail2.sysu.edu.cn'
-  - icon: weixin
-    icon_pack: fab
-    link: uploads/news.jpg
+  #   - icon: weixin
+  #     icon_pack: fab
+  #     link: uploads/news.jpg
   - icon: weibo
     icon_pack: fab
     link: https://weibo.com/u/3829716889

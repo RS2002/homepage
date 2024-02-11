@@ -55,7 +55,7 @@ sections:
 #          date_end: ''
 #          description: 'Supervisor: Prof. Sen Li'
         - title: Industry-University-Research Student
-          company: 
+          company: Likelihood Lab
           company_url: 'http://www.maxlikelihood.cn/'
           company_logo: Likelihood
           location: Online, Part-time
