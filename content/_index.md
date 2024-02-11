@@ -54,6 +54,14 @@ sections:
 #          date_start: '2024-09-01'
 #          date_end: ''
 #          description: 'Supervisor: Prof. Sen Li'
+        - title: Industry-University-Research Student
+          company: 
+          company_url: 'http://www.maxlikelihood.cn/'
+          company_logo: Likelihood
+          location: Online, Part-time
+          date_start: '2024-02-01'
+          date_end: ''
+          description: 'Project: Deep Learning Algorithms for Imbalanced Label Problem in High-Frequency Trading'
         - title: Writing Consultant & Graduate Application Mentor
           company: FLY Education; Compass Education
           company_url: 'https://www.linkedin.com/company/fly-education-ltd/'
