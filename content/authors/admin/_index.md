@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Zijian Zhao 赵子健
+title: Zijian (Longino) ZHAO 赵子健
 
 # Full name (for SEO)
 first_name: Zijian
