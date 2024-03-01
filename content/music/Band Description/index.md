@@ -1,12 +1,12 @@
 ---
-title: NEWS
+title: Band Description
 summary: 
 tags:
   - NEWS
-date: '2023-03-01T00:00:00Z'
+date: '2021-09-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: ''
+external_link: 'https://mp.weixin.qq.com/s/6SGDBRerF-Zn3ExzeKtE1w'
 
 
 # Slides (optional).

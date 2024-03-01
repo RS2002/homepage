@@ -20,14 +20,14 @@ bio: Bachelor in SYSU, Visiting Student at SRIBD, Leader of NEWS Band
 interests:
   - Deep Learning & Reinforcement Learning
   - NLP & MIR & Multi-modal
-  - Wi-Fi Sensing & Federated Learning
+  - ISAC
 
 # Education to show in About widget
 education:
   courses:
-#    - course: Ph.D. in Civil Engineering (Scientific Computation)
-#      institution: The Hong Kong University of Science and Technology (Clearwater Bay Campus, Hong Kong)
-#      year: 2024~
+    - course: Ph.D. in Civil Engineering (Scientific Computation)
+      institution: The Hong Kong University of Science and Technology (Clearwater Bay Campus, Hong Kong)
+      year: 2024~
     - course: B.Eng. in Computer Science and Technology (National Basic Subject Talent Training Plan)
       institution: Sun Yat-sen University (Guangzhou Campus)
       year: 2020~2024
@@ -77,20 +77,17 @@ social:
     link: https://space.bilibili.com/349124347?spm_id_from=333.1007.0.0
 
 
-
-
-
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'rs2002zhao@gmail.com'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 
-# In Fall 2024, I'll begin my Ph.D. journey in [Department of Civil and Environmental Engineering](https://www.ce.ust.hk/) at [The Hong Kong University of Science and Technology](https://hkust.edu.hk/), under the supervision of [Prof. Sen Li](https://lisen1990.wixsite.com/senli).  
-
 ---
 
-I'm a senior undergraduate at [School of Computer Science and Engineering](https://cse.sysu.edu.cn/) at [Sun Yat-sen University](https://www.sysu.edu.cn/), specializing in Robot Reinforcement Learning under [Prof. Kai Huang](https://cse.sysu.edu.cn/content/2466). I'm also involved in Music Information Retrieval with [Prof. Ning Liu](https://cse.sysu.edu.cn/node/2495) and [Prof. Chengying Gao](https://cse.sysu.edu.cn/content/2537). Currently, I'm a visiting student at the [Shenzhen Research Institute of Big Data](http://www.sribd.cn/) linked to [The Chinese University of Hong Kong (Shenzhen)](https://www.cuhk.edu.cn/zh-hans), focusing on Wifi Sensing under the guidance of [Dr. Guangxu Zhu](https://sites.google.com/view/guangxuzhu). 
+I'm a senior undergraduate at [School of Computer Science and Engineering](https://cse.sysu.edu.cn/) at [Sun Yat-sen University](https://www.sysu.edu.cn/), specializing in Robot Reinforcement Learning under [Prof. Kai Huang](https://cse.sysu.edu.cn/content/2466) and Music Information Retrieval with [Prof. Ning Liu](https://cse.sysu.edu.cn/node/2495) and [Prof. Chengying Gao](https://cse.sysu.edu.cn/content/2537). Currently, I'm a visiting student at the [Shenzhen Research Institute of Big Data](http://www.sribd.cn/) linked to [The Chinese University of Hong Kong (Shenzhen)](https://www.cuhk.edu.cn/zh-hans), focusing on Wifi Sensing under the guidance of [Dr. Guangxu Zhu](https://sites.google.com/view/guangxuzhu). 
 
-Aside from academics, I'm a music enthusiast, having been a singer and guitarist & bassist in bands [NEWS](https://music.163.com/#/artist?id=52253597) (current my personal band) and [Rights of Lethe](https://music.163.com/#/artist?id=52435898) (dissolved). I have a strong passion for heavy rock music, particularly alternative punk, melodic death metal, dark metal, and some core genres. If you are interested in playing or collaborating with me, please feel free to reach out to me via Weibo or mail.  For information about our shows and ticket purchases, you can visit [xiudong](https://wap.showstart.com/pages/site/artist/artist?id=4832274) and [tonggan](https://github.com/RS2002/homepage/blob/main/static/uploads/tonggan.jpg).
+In Fall 2024, I'll begin my Ph.D. journey in [Department of Civil and Environmental Engineering](https://www.ce.ust.hk/) at [The Hong Kong University of Science and Technology](https://hkust.edu.hk/), under the supervision of [Prof. Sen Li](https://lisen1990.wixsite.com/senli).  
+
+Aside from academics, I'm a music enthusiast, having been a singer and guitarist & bassist in bands [NEWS](https://music.163.com/#/artist?id=52253597) (current my personal band) and [Rights of Lethe](https://music.163.com/#/artist?id=52435898) (dissolved). I have a strong passion for heavy rock music, particularly alternative punk, melodic death metal, dark metal, and some core genres. If you are interested in playing or collaborating with me, please feel free to reach out to me via Weibo or mail.  For information about our shows and ticket purchases, you can visit [xiudong(秀动)](https://wap.showstart.com/pages/site/artist/artist?id=4832274) and [tonggan(同感)](https://github.com/RS2002/homepage/blob/main/static/uploads/tonggan.jpg).
 
