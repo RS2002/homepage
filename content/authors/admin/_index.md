@@ -18,7 +18,7 @@ bio: Bachelor in SYSU, Visiting Student at SRIBD, Leader of NEWS Band
 
 # Interests to show in About widget
 interests:
-  - Deep Learning & Reinforcement Learning
+  - DL & RL
   - NLP & MIR & Multi-modal
   - ISAC
 
