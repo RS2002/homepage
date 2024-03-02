@@ -1,5 +1,5 @@
 ---
-title: 一种基于强化学习的小型仿生鼠机器人的运动控制方法
+title: 一种面向鲁棒无线感知的信道状态信息恢复技术
 
 event: patent
 event_url: 
@@ -12,19 +12,19 @@ address:
   postcode: ''
   country: 
 
-summary: 黄凯，张子韬，赵子健，陶若怡，“一种基于强化学习的小型仿生鼠机器人的运动控制方法”
+summary: 赵子健，韩凯峰，陈琪美，朱光旭，李晓阳，李航， “一种面向鲁棒无线感知的信道状态信息恢复技术”
 abstract: ''
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2023-03-01T00:00:00Z'
+date: '2024-01-01T00:00:00Z'
 date_end: ''
 all_day: false
 
 # Schedule page publish date (NOT talk date).
 publishDate: ''
 
-authors: [黄凯，张子韬，赵子健，陶若怡]
+authors: [赵子健，韩凯峰，陈琪美，朱光旭，李晓阳，李航]
 tags: []
 
 # Is this a featured talk? (true/false)
