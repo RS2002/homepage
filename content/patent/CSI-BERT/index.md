@@ -25,11 +25,13 @@ all_day: false
 publishDate: ''
 
 authors:
-  - Zitao Zhang
-  - Yuhong Huang
   - admin
-  - Zhenshan Bing
-  - Kai Huang
+  - 韩凯峰
+  - 陈琪美
+  - 朱光旭
+  - 李晓阳
+  - 李航
+
 tags: []
 
 # Is this a featured talk? (true/false)

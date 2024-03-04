@@ -24,7 +24,12 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: ''
 
-authors: [黄凯，张子韬，赵子健，陶若怡]
+authors:
+  - 黄凯
+  - 张子韬
+  - admin
+  - 陶若怡
+
 tags: []
 
 # Is this a featured talk? (true/false)
