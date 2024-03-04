@@ -24,7 +24,12 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: ''
 
-authors: [赵子健，韩凯峰，陈琪美，朱光旭，李晓阳，李航]
+authors:
+  - Zitao Zhang
+  - Yuhong Huang
+  - admin
+  - Zhenshan Bing
+  - Kai Huang
 tags: []
 
 # Is this a featured talk? (true/false)
