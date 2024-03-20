@@ -47,7 +47,7 @@ featured: true
 # - name: 
 #   url: 
 
-url_pdf: ''
+url_pdf: 'http://arxiv.org/abs/2403.12400'
 url_code: 'https://github.com/RS2002/CSI-BERT'
 url_dataset: 'https://github.com/RS2002/CSI-BERT'
 url_poster: ''
