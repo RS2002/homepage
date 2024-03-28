@@ -3,7 +3,7 @@ title: KNN-MMD
 summary: Cross Domain Alignment Based on Local Distribution
 tags:
   - Wifi Sensing
-date: '2024-01-01T00:00:00Z'
+date: '2024-03-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: 'https://github.com/RS2002/KNN-MMD'

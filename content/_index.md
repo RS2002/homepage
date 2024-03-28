@@ -69,7 +69,7 @@ sections:
           location: Online, Part-time
           date_start: '2023-11-01'
           date_end: ''
-          description: 'Assisted student in obtaining Master offer from HKU'
+          description: 'Assisted student in obtaining Master offer from HKU, CityU, and Edin'
         - title: Visiting Student 
           company: Data-driven Intelligent Information System Laboratory, Shenzhen Research Institute of Big Data (SRIBD)
           company_url: 'http://www.sribd.cn/'
@@ -77,7 +77,7 @@ sections:
           location: Shenzhen, Full-time
           date_start: '2023-08-01'
           date_end: '2024-08-01'
-          description: 'Supervisor: Dr. Guangxu Zhu; Associated with the Chinese University of Hong Kong, Shenzhen (CUHKSZ)'
+          description: 'AI-RAN Lab (Supervisor: Dr. Guangxu Zhu (Deputy Director)); Associated with the Chinese University of Hong Kong, Shenzhen (CUHKSZ)'
         - title: B.Eng. (2rd~4th)
           company: School of Computer Science and Engineering, Sun Yat-sen University (SYSU)
           company_url: 'https://cse.sysu.edu.cn/'
@@ -85,7 +85,7 @@ sections:
           location: Guangzhou, Full-time
           date_start: '2021-07-01'
           date_end: '2024-07-01'
-          description: 'GPA: 4.0/5.0 (3.9/4.0, 90/100); Rank: Top 10% in Major; Robotic and Intelligence Computing Lab (Supervisor: Prof. Kai Huang), Intelligent and Multimedia Science Laboratory (Prof. Chengying Gao, Prof. Ning Liu)'
+          description: 'GPA: 4.0/5.0 (3.9/4.0, 90/100); Rank: Top 10% in Major; Robotic and Intelligence Computing Lab (Supervisor: Prof. Kai Huang (Director of Artificial Intelligence and Unmanned Systems Research Institute)), Intelligent and Multimedia Science Laboratory (Prof. Chengying Gao, Prof. Ning Liu (Director of Cybersecurity Department))'
         - title: Tutor
           company: Zhangmen Education; Yousi Education
           company_url: 'http://zhangmentalent.com/'
