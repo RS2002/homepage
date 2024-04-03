@@ -34,15 +34,7 @@ sections:
           icon: book
           icon_pack: fas
 
-- block: features
-    id: news
-    content:
-      title: News
-      items:
-        - name: 2024
-          description: "test"
-          icon: newspaper
-          icon_pack: fas
+
 
 
   - block: experience
