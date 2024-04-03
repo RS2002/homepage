@@ -26,12 +26,22 @@ sections:
           icon_pack: fas
         #- name: Language
         #  description: "<span style='display: block; text-align: left;'>English (IELTS:6.5, CET-4:605, CET-6: 561)</span><span style='display: block; text-align: left;'>Chinese (mother tongue)</span>"
-        #  icon: book
+        #  icon: newspaper
         #  icon_pack: fas
         - name: Research Service 
           description: "<span style='display: block; text-align: left;'> Reviewer for IEEE ICASSP 2024, IEEE WCNC 2024 (TCP Member), IEEE ICME 2024, IEEE SMC 2023, IEEE MTAP"
+          icon: book
+          icon_pack: fas
+
+- block: features
+    content:
+      title: News
+      items:
+        - name: 2024
+          description: "[2024.03] Our paper "PianoBART: Symbolic Piano Music Generation and Understanding with Large-Scale Pre-Training" has been accepted by ICME 2024.</span>[2024.02] Our paper "Finding the Missing Data: A BERT-inspired Approach Against Package Loss in Wireless Sensing" has been accepted by IEEE INFOCOM DeerWireless Worshop 2024."
           icon: newspaper
           icon_pack: fas
+
 
   - block: experience
     content:
@@ -361,9 +371,9 @@ sections:
           tag: '*'
         - name: Music Information Retrieval
           tag: Music Information Retrieval
-        - name: Robot Reinforcement Learning
+        - name: Reinforcement Learning
           tag: Robot Reinforcement Learning
-        - name: Wifi Sensing
+        - name: Wi-Fi Sensing
           tag: Wifi Sensing
         - name: Other
           tag: Other
