@@ -68,7 +68,7 @@ sections:
           location: Hong Kong, Full-time
           date_start: '2024-09-01'
           date_end: ''
-          description: 'Supervisor: Prof. Sen Li'
+          description: 'Supervisor: <a href="https://www.smartcityhkust.com/">Prof. Sen Li</a>'
         - title: Industry-University-Research Student
           company: Likelihood Lab
           company_url: 'http://www.maxlikelihood.cn/'
@@ -92,7 +92,7 @@ sections:
           location: Shenzhen, Full-time
           date_start: '2023-08-01'
           date_end: '2024-08-01'
-          description: 'AI-RAN Lab (Supervisor: Dr. Guangxu Zhu (Deputy Director)); Associated with the Chinese University of Hong Kong, Shenzhen (CUHKSZ)'
+          description: 'AI-RAN Lab (Supervisor: <a href="https://sites.google.com/view/guangxuzhu/home">Dr. Guangxu Zhu</a> (Deputy Director)); Associated with the <a href="https://www.cuhk.edu.cn/zh-hans">Chinese University of Hong Kong, Shenzhen (CUHKSZ)</a>'
         - title: B.Eng. (2rd~4th)
           company: School of Computer Science and Engineering, Sun Yat-sen University (SYSU)
           company_url: 'https://cse.sysu.edu.cn/'
@@ -100,7 +100,7 @@ sections:
           location: Guangzhou, Full-time
           date_start: '2021-07-01'
           date_end: '2024-07-01'
-          description: 'GPA: 4.0/5.0 (3.9/4.0, 90/100); Rank: Top 10% in Major; Robotic and Intelligence Computing Lab (Supervisor: Prof. Kai Huang (Director of Artificial Intelligence and Unmanned Systems Research Institute)), Intelligent and Multimedia Science Laboratory (Prof. Chengying Gao, Prof. Ning Liu (Director of Cybersecurity Department))'
+          description: 'GPA: 4.0/5.0 (3.9/4.0, 90/100); Rank: Top 10% in Major; <a href="https://www.usilab.cn/">Robotic and Intelligence Computing Lab</a> (Supervisor: <a href="https://cse.sysu.edu.cn/content/2466">Prof. Kai Huang</a> (Director of Artificial Intelligence and Unmanned Systems Research Institute)), <a href="https://www.sysu-imsl.com/">Intelligent and Multimedia Science Laboratory</a> (<a href="https://cse.sysu.edu.cn/content/2537">Prof. Chengying Gao</a>, <a href="https://cse.sysu.edu.cn/node/2495">Prof. Ning Liu</a> (Director of Cybersecurity Department))'
         - title: Tutor
           company: Zhangmen Education; Yousi Education
           company_url: 'http://zhangmentalent.com/'
