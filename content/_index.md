@@ -43,7 +43,7 @@ sections:
       title: Latest News
       subtitle: ''
       text: |-
-        2024.03: Our paper "PianoBART: Symbolic Piano Music Generation and Understanding with Large-Scale Pre-Training" has been accepted by ICME 2024. <br> 2024.02: Our paper "Finding the Missing Data: A BERT-inspired Approach Against Package Loss in Wireless Sensing" has been accepted by IEEE INFOCOM DeerWireless Worshop 2024.
+        <span style="font-weight: bold;">2024.03</span>: Our paper "<span style="color: blue;">PianoBART: Symbolic Piano Music Generation and Understanding with Large-Scale Pre-Training</span>" has been accepted by ICME 2024. <br> <span style="font-weight: bold;">2024.02</span>: Our paper "<span style="color: blue;">Finding the Missing Data: A BERT-inspired Approach Against Package Loss in Wireless Sensing</span>" has been accepted by IEEE INFOCOM DeerWireless Worshop 2024.
     design:
       columns: '1'
 
