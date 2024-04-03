@@ -40,10 +40,10 @@ sections:
 
   - block: markdown
     content:
-      title: News
+      title: Latest News
       subtitle: ''
       text: |-
-        Our paper "PianoBART: Symbolic Piano Music Generation and Understanding with Large-Scale Pre-Training" has been accepted by ICME 2024.
+        2024.03: Our paper "PianoBART: Symbolic Piano Music Generation and Understanding with Large-Scale Pre-Training" has been accepted by ICME 2024. <br> 2024.02: Our paper "Finding the Missing Data: A BERT-inspired Approach Against Package Loss in Wireless Sensing" has been accepted by IEEE INFOCOM DeerWireless Worshop 2024.
     design:
       columns: '1'
 
