@@ -33,7 +33,6 @@ sections:
           icon: book
           icon_pack: fas
 
-    content:
       title: News
       items:
         - name: 2024
