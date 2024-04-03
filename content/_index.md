@@ -43,7 +43,7 @@ sections:
       title: News
       subtitle: ''
       text: |- 
-    [2024.03] Our paper "PianoBART: Symbolic Piano Music Generation and Understanding with Large-Scale Pre-Training" has been accepted by ICME 2024.
+    Our paper "PianoBART: Symbolic Piano Music Generation and Understanding with Large-Scale Pre-Training" has been accepted by ICME 2024.
 
     design:
       columns: '1'
