@@ -15,7 +15,7 @@ sections:
   - block: features
     id: skills
     content:
-      title: Skills & Latest News
+      title: Skills
       items:
         - name: Code
           description: "<span style='display: block; text-align: left;'>Proficient in: C/C++ (CCF-CSP:320, Top 0.8%), Python, Matlab, Pytorch</span><span style='display: block; text-align: left;'>Familiar with: MySQL, Git, Linux, ESP32</span><span style='display: block; text-align: left;'>Knowledgeable in: TensorFlow, Java, Assembly, Verilog, Web Scraping, Flask, QT, Docker, Raspberry Pi, LLM API</span>"
@@ -43,7 +43,7 @@ sections:
       title: Latest News
       subtitle: ''
       text: |-
-        <span style="font-weight: bold;">2024.03</span>: Our paper "<span style="color: blue;">PianoBART: Symbolic Piano Music Generation and Understanding with Large-Scale Pre-Training</span>" has been accepted by ICME 2024. <br> <span style="font-weight: bold;">2024.02</span>: Our paper "<span style="color: blue;">Finding the Missing Data: A BERT-inspired Approach Against Package Loss in Wireless Sensing</span>" has been accepted by IEEE INFOCOM DeerWireless Worshop 2024.
+        <span style="font-weight: bold;">2024.03</span>: Our paper "<span style="color: blue;">PianoBART: Symbolic Piano Music Generation and Understanding with Large-Scale Pre-Training</span>" has been accepted by <a href="https://2024.ieeeicme.org/">ICME 2024</a>. <br> <span style="font-weight: bold;">2024.02</span>: Our paper "<span style="color: blue;">Finding the Missing Data: A BERT-inspired Approach Against Package Loss in Wireless Sensing</span>" has been accepted by <a href="https://infocom2024.ieee-infocom.org/">IEEE INFOCOM DeerWireless Worshop 2024</a>.
     design:
       columns: '1'
 
