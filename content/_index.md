@@ -13,6 +13,7 @@ sections:
       username: admin
 
   - block: features
+    id: skills
     content:
       title: Skills
       items:
@@ -33,7 +34,8 @@ sections:
           icon: book
           icon_pack: fas
 
-- block: news
+- block: features
+    id: news
     content:
       title: News
       items:
