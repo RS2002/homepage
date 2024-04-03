@@ -15,7 +15,7 @@ sections:
   - block: features
     id: skills
     content:
-      title: Skills
+      title: Skills & Latest News
       items:
         - name: Code
           description: "<span style='display: block; text-align: left;'>Proficient in: C/C++ (CCF-CSP:320, Top 0.8%), Python, Matlab, Pytorch</span><span style='display: block; text-align: left;'>Familiar with: MySQL, Git, Linux, ESP32</span><span style='display: block; text-align: left;'>Knowledgeable in: TensorFlow, Java, Assembly, Verilog, Web Scraping, Flask, QT, Docker, Raspberry Pi, LLM API</span>"
@@ -32,6 +32,10 @@ sections:
         - name: Research Service 
           description: "<span style='display: block; text-align: left;'> Reviewer for IEEE ICASSP 2024, IEEE WCNC 2024 (TCP Member), IEEE ICME 2024, IEEE SMC 2023, IEEE MTAP"
           icon: book
+          icon_pack: fas
+        - name: News (2024)
+          description: "<span style='display: block; text-align: left;'> [2024.03] Our paper "PianoBART: Symbolic Piano Music Generation and Understanding with Large-Scale Pre-Training" has been accepted by ICME 2024.</span>[2024.02] Our paper "Finding the Missing Data: A BERT-inspired Approach Against Package Loss in Wireless Sensing" has been accepted by IEEE INFOCOM DeerWireless Worshop 2024.</span>"
+          icon: newspaper
           icon_pack: fas
 
 
