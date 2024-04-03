@@ -33,7 +33,6 @@ sections:
           icon: book
           icon_pack: fas
 
-- block: features
     content:
       title: News
       items:
