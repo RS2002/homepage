@@ -33,12 +33,19 @@ sections:
           description: "<span style='display: block; text-align: left;'> Reviewer for IEEE ICASSP 2024, IEEE WCNC 2024 (TCP Member), IEEE ICME 2024, IEEE SMC 2023, IEEE MTAP"
           icon: book
           icon_pack: fas
-        - name: News (2024)
-          description: "<span style='text-align: left;'>2024.03: Our paper 'PianoBART: Symbolic Piano Music Generation and Understanding with Large-Scale Pre-Training' has been accepted by ICME 2024.</span><span style='text-align: left;'>2024.02: Our paper 'Finding the Missing Data: A BERT-inspired Approach Against Package Loss in Wireless Sensing' has been accepted by IEEE INFOCOM DeerWireless Worshop 2024.</span>"
-          icon: newspaper
-          icon_pack: fas
+        #- name: News (2024)
+        #  description: "<span style='display: block; text-align: left;'>2024.03: Our paper 'PianoBART: Symbolic Piano Music Generation and Understanding with Large-Scale Pre-Training' has been accepted by ICME 2024.</span><span style='display: block; text-align: left;'>2024.02: Our paper 'Finding the Missing Data: A BERT-inspired Approach Against Package Loss in Wireless Sensing' has been accepted by IEEE INFOCOM DeerWireless Worshop 2024.</span>"
+        #  icon: newspaper
+        #  icon_pack: fas
 
-
+  - block: markdown
+    content:
+      title: News
+      subtitle: ''
+      text: |-
+        test
+    design:
+      columns: '1'
 
 
   - block: experience
