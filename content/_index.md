@@ -12,6 +12,15 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
 
+  - block: markdown
+    content:
+      title: Latest News
+      subtitle: ''
+      text: |-
+        <span style="font-weight: bold;">2024.03</span>: Our paper "<span style="color: blue;">PianoBART: Symbolic Piano Music Generation and Understanding with Large-Scale Pre-Training</span>" has been accepted by <a href="https://2024.ieeeicme.org/">ICME 2024 (*oral)</a>. <br> <span style="font-weight: bold;">2024.02</span>: Our paper "<span style="color: blue;">Finding the Missing Data: A BERT-inspired Approach Against Package Loss in Wireless Sensing</span>" has been accepted by <a href="https://infocom2024.ieee-infocom.org/">IEEE INFOCOM DeepWireless Worshop 2024</a>.
+    design:
+      columns: '1'
+
   - block: features
     id: skills
     content:
@@ -37,15 +46,6 @@ sections:
         #  description: "<span style='display: block; text-align: left;'>2024.03: Our paper 'PianoBART: Symbolic Piano Music Generation and Understanding with Large-Scale Pre-Training' has been accepted by ICME 2024.</span><span style='display: block; text-align: left;'>2024.02: Our paper 'Finding the Missing Data: A BERT-inspired Approach Against Package Loss in Wireless Sensing' has been accepted by IEEE INFOCOM DeerWireless Worshop 2024.</span>"
         #  icon: newspaper
         #  icon_pack: fas
-
-  - block: markdown
-    content:
-      title: Latest News
-      subtitle: ''
-      text: |-
-        <span style="font-weight: bold;">2024.03</span>: Our paper "<span style="color: blue;">PianoBART: Symbolic Piano Music Generation and Understanding with Large-Scale Pre-Training</span>" has been accepted by <a href="https://2024.ieeeicme.org/">ICME 2024</a>. <br> <span style="font-weight: bold;">2024.02</span>: Our paper "<span style="color: blue;">Finding the Missing Data: A BERT-inspired Approach Against Package Loss in Wireless Sensing</span>" has been accepted by <a href="https://infocom2024.ieee-infocom.org/">IEEE INFOCOM DeepWireless Worshop 2024</a>.
-    design:
-      columns: '1'
 
 
   - block: experience
