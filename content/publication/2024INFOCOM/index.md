@@ -1,5 +1,5 @@
 ---
-title: 'Finding the Missing Data: A BERT-inspired Approach Against Package Loss in Wireless Sensing (*oral)'
+title: 'Finding the Missing Data: A BERT-inspired Approach Against Package Loss in Wireless Sensing'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here

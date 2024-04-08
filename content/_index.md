@@ -17,7 +17,7 @@ sections:
       title: Latest News
       subtitle: ''
       text: |-
-        <span style="font-weight: bold;">2024.03</span>: Our paper "<span style="color: blue;">PianoBART: Symbolic Piano Music Generation and Understanding with Large-Scale Pre-Training</span>" has been accepted by <a href="https://2024.ieeeicme.org/">ICME 2024 (*oral)</a>. <br> <span style="font-weight: bold;">2024.02</span>: Our paper "<span style="color: blue;">Finding the Missing Data: A BERT-inspired Approach Against Package Loss in Wireless Sensing</span>" has been accepted by <a href="https://infocom2024.ieee-infocom.org/">IEEE INFOCOM DeepWireless Worshop 2024</a>.
+        <span style="font-weight: bold;">2024.03</span>: Our paper "<span style="color: blue;">PianoBART: Symbolic Piano Music Generation and Understanding with Large-Scale Pre-Training</span>" has been accepted by <a href="https://2024.ieeeicme.org/">ICME 2024</a> (Oral, Top 15%).<br> <span style="font-weight: bold;">2024.02</span>: Our paper "<span style="color: blue;">Finding the Missing Data: A BERT-inspired Approach Against Package Loss in Wireless Sensing</span>" has been accepted by <a href="https://infocom2024.ieee-infocom.org/">IEEE INFOCOM DeepWireless Worshop 2024</a>.
     design:
       columns: '1'
 

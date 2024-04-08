@@ -1,5 +1,5 @@
 ---
-title: 'PianoBART: Symbolic Piano Music Generation and Understanding with Large-Scale Pre-Training'
+title: 'PianoBART: Symbolic Piano Music Generation and Understanding with Large-Scale Pre-Training (Oral, Top 15%)'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
