@@ -1,5 +1,5 @@
 ---
-title: 一种基于CSI的人体存在与运动检测技术
+title: 人员检测方法、装置、电子设备以及存储介质
 
 event: patent
 event_url: 
@@ -12,7 +12,7 @@ address:
   postcode: ''
   country: 
 
-summary: 赵子健，朱光旭，李晓阳，李航， “一种基于CSI的人体存在与运动检测技术”
+summary: 赵子健，朱光旭，沈超，史清江，韩凯峰， “人员检测方法、装置、电子设备以及存储介质”
 abstract: ''
 
 # Talk start and end times.
@@ -27,8 +27,9 @@ publishDate: ''
 authors:
   - admin
   - 朱光旭
-  - 李晓阳
-  - 李航
+  - 沈超
+  - 史清江
+  - 韩凯峰
 
 tags: []
 
