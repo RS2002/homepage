@@ -85,7 +85,7 @@ highlight_name: true
 
 ---
 
-**[Band Member Recruitment !!!](https://github.com/RS2002/homepage/blob/main/static/Recruitment.docx)**
+**[Band Member Recruitment !!!](https://github.com/RS2002/homepage/blob/main/static/Recruitment.pdf)**
 
 
 
