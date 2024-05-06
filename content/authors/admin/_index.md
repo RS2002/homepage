@@ -85,6 +85,10 @@ highlight_name: true
 
 ---
 
+**Band Member Recruitment**
+
+
+
 I'm a senior undergraduate at [School of Computer Science and Engineering](https://cse.sysu.edu.cn/) at [Sun Yat-sen University](https://www.sysu.edu.cn/), specializing in Robot Reinforcement Learning under [Prof. Kai Huang](https://cse.sysu.edu.cn/content/2466) and Music Information Retrieval with [Prof. Ning Liu](https://cse.sysu.edu.cn/node/2495) and [Prof. Chengying Gao](https://cse.sysu.edu.cn/content/2537). Currently, I'm a visiting student at the [Shenzhen Research Institute of Big Data](http://www.sribd.cn/) linked to [The Chinese University of Hong Kong (Shenzhen)](https://www.cuhk.edu.cn/zh-hans), focusing on Wifi Sensing under the guidance of [Dr. Guangxu Zhu](https://sites.google.com/view/guangxuzhu). 
 
 In Fall 2024, I'll begin my Ph.D. journey in [Department of Civil and Environmental Engineering](https://www.ce.ust.hk/) at [The Hong Kong University of Science and Technology](https://hkust.edu.hk/), under the supervision of [Prof. Sen Li](https://lisen1990.wixsite.com/senli).  
