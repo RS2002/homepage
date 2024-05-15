@@ -52,7 +52,7 @@ url_code: 'https://github.com/RS2002/CSI-BERT'
 url_dataset: 'https://github.com/RS2002/CSI-BERT'
 url_poster: ''
 url_project: ''
-url_slides: ''
+url_slides: 'https://docs.google.com/presentation/d/15aNURPf3LMXQikXKkN5b7Pp9HWV1kWIJ/edit?usp=sharing&ouid=115821974896546102715&rtpof=true&sd=true'
 url_source: ''
 url_video: ''
 

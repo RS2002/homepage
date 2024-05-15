@@ -41,7 +41,7 @@ sections:
         #  icon: newspaper
         #  icon_pack: fas
         - name: Research Service 
-          description: "<span style='display: block; text-align: left;'> Reviewer for IEEE ICASSP 2024, IEEE WCNC 2024 (TCP Member), IEEE ICME 2024, IEEE SMC 2023, IEEE MTAP"
+          description: "<span style='display: block; text-align: left;'> Reviewer for IEEE PIMRC 2024 (TCP Member), IEEE ICASSP 2024, IEEE WCNC 2024 (TCP Member), IEEE ICME 2024, IEEE SMC 2023, IEEE MTAP"
           icon: book
           icon_pack: fas
         #- name: News (2024)
@@ -94,15 +94,15 @@ sections:
           location: Shenzhen, Full-time
           date_start: '2023-08-01'
           date_end: '2024-08-01'
-          description: 'AI-RAN Lab (Supervisor: <a href="https://sites.google.com/view/guangxuzhu/home">Dr. Guangxu Zhu</a> (Deputy Director)); Associated with the <a href="https://www.cuhk.edu.cn/zh-hans">Chinese University of Hong Kong, Shenzhen (CUHKSZ)</a>'
-        - title: B.Eng. (2rd~4th)
+          description: 'AI-RAN Lab (Supervisor: <a href="https://sites.google.com/view/guangxuzhu/home">Dr. Guangxu Zhu</a>); Associated with the <a href="https://www.cuhk.edu.cn/zh-hans">Chinese University of Hong Kong, Shenzhen (CUHKSZ)</a>'
+        - title: B.Eng. (2rd~4th Grade)
           company: School of Computer Science and Engineering, Sun Yat-sen University (SYSU)
           company_url: 'https://cse.sysu.edu.cn/'
           company_logo: SYSU-CS
           location: Guangzhou, Full-time
           date_start: '2021-07-01'
           date_end: '2024-07-01'
-          description: 'GPA: 4.0/5.0 (3.9/4.0, 90/100); Rank: Top 10% in Major; <a href="https://www.usilab.cn/">Robotic and Intelligence Computing Lab</a> (Supervisor: <a href="https://cse.sysu.edu.cn/content/2466">Prof. Kai Huang</a> (Director of Artificial Intelligence and Unmanned Systems Research Institute)), <a href="https://www.sysu-imsl.com/">Intelligent and Multimedia Science Laboratory</a> (<a href="https://cse.sysu.edu.cn/content/2537">Prof. Chengying Gao</a>, <a href="https://cse.sysu.edu.cn/node/2495">Prof. Ning Liu</a> (Director of Cybersecurity Department))'
+          description: 'GPA: 4.0/5.0 (3.9/4.0, 90/100); Rank: Top 10% in Major; <a href="https://www.usilab.cn/">Robotic and Intelligence Computing Lab</a> (Supervisor: <a href="https://cse.sysu.edu.cn/content/2466">Prof. Kai Huang</a>), <a href="https://www.sysu-imsl.com/">Intelligent and Multimedia Science Laboratory</a> (<a href="https://cse.sysu.edu.cn/content/2537">Prof. Chengying Gao</a>, <a href="https://cse.sysu.edu.cn/node/2495">Prof. Ning Liu</a>)'
         - title: Tutor
           company: Zhangmen Education; Yousi Education
           company_url: 'http://zhangmentalent.com/'
@@ -111,7 +111,7 @@ sections:
           date_start: '2020-12-01'
           date_end: '2021-09-01'
           description: 'Guided competition student; Helped student increase math score by 30 points in 3 months'
-        - title: B.Eng. (1st)
+        - title: B.Eng. (1st Grade)
           company: School of Electronics and Communication Engineering, Sun Yat-sen University (SYSU)
           company_url: 'https://sece.sysu.edu.cn/'
           company_logo: SYSU
@@ -139,7 +139,7 @@ sections:
         - certificate_url: 
           date_end: ''
           date_start: '2023-12-01'
-          description: 'Paper: Adaptive Quadruped Locomotion of a Rat Robot Based on a Hierarchical Reinforcement Learning Framework; Authors: Zitao Zhang, Yuhong Huang, Zijian Zhao, Zhenshan Bing, Alois Knoll, Kai Huang*'
+          description: 'Zitao Zhang, Yuhong Huang, Zijian Zhao, Zhenshan Bing, Alois Knoll, Kai Huang*, "Adaptive Quadruped Locomotion of a Rat Robot Based on a Hierarchical Reinforcement Learning Framework" '
           organization: IEEE, IEEE Robotics & Automation Society
           organization_url: https://mp.weixin.qq.com/s/mbJlQGPkCmArm9S5RnZsbQ
           title: Best Paper Award in Biomimetics Finalist in IEEE International Conference on Robotics and Biomimetics (ROBIO) 2023
