@@ -2,7 +2,7 @@
 title: ARS-Bezier
 summary: A Trajectory-based Reinforcement Learning Approach for NeRmo (Neurorobotic Mouse)
 tags:
-  - Robot Reinforcement Learning
+  - Reinforcement Learning
 date: '2022-09-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).

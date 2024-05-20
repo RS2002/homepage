@@ -41,13 +41,9 @@ sections:
         #  icon: newspaper
         #  icon_pack: fas
         - name: Research Service 
-          description: "<span style='display: block; text-align: left;'> Reviewer for IEEE PIMRC 2024 (TCP Member), IEEE ICASSP 2024, IEEE WCNC 2024 (TCP Member), IEEE ICME 2024, IEEE SMC 2023, IEEE MTAP"
+          description: "<span style='display: block; text-align: left;'>TPC Membership: IEEE PIMRC 2024, IEEE WCNC 2024</span><span style='display: block; text-align: left;'>Technical Reviewer: IEEE ICASSP 2024, IEEE ICME 2024, IEEE SMC 2023, IEEE MTAP</span>"
           icon: book
           icon_pack: fas
-        #- name: News (2024)
-        #  description: "<span style='display: block; text-align: left;'>2024.03: Our paper 'PianoBART: Symbolic Piano Music Generation and Understanding with Large-Scale Pre-Training' has been accepted by ICME 2024.</span><span style='display: block; text-align: left;'>2024.02: Our paper 'Finding the Missing Data: A BERT-inspired Approach Against Package Loss in Wireless Sensing' has been accepted by IEEE INFOCOM DeerWireless Worshop 2024.</span>"
-        #  icon: newspaper
-        #  icon_pack: fas
 
 
   - block: experience
@@ -379,9 +375,11 @@ sections:
         - name: Music Information Retrieval
           tag: Music Information Retrieval
         - name: Reinforcement Learning
-          tag: Robot Reinforcement Learning
+          tag: Reinforcement Learning
         - name: Wi-Fi Sensing
           tag: Wifi Sensing
+        - name: Intelligent Network
+          tag: Intelligent Network
         - name: Other
           tag: Other
     design:
@@ -456,6 +454,8 @@ sections:
       buttons:
         - name: All
           tag: '*'
+        - name: Horrible Screaming 疯狂嚎叫
+          tag: Horrible Screaming
         - name: NEWS
           tag: NEWS
         - name: Rights of Lethe
