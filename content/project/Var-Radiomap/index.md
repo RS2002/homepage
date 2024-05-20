@@ -1,6 +1,6 @@
 ---
 title: Var-Radiomap
-summary:  
+summary: A Var-based Model for Radiomap Construction 
 tags:
   - Intelligent Network
 date: '2024-04-15T00:00:00Z'
