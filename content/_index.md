@@ -28,7 +28,7 @@ sections:
       items:
         - name: Code
           description: "<span style='display: block; text-align: left;'>C/C++ (CCF-CSP:320, Top 0.8%), Python, Matlab"
-# <span style='display: block; text-align: left;'>Proficient in: C/C++ (CCF-CSP:320, Top 0.8%), Python, Matlab, Pytorch</span><span style='display: block; text-align: left;'>Familiar with: MySQL, Git, Linux, ESP32</span><span style='display: block; text-align: left;'>Knowledgeable in: TensorFlow, Java, Assembly, Verilog, Lingo, Web Scraping, Flask, QT, Docker, Raspberry Pi, LLM API</span>
+# <span style='display: block; text-align: left;'>Proficient in: C/C++ (CCF-CSP:320, Top 0.8%, was granted a free CCF Student Membership), Python, Matlab, Pytorch</span><span style='display: block; text-align: left;'>Familiar with: MySQL, Git, Linux, ESP32</span><span style='display: block; text-align: left;'>Knowledgeable in: TensorFlow, Java, Assembly, Verilog, Lingo, Web Scraping, Flask, QT, Docker, Raspberry Pi, LLM API</span>
           icon: code
           icon_pack: fas
         - name: Music
