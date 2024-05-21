@@ -1,6 +1,6 @@
 ---
 title: NetOPT
-summary: Network Optimization based on Pre-Trained Large Model: A Large Model for Spectrum Efficiency Prediction
+summary: Network Optimization based on Pre-Trained Large Model - A Large Model for Spectrum Efficiency Prediction
 tags:
   - Intelligent Network
 date: '2024-05-15T00:00:00Z'
