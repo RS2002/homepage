@@ -1,5 +1,5 @@
 ---
-title: 'PianoBART: Symbolic Piano Music Generation and Understanding with Large-Scale Pre-Training (Oral, Top 15%)'
+title: 'PianoBART: Symbolic Piano Music Generation and Understanding with Large-Scale Pre-Training (Oral)'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -54,9 +54,9 @@ url_code: 'https://github.com/RS2002/PianoBart'
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: ''
+url_slides: projects/PianoBART.pptx
 url_source: ''
-url_video: ''
+url_video: projects/PianoBART.wav
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
