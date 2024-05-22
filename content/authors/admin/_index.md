@@ -85,8 +85,6 @@ highlight_name: true
 
 ---
 
-**[Band Member Recruitment !!!](https://github.com/RS2002/homepage/blob/main/static/Recruitment.png)**
-
 I'm currently a visiting student at the [Shenzhen Research Institute of Big Data](http://www.sribd.cn/) associated with [The Chinese University of Hong Kong (Shenzhen)](https://www.cuhk.edu.cn/zh-hans), focusing on Wifi Sensing and Network Optimization under the guidance of [Dr. Guangxu Zhu](https://sites.google.com/view/guangxuzhu). In Fall 2024, I'll begin my Ph.D. journey in [Department of Civil and Environmental Engineering](https://www.ce.ust.hk/) at [The Hong Kong University of Science and Technology](https://hkust.edu.hk/), under the supervision of [Prof. Sen Li](https://lisen1990.wixsite.com/senli).  
 
 Prior to this, I graduated from [School of Computer Science and Engineering](https://cse.sysu.edu.cn/) at [Sun Yat-sen University](https://www.sysu.edu.cn/), under the supervision of [Prof. Kai Huang](https://cse.sysu.edu.cn/content/2466), [Prof. Ning Liu](https://cse.sysu.edu.cn/node/2495) and [Prof. Chengying Gao](https://cse.sysu.edu.cn/content/2537).
