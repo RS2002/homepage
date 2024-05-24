@@ -1,5 +1,5 @@
 ---
-title: Band Description
+title: Band Description of NEWS 
 summary: 
 tags:
   - NEWS
