@@ -19,8 +19,9 @@ bio: PhD Student in HKUST
 # Interests to show in About widget
 interests:
   - Deep Learning & Reinforcement Learning
-  - Music Information Retrieval
+  - Smart City
   - ISAC & Network Intelligence
+  - Music Information Retrieval
 
 # Education to show in About widget
 education:
@@ -65,9 +66,9 @@ social:
   - icon: weibo
     icon_pack: fab
     link: https://weibo.com/u/3829716889
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/zijian-zhao-link/
+  # - icon: linkedin
+  #   icon_pack: fab
+  #   link: https://www.linkedin.com/in/zijian-zhao-link/
 
   - icon: soundcloud
     icon_pack: fab
@@ -89,4 +90,4 @@ I'm currently a visiting student at the [Shenzhen Research Institute of Big Data
 
 Prior to this, I received my B.Eng. degree from [School of Computer Science and Engineering](https://cse.sysu.edu.cn/) at [Sun Yat-sen University](https://www.sysu.edu.cn/) in 2024, under the supervision of [Prof. Kai Huang](https://cse.sysu.edu.cn/content/2466), [Prof. Ning Liu](https://cse.sysu.edu.cn/node/2495) and [Prof. Chengying Gao](https://cse.sysu.edu.cn/content/2537).
 
-Aside from academics, I'm a music enthusiast, having been a singer and guitarist & bassist in bands [NEWS](https://music.163.com/#/artist?id=52253597) (current my personal band) and [Rights of Lethe](https://music.163.com/#/artist?id=52435898) (dissolved). And I'll join a rock \& metal band in fall 2024 at HKUST. I have a strong passion for heavy rock music, particularly alternative punk, melodic death metal, dark metal, and some core genres. If you are interested in playing or collaborating with us, please feel free to reach out to me via Weibo or mail.  For information about our shows and ticket purchases, you can visit [xiudong(秀动)](https://wap.showstart.com/pages/site/artist/artist?id=4832274) and [tonggan(同感)](https://github.com/RS2002/homepage/blob/main/static/uploads/tonggan.jpg).
+Aside from academics, I'm a music enthusiast, having been a singer and guitarist & bassist in bands [NEWS](https://music.163.com/#/artist?id=52253597) (current my personal band) and [Rights of Lethe](https://music.163.com/#/artist?id=52435898) (dissolved). And I'll join two rock \& metal bands in fall 2024 in Hong Kong. I have a strong passion for heavy rock music, particularly alternative punk, melodic death metal, dark metal, and deathcore. If you are interested in playing or collaborating with us, please feel free to reach out to me via Weibo or mail.  For information about our shows and ticket purchases, you can visit [xiudong(秀动)](https://wap.showstart.com/pages/site/artist/artist?id=4832274) and [tonggan(同感)](https://github.com/RS2002/homepage/blob/main/static/uploads/tonggan.jpg).

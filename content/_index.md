@@ -98,7 +98,7 @@ sections:
           location: Guangzhou, Full-time
           date_start: '2021-07-01'
           date_end: '2024-07-01'
-          description: 'GPA: 4.0/5.0 (3.9/4.0, 90/100); Rank: Top 10% in Major; <a href="https://www.usilab.cn/">Robotic and Intelligence Computing Lab</a> (Supervisor: <a href="https://cse.sysu.edu.cn/content/2466">Prof. Kai Huang</a>), <a href="https://www.sysu-imsl.com/">Intelligent and Multimedia Science Laboratory</a> (<a href="https://cse.sysu.edu.cn/content/2537">Prof. Chengying Gao</a>, <a href="https://cse.sysu.edu.cn/node/2495">Prof. Ning Liu</a>)'
+          description: 'GPA: 4.0/5.0 (90/100); Rank: Top 10% in Major; <a href="https://www.usilab.cn/">Robotic and Intelligence Computing Lab</a> (Supervisor: <a href="https://cse.sysu.edu.cn/content/2466">Prof. Kai Huang</a>), <a href="https://www.sysu-imsl.com/">Intelligent and Multimedia Science Laboratory</a> (<a href="https://cse.sysu.edu.cn/content/2537">Prof. Chengying Gao</a>, <a href="https://cse.sysu.edu.cn/node/2495">Prof. Ning Liu</a>)'
         - title: Tutor
           company: Zhangmen Education; Yousi Education
           company_url: 'http://zhangmentalent.com/'
@@ -114,7 +114,7 @@ sections:
           location: Shenzhen, Full-time
           date_start: '2020-09-01'
           date_end: '2021-07-01'
-          description: 'GPA: 4.0/5.0 (3.9/4.0, 90/100); Rank: Top 5% in Department'
+          description: 'GPA: 4.0/5.0 (90/100); Rank: Top 5% in Department'
 
 
     design:
