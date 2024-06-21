@@ -1,5 +1,5 @@
 ---
-title: 一种面向鲁棒无线感知的信道状态信息恢复技术（深圳大数据研究院，申请号：202410232125.0，2024）
+title: 数据分类方法、装置、计算机设备及可读存储介质（深圳大数据研究院，2024）
 
 event: patent
 event_url: 
@@ -12,12 +12,12 @@ address:
   postcode: ''
   country: 
 
-summary: 赵子健，韩凯峰，陈琪美，朱光旭，李晓阳，李航， “一种面向鲁棒无线感知的信道状态信息恢复技术”
+summary: 赵子健，朱光旭，沈超，史清江，韩凯峰， “数据分类方法、装置、计算机设备及可读存储介质”
 abstract: ''
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-01-01T00:00:00Z'
+date: '2024-03-01T00:00:00Z'
 date_end: ''
 all_day: false
 
@@ -26,11 +26,10 @@ publishDate: ''
 
 authors:
   - admin
-  - 韩凯峰
-  - 陈琪美
   - 朱光旭
-  - 李晓阳
-  - 李航
+  - 沈超
+  - 史清江
+  - 韩凯峰
 
 tags: []
 
