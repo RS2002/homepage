@@ -10,8 +10,6 @@ last_name: Zhao
 organizations:
   - name: The Hong Kong University of Science and Technology
     url: https://hkust.edu.hk/
-  - name: Shenzhen Research Institute of Big Data
-    url: http://www.sribd.cn/
 
 # Short bio (displayed in user profile at end of posts)
 bio: PhD Student in HKUST
@@ -86,8 +84,8 @@ highlight_name: true
 
 ---
 
-I'm currently a visiting student at the [Shenzhen Research Institute of Big Data](http://www.sribd.cn/) associated with [The Chinese University of Hong Kong (Shenzhen)](https://www.cuhk.edu.cn/zh-hans), focusing on Wi-Fi Sensing and Intelligent Network Optimization under the guidance of [Dr. Guangxu Zhu](https://sites.google.com/view/guangxuzhu). In fall 2024, I'll begin my Ph.D. journey in [Department of Civil and Environmental Engineering](https://www.ce.ust.hk/) at [The Hong Kong University of Science and Technology](https://hkust.edu.hk/), under the supervision of [Prof. Sen Li](https://lisen1990.wixsite.com/senli).  
+I'm currently a Ph.D. student in [Department of Civil and Environmental Engineering](https://www.ce.ust.hk/) at [The Hong Kong University of Science and Technology](https://hkust.edu.hk/), under the supervision of [Prof. Sen Li](https://lisen1990.wixsite.com/senli).  My primary research interests lie in the field of smart cities. In my leisure time, I also enjoy exploring topics related to music information retrieval.
 
-Prior to this, I received my B.Eng. degree from [School of Computer Science and Engineering](https://cse.sysu.edu.cn/) at [Sun Yat-sen University](https://www.sysu.edu.cn/) in 2024, under the supervision of [Prof. Kai Huang](https://cse.sysu.edu.cn/content/2466), [Prof. Ning Liu](https://cse.sysu.edu.cn/node/2495) and [Prof. Chengying Gao](https://cse.sysu.edu.cn/content/2537).
+Prior to this, I received my B.Eng. degree from [School of Computer Science and Engineering](https://cse.sysu.edu.cn/) at [Sun Yat-sen University](https://www.sysu.edu.cn/) in 2024, under the supervision of [Prof. Kai Huang](https://cse.sysu.edu.cn/content/2466), [Prof. Ning Liu](https://cse.sysu.edu.cn/node/2495) and [Prof. Chengying Gao](https://cse.sysu.edu.cn/content/2537). Additionally, I had the privilege of visiting the [Shenzhen Research Institute of Big Data](http://www.sribd.cn/) associated with [The Chinese University of Hong Kong (Shenzhen)](https://www.cuhk.edu.cn/zh-hans) under the guidance of [Dr. Guangxu Zhu](https://sites.google.com/view/guangxuzhu)  for one year, where I also learned from [Dr. ‪Xiaoyang Li‬](https://scholar.google.com.hk/citations?user=pw0f1aIAAAAJ&hl=zh-CN&oi=sra) and [Dr. ‪Hang Li‬‬](https://scholar.google.com.hk/citations?user=Y_upHe8AAAAJ&hl=zh-CN&oi=sra).
 
 Aside from academics, I'm a music enthusiast, having been a singer and guitarist & bassist in bands [NEWS](https://music.163.com/#/artist?id=52253597) (current my personal band) and [Rights of Lethe](https://music.163.com/#/artist?id=52435898) (dissolved). And I'll join two rock \& metal bands in fall 2024 in Hong Kong. I have a strong passion for heavy rock music, particularly alternative punk, melodic death metal, dark metal, and deathcore. If you are interested in playing or collaborating with us, please feel free to reach out to me via Weibo or mail.  For information about our shows and ticket purchases, you can visit [xiudong(秀动)](https://wap.showstart.com/pages/site/artist/artist?id=4832274) and [tonggan(同感)](https://github.com/RS2002/homepage/blob/main/static/uploads/tonggan.jpg).

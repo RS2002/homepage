@@ -73,7 +73,7 @@ sections:
           company_logo: Likelihood
           location: Online, Part-time
           date_start: '2024-02-01'
-          date_end: ''
+          date_end: '2024-08-01'
           description: 'Project: Deep Learning Algorithms for Imbalanced Label Problem in High-Frequency Trading'
         - title: Writing Consultant & Graduate Application Mentor
           company: FLY Education; Compass Education
