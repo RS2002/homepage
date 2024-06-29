@@ -48,7 +48,7 @@ featured: true
 #   url: 
 
 url_pdf: 'http://arxiv.org/abs/2403.12400'
-url_code: 'https://github.com/RS2002/CSI-BERT'
+url_code: 'https://paperswithcode.com/dataset/wigesture'
 url_dataset: 'https://github.com/RS2002/CSI-BERT'
 url_poster: ''
 url_project: ''
