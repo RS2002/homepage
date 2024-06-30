@@ -1,6 +1,6 @@
 ---
 title: Wi-Fi Sensing Datasets
-summary: WiLoc (Vision-aided Location), WiGesture (Gesture Recognition), WiFall (Fall Detection), WiCount (People Number Estimation)
+summary: WiLoc (Vision-aided Location, https://github.com/RS2002/WiLoc), WiGesture (Gesture Recognition, https://github.com/RS2002/CSI-BERT/tree/main/WiGesture), WiFall (Fall Detection, https://github.com/RS2002/KNN-MMD/tree/main/WiFall), WiCount (People Number Estimation, https://github.com/RS2002/CSI-BERT2/tree/main/WiCount)
 tags:
   - Wifi Sensing
 date: '2024-06-30T00:00:00Z'
