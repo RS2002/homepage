@@ -1,5 +1,5 @@
 ---
-title: 一种面向鲁棒无线感知的信道状态信息恢复技术（深圳大数据研究院，专利号：ZL2024102321250，2024）
+title: 基于少样本学习的模型对对象识别的方法及相关设备（深圳大数据研究院，2024）
 
 event: patent
 event_url: 
@@ -12,12 +12,12 @@ address:
   postcode: ''
   country: 
 
-summary: 赵子健，韩凯峰，陈琪美，朱光旭，李晓阳，李航， “一种面向鲁棒无线感知的信道状态信息恢复技术”
+summary: 赵子健，朱光旭，韩凯峰，李晓阳，李航 “基于少样本学习的模型对对象识别的方法及相关设备”
 abstract: ''
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-01-01T00:00:00Z'
+date: '2024-05-29T00:00:00Z'
 date_end: ''
 all_day: false
 
@@ -26,9 +26,8 @@ publishDate: ''
 
 authors:
   - admin
-  - 韩凯峰
-  - 陈琪美
   - 朱光旭
+  - 韩凯峰
   - 李晓阳
   - 李航
 

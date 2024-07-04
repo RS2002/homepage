@@ -1,5 +1,5 @@
 ---
-title: 一种基于少样本和零样本学习的跨域Wi-Fi手势识别技术（深圳大数据研究院，2024）
+title: 基于少样本学习的模型对数据分类的方法及相关设备（深圳大数据研究院，申请号：2024108392137，2024）
 
 event: patent
 event_url: 
@@ -12,7 +12,7 @@ address:
   postcode: ''
   country: 
 
-summary: 赵子健，朱光旭，韩凯峰，李晓阳，李航 “一种基于少样本和零样本学习的跨域Wi-Fi手势识别技术”
+summary: 赵子健，朱光旭，韩凯峰，李晓阳，李航 “基于少样本学习的模型对数据分类的方法及相关设备”
 abstract: ''
 
 # Talk start and end times.
