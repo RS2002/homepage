@@ -48,6 +48,12 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: 'https://scholar.google.com/citations?user=XkA3qCcAAAAJ'
+  - icon: ai
+    icon_pack: fab
+    link: 'https://orcid.org/0000-0002-3326-9650'
+  - icon: semantic-scholar
+    icon_pack: ai
+    link: 'https://www.semanticscholar.org/author/Zijian-Zhao/2276001508'
   - icon: github
     icon_pack: fab
     link: https://github.com/RS2002

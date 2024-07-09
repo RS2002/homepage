@@ -81,7 +81,7 @@ sections:
           company_logo: FLY
           location: Online, Part-time
           date_start: '2023-11-01'
-          date_end: ''
+          date_end: '2024-08-01'
           description: 'Assisted student in obtaining Master offer from HKU, CityU, and Edin'
         - title: Visiting Student 
           company: Data-driven Intelligent Information System Laboratory, Shenzhen Research Institute of Big Data (SRIBD)

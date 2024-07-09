@@ -12,7 +12,7 @@ address:
   postcode: ''
   country: 
 
-summary: 赵子健，朱光旭，韩凯峰，李晓阳，李航 “基于少样本学习的模型对对象识别的方法及相关设备”
+summary: 赵子健，朱光旭，陈琪美，韩凯峰 “基于少样本学习的模型对对象识别的方法及相关设备”
 abstract: ''
 
 # Talk start and end times.
@@ -27,9 +27,8 @@ publishDate: ''
 authors:
   - admin
   - 朱光旭
+  - 陈琪美
   - 韩凯峰
-  - 李晓阳
-  - 李航
 
 tags: []
 
