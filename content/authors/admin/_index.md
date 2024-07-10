@@ -54,9 +54,9 @@ social:
   - icon: semantic-scholar
     icon_pack: ai
     link: 'https://www.semanticscholar.org/author/Zijian-Zhao/2276001508'
-  - icon: researchgate
-    icon_pack: ai
-    link: 'https://www.researchgate.net/profile/Zijian-Zhao-27'
+#  - icon: researchgate
+#    icon_pack: ai
+#    link: 'https://www.researchgate.net/profile/Zijian-Zhao-27'
   - icon: github
     icon_pack: fab
     link: https://github.com/RS2002
@@ -67,37 +67,37 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:zhaozj28@mail2.sysu.edu.cn'
-  - icon: weixin
-    icon_pack: fab
-    link: uploads/news.jpg
+#  - icon: weixin
+#    icon_pack: fab
+#    link: uploads/news.jpg
   - icon: weibo
     icon_pack: fab
     link: https://weibo.com/u/3829716889
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/zijian-zhao-link/
-  - icon: facebook
-    icon_pack: fab
-    link: https://www.facebook.com/profile.php?id=61552795571337
-  - icon: twitter
-    icon_pack: fab
-    link: https://x.com/RS_zzj
+#  - icon: linkedin
+#    icon_pack: fab
+#    link: https://www.linkedin.com/in/zijian-zhao-link/
+#  - icon: facebook
+#    icon_pack: fab
+#    link: https://www.facebook.com/profile.php?id=61552795571337
+#  - icon: twitter
+#    icon_pack: fab
+#    link: https://x.com/RS_zzj
 
   - icon: soundcloud
     icon_pack: fab
     link: https://music.163.com/#/artist?id=52253597
-  - icon: qq
-    icon_pack: fab
-    link: https://y.qq.com/n/ryqq/singer/000mNtZw0mMXKA
-  - icon: bandcamp
-    icon_pack: fab
-    link: https://news4.bandcamp.com/
+#  - icon: qq
+#    icon_pack: fab
+#    link: https://y.qq.com/n/ryqq/singer/000mNtZw0mMXKA
+#  - icon: bandcamp
+#    icon_pack: fab
+#    link: https://news4.bandcamp.com/
   - icon: bilibili
     icon_pack: fab
     link: https://space.bilibili.com/349124347?spm_id_from=333.1007.0.0
-  - icon: youtube
-    icon_pack: fab
-    link: https://www.youtube.com/channel/UCkshGYrYzSh4mw_APw4KX_w
+#  - icon: youtube
+#    icon_pack: fab
+#    link: https://www.youtube.com/channel/UCkshGYrYzSh4mw_APw4KX_w
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
