@@ -12,7 +12,7 @@ author_notes:
 
 
 date: '2024-07-11T00:00:00Z'
-doi: 'https://doi.org/10.48550/arXiv.2403.12400'
+doi: ''
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ''
