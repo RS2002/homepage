@@ -1,6 +1,6 @@
 ---
 title: LoFi
-summary: Vision-Aided Label Generator for Location and Tracking Wi-Fi Sensing 
+summary: Vision-Aided Label Generator for Wi-Fi Location and Tracking
 tags:
   - Wifi Sensing
 date: '2024-07-12T00:00:00Z'

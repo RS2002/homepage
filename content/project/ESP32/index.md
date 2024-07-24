@@ -1,5 +1,5 @@
 ---
-title: Realtime Wifi Sensing System
+title: Realtime Wi-Fi Sensing System
 summary: Developed on ESP32-S3
 tags:
   - Wifi Sensing
