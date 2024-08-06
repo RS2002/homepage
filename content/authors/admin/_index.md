@@ -66,7 +66,7 @@ social:
 
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:zhaozj28@mail2.sysu.edu.cn'
+    link: 'mailto:zzhaock@connect.ust.hk'
 #  - icon: weixin
 #    icon_pack: fab
 #    link: uploads/news.jpg
