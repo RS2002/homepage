@@ -8,7 +8,7 @@ authors:
   - admin
   - Tingwei Chen
   - Zhijie Cai
-  - Xinhao Li
+  - Xiaoyang Li
   - Hang Li
   - Qimei Chen
   - Guangxu Zhu
