@@ -17,7 +17,7 @@ sections:
       title: Latest News
       subtitle: ''
       text: |-
-        <span style="font-weight: bold;">2024.08</span>: Our paper "<span style="color: blue;">CrossFi: A Cross Domain Wi-Fi Sensing Framework Based on Siamese Network</span>" (to be submitted to IEEE ICASSP 2025) and "<span style="color: blue;">First Token Probability Guided RAG for Telecom Question Answering</span>" has been submitted to IEEE for possible publication.<br>
+        <span style="font-weight: bold;">2024.08</span>: Our paper "<span style="color: blue;">CrossFi: A Cross Domain Wi-Fi Sensing Framework Based on Siamese Network</span>" and "<span style="color: blue;">First Token Probability Guided RAG for Telecom Question Answering</span>" has been submitted to IEEE for possible publication.<br>
         <span style="font-weight: bold;">2024.08</span>: I started my Ph.D. study in HKUST supervised by Prof. Sen Li. (HKUST RedBird Ph.D. Award)<br>
         <span style="font-weight: bold;">2024.08</span>: Our paper "<span style="color: blue;">An Overview of Domain-specific Foundation Model: Key Technologies, Applications and Challenges</span>" has been submitted for possible publication.<br>
         <span style="font-weight: bold;">2024.07</span>: Our paper "<span style="color: blue;">Adversarial-MidiBERT: Symbolic Music Understanding Model Based on Unbias Pre-training and Mask Fine-tuning</span>" (to be submitted to IEEE ICASSP 2025) and "<span style="color: blue;">Modelling the 5G Energy Consumption using Real-world Data: Energy Fingerprint is All You Need</span>" (under review, IEEE WCL) are available in ArXiv.<br> 
