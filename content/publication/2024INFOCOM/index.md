@@ -17,7 +17,7 @@ author_notes:
 
 
 date: '2024-02-06T00:00:00Z'
-doi: 'https://doi.org/10.48550/arXiv.2403.12400'
+doi: '10.1109/INFOCOMWKSHPS61880.2024.10620769'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ''
@@ -47,7 +47,7 @@ featured: true
 # - name: 
 #   url: 
 
-url_pdf: 'http://arxiv.org/abs/2403.12400'
+url_pdf: 'https://ieeexplore.ieee.org/document/10620769'
 url_code: 'https://github.com/RS2002/CSI-BERT'
 url_dataset: 'https://paperswithcode.com/dataset/wigesture'
 url_poster: ''
