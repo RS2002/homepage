@@ -468,8 +468,8 @@ sections:
           tag: '*'
         - name: Strike
           tag: Strike
-        - name: Frozen Devil
-          tag: Frozen Devil
+        - name: Tokamak Disruption
+          tag: Tokamak Disruption
         - name: NEWS
           tag: NEWS
         - name: Rights of Lethe
