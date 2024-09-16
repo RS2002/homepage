@@ -86,6 +86,9 @@ social:
   - icon: soundcloud
     icon_pack: fab
     link: https://music.163.com/#/artist?id=52253597
+  - icon: house
+    icon_pack: fas
+    link: https://tokamak-disruption.netlify.app/
 #  - icon: qq
 #    icon_pack: fab
 #    link: https://y.qq.com/n/ryqq/singer/000mNtZw0mMXKA
