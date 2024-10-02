@@ -1,5 +1,5 @@
 ---
-title: 一种基于强化学习的小型仿生鼠机器人的运动控制方法（人工智能与数字经济广东省实验室（广州）& 中山大学，申请号：2023116499786，2023）
+title: 基于少样本学习的模型对对象识别的方法及相关设备（深圳大数据研究院，申请号：2024110741102，2024）
 
 event: patent
 event_url: 
@@ -12,12 +12,12 @@ address:
   postcode: ''
   country: 
 
-summary: 黄凯，张子韬，赵子健，陶若怡，“一种基于强化学习的小型仿生鼠机器人的运动控制方法”
+summary: 赵子健，朱光旭，陈琪美，韩凯峰 “基于少样本学习的模型对对象识别的方法及相关设备”
 abstract: ''
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2023-03-01T00:00:00Z'
+date: '2024-05-30T00:00:00Z'
 date_end: ''
 all_day: false
 
@@ -25,10 +25,10 @@ all_day: false
 publishDate: ''
 
 authors:
-  - 黄凯
-  - 张子韬
   - admin
-  - 陶若怡
+  - 朱光旭
+  - 陈琪美
+  - 韩凯峰
 
 tags: []
 
