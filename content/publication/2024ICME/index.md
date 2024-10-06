@@ -19,7 +19,7 @@ author_notes:
 
 
 date: '2024-03-13T00:00:00Z'
-doi: 'https://doi.org/10.48550/arXiv.2407.03361'
+doi: '10.1109/ICME57554.2024.10688332'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ''
