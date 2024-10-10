@@ -72,7 +72,7 @@ sections:
           location: Hong Kong, Full-time
           date_start: '2024-09-01'
           date_end: ''
-          description: 'Supervisor: <a href="https://www.smartcityhkust.com/">Prof. Sen Li</a>'
+          description: 'Smart City Lab (Supervisor: <a href="https://www.smartcityhkust.com/">Prof. Sen Li</a>)'
         - title: Industry-University-Research Student
           company: Likelihood Lab
           company_url: 'http://www.maxlikelihood.cn/'
