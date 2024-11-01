@@ -2,7 +2,7 @@
 title: 基于少样本学习的模型对数据分类的方法及相关设备（深圳大数据研究院，申请号：2024108392137，2024）
 
 event: patent
-event_url: 
+event_url:
 
 location: 
 address:

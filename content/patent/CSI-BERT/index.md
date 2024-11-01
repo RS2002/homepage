@@ -2,7 +2,7 @@
 title: 信道状态信息恢复方法及装置、设备、存储介质（深圳大数据研究院，专利号：ZL2024102321250，2024）
 
 event: patent
-event_url: 
+event_url:
 
 location: 
 address:
@@ -12,7 +12,7 @@ address:
   postcode: ''
   country: 
 
-summary: 赵子健，韩凯峰，陈琪美，朱光旭，李晓阳，李航， “一种面向鲁棒无线感知的信道状态信息恢复技术”
+summary: 赵子健，韩凯峰，陈琪美，朱光旭，李晓阳，李航， “信道状态信息恢复方法及装置、设备、存储介质”
 abstract: ''
 
 # Talk start and end times.
