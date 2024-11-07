@@ -506,8 +506,16 @@ sections:
 #       columns: '1'
 
 
+  - block: markdown
+    content:
+      title: Visitors
+      subtitle: ''
+      text: |-
+        <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=QUo4CK3quudq08jfoIegrx0bJVK2lXDx0thb7Z1-7Tc&cl=ffffff&w=a"></script>
+    design:
+      columns: '1'
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=QUo4CK3quudq08jfoIegrx0bJVK2lXDx0thb7Z1-7Tc&cl=ffffff&w=a"></script>
+
 ---
 
 
