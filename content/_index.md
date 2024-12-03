@@ -47,7 +47,7 @@ sections:
         #  icon: newspaper
         #  icon_pack: fas
         - name: Research Service 
-          description: "<span style='display: block; text-align: left;'>CCF Student Member (granted for free)</span><span style='display: block; text-align: left;'>TPC Membership: IEEE PIMRC 2024, IEEE WCNC 2024</span><span style='display: block; text-align: left;'>Technical Reviewer: IEEE ICASSP 2024-2025, IEEE ICME 2024, IEEE SMC 2023, IEEE MTAP</span>"
+          description: "<span style='display: block; text-align: left;'>CCF Student Member (granted for free)</span><span style='display: block; text-align: left;'>TPC Membership: IEEE PIMRC 2024, IEEE WCNC 2024</span><span style='display: block; text-align: left;'>Technical Reviewer: IEEE ICASSP 2024-2025, IEEE ICME 2024-2025, IEEE SMC 2023, IEEE MTAP</span>"
           icon: book
           icon_pack: fas
 
@@ -81,14 +81,14 @@ sections:
           date_start: '2024-02-01'
           date_end: '2024-08-01'
           description: 'Project: Deep Learning Algorithms for Imbalanced Label Problem in High-Frequency Trading'
-        - title: Writing Consultant & Graduate Application Mentor
-          company: FLY Education; Compass Education
-          company_url: 'https://www.linkedin.com/company/fly-education-ltd/'
-          company_logo: FLY
-          location: Online, Part-time
-          date_start: '2023-11-01'
-          date_end: '2024-08-01'
-          description: 'Assisted student in obtaining Master offer from HKU, CityU, and Edin'
+        #   - title: Writing Consultant & Graduate Application Mentor
+        #     company: FLY Education; Compass Education
+        #     company_url: 'https://www.linkedin.com/company/fly-education-ltd/'
+        #     company_logo: FLY
+        #     location: Online, Part-time
+        #     date_start: '2023-11-01'
+        #     date_end: '2024-08-01'
+        #     description: 'Assisted student in obtaining Master offer from HKU, CityU, and Edin'
         - title: Visiting Student 
           company: Data-driven Intelligent Information System Laboratory, Shenzhen Research Institute of Big Data (SRIBD)
           company_url: 'http://www.sribd.cn/'
@@ -96,7 +96,7 @@ sections:
           location: Shenzhen, Full-time
           date_start: '2023-08-01'
           date_end: '2024-08-01'
-          description: 'AI-RAN Lab (Supervisor: <a href="https://sites.google.com/view/guangxuzhu/home">Dr. Guangxu Zhu</a>); Associated with the <a href="https://www.cuhk.edu.cn/zh-hans">Chinese University of Hong Kong, Shenzhen (CUHKSZ)</a>'
+          description: 'AI-RAN Lab (Supervisor: <a href="https://sites.google.com/view/guangxuzhu/home">Prof. Guangxu Zhu</a>); Associated with the <a href="https://www.cuhk.edu.cn/zh-hans">Chinese University of Hong Kong, Shenzhen (CUHKSZ)</a>'
         - title: B.Eng. (2rd~4th Grade)
           company: School of Computer Science and Engineering, Sun Yat-sen University (SYSU)
           company_url: 'https://cse.sysu.edu.cn/'
@@ -105,14 +105,14 @@ sections:
           date_start: '2021-07-01'
           date_end: '2024-07-01'
           description: 'GPA: 4.0/5.0 (90/100); Rank: Top 10% in Major; <a href="https://www.usilab.cn/">Robotic and Intelligence Computing Lab</a> (Supervisor: <a href="https://cse.sysu.edu.cn/content/2466">Prof. Kai Huang</a>), <a href="https://www.sysu-imsl.com/">Intelligent and Multimedia Science Laboratory</a> (<a href="https://cse.sysu.edu.cn/content/2537">Prof. Chengying Gao</a>, <a href="https://cse.sysu.edu.cn/node/2495">Prof. Ning Liu</a>)'
-        - title: Tutor
-          company: Zhangmen Education; Yousi Education
-          company_url: 'http://zhangmentalent.com/'
-          company_logo: ZM
-          location: Online, Part-time
-          date_start: '2020-12-01'
-          date_end: '2021-09-01'
-          description: 'Guided competition student; Helped student increase math score by 30 points in 3 months'
+        #   - title: Tutor
+        #     company: Zhangmen Education; Yousi Education
+        #     company_url: 'http://zhangmentalent.com/'
+        #     company_logo: ZM
+        #     location: Online, Part-time
+        #     date_start: '2020-12-01'
+        #     date_end: '2021-09-01'
+        #     description: 'Guided competition student; Helped student increase math score by 30 points in 3 months'
         - title: B.Eng. (1st Grade)
           company: School of Electronics and Communication Engineering, Sun Yat-sen University (SYSU)
           company_url: 'https://sece.sysu.edu.cn/'
