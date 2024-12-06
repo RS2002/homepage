@@ -13,18 +13,18 @@ main:
   - name: Patents
     url: '#patent'
     weight: 50
-  - name: Projects
-    url: '#projects'
-    weight: 70
+  # - name: Projects
+  #  url: '#projects'
+  #  weight: 70
   - name: Talks
     url: '#talk'
-    weight: 90
+    weight: 70
   - name: Music
     url: '#music'
-    weight: 110
+    weight: 90
   - name: Live
     url: '#live'
-    weight: 130
+    weight: 110
 
 
 

@@ -17,10 +17,11 @@ sections:
       title: Latest News
       subtitle: ''
       text: |-
-        <span style="font-weight: bold;">2024.08</span>: Our paper "<span style="color: blue;">CrossFi: A Cross Domain Wi-Fi Sensing Framework Based on Siamese Network</span>" and "<span style="color: blue;">First Token Probability Guided RAG for Telecom Question Answering</span>" have been submitted to IEEE for possible publication.<br>
+        <span style="font-weight: bold;">2024.12</span>: Our papers "<span style="color: blue;">KNN-MMD: Cross Domain Wi-Fi Sensing Based on Local Distribution Alignment</span>", "<span style="color: blue;">Mining Limited Data Sufficiently: A BERT-inspired Approach for CSI Time Series Application in Wireless Communication and Sensing</span>", "<span style="color: blue;">LoFi: Vision-Aided Label Generator for Wi-Fi Location and Tracking Sensing</span>" are available in ArXiv and will be submitted soon.<br>
+        <span style="font-weight: bold;">2024.08</span>: Our papers "<span style="color: blue;">CrossFi: A Cross Domain Wi-Fi Sensing Framework Based on Siamese Network</span>" and "<span style="color: blue;">First Token Probability Guided RAG for Telecom Question Answering</span>" have been submitted to IEEE for possible publication.<br>
         <span style="font-weight: bold;">2024.08</span>: I started my Ph.D. study in HKUST supervised by Prof. Sen Li. (HKUST RedBird Ph.D. Award)<br>
         <span style="font-weight: bold;">2024.08</span>: Our paper "<span style="color: blue;">An Overview of Domain-specific Foundation Model: Key Technologies, Applications and Challenges</span>" has been submitted for possible publication.<br>
-        <span style="font-weight: bold;">2024.07</span>: Our paper "<span style="color: blue;">Adversarial-MidiBERT: Symbolic Music Understanding Model Based on Unbias Pre-training and Mask Fine-tuning</span>" (under review, IEEE ICASSP 2025) and "<span style="color: blue;">Modelling the 5G Energy Consumption using Real-world Data: Energy Fingerprint is All You Need</span>" (under review, IEEE TVT) are available in ArXiv.<br> 
+        <span style="font-weight: bold;">2024.07</span>: Our papers "<span style="color: blue;">Adversarial-MidiBERT: Symbolic Music Understanding Model Based on Unbias Pre-training and Mask Fine-tuning</span>" (under review, IEEE ICASSP 2025) and "<span style="color: blue;">Modelling the 5G Energy Consumption using Real-world Data: Energy Fingerprint is All You Need</span>" (under review, IEEE TVT) are available in ArXiv.<br> 
         <span style="font-weight: bold;">2024.04</span>: Our paper "<span style="color: blue;">Autonomous Locomotion of a Rat Robot Based on Model-free Reinforcement Learning</span>" has been accepted by <a href="http://www.ieee-arm.org/">IEEE ICARM 2024</a>.<br> 
         <span style="font-weight: bold;">2024.03</span>: Our paper "<span style="color: blue;">PianoBART: Symbolic Piano Music Generation and Understanding with Large-Scale Pre-Training</span>" has been accepted by <a href="https://2024.ieeeicme.org/">ICME 2024</a> (Oral).<br> 
         <span style="font-weight: bold;">2024.02</span>: Our paper "<span style="color: blue;">Finding the Missing Data: A BERT-inspired Approach Against Package Loss in Wireless Sensing</span>" has been accepted by <a href="https://infocom2024.ieee-infocom.org/">IEEE INFOCOM DeepWireless Worshop 2024</a>.
@@ -407,37 +408,37 @@ sections:
       view: citation
 
 
-  - block: portfolio
-    id: projects
-    content:
-      title: Projects
-      filters:
-        folders:
-          - project
-      # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
-      default_button_index: 0
-      # Filter toolbar (optional).
-      # Add or remove as many filters (`filter_button` instances) as you like.
-      # To show all items, set `tag` to "*".
-      # To filter by a specific tag, set `tag` to an existing tag name.
-      # To remove the toolbar, delete the entire `filter_button` block.
-      buttons:
-        - name: All
-          tag: '*'
-        - name: Reinforcement Learning
-          tag: Reinforcement Learning
-        - name: Wi-Fi Sensing
-          tag: Wifi Sensing
-        - name: Music Information Retrieval
-          tag: Music Information Retrieval
-        - name: Other
-          tag: Other
-    design:
-      # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '1'
-      view: showcase
-      # For Showcase view, flip alternate rows?
-      flip_alt_rows: false
+  # - block: portfolio
+  #  id: projects
+  #  content:
+  #    title: Projects
+  #    filters:
+  #      folders:
+  #        - project
+  #    # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
+  #    default_button_index: 0
+  #    # Filter toolbar (optional).
+  #    # Add or remove as many filters (`filter_button` instances) as you like.
+  #    # To show all items, set `tag` to "*".
+  #    # To filter by a specific tag, set `tag` to an existing tag name.
+  #    # To remove the toolbar, delete the entire `filter_button` block.
+  #    buttons:
+  #      - name: All
+  #        tag: '*'
+  #      - name: Reinforcement Learning
+  #        tag: Reinforcement Learning
+  #      - name: Wi-Fi Sensing
+  #        tag: Wifi Sensing
+  #      - name: Music Information Retrieval
+  #        tag: Music Information Retrieval
+  #      - name: Other
+  #        tag: Other
+  #  design:
+  #    # Choose how many columns the section has. Valid values: '1' or '2'.
+  #    columns: '1'
+  #    view: showcase
+  #    # For Showcase view, flip alternate rows?
+  #    flip_alt_rows: false
 
   - block: collection
     id: talk
@@ -470,8 +471,6 @@ sections:
           tag: '*'
         - name: Tokamak Disruption
           tag: Tokamak Disruption
-        - name: Strike
-          tag: Strike
         - name: NEWS
           tag: NEWS
         - name: Rights of Lethe
