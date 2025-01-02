@@ -53,7 +53,7 @@ sections:
         #  icon: newspaper
         #  icon_pack: fas
         - name: Research Service 
-          description: "<span style='display: block; text-align: left;'>CCF Student Member (granted for free)</span><span style='display: block; text-align: left;'>TPC Membership: IEEE PIMRC 2024, IEEE WCNC 2024</span><span style='display: block; text-align: left;'>Technical Reviewer: IEEE IJCNN 2025, IEEE WCNC 2025, IEEE ICASSP 2024-2025, IEEE ICME 2024-2025, IEEE SMC 2023, IEEE MTAP</span>"
+          description: "<span style='display: block; text-align: left;'>CCF Student Member (granted for free)</span><span style='display: block; text-align: left;'>TPC Membership: IEEE PIMRC 2024, IEEE WCNC 2024-2025</span><span style='display: block; text-align: left;'>Technical Reviewer: IEEE IJCNN 2025, IEEE ICASSP 2024-2025, IEEE ICME 2024-2025, IEEE SMC 2023, IEEE MTAP</span>"
           icon: book
           icon_pack: fas
 
