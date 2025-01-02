@@ -32,7 +32,7 @@ publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
 publication: In *IEEE Conference on Multimedia Expo 2024*
-publication_short: In *ICME 2024*
+publication_short: In *IEEE ICME 2024*
 
 abstract: Learning musical structures and composition patterns is necessary for both music generation and understanding, but current methods do not make uniform use of learned features to generate and comprehend music simultaneously. In this paper, we propose PianoBART, a pre-trained model that uses BART for both symbolic piano music generation and understanding. We devise a multi-level object selection strategy for different pre-training tasks of PianoBART, which can prevent information leakage or loss and enhance learning ability. The musical semantics captured in pre-training are fine-tuned for music generation and understanding tasks. Experiments demonstrate that PianoBART efficiently learns musical patterns and achieves outstanding performance in generating high-quality coherent pieces and comprehending music.
 
