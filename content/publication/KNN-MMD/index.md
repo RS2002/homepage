@@ -10,6 +10,7 @@ authors:
   - Tingwei Chen
   - Xiaoyang Li
   - Hang Li
+  - Qimei Chen
   - Guangxu Zhu
 
 # Author notes (optional)
