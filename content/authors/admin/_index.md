@@ -16,10 +16,10 @@ bio: PhD Student in HKUST
 
 # Interests to show in About widget
 interests:
-  - Deep Learning & Reinforcement Learning & Multi-agent
+  - Deep Learning & Reinforcement Learning & Multi-Agent & AI Application
   - Ethical Smart City & Transportation
   - Integrated Sensing and Communication & Network Intelligence
-  - Music Information Retrieval & Multi-modal
+  - Music Information Retrieval & Multi-Modal
 
 # Education to show in About widget
 education:
@@ -111,8 +111,10 @@ highlight_name: true
 
 ---
 
-I'm currently a Ph.D. student in [Department of Civil and Environmental Engineering](https://www.ce.ust.hk/) at [The Hong Kong University of Science and Technology](https://hkust.edu.hk/), under the supervision of [Prof. Sen Li](https://www.smartcityhkust.com/).  I have a very wide-ranging interest in topics related to AI. Currently, my research primarily focuses on the field of Ethical Smart City (Transportation), combined with Multi-agent and Multi-action Deep Reinforcement Learning.
+I'm currently a Ph.D. student in [Department of Civil and Environmental Engineering](https://www.ce.ust.hk/) ([Scientific Computation Concentration](http://www.csc.ust.hk/scc/)) at [The Hong Kong University of Science and Technology](https://hkust.edu.hk/), under the supervision of [Prof. Sen Li](https://www.smartcityhkust.com/).  I have a very wide-ranging interest in topics related to AI. Currently, my research primarily focuses on the field of Ethical Smart City (Transportation), combined with Multi-Agent Deep Reinforcement Learning.
 
-Prior to this, I received my B.Eng. degree from [School of Computer Science and Engineering](https://cse.sysu.edu.cn/) at [Sun Yat-sen University](https://www.sysu.edu.cn/) in 2024, under the supervision of [Prof. Kai Huang](https://cse.sysu.edu.cn/content/2466) (Robot RL), [Prof. Ning Liu](https://cse.sysu.edu.cn/node/2495) and [Prof. Chengying Gao](https://cse.sysu.edu.cn/content/2537) (Music AI). Additionally, I had the privilege of visiting the [Shenzhen Research Institute of Big Data](http://www.sribd.cn/) associated with [The Chinese University of Hong Kong (Shenzhen)](https://www.cuhk.edu.cn/zh-hans) under the guidance of [Prof. Guangxu Zhu](https://sites.google.com/view/guangxuzhu)  for one year, where I also learned from [Prof. ‪Xiaoyang Li‬](https://xiaoyang0118.github.io/) and [Dr. ‪Hang Li‬‬](https://scholar.google.com.hk/citations?user=Y_upHe8AAAAJ&hl=zh-CN&oi=sra) (Wireless Sensing \& Network Optimization).
+Previously, I received my B.Eng. degree from [School of Computer Science and Engineering](https://cse.sysu.edu.cn/) at [Sun Yat-sen University](https://www.sysu.edu.cn/) in 2024, mentored by [Prof. Kai Huang](https://cse.sysu.edu.cn/content/2466) (Robot RL), [Prof. Ning Liu](https://cse.sysu.edu.cn/node/2495) and [Prof. Chengying Gao](https://cse.sysu.edu.cn/content/2537) (Music AI). Additionally, I had the privilege of visiting the [Shenzhen Research Institute of Big Data](http://www.sribd.cn/) associated with [The Chinese University of Hong Kong (Shenzhen)](https://www.cuhk.edu.cn/zh-hans) under the guidance of [Prof. Guangxu Zhu](https://sites.google.com/view/guangxuzhu)  for one year, where I also learned from [Prof. ‪Xiaoyang Li‬](https://xiaoyang0118.github.io/) and [Dr. ‪Hang Li‬‬](https://scholar.google.com.hk/citations?user=Y_upHe8AAAAJ&hl=zh-CN&oi=sra) (Wireless Sensing \& Network Optimization).
 
-Aside from academics, I'm a music enthusiast, having been a singer and guitarist & bassist in bands [Tokamak Disruption 托卡马克崩坏](https://tokamak-disruption.netlify.app/) (alternative metal), [NEWS](https://music.163.com/#/artist?id=52253597) (alternative rock, current my personal band) and [Rights of Lethe](https://music.163.com/#/artist?id=52435898) (melodic death metal, dissolved).  I have a strong passion for heavy rock music, particularly alternative punk, melodic death metal, dark metal, and deathcore. If you are interested in playing or collaborating with us, please feel free to reach out to me via mail.  For information about our shows and ticket purchases, you can visit [xiudong(秀动)](https://wap.showstart.com/pages/site/artist/artist?id=4832274) and [tonggan(同感)](https://github.com/RS2002/homepage/blob/main/static/uploads/tonggan.jpg).
+If you are interested in collaborating with me, please feel free to reach out via email. Beyond my primary research interests, I am also keen on NLP, few-shot learning, cross-domain tasks, time series processing, and more.
+
+Aside from academics, I'm a music enthusiast, having been a singer and guitarist & bassist in bands [Tokamak Disruption (托卡马克崩坏)](https://tokamak-disruption.netlify.app/) (alternative metal), [NEWS](https://music.163.com/#/artist?id=52253597) (alternative rock, current my personal band) and [Rights of Lethe](https://music.163.com/#/artist?id=52435898) (melodic death metal, dissolved).  I have a strong passion for heavy rock music, particularly alternative punk, melodic death metal, dark metal, and deathcore. If you are interested in playing or collaborating with us, please don’t hesitate to contact me via email.  For information about our shows and ticket purchases, you can visit [XiuDong (秀动)](https://wap.showstart.com/pages/site/artist/artist?id=4832274) and [TongGan (同感)](https://github.com/RS2002/homepage/blob/main/static/uploads/tonggan.jpg).
