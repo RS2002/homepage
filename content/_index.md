@@ -17,6 +17,7 @@ sections:
       title: Latest News
       subtitle: ''
       text: |-
+        <span style="font-weight: bold;">2025.02</span>: I am awarded the Elite Scholarship from Likelihood Lab. <br>
         <span style="font-weight: bold;">2025.01</span>: Our papers "<span style="color: blue;">KNN-MMD: Cross Domain Wireless Sensing via Local Distribution Alignment</span>" and "<span style="color: blue;">LoFi: Vision-Aided Label Generator for Wi-Fi Localization and Tracking</span>" have been submitted for possible publication.<br> 
         <span style="font-weight: bold;">2025.01</span>: Our paper "<span style="color: blue;">Discriminatory Order Assignment and Payment-Setting of On-Demand Food-Delivery Platforms: A Multi-Action and Multi-Agent Reinforcement Learning Framework</span>" and a conference version "<span style="color: blue;">Multi-Action and Multi-Agent Reinforcement Learning for Discriminatory Order Assignment and Payment Setting on Food-Delivery Platform</span>" have been submitted for possible publication.<br> 
         <span style="font-weight: bold;">2024.08</span>: Our papers "<span style="color: blue;">CrossFi: A Cross Domain Wi-Fi Sensing Framework Based on Siamese Network</span>" and "<span style="color: blue;">First Token Probability Guided RAG for Telecom Question Answering</span>" have been submitted for possible publication.<br>
@@ -26,8 +27,9 @@ sections:
         <span style="font-weight: bold;">2024.04</span>: Our paper "<span style="color: blue;">Autonomous Locomotion of a Rat Robot Based on Model-free Reinforcement Learning</span>" has been accepted by <a href="http://www.ieee-arm.org/">IEEE ICARM 2024</a>.<br> 
         <span style="font-weight: bold;">2024.03</span>: Our paper "<span style="color: blue;">PianoBART: Symbolic Piano Music Generation and Understanding with Large-Scale Pre-Training</span>" has been accepted by <a href="https://2024.ieeeicme.org/">IEEE ICME 2024</a> (Oral).<br> 
         <span style="font-weight: bold;">2024.02</span>: Our paper "<span style="color: blue;">Finding the Missing Data: A BERT-inspired Approach Against Package Loss in Wireless Sensing</span>" has been accepted by <a href="https://infocom2024.ieee-infocom.org/">IEEE INFOCOM DeepWireless Worshop 2024</a>. <br>
+        <span style="font-weight: bold;">2023.12</span>: Our group won the runner up 2nd place prize in the AI/ML for 5G-Energy Consumption Modelling Global Challenge and the third prize for the First Wi-Fi Sensing Contest in the track of detection and localization. <br>
+        <span style="font-weight: bold;">2023.12</span>: Our paper "<span style="color: blue;">Adaptive Quadruped Locomotion of a Rat Robot Based on a Hierarchical Reinforcement Learning Framework</span>" is selected into Best Paper Award Finalist in Biomimetics by <a href="http://robio2023.org/Awards.html">IEEE ROBIO 2023</a>. <br>
 #        <span style="font-weight: bold;">2023.12</span>: Our papers "<span style="color: blue;">Finding the Missing Data: A BERT-inspired Approach Against Package Loss in Wireless Sensing</span>", "<span style="color: blue;">PianoBART: Symbolic Piano Music Generation and Understanding with Large-Scale Pre-Training</span>", and "<span style="color: blue;">Autonomous Locomotion of a Rat Robot Based on Model-free Reinforcement Learning</span>" have been submitted for possible publication.<br>
-#        <span style="font-weight: bold;">2023.12</span>: Our paper "<span style="color: blue;">Adaptive Quadruped Locomotion of a Rat Robot Based on a Hierarchical Reinforcement Learning Framework</span>" is selected into Best Paper Award Finalist in Biomimetics by <a href="http://robio2023.org/Awards.html">IEEE ROBIO 2023</a>. <br>
 #        <span style="font-weight: bold;">2023.10</span>: Our paper "<span style="color: blue;">Adaptive Quadruped Locomotion of a Rat Robot Based on a Hierarchical Reinforcement Learning Framework</span>" has been accepted by <a href="https://robio2023.org/">IEEE ROBIO 2023</a>. <br>
 #        <span style="font-weight: bold;">2023.08</span>: I started my visiting study in SRIBD associated with CUHK(SZ) supervised by Dr. Guangxu Zhu.
     design:
@@ -53,7 +55,7 @@ sections:
         #  icon: newspaper
         #  icon_pack: fas
         - name: Research Service 
-          description: "<span style='display: block; text-align: left;'>CCF Student Member (granted for free)</span><span style='display: block; text-align: left;'>TPC Membership: IEEE PIMRC 2024, IEEE WCNC 2024-2025</span><span style='display: block; text-align: left;'>Technical Reviewer: IEEE IJCNN 2025, IEEE ICASSP 2024-2025, IEEE ICME 2024-2025, IEEE SMC 2023, IEEE MTAP</span>"
+          description: "<span style='display: block; text-align: left;'>CCF Student Member (granted for free)</span><span style='display: block; text-align: left;'>TPC Membership: IEEE PIMRC 2024, IEEE WCNC 2024-2025</span><span style='display: block; text-align: left;'>Technical Reviewer: ACL 2025, IEEE ICME 2024-2025, IEEE ICASSP 2024-2025, IEEE IJCNN 2025, IEEE WCNC 2024-2025, IEEE PIMRC 2024, IEEE SMC 2023, IEEE MTAP</span>"
           icon: book
           icon_pack: fas
 
@@ -144,6 +146,14 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - certificate_url: 
+          date_end: ''
+          date_start: '2025-02-07'
+          description: 'Bonus: 5,000 CNY'
+          organization: Likelihood Lab
+          organization_url: http://www.maxlikelihood.cn/
+          title: Elite Scholarship of Likelihood Lab
+          url: ''
         - certificate_url: 
           date_end: ''
           date_start: '2024-08-06'
