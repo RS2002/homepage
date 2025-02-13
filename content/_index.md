@@ -17,6 +17,7 @@ sections:
       title: Latest News
       subtitle: ''
       text: |-
+        <span style="font-weight: bold;">2025.02</span>: Our paper "<span style="color: blue;">CrossFi: A Cross Domain Wi-Fi Sensing Framework Based on Siamese Network</span>" has been accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6488907">IEEE IOTJ</a>. <br>
         <span style="font-weight: bold;">2025.02</span>: We have released the first stage lighting dataset <a href="https://zenodo.org/records/14854217?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjM5MDcwY2E5LTY0MzUtNGZhZC04NzA4LTczMjNhNTZiOGZmYSIsImRhdGEiOnt9LCJyYW5kb20iOiI1YWRkZmNiMmYyOGNiYzI4ZWUxY2QwNTAyY2YxNTY4ZiJ9.0Jr6GYfyyn02F96eVpkjOtcE-MM1wt-_ctOshdNGMUyUKI15-9Rfp9VF30_hYOTqv_9lLj-7Wj0qGyR3p9cA5w">Rock, Punk, Metal, Core - Livehouse Lighting (RPMC-L2)</a>. The corresponding paper will be avilable soon. <br>
         <span style="font-weight: bold;">2025.02</span>: I am awarded the Elite Scholarship from Likelihood Lab. <br>
         <span style="font-weight: bold;">2025.01</span>: Our papers "<span style="color: blue;">KNN-MMD: Cross Domain Wireless Sensing via Local Distribution Alignment</span>" and "<span style="color: blue;">LoFi: Vision-Aided Label Generator for Wi-Fi Localization and Tracking</span>" have been submitted for possible publication.<br> 
@@ -56,7 +57,7 @@ sections:
         #  icon: newspaper
         #  icon_pack: fas
         - name: Research Service 
-          description: "<span style='display: block; text-align: left;'>CCF Student Member (granted for free)</span><span style='display: block; text-align: left;'>TPC Membership: IEEE PIMRC 2024, IEEE WCNC 2024-2025</span><span style='display: block; text-align: left;'>Technical Reviewer: ACL 2025, IEEE ICME 2024-2025, IEEE ICASSP 2024-2025, IEEE IJCNN 2025, IEEE WCNC 2024-2025, IEEE PIMRC 2024, IEEE SMC 2023, IEEE MTAP</span>"
+          description: "<span style='display: block; text-align: left;'>CCF Student Member (granted for free)</span><span style='display: block; text-align: left;'>TPC Membership: IEEE PIMRC 2024, IEEE WCNC 2024-2025</span><span style='display: block; text-align: left;'>Technical Reviewer: ICLR 2025, ACL 2025, IEEE ICME 2024-2025, IEEE ICASSP 2024-2025, IEEE IJCNN 2025, IEEE WCNC 2024-2025, IEEE PIMRC 2024, IEEE SMC 2023, IEEE MTAP</span>"
           icon: book
           icon_pack: fas
 
