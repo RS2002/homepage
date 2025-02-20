@@ -1,13 +1,13 @@
 ---
-title: 秋分序曲
+title: 奥音空间 新年音乐会
 
 event: livehouse
-event_url: https://mp.weixin.qq.com/s/a2OPBaMO1XHMbSy4g_xJ3A
+event_url: 
 
-location: POOL BAR
+location: 奥音空间
 address:
-  street: 珠海市香洲区前山乐士文化区2栋B114
-  city: 珠海市
+  street: 海珠区艺苑南路13号布衣港电商产业园11栋一单元201B
+  city: 广州市
   region: 广东省
   postcode: ''
   country: 中国
@@ -17,12 +17,12 @@ abstract: ''
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-09-20T21:00:00Z'
-date_end: '2024-09-20T23:30:00Z'
+date: '2025-02-22T18:00:00Z'
+date_end: '2025-02-22T22:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2024-09-07T00:00:00Z'
+publishDate: '2025-02-22T00:00:00Z'
 
 authors: []
 tags: []
@@ -34,7 +34,7 @@ image:
   caption: ''
   focal_point: Right
 
-url_slides: 'https://mp.weixin.qq.com/s/a2OPBaMO1XHMbSy4g_xJ3A'
+url_slides: ''
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
