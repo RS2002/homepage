@@ -17,8 +17,8 @@ authors:
 author_notes:
 
 
-date: '2024-08-21T00:00:00Z'
-doi: 'https://doi.org/10.48550/arXiv.2408.10919'
+date: '2025-02-18T00:00:00Z'
+doi: '10.1109/JIOT.2025.3542850'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ''
@@ -48,7 +48,7 @@ featured: true
 # - name: 
 #   url: 
 
-url_pdf: 'https://arxiv.org/abs/2408.10919v1'
+url_pdf: 'https://ieeexplore.ieee.org/document/10891488'
 url_code: 'https://github.com/RS2002/CrossFi'
 
 # Featured image
