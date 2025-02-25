@@ -1,5 +1,5 @@
 ---
-title: 奥音空间 新年音乐会
+title: 新年音乐会
 
 event: livehouse
 event_url: 
