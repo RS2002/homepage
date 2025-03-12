@@ -16,8 +16,8 @@ bio: PhD Student in HKUST
 
 # Interests to show in About widget
 interests:
-  - Deep Learning & Reinforcement Learning & Multi-Agent & AI Application
-  - Ethical Smart City & Transportation
+  - Deep Learning & Reinforcement Learning & Multi-Agent & Applied AI
+  - Smart City & Intelligent Transportation
   - Integrated Sensing and Communication & Network Intelligence
   - Music Information Retrieval & Multi-Modal
 
@@ -113,7 +113,7 @@ highlight_name: true
 
 I'm currently a Ph.D. student in [Department of Civil and Environmental Engineering](https://www.ce.ust.hk/) ([Scientific Computation Concentration](http://www.csc.ust.hk/scc/)) at [The Hong Kong University of Science and Technology](https://hkust.edu.hk/), under the supervision of [Prof. Sen Li](https://www.smartcityhkust.com/).  I have a very wide-ranging interest in topics related to AI. Currently, my research primarily focuses on the field of Ethical Smart City (Transportation), combined with Multi-Agent Deep Reinforcement Learning.
 
-Previously, I received my B.Eng. degree from [School of Computer Science and Engineering](https://cse.sysu.edu.cn/) at [Sun Yat-sen University](https://www.sysu.edu.cn/) in 2024, mentored by [Prof. Kai Huang](https://cse.sysu.edu.cn/content/2466) (Robot RL), [Prof. Ning Liu](https://cse.sysu.edu.cn/node/2495) and [Prof. Chengying Gao](https://cse.sysu.edu.cn/content/2537) (Music AI). Additionally, I had the privilege of visiting the [Shenzhen Research Institute of Big Data](http://www.sribd.cn/) associated with [The Chinese University of Hong Kong (Shenzhen)](https://www.cuhk.edu.cn/zh-hans) under the guidance of [Prof. Guangxu Zhu](https://sites.google.com/view/guangxuzhu)  for one year, where I also learned from [Prof. ‪Xiaoyang Li‬](https://xiaoyang0118.github.io/) and [Dr. ‪Hang Li‬‬](https://scholar.google.com.hk/citations?user=Y_upHe8AAAAJ&hl=zh-CN&oi=sra) (Wireless Sensing \& Network Optimization).
+Previously, I received my B.Eng. degree from [School of Computer Science and Engineering](https://cse.sysu.edu.cn/) at [Sun Yat-sen University](https://www.sysu.edu.cn/) in 2024, mentored by [Prof. Kai Huang](https://cse.sysu.edu.cn/content/2466) (Embodied AI), [Prof. Ning Liu](https://cse.sysu.edu.cn/node/2495) and [Prof. Chengying Gao](https://cse.sysu.edu.cn/content/2537) (Music AI). Additionally, I had the privilege of visiting the [Shenzhen Research Institute of Big Data](http://www.sribd.cn/) associated with [The Chinese University of Hong Kong (Shenzhen)](https://www.cuhk.edu.cn/zh-hans) under the guidance of [Prof. Guangxu Zhu](https://sites.google.com/view/guangxuzhu)  for one year, where I also learned from [Prof. ‪Xiaoyang Li‬](https://xiaoyang0118.github.io/) and [Dr. ‪Hang Li‬‬](https://scholar.google.com.hk/citations?user=Y_upHe8AAAAJ&hl=zh-CN&oi=sra) (Wireless Sensing \& Network Optimization).
 
 If you are interested in collaborating with me, please feel free to reach out via email. Beyond my primary research interests, I am also keen on NLP, few-shot learning, transfer learning, pre-training, cross domain tasks, time series tasks, embodied AI, HCI, and more.
 
