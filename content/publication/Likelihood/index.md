@@ -10,7 +10,6 @@ authors:
   - Jiayu Wen
   - Mingwen Liu
   - Xiaoteng Ma
-  - Zhipeng Liang
 
 # Author notes (optional)
 author_notes:
@@ -29,8 +28,8 @@ publishDate: ''
 publication_types: ['4']
 
 # Publication name and optional abbreviated publication name.
-publication: In *under review*
-publication_short: In *under review*
+publication: In *ArXiv Technical Report*
+publication_short: In *ArXiv Technical Report*
 
 abstract: In financial trading, return prediction is one of the foundation for a successful trading system. By the fast development of the deep learning in various areas such as graphical processing, natural language, it has also demonstrate significant edge in handling with financial data. While the success of the deep learning relies on huge amount of labeled sample, labeling each time/event as profitable or unprofitable, under the transaction cost, especially in the high-frequency trading world, suffers from serious label imbalance issue. In this paper, we adopts rigurious end-to-end deep learning framework with comprehensive label imbalance adjustment methods and succeed in predicting in high-frequency return in the Chinese future market. The code for our method is publicly available at https://github.com/RS2002/Label-Unbalance-in-High-Frequency-Trading .
 
