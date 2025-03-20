@@ -6,7 +6,7 @@ title: 'Label Unbalance in High-frequency Trading'
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Xuming Chen
+  - Xuming Zhang
   - Jiayu Wen
   - Mingwen Liu
   - Xiaoteng Ma
@@ -16,7 +16,7 @@ author_notes:
 
 
 date: '2025-03-13T00:00:00Z'
-doi: ''
+doi: 'https://doi.org/10.48550/arXiv.2503.09988'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ''
@@ -46,10 +46,10 @@ featured: false
 # - name: 
 #   url: 
 
-url_pdf: ''
+url_pdf: 'https://arxiv.org/abs/2503.09988'
 url_code: 'https://github.com/RS2002/Label-Unbalance-in-High-Frequency-Trading'
 url_dataset: ''
-url_poster: ''
+url_poster: 'https://mp.weixin.qq.com/s/Uhp8GDqV89cYzAoTNbpRQw'
 url_project: ''
 
 

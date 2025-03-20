@@ -42,7 +42,7 @@ featured: false
 # - name: 
 #   url: 
 
-url_pdf: ''
+url_pdf: 'https://arxiv.org/abs/2407.08306'
 url_code: 'https://github.com/RS2002/Adversarial-MidiBERT'
 url_dataset: ''
 url_poster: ''
