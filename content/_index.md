@@ -17,6 +17,7 @@ sections:
       title: Latest News
       subtitle: ''
       text: |-
+        <span style="font-weight: bold;">2025.04</span>: Our paper "<span style="color: blue;">Let Network Decide What to Learn: Symbolic Music Understanding Model Based on Large-scale Adversarial Pre-training</span>" has been accepted by <a href="https://www.icmr-2025.org/">ACM ICMR 2025</a>. <br>
         <span style="font-weight: bold;">2025.04</span>: Our paper "<span style="color: blue;">The Impacts of Data Privacy Regulations on Food-Delivery Platforms</span>" has been submitted for possible publication.<br>
         <span style="font-weight: bold;">2025.03</span>: Our technical report "<span style="color: blue;">Label Unbalance in High-frequency Trading</span>" has been available in ArXiv and has been reported in <a href="https://mp.weixin.qq.com/s/Uhp8GDqV89cYzAoTNbpRQw">QuantML</a>.<br>
         <span style="font-weight: bold;">2025.02</span>: We have uploaded the WiGesture dataset in <a href="http://www.sdp8.net/Dataset?id=5d4ee7ca-d0b0-45e3-9510-abb6e9cdebf9">Sensing Dataset Platform (SDP)</a>, which can be used for Wi-Fi gesture recognition, people identification, and cross-domain tasks.<br>
@@ -60,7 +61,7 @@ sections:
         #  icon: newspaper
         #  icon_pack: fas
         - name: Research Service 
-          description: "<span style='display: block; text-align: left;'>CCF Student Member (granted for free)</span><span style='display: block; text-align: left;'>TPC Membership: IEEE PIMRC 2024, IEEE WCNC 2024-2025</span><span style='display: block; text-align: left;'>Technical Reviewer: ICLR 2025, ACL 2025, IEEE ICME 2024-2025, IEEE ICASSP 2024-2025, IEEE IJCNN 2025, IEEE WCNC 2024-2025, IEEE PIMRC 2024, IEEE SMC 2023, IEEE MTAP</span>"
+          description: "<span style='display: block; text-align: left;'>ACM Student Member, CCF Student Member (granted for free)</span><span style='display: block; text-align: left;'>TPC Membership: IEEE PIMRC 2024, IEEE WCNC 2024-2025</span><span style='display: block; text-align: left;'>Technical Reviewer: ICLR 2025, ACL 2025, IEEE ICME 2024-2025, IEEE ICASSP 2024-2025, IEEE IJCNN 2025, IEEE WCNC 2024-2025, IEEE PIMRC 2024, IEEE SMC 2023, IEEE MTAP</span>"
           icon: book
           icon_pack: fas
 
