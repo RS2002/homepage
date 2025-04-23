@@ -51,6 +51,12 @@ social:
   - icon: orcid
     icon_pack: ai
     link: 'https://orcid.org/0000-0002-3326-9650'
+  - icon: dblp
+    icon_pack: ai
+    link: 'https://dblp.org/pid/42/2820-2.html'
+  - icon: file
+    icon_pack: far
+    link: 'https://openreview.net/profile?id=~Zijian_Zhao7'
 #  - icon: semantic-scholar
 #    icon_pack: ai
 #    link: 'https://www.semanticscholar.org/author/Zijian-Zhao/2276001508'
