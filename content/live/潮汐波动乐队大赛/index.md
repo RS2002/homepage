@@ -2,11 +2,11 @@
 title: 潮汐波动乐队大赛
 
 event: livehouse
-event_url: 
+event_url: https://mp.weixin.qq.com/s/tBGASP8o4IwL7dQgj2o9zA
 
-location: 乐坊Livehouse
+location: POOL BAR
 address:
-  street: 珠海市香洲区前山岱山路70号珠海乐士文化区
+  street: 珠海市香洲区前山乐士文化区2栋B114
   city: 珠海市
   region: 广东省
   postcode: ''
@@ -17,8 +17,8 @@ abstract: ''
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2025-03-22T14:00:00Z'
-date_end: '2025-03-22T16:00:00Z'
+date: '2025-04-26T21:30:00Z'
+date_end: '2025-04-26T23:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -34,7 +34,7 @@ image:
   caption: ''
   focal_point: Right
 
-url_slides: ''
+url_slides: 'https://mp.weixin.qq.com/s/tBGASP8o4IwL7dQgj2o9zA'
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
