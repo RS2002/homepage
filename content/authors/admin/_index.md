@@ -16,7 +16,7 @@ bio: PhD Student in HKUST
 
 # Interests to show in About widget
 interests:
-  - Deep Learning & Reinforcement Learning & Multi-Agent & Applied AI
+  - Deep Learning & Reinforcement Learning & Applied AI
   - Smart City & Intelligent Transportation
   - Integrated Sensing and Communication & Network Intelligence
   - Music Information Retrieval & Multi-Modal
@@ -73,21 +73,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:zzhaock@connect.ust.hk'
-#  - icon: weixin
-#    icon_pack: fab
-#    link: uploads/news.jpg
   - icon: weibo
     icon_pack: fab
     link: https://weibo.com/u/3829716889
-#  - icon: linkedin
-#    icon_pack: fab
-#    link: https://www.linkedin.com/in/zijian-zhao-link/
-#  - icon: facebook
-#    icon_pack: fab
-#    link: https://www.facebook.com/profile.php?id=61552795571337
-#  - icon: twitter
-#    icon_pack: fab
-#    link: https://x.com/RS_zzj
 
   - icon: soundcloud
     icon_pack: fab
@@ -95,18 +83,12 @@ social:
   - icon: house
     icon_pack: fas
     link: https://tokamak-disruption.netlify.app/
-#  - icon: qq
-#    icon_pack: fab
-#    link: https://y.qq.com/n/ryqq/singer/000mNtZw0mMXKA
 #  - icon: bandcamp
 #    icon_pack: fab
 #    link: https://news4.bandcamp.com/
   - icon: bilibili
     icon_pack: fab
     link: https://space.bilibili.com/349124347?spm_id_from=333.1007.0.0
-#  - icon: youtube
-#    icon_pack: fab
-#    link: https://www.youtube.com/channel/UCkshGYrYzSh4mw_APw4KX_w
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
@@ -117,10 +99,8 @@ highlight_name: true
 
 ---
 
-I'm currently a Ph.D. student in [Department of Civil and Environmental Engineering](https://www.ce.ust.hk/) ([Scientific Computation Concentration](http://www.csc.ust.hk/scc/)) at [The Hong Kong University of Science and Technology](https://hkust.edu.hk/), under the supervision of [Prof. Sen Li](https://www.smartcityhkust.com/).  I have a very wide-ranging interest in topics related to AI. Currently, my research primarily focuses on the field of Ethical Smart City (Transportation), combined with Multi-Agent Deep Reinforcement Learning.
+I'm currently a Ph.D. student in [Department of Civil and Environmental Engineering](https://www.ce.ust.hk/) ([Scientific Computation Concentration](http://www.csc.ust.hk/scc/)) at [The Hong Kong University of Science and Technology](https://hkust.edu.hk/), under the supervision of [Prof. Sen Li](https://www.smartcityhkust.com/). My current research primarily focuses on Deep Reinforcement Learning and Intelligent Transportation.
 
-Previously, I received my B.Eng. degree from [School of Computer Science and Engineering](https://cse.sysu.edu.cn/) at [Sun Yat-sen University](https://www.sysu.edu.cn/) in 2024, mentored by [Prof. Kai Huang](https://cse.sysu.edu.cn/content/2466) (Embodied AI), [Prof. Ning Liu](https://cse.sysu.edu.cn/node/2495) and [Prof. Chengying Gao](https://cse.sysu.edu.cn/content/2537) (Music AI). Additionally, I had the privilege of visiting the [Shenzhen Research Institute of Big Data](http://www.sribd.cn/) associated with [The Chinese University of Hong Kong (Shenzhen)](https://www.cuhk.edu.cn/zh-hans) under the guidance of [Prof. Guangxu Zhu](https://sites.google.com/view/guangxuzhu)  for one year, where I also learned from [Prof. ‪Xiaoyang Li‬](https://xiaoyang0118.github.io/) and [Dr. ‪Hang Li‬‬](https://scholar.google.com.hk/citations?user=Y_upHe8AAAAJ&hl=zh-CN&oi=sra) (Wireless Sensing \& Network Optimization).
+I received my B.Eng. degree from [School of Computer Science and Engineering](https://cse.sysu.edu.cn/) at [Sun Yat-sen University](https://www.sysu.edu.cn/) in 2024, mentored by [Prof. Kai Huang](https://cse.sysu.edu.cn/content/2466), [Prof. Ning Liu](https://cse.sysu.edu.cn/node/2495) and [Prof. Chengying Gao](https://cse.sysu.edu.cn/content/2537). I was also a visiting student in [Shenzhen Research Institute of Big Data](http://www.sribd.cn/) at [The Chinese University of Hong Kong (Shenzhen)](https://www.cuhk.edu.cn/zh-hans)  from 2023 to 2024, under the guidance of [Prof. Guangxu Zhu](https://sites.google.com/view/guangxuzhu).
 
-If you are interested in collaborating with me, please feel free to reach out via email. Beyond my primary research interests, I am also keen on NLP, few-shot learning, transfer learning, pre-training, cross domain tasks, time series tasks, HCI, and more.
-
-Aside from academics, I'm a music enthusiast, having been a singer and guitarist & bassist in bands [Tokamak Disruption (托卡马克崩坏)](https://tokamak-disruption.netlify.app/) (alternative metal), [NEWS](https://music.163.com/#/artist?id=52253597) (alternative rock, current my personal band) and [Rights of Lethe](https://music.163.com/#/artist?id=52435898) (melodic death metal, dissolved).  I have a strong passion for heavy rock music, particularly alternative punk, melodic death metal, dark metal, and deathcore. If you are interested in playing or collaborating with us, please don’t hesitate to contact me via email.  For information about our shows and ticket purchases, you can visit [XiuDong (秀动)](https://wap.showstart.com/pages/site/artist/artist?id=4832274) and [TongGan (同感)](https://github.com/RS2002/homepage/blob/main/static/uploads/tonggan.jpg).
+Aside from academics, I'm also the vocal and rhythm guitar of [Tokamak Disruption](https://tokamak-disruption.netlify.app/), [NEWS](https://music.163.com/#/artist?id=52253597) (personal band) and [Rights of Lethe](https://music.163.com/#/artist?id=52435898) (dissolved). If you are interested in collaborating with me (whether in academia or music), please feel free to reach out!
