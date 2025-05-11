@@ -1,13 +1,13 @@
 ---
-title: 潮汐波动乐队大赛
+title: 岭南乐队Pi计划
 
 event: contest
-event_url: https://mp.weixin.qq.com/s/tBGASP8o4IwL7dQgj2o9zA
+event_url: 
 
-location: POOL BAR
+location: OMG岭南购物城
 address:
-  street: 珠海市香洲区前山乐士文化区2栋B114
-  city: 珠海市
+  street: 番禺区健康路21号
+  city: 广州市
   region: 广东省
   postcode: ''
   country: 中国
@@ -17,12 +17,12 @@ abstract: ''
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2025-04-26T21:30:00Z'
-date_end: '2025-04-26T23:00:00Z'
+date: '2025-05-25T19:30:00Z'
+date_end: '2025-05-25T23:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2025-03-20T00:00:00Z'
+publishDate: '2025-05-10T00:00:00Z'
 
 authors: []
 tags: []
@@ -34,7 +34,7 @@ image:
   caption: ''
   focal_point: Right
 
-url_slides: 'https://mp.weixin.qq.com/s/tBGASP8o4IwL7dQgj2o9zA'
+url_slides: ''
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
