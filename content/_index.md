@@ -17,7 +17,7 @@ sections:
       title: Latest News
       subtitle: ''
       text: |-
-        <span style="font-weight: bold;">2025.05</span>: Our paper "<span style="color: blue;">Triple-BERT: Do We Really Need MARL in Large-Scale Order Dispatching?</span>" has been submitted for possible publication.<br>
+        <span style="font-weight: bold;">2025.05</span>: Our paper "<span style="color: blue;">Triple-BERT: Do We Really Need MARL for Ride-Sharing Order Dispatch?</span>" has been submitted for possible publication.<br>
         <span style="font-weight: bold;">2025.05</span>: Our technical report "<span style="color: blue;">A Short Overview of Multi-Modal Wi-Fi Sensing</span>" has been available in ArXiv.<br>
         <span style="font-weight: bold;">2025.04</span>: Our paper "<span style="color: blue;">Let Network Decide What to Learn: Symbolic Music Understanding Model Based on Large-scale Adversarial Pre-training</span>" has been accepted by <a href="https://www.icmr-2025.org/">ACM ICMR 2025</a>. <br>
         <span style="font-weight: bold;">2025.04</span>: Our paper "<span style="color: blue;">The Impacts of Data Privacy Regulations on Food-Delivery Platforms</span>" has been submitted for possible publication.<br>
@@ -46,24 +46,28 @@ sections:
   - block: features
     id: skills
     content:
-      title: Skills
+      title: Activity and Service
       items:
-        - name: Code
-          description: "<span style='display: block; text-align: left;'>C/C++ (CCF-CSP:320, Top 0.8%), Python, Matlab</span>"
+        - name: Skill
+          description: "<span style='display: block; text-align: left;'>Code: C/C++ (CCF-CSP:320, Top 0.8%), Python, Matlab</span> <span style='display: block; text-align: left;'>Music: Guitar, Bass, Keyboard</span>"
 # <span style='display: block; text-align: left;'>Proficient in: C/C++ (CCF-CSP:320, Top 0.8%), Python, Matlab, Pytorch</span><span style='display: block; text-align: left;'>Familiar with: MySQL, Git, Linux, ESP32</span><span style='display: block; text-align: left;'>Knowledgeable in: TensorFlow, Java, Assembly, Verilog, Lingo, Web Scraping, Flask, QT, Docker, Raspberry Pi, LLM API</span>
           icon: code
           icon_pack: fas
-        - name: Music
-          description: "<span style='display: block; text-align: left;'> Guitar, Bass, Keyboard, Ukulele, and Simple Drum </span>"
-# <span style='display: block; text-align: left;'>Proficient in: Electric Guitar, Acoustic Guitar, Keyboard (Grade 10)</span><span style='display: block; text-align: left;'>Familiar with: Songwriting, Extreme Vocals, Hulusi, Ukulele, Music Theory (Grade C)</span><span style='display: block; text-align: left;'>Knowledgeable in: Electric Bass, Piano, Drums, Harmonica
-          icon: music
+        - name: Teaching
+          description: "<span style='display: block; text-align: left;'>Interview: HKUST JUPAS 2025</span>"
+          icon: school
           icon_pack: fas
+#        - name: Music
+#          description: "<span style='display: block; text-align: left;'> Guitar, Bass, Keyboard, Ukulele, and Simple Drum </span>"
+# <span style='display: block; text-align: left;'>Proficient in: Electric Guitar, Acoustic Guitar, Keyboard (Grade 10)</span><span style='display: block; text-align: left;'>Familiar with: Songwriting, Extreme Vocals, Hulusi, Ukulele, Music Theory (Grade C)</span><span style='display: block; text-align: left;'>Knowledgeable in: Electric Bass, Piano, Drums, Harmonica
+#          icon: music
+#          icon_pack: fas
         #- name: Language
         #  description: "<span style='display: block; text-align: left;'>English (IELTS:6.5, CET-4:605, CET-6: 561)</span><span style='display: block; text-align: left;'>Chinese (mother tongue)</span>"
         #  icon: newspaper
         #  icon_pack: fas
         - name: Research Service 
-          description: "<span style='display: block; text-align: left;'>Society Membership: ACM Student Member, CCF Student Member</span><span style='display: block; text-align: left;'>TPC Membership: IEEE PIMRC 2024, IEEE WCNC 2024-2025</span><span style='display: block; text-align: left;'>Technical Reviewer: NeurIPS 2025, ICLR 2025, ACL 2025, IEEE ICME 2024-2025, IEEE ICASSP 2024-2025, IEEE IJCNN 2025, IEEE WCNC 2024-2025, IEEE AVSS 2025, IEEE PIMRC 2024, IEEE SMC 2023, IEEE MTAP</span>"
+          description: "<span style='display: block; text-align: left;'>Society Membership: ACM Student Member, CCF Student Member</span><span style='display: block; text-align: left;'>TPC Membership: IEEE PIMRC 2024, IEEE WCNC 2024-2025</span><span style='display: block; text-align: left;'>Technical Reviewer: NeurIPS 2025, ICLR 2025, ACL ARR 2025, IEEE ICME 2024-2025, IEEE ICASSP 2024-2025, IEEE IJCNN 2025, IEEE WCNC 2024-2025, IEEE AVSS 2025, IEEE PIMRC 2024, IEEE SMC 2023, IEEE MTAP</span>"
           icon: book
           icon_pack: fas
 

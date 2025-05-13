@@ -13,7 +13,7 @@ author_notes:
 
 
 date: '2025-05-10T00:00:00Z'
-doi: ''
+doi: 'https://doi.org/10.48550/arXiv.2505.06682'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ''
@@ -43,7 +43,7 @@ featured: false
 # - name: 
 #   url: 
 
-url_pdf: 'https://arxiv.org/abs/2503.09988'
+url_pdf: 'https://arxiv.org/abs/2505.06682'
 url_dataset: ''
 url_project: ''
 
