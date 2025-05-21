@@ -67,7 +67,7 @@ sections:
         #  icon: newspaper
         #  icon_pack: fas
         - name: Research Service 
-          description: "<span style='display: block; text-align: left;'>Society Membership: ACM Student Member, CCF Student Member</span><span style='display: block; text-align: left;'>TPC Membership: IEEE PIMRC 2024, IEEE WCNC 2024-2025</span><span style='display: block; text-align: left;'>Technical Reviewer: NeurIPS 2025, ICLR 2025, ACL ARR 2025, IEEE ICME 2024-2025, IEEE ICASSP 2024-2025, IEEE IJCNN 2025, IEEE WCNC 2024-2025, IEEE AVSS 2025, IEEE PIMRC 2024, IEEE SMC 2023, IEEE WCL, IEEE MTAP</span>"
+          description: "<span style='display: block; text-align: left;'>Society Membership: ACM Student Member, CCF Student Member</span><span style='display: block; text-align: left;'>TPC Membership: IEEE PIMRC 2024, IEEE WCNC 2024-2025</span><span style='display: block; text-align: left;'>Technical Reviewer: ICLR 2025, ACL ARR 2025, IEEE ICME 2024-2025, IEEE ICASSP 2024-2025, IEEE IJCNN 2025, IEEE WCNC 2024-2025, IEEE AVSS 2025, IEEE PIMRC 2024, IEEE SMC 2023, IEEE WCL, IEEE MTAP</span>"
           icon: book
           icon_pack: fas
 
@@ -209,7 +209,7 @@ sections:
         - certificate_url:
           date_end: ''
           date_start: '2023-07-01'
-          description: 'Team Member: Zijian Zhao (team leader, supervisor), Siyuan Zuo,Fupeng He'
+          description: 'Team Member: Zijian Zhao (team leader), Siyuan Zuo,Fupeng He'
           organization: Consortium for Mathematics and Its Application
           organization_url: https://www.comap.com/
           title: Meritorious Winner in the Mathematical Contest in Modeling
@@ -278,14 +278,14 @@ sections:
         #  organization_url: https://www.sysu.edu.cn/
         #  title: Second-class Scholarship for Outstanding Student of Sun Yat-sen University
         #  url: ''
-        - certificate_url:
-          date_end: ''
-          date_start: '2022-07-01'
-          description: 'Team Member: Haoyao He (team leader), Xiangyu Tan, Zijian Zhao; Supervisor: Prof. Qi Liang, Prof. Ruyu Wang'
-          organization: Statistical Education Society of China
-          organization_url: http://www.stats.gov.cn/zt_18555/xhwz/tjjyxh/
-          title: Provincial Second Prize in SPSS University Contest in Modeling
-          url: 'http://tjjmds.ai-learning.net/'
+        #- certificate_url:
+        #  date_end: ''
+        #  date_start: '2022-07-01'
+        #  description: 'Team Member: Haoyao He (team leader), Xiangyu Tan, Zijian Zhao; Supervisor: Prof. Qi Liang, Prof. Ruyu Wang'
+        #  organization: Statistical Education Society of China
+        #  organization_url: http://www.stats.gov.cn/zt_18555/xhwz/tjjyxh/
+        #  title: Provincial Second Prize in SPSS University Contest in Modeling
+        #  url: 'http://tjjmds.ai-learning.net/'
         #- certificate_url:
         #  date_end: ''
         #  date_start: '2022-04-01'
@@ -310,14 +310,14 @@ sections:
         #  organization_url: http://www.csfs.org.cn/
         #  title: Successful Participant in China College Algorithm Design & Program Challenge Contest
         #  url: ''
-        - certificate_url:
-          date_end: ''
-          date_start: '2021-12-01'
-          description: 'Team Member: Zijian Zhao (team leader), Haoyao He, Fanqi Zhang'
-          organization: Beijing Society of Image and Graphics
-          organization_url: http://www.bsig.org.cn/
-          title: Second Prize in Asia and Pacific Mathematical Contest in Modeling
-          url: 'http://www.apmcm.org/'
+        #- certificate_url:
+        #  date_end: ''
+        #  date_start: '2021-12-01'
+        #  description: 'Team Member: Zijian Zhao (team leader), Haoyao He, Fanqi Zhang'
+        #  organization: Beijing Society of Image and Graphics
+        #  organization_url: http://www.bsig.org.cn/
+        #  title: Second Prize in Asia and Pacific Mathematical Contest in Modeling
+        #  url: 'http://www.apmcm.org/'
         - certificate_url:
           date_end: ''
           date_start: '2021-10-01'
@@ -326,14 +326,14 @@ sections:
           organization_url: http://www.cms.org.cn/
           title: Provincial First Prize in the Chinese Mathematics Competitions
           url: 'http://www.cmathc.cn/'
-        - certificate_url:
-          date_end: ''
-          date_start: '2021-10-01'
-          description: 'Won the award twice. Team Member: Zijian Zhao (team leader), Yifeng Zhao, Ziwan Liu; Supervisor: Prof. Bingpeng Zhou'
-          organization: China Society for Industrial and Applied Mathematics, Education Department of Guangdong Province
-          organization_url: https://www.csiam.org.cn/
-          title: Provincial Third Prize in the Chinese Mathematics Competitions 
-          url: 'http://www.mcm.edu.cn/'
+        #- certificate_url:
+        #  date_end: ''
+        #  date_start: '2021-10-01'
+        #  description: 'Won the award twice. Team Member: Zijian Zhao (team leader), Yifeng Zhao, Ziwan Liu; Supervisor: Prof. Bingpeng Zhou'
+        #  organization: China Society for Industrial and Applied Mathematics, Education Department of Guangdong Province
+        #  organization_url: https://www.csiam.org.cn/
+        #  title: Provincial Third Prize in the Chinese Mathematics Competitions 
+        #  url: 'http://www.mcm.edu.cn/'
         - certificate_url:
           date_end: ''
           date_start: '2021-10-01'
