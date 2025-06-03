@@ -17,7 +17,7 @@ sections:
       title: Latest News
       subtitle: ''
       text: |-
-        <span style="font-weight: bold;">2025.05</span>: Our papers "<span style="color: blue;">Triple-BERT: Do We Really Need MARL for Ride-Sharing Order Dispatch?</span>", "<span style="color: blue;">Skip-BART: Is Stage Lighting the Inspiration for Art or Mechanized Formula?</span>", and "<span style="color: blue;">Towards Advanced Mathematical Reasoning for LLMs via First-Order Logic Theorem Proving</span>" have been submitted for possible publication.<br>
+        <span style="font-weight: bold;">2025.05</span>: Our papers "<span style="color: blue;">Triple-BERT: Do We Really Need MARL for Ride-Sharing Order Dispatch?</span>", "<span style="color: blue;">Automatic Stage Lighting Control: Is it a Rule-Driven Process or Generative Task?</span>", and "<span style="color: blue;">Towards Advanced Mathematical Reasoning for LLMs via First-Order Logic Theorem Proving</span>" have been submitted for possible publication.<br>
         <span style="font-weight: bold;">2025.05</span>: Our technical report "<span style="color: blue;">A Short Overview of Multi-Modal Wi-Fi Sensing</span>" has been available in ArXiv.<br>
         <span style="font-weight: bold;">2025.04</span>: Our paper "<span style="color: blue;">Let Network Decide What to Learn: Symbolic Music Understanding Model Based on Large-scale Adversarial Pre-training</span>" has been accepted by <a href="https://www.icmr-2025.org/">ACM ICMR 2025</a>. <br>
         <span style="font-weight: bold;">2025.04</span>: Our paper "<span style="color: blue;">The Impacts of Data Privacy Regulations on Food-Delivery Platforms</span>" has been submitted for possible publication.<br>
