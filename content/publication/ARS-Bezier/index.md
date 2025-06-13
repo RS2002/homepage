@@ -26,8 +26,8 @@ publishDate: ''
 publication_types: ['4']
 
 # Publication name and optional abbreviated publication name.
-publication: In *ArXiv Technical Report*
-publication_short: In *ArXiv Technical Report*
+publication: In *Github Technical Report*
+publication_short: In *Github Technical Report*
 
 abstract: Developing effective strategies in complex environments has long been a challenge for small robots. Due to limited space, small robots often have scarce sensing and computation resources, making it difficult for them to comprehend the intricate nature of nonlinear dynamics and learn motion strategy from scratch. In this paper, we propose a novel lightweight trajectory-based reinforcement learning approach for enabling robots to learn adaptive motion in complex terrains. Our method leverages the Augmented Random Search (ARS) algorithm to optimize control parameters for Bezier curves, which in turn generate motion trajectories for the robot. The Bezier curves provide prior knowledge to decrease the learning difficulty, while ARS provides an efficient optimization strategy with small computation cost. Additionally, we design a simple environment randomization method that trains the robot in diverse environments, enabling it to learn a general strategy for walking and navigating obstacles instead of being limited to a specific scenario. We evaluate our method in various scenarios with different obstacles, and the experimental results demonstrate its superior performance with minimal computational cost.
 
