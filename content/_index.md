@@ -86,14 +86,14 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
 
-        - title: Ph.D. 
-          company: Department of Civil and Environmental Engineering, School of Engineering, The Hong Kong University of Science and Technology (HKUST)
-          company_url: 'https://www.ce.ust.hk/'
-          company_logo: HKUST-SENG
-          location: Hong Kong, Full-time
-          date_start: '2024-09-01'
-          date_end: ''
-          description: 'Smart City Lab (Supervisor: <a href="https://www.smartcityhkust.com/">Prof. Sen Li</a>)'
+        #- title: Ph.D. 
+        #  company: Department of Civil and Environmental Engineering, School of Engineering, The Hong Kong University of Science and Technology (HKUST)
+        #  company_url: 'https://www.ce.ust.hk/'
+        #  company_logo: HKUST-SENG
+        #  location: Hong Kong, Full-time
+        #  date_start: '2024-09-01'
+        #  date_end: ''
+        #  description: 'Smart City Lab (Supervisor: <a href="https://www.smartcityhkust.com/">Prof. Sen Li</a>)'
         - title: Industry-University-Research Student
           company: Likelihood Lab
           company_url: 'http://www.maxlikelihood.cn/'
@@ -118,14 +118,14 @@ sections:
           date_start: '2023-08-01'
           date_end: '2024-08-01'
           description: 'AI-RAN Lab (Supervisor: <a href="https://sites.google.com/view/guangxuzhu/home">Prof. Guangxu Zhu</a>); Associated with the <a href="https://www.cuhk.edu.cn/zh-hans">Chinese University of Hong Kong, Shenzhen (CUHKSZ)</a>'
-        - title: B.Eng. (2rd~4th Grade)
-          company: School of Computer Science and Engineering, Sun Yat-sen University (SYSU)
-          company_url: 'https://cse.sysu.edu.cn/'
-          company_logo: SYSU-CS
-          location: Guangzhou, Full-time
-          date_start: '2021-07-01'
-          date_end: '2024-07-01'
-          description: 'GPA: 4.0/5.0 (90/100); Rank: Top 10% in Major; <a href="https://www.usilab.cn/">Robotic and Intelligence Computing Lab</a> (Supervisor: <a href="https://cse.sysu.edu.cn/content/2466">Prof. Kai Huang</a>), <a href="https://www.sysu-imsl.com/">Intelligent and Multimedia Science Laboratory</a> (<a href="https://cse.sysu.edu.cn/content/2537">Prof. Chengying Gao</a>, <a href="https://cse.sysu.edu.cn/node/2495">Prof. Ning Liu</a>)'
+        #- title: B.Eng. (2rd~4th Grade)
+        #  company: School of Computer Science and Engineering, Sun Yat-sen University (SYSU)
+        #  company_url: 'https://cse.sysu.edu.cn/'
+        #  company_logo: SYSU-CS
+        #  location: Guangzhou, Full-time
+        #  date_start: '2021-07-01'
+        #  date_end: '2024-07-01'
+        #  description: 'GPA: 4.0/5.0 (90/100); Rank: Top 10% in Major; <a href="https://www.usilab.cn/">Robotic and Intelligence Computing Lab</a> (Supervisor: <a href="https://cse.sysu.edu.cn/content/2466">Prof. Kai Huang</a>), <a href="https://www.sysu-imsl.com/">Intelligent and Multimedia Science Laboratory</a> (<a href="https://cse.sysu.edu.cn/content/2537">Prof. Chengying Gao</a>, <a href="https://cse.sysu.edu.cn/node/2495">Prof. Ning Liu</a>)'
         #   - title: Tutor
         #     company: Zhangmen Education; Yousi Education
         #     company_url: 'http://zhangmentalent.com/'
@@ -134,14 +134,14 @@ sections:
         #     date_start: '2020-12-01'
         #     date_end: '2021-09-01'
         #     description: 'Guided competition student; Helped student increase math score by 30 points in 3 months'
-        - title: B.Eng. (1st Grade)
-          company: School of Electronics and Communication Engineering, Sun Yat-sen University (SYSU)
-          company_url: 'https://sece.sysu.edu.cn/'
-          company_logo: SYSU
-          location: Shenzhen, Full-time
-          date_start: '2020-09-01'
-          date_end: '2021-07-01'
-          description: 'GPA: 4.0/5.0 (90/100); Rank: Top 5% in Department'
+        #- title: B.Eng. (1st Grade)
+        #  company: School of Electronics and Communication Engineering, Sun Yat-sen University (SYSU)
+        #  company_url: 'https://sece.sysu.edu.cn/'
+        #  company_logo: SYSU
+        #  location: Shenzhen, Full-time
+        #  date_start: '2020-09-01'
+        #  date_end: '2021-07-01'
+        #  description: 'GPA: 4.0/5.0 (90/100); Rank: Top 5% in Department'
 
 
     design:

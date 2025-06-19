@@ -47,9 +47,9 @@ url_code: 'https://github.com/RS2002/Adversarial-MidiBERT'
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: ''
+url_slides: 'projects/Adv-MidiBERT.pptx'
 url_source: ''
-url_video: ''
+url_video: 'projects/Adv-MidiBERT.wav'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
