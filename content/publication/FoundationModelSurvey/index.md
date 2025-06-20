@@ -19,8 +19,8 @@ authors:
 author_notes:
 
 
-date: '2024-09-06T00:00:00Z'
-doi: 'https://doi.org/10.48550/arXiv.2409.04267'
+date: '2025-06-20T00:00:00Z'
+doi: 'https://doi.org/10.1007/s11432-025-4498-2'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ''
@@ -35,7 +35,7 @@ publication_types: ['2']
 publication: In *SCIENCE CHINA Information Sciences*
 publication_short: In *SCIS*
 
-abstract: The impressive performance of ChatGPT and other foundation-model-based products in human language understanding has prompted both academia and industry to explore how these models can be tailored for specific industries and application scenarios. This process, known as the customization of domain-specific foundation models, addresses the limitations of general-purpose models, which may not fully capture the unique patterns and requirements of domain-specific data. Despite its importance, there is a notable lack of comprehensive overview papers on building domain-specific foundation models, while numerous resources exist for general-purpose models. To bridge this gap, this article provides a timely and thorough overview of the methodology for customizing domain-specific foundation models. It introduces basic concepts, outlines the general architecture, and surveys key methods for constructing domain-specific models. Furthermore, the article discusses various domains that can benefit from these specialized models and highlights the challenges ahead. Through this overview, we aim to offer valuable guidance and reference for researchers and practitioners from diverse fields to develop their own customized foundation models.
+abstract: The impressive performance of ChatGPT and other foundation-model-based products in human language understanding has prompted both academia and industry to explore how these models can be tailored for specific industries and application scenarios. This process, known as the customization of domain-specific foundation models (FMs), addresses the limitations of general-purpose models, which may not fully capture the unique patterns and requirements of domain-specific data. Despite its importance, there is a notable lack of comprehensive overview papers on building domain-specific FMs, while numerous resources exist for general-purpose models. To bridge this gap, this article provides a timely and thorough overview of the methodology for customizing domain-specific FMs. It introduces basic concepts, outlines the general architecture, and surveys key methods for constructing domain-specific models. Furthermore, the article discusses various domains that can benefit from these specialized models and highlights the challenges ahead. Through this overview, we aim to offer valuable guidance and reference for researchers and practitioners from diverse fields to develop their own customized FMs.
 
 # Summary. An optional shortened abstract.
 summary: 
@@ -50,7 +50,7 @@ featured: false
 # - name: 
 #   url: 
 
-url_pdf: 'https://arxiv.org/abs/2409.04267'
+url_pdf: 'https://www.sciengine.com/SCIS/doi/10.1007/s11432-025-4498-2'
 url_code: ''
 url_dataset: ''
 url_poster: ''

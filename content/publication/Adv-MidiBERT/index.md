@@ -49,7 +49,7 @@ url_poster: ''
 url_project: ''
 url_slides: 'projects/Adv-MidiBERT.pptx'
 url_source: ''
-url_video: 'projects/Adv-MidiBERT.wav'
+url_video: 'projects/Adv-MidiBERT.mp4'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
