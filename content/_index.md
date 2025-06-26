@@ -17,6 +17,7 @@ sections:
       title: Latest News
       subtitle: ''
       text: |-
+        <span style="font-weight: bold;">2025.06</span>: Our paper "<span style="color: blue;">Does MMD Really Align? A Cross Domain Wireless Sensing Method via Local Distribution</span>" has been accepted by <a href="https://iccc2025.ieee-iccc.org/">IEEE/CIC ICCC</a>. <br>
         <span style="font-weight: bold;">2025.06</span>: Our paper "<span style="color: blue;">An Overview of Domain-Specific Foundation Model: Key Technologies, Applications and Challenges</span>" has been accepted by <a href="https://link.springer.com/journal/11432">SCIS</a>. <br>
         <span style="font-weight: bold;">2025.05</span>: Our papers "<span style="color: blue;">Triple-BERT: Do We Really Need MARL for Ride-Sharing Order Dispatch?</span>", "<span style="color: blue;">Automatic Stage Lighting Control: Is it a Rule-Driven Process or Generative Task?</span>", and "<span style="color: blue;">Towards Advanced Mathematical Reasoning for LLMs via First-Order Logic Theorem Proving</span>" have been submitted for possible publication.<br>
         <span style="font-weight: bold;">2025.05</span>: Our technical report "<span style="color: blue;">A Short Overview of Multi-Modal Wi-Fi Sensing</span>" has been available in ArXiv.<br>
@@ -68,7 +69,7 @@ sections:
         #  icon: newspaper
         #  icon_pack: fas
         - name: Research Service 
-          description: "<span style='display: block; text-align: left;'>Society Membership: ACM Student Member, CCF Student Member</span><span style='display: block; text-align: left;'>TPC Membership: IEEE PIMRC 2024, IEEE WCNC 2024-2025</span><span style='display: block; text-align: left;'>Technical Reviewer: ICLR 2025, ACL ARR 2025, IEEE ICME 2024-2025, IEEE ICASSP 2024-2025, IEEE IJCNN 2025, IEEE WCNC 2024-2025, IEEE AVSS 2025, IEEE MLSP 2025, BTR 2025, IEEE PIMRC 2024, IEEE SMC 2023, IEEE WCL, MTAP</span>"
+          description: "<span style='display: block; text-align: left;'>Society Membership: ACM Student Member, CCF Student Member</span><span style='display: block; text-align: left;'>TPC Membership: IEEE WCNC 2024-2025, IEEE/CIC ICCC 2025, IEEE PIMRC 2024</span><span style='display: block; text-align: left;'>Technical Reviewer: ICLR 2025, ACL ARR 2025, IEEE ICME 2024-2025, IEEE ICASSP 2024-2025, IEEE IJCNN 2025, IEEE WCNC 2024-2025, IEEE/CIC ICCC 2025, IEEE AVSS 2025, IEEE MLSP 2025, BTR 2025, IEEE PIMRC 2024, IEEE SMC 2023, IEEE WCL, MTAP</span>"
           icon: book
           icon_pack: fas
 
@@ -210,7 +211,7 @@ sections:
         - certificate_url:
           date_end: ''
           date_start: '2023-07-01'
-          description: 'Team Member: Zijian Zhao (team leader), Siyuan Zuo,Fupeng He'
+          description: 'Team Member: Zijian Zhao (team leader), Siyuan Zuo, Fupeng He'
           organization: Consortium for Mathematics and Its Application
           organization_url: https://www.comap.com/
           title: Meritorious Winner in the Mathematical Contest in Modeling
@@ -322,7 +323,7 @@ sections:
         - certificate_url:
           date_end: ''
           date_start: '2021-10-01'
-          description: 'Won the award twice.'
+          description: 'Also won the award in 2022.'
           organization: Chinese Mathematical Society
           organization_url: http://www.cms.org.cn/
           title: Provincial First Prize in the Chinese Mathematics Competitions

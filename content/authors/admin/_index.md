@@ -19,7 +19,7 @@ interests:
   - Deep Learning & Reinforcement Learning & Applied AI & Interdisciplinarity
   - Smart City & Intelligent Transportation
   - Integrated Sensing and Communication & Network Intelligence
-  - Music Information Retrieval & Natural Language Processing & Multi-Modal
+  - Music Information Retrieval & Natural Language Processing & Multi-Modal & Multimedia 
 
 # Education to show in About widget
 education:
