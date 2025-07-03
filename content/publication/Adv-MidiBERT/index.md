@@ -11,8 +11,8 @@ authors:
 author_notes:
 
 
-date: '2025-04-18T00:00:00Z'
-doi: '10.48550/arXiv.2407.08306'
+date: '2025-06-30T00:00:00Z'
+doi: '10.1145/3731715.3733483'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ''
@@ -42,7 +42,7 @@ featured: false
 # - name: 
 #   url: 
 
-url_pdf: 'https://arxiv.org/abs/2407.08306'
+url_pdf: 'https://dl.acm.org/doi/10.1145/3731715.3733483'
 url_code: 'https://github.com/RS2002/Adversarial-MidiBERT'
 url_dataset: ''
 url_poster: ''

@@ -16,9 +16,9 @@ bio: PhD Student in HKUST
 
 # Interests to show in About widget
 interests:
-  - Deep Learning & Reinforcement Learning & Applied AI & Interdisciplinarity
-  - Smart City & Intelligent Transportation
-  - Integrated Sensing and Communication & Network Intelligence
+  - Deep Learning & Reinforcement Learning & Interdisciplinary AI
+  - Smart City & Intelligent Transportation & Mobile Computing
+  - Integrated Sensing and Communication & Network/Edge Intelligence
   - Music Information Retrieval & Natural Language Processing & Multi-Modal & Multimedia 
 
 # Education to show in About widget
@@ -99,7 +99,7 @@ highlight_name: true
 
 ---
 
-I'm currently a Ph.D. student in [Department of Civil and Environmental Engineering](https://www.ce.ust.hk/) ([Scientific Computation Concentration](http://www.csc.ust.hk/scc/)) at [The Hong Kong University of Science and Technology](https://hkust.edu.hk/), under the supervision of [Prof. Sen Li](https://www.smartcityhkust.com/). My current research primarily focuses on Deep Reinforcement Learning and Intelligent Transportation.
+I'm currently a Ph.D. student in [Department of Civil and Environmental Engineering](https://www.ce.ust.hk/) ([Scientific Computation Concentration](http://www.csc.ust.hk/scc/)) at [The Hong Kong University of Science and Technology](https://hkust.edu.hk/), under the supervision of [Prof. Sen Li](https://www.smartcityhkust.com/). My current research primarily focuses on Deep Reinforcement Learning, Intelligent Transportation, and AI Mobile Computing.
 
 I received my B.Eng. degree from [School of Computer Science and Engineering](https://cse.sysu.edu.cn/) at [Sun Yat-sen University](https://www.sysu.edu.cn/) in 2024, mentored by [Prof. Kai Huang](https://cse.sysu.edu.cn/teacher/HuangKai) (Robot RL), [Prof. Ning Liu](https://cse.sysu.edu.cn/teacher/LiuNing) and [Prof. Chengying Gao](https://cse.sysu.edu.cn/teacher/GaoChengying) (Music AI). I was also a visiting student in [Shenzhen Research Institute of Big Data](http://www.sribd.cn/) at [The Chinese University of Hong Kong (Shenzhen)](https://www.cuhk.edu.cn/zh-hans)  from 2023 to 2024, under the guidance of [Prof. Guangxu Zhu](https://sites.google.com/view/guangxuzhu) (Deep Wireless Sensing).
 
