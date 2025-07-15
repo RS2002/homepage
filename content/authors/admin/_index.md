@@ -18,7 +18,7 @@ bio: PhD Student in HKUST
 interests:
   - Deep Learning & Reinforcement Learning & Interdisciplinary AI
   - Smart City & Intelligent Transportation & Mobile Computing
-  - Integrated Sensing and Communication & Network/Edge Intelligence
+  - Integrated Sensing, AI, and Communication & Network/Edge Intelligence
   - Music Information Retrieval & Natural Language Processing & Multi-Modal & Multimedia 
 
 # Education to show in About widget

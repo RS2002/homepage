@@ -17,6 +17,7 @@ sections:
       title: Latest News
       subtitle: ''
       text: |-
+        <span style="font-weight: bold;">2025.07</span>: Our paper "<span style="color: blue;">One Step is Enough: A Highly Efficient Ride Sharing Framework via MARL</span>" and "<span style="color: blue;">Each to Their Own: Exploring the Optimal Embedding in RAG</span>" have been submitted for possible publication.<br>
         <span style="font-weight: bold;">2025.06</span>: Our paper "<span style="color: blue;">Does MMD Really Align? A Cross Domain Wireless Sensing Method via Local Distribution</span>" has been accepted by <a href="https://iccc2025.ieee-iccc.org/">IEEE/CIC ICCC 2025</a>. <br>
         <span style="font-weight: bold;">2025.06</span>: Our paper "<span style="color: blue;">An Overview of Domain-Specific Foundation Model: Key Technologies, Applications and Challenges</span>" has been accepted by <a href="https://link.springer.com/journal/11432">SCIS</a>. <br>
         <span style="font-weight: bold;">2025.05</span>: Our papers "<span style="color: blue;">Triple-BERT: Do We Really Need MARL for Ride-Sharing Order Dispatch?</span>", "<span style="color: blue;">Automatic Stage Lighting Control: Is it a Rule-Driven Process or Generative Task?</span>", and "<span style="color: blue;">Towards Advanced Mathematical Reasoning for LLMs via First-Order Logic Theorem Proving</span>" have been submitted for possible publication.<br>
