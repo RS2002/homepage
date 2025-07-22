@@ -1,5 +1,5 @@
 ---
-title: 'Mining Limited Data Sufficiently: A BERT-inspired Approach for CSI Time Series Application in Wireless Communication and Sensing'
+title: 'CSI-BERT2: A BERT-Inspired Framework for Efficient CSI Prediction and Recognition in Wireless Communication and Sensing'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -7,6 +7,7 @@ title: 'Mining Limited Data Sufficiently: A BERT-inspired Approach for CSI Time 
 authors:
   - admin
   - Fanyi Meng
+  - Zhonghao Lyu
   - Hang Li
   - Xiaoyang Li
   - Guangxu Zhu
