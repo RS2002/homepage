@@ -1,5 +1,5 @@
 ---
-title: 'CSI-BERT2: A BERT-Inspired Framework for Efficient CSI Prediction and Recognition in Wireless Communication and Sensing'
+title: 'CSI-BERT2: A BERT-Inspired Framework for Efficient CSI Prediction and Classification in Wireless Communication and Sensing'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
