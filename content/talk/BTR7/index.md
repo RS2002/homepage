@@ -1,5 +1,5 @@
 ---
-title: IMT-2030(6G)推进组无线技术工作组第七次全会
+title: Bridging Transportation Researchers Conference 2025
 
 event: conference
 event_url: https://bridgingtransport.org/
@@ -36,8 +36,8 @@ image:
   caption: ''
   focal_point: Right
 
-url_slides: 'https://drive.google.com/file/d/1pFIyWuqeGjz0ff-F-hl47pzr_ws2NWrt/view?usp=sharing'
-url_video: 'https://docs.google.com/presentation/d/1bzPDdgd23gBpPa9xdMnjjNsVNTTLUFG9/edit?usp=sharing&ouid=115821974896546102715&rtpof=true&sd=true'
+url_slides: 'https://docs.google.com/presentation/d/1bzPDdgd23gBpPa9xdMnjjNsVNTTLUFG9/edit?usp=sharing&ouid=115821974896546102715&rtpof=true&sd=true'
+url_video: 'https://drive.google.com/file/d/1pFIyWuqeGjz0ff-F-hl47pzr_ws2NWrt/view?usp=sharing'
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
