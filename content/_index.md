@@ -71,7 +71,7 @@ sections:
         #  icon: newspaper
         #  icon_pack: fas
         - name: Research Service 
-          description: "<span style='display: block; text-align: left;'>Society Membership: IEEE Student Member, ACM Student Member, CCF Student Member</span><span style='display: block; text-align: left;'>TPC Membership: IEEE WCNC Workshop 2024-2025, IEEE PIMRC Workshop 2024-2025, IEEE/CIC ICCC Workshop 2025</span><span style='display: block; text-align: left;'>Technical Reviewer: ICLR 2025, ACL ARR 2025, IEEE ICME 2024-2025, IEEE ICASSP 2024-2025, IEEE IJCNN 2025, IEEE WCNC 2024-2025, IEEE/CIC ICCC 2025, IEEE AVSS 2025, IEEE MLSP 2025, BTR 2025, IEEE PIMRC 2024, IEEE SMC 2023, IEEE WCL, MTAP</span>"
+          description: "<span style='display: block; text-align: left;'>Society Membership: IEEE Student Member, ACM Student Member, CCF Student Member</span><span style='display: block; text-align: left;'>TPC Membership: IEEE WCNC Workshop 2024-2025, IEEE PIMRC Workshop 2024-2025, IEEE Globecom Workshop 2025, IEEE/CIC ICCC Workshop 2025</span><span style='display: block; text-align: left;'>Technical Reviewer: AAAI 2026, ICLR 2025, ACL ARR 2025, IEEE ICME 2024-2025, IEEE ICASSP 2024-2025, IEEE Globecom 2025, IEEE IJCNN 2025, IEEE WCNC 2024-2025, IEEE/CIC ICCC 2025, IEEE AVSS 2025, IEEE MLSP 2025, BTR 2025, IEEE PIMRC 2024, IEEE SMC 2023, IEEE WCL, MTAP</span>"
           icon: book
           icon_pack: fas
 
@@ -547,7 +547,3 @@ sections:
 
 
 ---
-
-
-
--

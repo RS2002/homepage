@@ -50,6 +50,7 @@ featured: false
 
 url_pdf: ''
 url_code: 'https://github.com/RS2002/KNN-MMD'
+url_slides: 'projects/Adv-MidiBERT.pptx'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
