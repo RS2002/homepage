@@ -17,6 +17,7 @@ sections:
       title: Latest News
       subtitle: ''
       text: |-
+        <span style="font-weight: bold;">2025.08</span>: We have uploaded the code and paramters of CSI-BERT, CSI-BERT2, Adversarial-MidiBERT, PianoBART, and Skip-BART in <a href="https://huggingface.co/RS2002">Hugging Face</a>.<br>
         <span style="font-weight: bold;">2025.08</span>: Our paper "<span style="color: blue;">CSI-BERT2: A BERT-inspired Framework for Efficient CSI Prediction and Classification in Wireless Communication and Sensing</span>" has been submitted for possible publication.<br>
         <span style="font-weight: bold;">2025.07</span>: Our papers "<span style="color: blue;">One Step is Enough: Multi-Agent Reinforcement Learning based on One-Step Policy Optimization for Order Dispatch on Ride-Sharing Platforms</span>" and "<span style="color: blue;">Each to Their Own: Exploring the Optimal Embedding in RAG</span>" have been submitted for possible publication.<br>
         <span style="font-weight: bold;">2025.06</span>: Our paper "<span style="color: blue;">Does MMD Really Align? A Cross Domain Wireless Sensing Method via Local Distribution</span>" has been accepted by <a href="https://iccc2025.ieee-iccc.org/">IEEE/CIC ICCC 2025</a>. <br>

@@ -69,7 +69,9 @@ social:
   - icon: git
     icon_pack: fab
     link: https://gitee.com/zzj_rs
-
+  - icon: face-laugh
+    icon_pack: fas
+    link: https://huggingface.co/RS2002
   - icon: envelope
     icon_pack: fas
     link: 'mailto:zzhaock@connect.ust.hk'
