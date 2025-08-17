@@ -40,7 +40,7 @@ summary:
 tags: []
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:
@@ -49,7 +49,7 @@ featured: false
 
 url_pdf: 'https://ieeexplore.ieee.org/document/10620769'
 url_code: 'https://github.com/RS2002/CSI-BERT'
-url_dataset: 'https://paperswithcode.com/dataset/wigesture'
+url_dataset: 'http://www.sdp8.net/Dataset?id=5d4ee7ca-d0b0-45e3-9510-abb6e9cdebf9'
 url_poster: ''
 url_project: ''
 url_slides: 'https://docs.google.com/presentation/d/15aNURPf3LMXQikXKkN5b7Pp9HWV1kWIJ/edit?usp=sharing&ouid=115821974896546102715&rtpof=true&sd=true'
