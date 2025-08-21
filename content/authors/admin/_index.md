@@ -60,9 +60,9 @@ social:
   - icon: semantic-scholar
     icon_pack: ai
     link: 'https://www.semanticscholar.org/author/Zijian-Zhao/2276001508'
-  - icon: researchgate
-    icon_pack: ai
-    link: 'https://www.researchgate.net/profile/Zijian-Zhao-27'
+#  - icon: researchgate
+#    icon_pack: ai
+#    link: 'https://www.researchgate.net/profile/Zijian-Zhao-27'
   - icon: github
     icon_pack: fab
     link: https://github.com/RS2002
@@ -84,15 +84,16 @@ social:
   - icon: soundcloud
     icon_pack: fab
     link: https://music.163.com/#/artist?id=52253597
+  - icon: bilibili
+    icon_pack: fab
+    link: https://space.bilibili.com/349124347?spm_id_from=333.1007.0.0
   - icon: house
     icon_pack: fas
     link: https://tokamak-disruption.netlify.app/
 #  - icon: bandcamp
 #    icon_pack: fab
 #    link: https://news4.bandcamp.com/
-  - icon: bilibili
-    icon_pack: fab
-    link: https://space.bilibili.com/349124347?spm_id_from=333.1007.0.0
+
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
@@ -107,4 +108,4 @@ I'm currently a Ph.D. student in [Department of Civil and Environmental Engineer
 
 I received my B.Eng. degree from [School of Computer Science and Engineering](https://cse.sysu.edu.cn/) at [Sun Yat-sen University](https://www.sysu.edu.cn/) in 2024, mentored by [Prof. Kai Huang](https://cse.sysu.edu.cn/teacher/HuangKai) (Robot RL), [Prof. Ning Liu](https://cse.sysu.edu.cn/teacher/LiuNing) and [Prof. Chengying Gao](https://cse.sysu.edu.cn/teacher/GaoChengying) (Music AI). I was also a visiting student in [Shenzhen Research Institute of Big Data](http://www.sribd.cn/) at [The Chinese University of Hong Kong (Shenzhen)](https://www.cuhk.edu.cn/zh-hans)  from 2023 to 2024, under the guidance of [Prof. Guangxu Zhu](https://sites.google.com/view/guangxuzhu) (Deep Wireless Sensing).
 
-Aside from academics, I'm also the vocal and guitar of [Tokamak Disruption](https://tokamak-disruption.netlify.app/), [NEWS](https://music.163.com/#/artist?id=52253597) (personal band) and [Rights of Lethe](https://music.163.com/#/artist?id=52435898) (dissolved). If you are interested in collaborating with me (whether in academia or music), please feel free to reach out!
+Aside from academics, I'm also the vocalist and guitarist for several metal and rock bands, including [Tokamak Disruption](https://tokamak-disruption.netlify.app/), [NEWS](https://music.163.com/#/artist?id=52253597) (personal band) and [Rights of Lethe](https://music.163.com/#/artist?id=52435898) (dissolved). If you are interested in collaborating with me (whether in academia or music), please feel free to reach out!
