@@ -57,12 +57,12 @@ social:
   - icon: file
     icon_pack: far
     link: 'https://openreview.net/profile?id=~Zijian_Zhao7'
-#  - icon: semantic-scholar
-#    icon_pack: ai
-#    link: 'https://www.semanticscholar.org/author/Zijian-Zhao/2276001508'
-#  - icon: researchgate
-#    icon_pack: ai
-#    link: 'https://www.researchgate.net/profile/Zijian-Zhao-27'
+  - icon: semantic-scholar
+    icon_pack: ai
+    link: 'https://www.semanticscholar.org/author/Zijian-Zhao/2276001508'
+  - icon: researchgate
+    icon_pack: ai
+    link: 'https://www.researchgate.net/profile/Zijian-Zhao-27'
   - icon: github
     icon_pack: fab
     link: https://github.com/RS2002
@@ -78,7 +78,9 @@ social:
   - icon: weibo
     icon_pack: fab
     link: https://weibo.com/u/3829716889
-
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/zijian-zhao-link/
   - icon: soundcloud
     icon_pack: fab
     link: https://music.163.com/#/artist?id=52253597

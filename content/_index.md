@@ -186,7 +186,7 @@ sections:
           description: 'Zitao Zhang, Yuhong Huang, Zijian Zhao, Zhenshan Bing, Alois Knoll, Kai Huang*, "Adaptive Quadruped Locomotion of a Rat Robot Based on a Hierarchical Reinforcement Learning Framework" '
           organization: IEEE, IEEE Robotics & Automation Society
           organization_url: https://mp.weixin.qq.com/s/mbJlQGPkCmArm9S5RnZsbQ
-          title: Best Paper Award in Biomimetics Finalist in IEEE International Conference on Robotics and Biomimetics (ROBIO) 2023
+          title: Best Paper Award Finalist of Biomimetics in IEEE International Conference on Robotics and Biomimetics (ROBIO) 2023
           url: 'http://robio2023.org/Awards.html'
         - certificate_url: 
           date_end: ''
