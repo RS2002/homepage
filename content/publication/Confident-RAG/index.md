@@ -46,7 +46,7 @@ featured: false
 #   url: 
 
 url_pdf: 'https://arxiv.org/abs/2507.17442'
-url_code: ''
+url_code: 'https://github.com/RS2002/Confident-RAG'
 url_dataset: ''
 url_poster: ''
 url_project: ''
