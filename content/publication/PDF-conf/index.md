@@ -26,7 +26,7 @@ publishDate: ''
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *2025 International Symposium on Transportation Data & Modelling*
+publication: In *International Symposium on Transportation Data & Modelling 2025*
 publication_short: In *ISTDM 2025*
 
 abstract: This paper examines discriminatory order-assignment and payment-setting strategies for on-demand food-delivery platforms. We consider a platform that maximizes its profits by strategically bundling orders, assigning them to couriers, and setting personalized payments to couriers based on individual behavioral data accrued from past interactions with the platform. A novel multi-action, multi-agent deep reinforcement learning framework is proposed, where a Double Deep Q-Network is employed to develop discrete order-assignment strategies, and a Proximal Policy Optimization is utilized to determine continuous payment decisions. Our proposed method is validated through a case study using real-world food-delivery data from Hong Kong. Surprisingly, we find that couriers with higher reservation values and, consequently, higher order rejection rates actually receive more orders during peak hours but earn lower wages. The reasons for these counterintuitive results are identified, which expose implicit biases within the discriminatory algorithms employed by profit-maximizing platforms and underscore potential areas for regulatory intervention.
