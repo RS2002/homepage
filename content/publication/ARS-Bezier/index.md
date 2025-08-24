@@ -48,6 +48,7 @@ url_pdf: 'https://github.com/RS2002/ARS-Bezier/blob/main/ARS_Bezier.pdf'
 url_code: 'https://github.com/RS2002/ARS-Bezier'
 url_dataset: ''
 url_project: ''
+url_video: projects/ARS.mp4
 
 
 # Featured image
