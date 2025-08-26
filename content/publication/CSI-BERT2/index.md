@@ -49,7 +49,7 @@ featured: false
 
 url_pdf: 'https://arxiv.org/abs/2412.06861'
 url_code: 'https://github.com/RS2002/CSI-BERT2'
-url_dataset: 'https://github.com/RS2002/CSI-BERT2/tree/main/WiCount'
+url_dataset: 'https://huggingface.co/datasets/RS2002/WiCount'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

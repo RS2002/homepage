@@ -17,6 +17,7 @@ sections:
       title: Latest News
       subtitle: ''
       text: |-
+        <span style="font-weight: bold;">2025.08</span>: We have uploaded the datasets of WiGesture, WiFall, WiCount, LoFi, and RPMC-L2 in <a href="https://huggingface.co/RS2002">Hugging Face</a>.<br>
         <span style="font-weight: bold;">2025.08</span>: Our paper "<span style="color: blue;">Towards Advanced Mathematical Reasoning for LLMs via First-Order Logic Theorem Proving</span>" has been accepted by <a href="https://2025.emnlp.org/">EMNLP 2025 (main conference)</a>. <br>
         <span style="font-weight: bold;">2025.08</span>: We have uploaded the code and paramters of CSI-BERT, CSI-BERT2, Adversarial-MidiBERT, PianoBART, and Skip-BART in <a href="https://huggingface.co/RS2002">Hugging Face</a>.<br>
         <span style="font-weight: bold;">2025.08</span>: Our paper "<span style="color: blue;">CSI-BERT2: A BERT-inspired Framework for Efficient CSI Prediction and Classification in Wireless Communication and Sensing</span>" has been submitted for possible publication.<br>
