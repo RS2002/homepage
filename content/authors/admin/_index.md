@@ -44,7 +44,6 @@ social:
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
-
   - icon: google-scholar
     icon_pack: ai
     link: 'https://scholar.google.com/citations?user=XkA3qCcAAAAJ'
@@ -60,9 +59,9 @@ social:
   - icon: semantic-scholar
     icon_pack: ai
     link: 'https://www.semanticscholar.org/author/Zijian-Zhao/2276001508'
-#  - icon: researchgate
-#    icon_pack: ai
-#    link: 'https://www.researchgate.net/profile/Zijian-Zhao-27'
+  - icon: researchgate
+    icon_pack: ai
+    link: 'https://www.researchgate.net/profile/Zijian-Zhao-27'
   - icon: github
     icon_pack: fab
     link: https://github.com/RS2002
@@ -90,10 +89,6 @@ social:
   - icon: house
     icon_pack: fas
     link: https://tokamak-disruption.netlify.app/
-#  - icon: bandcamp
-#    icon_pack: fab
-#    link: https://news4.bandcamp.com/
-
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
