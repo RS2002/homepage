@@ -75,7 +75,7 @@ sections:
         #  icon: newspaper
         #  icon_pack: fas
         - name: Research Service 
-          description: "<span style='display: block; text-align: left;'>Society Membership: IEEE Student Member, ACM Student Member, CCF Student Member</span><span style='display: block; text-align: left;'>TPC Membership: IEEE WCNC Workshop 2024-2025, IEEE PIMRC Workshop 2024-2025, IEEE Globecom Workshop 2025, IEEE/CIC ICCC Workshop 2025</span><span style='display: block; text-align: left;'>Technical Reviewer: AAAI 2026, ICLR 2025, ACL ARR 2025, IEEE ICME 2024-2025, IEEE ICASSP 2024-2025, IEEE Globecom 2025, IEEE IJCNN 2025, IEEE WCNC 2024-2025, IEEE/CIC ICCC 2025, IEEE AVSS 2025, IEEE MLSP 2025, IET IRC 2025, BTR 2025, IEEE PIMRC 2024, IEEE SMC 2023, IEEE TMC, IEEE WCL, MTAP, Bentham Science Book</span>"
+          description: "<span style='display: block; text-align: left;'>Society Membership: IEEE Student Member, ACM Student Member, CCF Student Member</span><span style='display: block; text-align: left;'>TPC Membership: IEEE WCNC Workshop 2024-2025, IEEE PIMRC Workshop 2024-2025, IEEE Globecom Workshop 2025, IEEE/CIC ICCC Workshop 2025</span><span style='display: block; text-align: left;'>Technical Reviewer: AAAI 2026, ICLR 2025, ACL ARR 2025, IEEE ICME 2024-2025, IEEE ICASSP 2024-2025, HKSTS 2024-2025, IEEE Globecom 2025, IEEE IJCNN 2025, IEEE WCNC 2024-2025, IEEE/CIC ICCC 2025, IEEE AVSS 2025, IEEE MLSP 2025, IET IRC 2025, BTR 2025, IEEE PIMRC 2024, IEEE SMC 2023, IEEE TMC, IEEE WCL, MTAP, Bentham Science Book</span>"
           icon: book
           icon_pack: fas
 
@@ -118,7 +118,7 @@ sections:
         #     date_end: '2024-08-01'
         #     description: 'Assisted student in obtaining Master offer from HKU, CityU, and Edin'
         - title: Visiting Student 
-          company: Data-driven Intelligent Information System Laboratory, Shenzhen Research Institute of Big Data (SRIBD)
+          company: Data-driven Intelligent Information System Laboratory and Center for Network System Optimization, Shenzhen Research Institute of Big Data (SRIBD)
           company_url: 'http://www.sribd.cn/'
           company_logo: SRIBD
           location: Shenzhen, Full-time
