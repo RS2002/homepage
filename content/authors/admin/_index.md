@@ -65,6 +65,12 @@ social:
   - icon: clarivate
     icon_pack: ai
     link: 'https://www.webofscience.com/wos/author/record/LZH-9404-2025'
+  - icon: ieee
+    icon_pack: ai
+    link: 'https://ieeexplore.ieee.org/author/37089322692'
+  - icon: acm
+    icon_pack: ai
+    link: 'https://dl.acm.org/profile/99661639420'
   - icon: github
     icon_pack: fab
     link: https://github.com/RS2002
