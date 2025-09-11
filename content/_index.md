@@ -17,6 +17,8 @@ sections:
       title: Latest News
       subtitle: ''
       text: |-
+        <span style="font-weight: bold;">2025.09</span>: Our papers "<span style="color: blue;">LoFi: Vision-Aided Label Generator for Wi-Fi Localization and Tracking</span>" and "<span style="color: blue;">Modelling the 5G Energy Consumption using Real-world Data: Energy Fingerprint is All You Need</span>" have been accepted by <a href="https://globecom2025.ieee-globecom.org/">IEEE Globecom GenAI NGN Workshop 2025</a>. <br>
+        <span style="font-weight: bold;">2025.09</span>: Our paper "<span style="color: blue;">IfWorld: A Multi-Agent Framework for Cross-Disciplinary Counterfactual Scenario Reasoning</span>" has been submitted for possible publication.<br>
         <span style="font-weight: bold;">2025.08</span>: We have uploaded the datasets WiGesture, WiFall, WiCount, LoFi, and RPMC-L2 in <a href="https://huggingface.co/RS2002">Hugging Face</a>.<br>
         <span style="font-weight: bold;">2025.08</span>: Our paper "<span style="color: blue;">Towards Advanced Mathematical Reasoning for LLMs via First-Order Logic Theorem Proving</span>" has been accepted by <a href="https://2025.emnlp.org/">EMNLP 2025 (main conference)</a>. <br>
         <span style="font-weight: bold;">2025.08</span>: We have uploaded the code and paramters of CSI-BERT, CSI-BERT2, Adversarial-MidiBERT, PianoBART, and Skip-BART in <a href="https://huggingface.co/RS2002">Hugging Face</a>.<br>
@@ -75,7 +77,7 @@ sections:
         #  icon: newspaper
         #  icon_pack: fas
         - name: Research Service 
-          description: "<span style='display: block; text-align: left;'>Society Membership: IEEE Student Member, ACM Student Member, CCF Student Member</span><span style='display: block; text-align: left;'>TPC Membership: IEEE WCNC Workshop 2024-2025, IEEE PIMRC Workshop 2024-2025, IEEE Globecom Workshop 2025, IEEE/CIC ICCC Workshop 2025</span><span style='display: block; text-align: left;'>Technical Reviewer: AAAI 2026, ICLR 2025, ACL ARR 2025, IEEE ICME 2024-2025, IEEE ICASSP 2024-2025, HKSTS 2024-2025, IEEE Globecom 2025, IEEE IJCNN 2025, IEEE WCNC 2024-2025, IEEE/CIC ICCC 2025, IEEE AVSS 2025, IEEE MLSP 2025, IET IRC 2025, BTR 2025, IEEE PIMRC 2024, IEEE SMC 2023, IEEE TMC, IEEE WCL, MTAP, Bentham Science Book</span>"
+          description: "<span style='display: block; text-align: left;'>Society Membership: IEEE Student Member, ACM Student Member, CCF Student Member</span><span style='display: block; text-align: left;'>TPC Membership: IEEE WCNC Workshop 2024-2025, IEEE PIMRC Workshop 2024-2025, IEEE Globecom Workshop 2025, IEEE/CIC ICCC Workshop 2025</span><span style='display: block; text-align: left;'>Technical Reviewer: AAAI 2026, ICLR 2025, ACL ARR 2025, IEEE ICASSP 2024-2026, IEEE ICME 2024-2025, HKSTS 2024-2025, IEEE Globecom 2025, IEEE IJCNN 2025, IEEE WCNC 2024-2025, IEEE/CIC ICCC 2025, IEEE AVSS 2025, IEEE MLSP 2025, IET IRC 2025, BTR 2025, IEEE PIMRC 2024, IEEE SMC 2023, IEEE TMC, IEEE WCL, MTAP, Bentham Science Book</span>"
           icon: book
           icon_pack: fas
 
