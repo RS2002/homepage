@@ -44,8 +44,8 @@ featured: false
 #   url: 
 
 url_pdf: 'https://arxiv.org/abs/2505.06682'
-url_dataset: ''
-url_project: ''
+url_code: 'https://github.com/RS2002/ESP32-Realtime-System'
+url_video: projects/ESP.mp4
 
 
 # Featured image

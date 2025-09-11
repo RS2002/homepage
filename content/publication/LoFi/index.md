@@ -30,8 +30,8 @@ publishDate: ''
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *under review*
-publication_short: In *under review*
+publication: In *IEEE Global Communications Conference (Globecom) GenAI NGN Workshop 2025*
+publication_short: In *IEEE Globecom GenAI NGN Workshop 2025*
 
 abstract: Wi-Fi localization and tracking has shown immense potential due to its privacy-friendliness, wide coverage, permeability, independence from lighting conditions, and low cost. Current methods can be broadly categorized as model-based and data-driven approaches, where data-driven methods show better performance and have less requirement for specialized devices, but struggle with limited datasets for training. Due to limitations in current data collection methods, most datasets only provide coarse-grained ground truth (GT) or limited amount of label points, which greatly hinders the development of data-driven methods. Even though lidar can provide accurate GT, their high cost makes them inaccessible to many users. To address these challenges, we propose LoFi, a vision-aided label generator for Wi-Fi localization and tracking, which can generate ground truth position coordinates solely based on 2D images. The easy and quick data collection method also helps data-driven based methods deploy in practice, since Wi-Fi is a low-generalization modality and when using relevant methods, it always requires fine-tuning the model using newly collected data. Based on our method, we also collect a Wi-Fi tracking and localization dataset using ESP32-S3 and a webcam. The dataset and code are publicly available at https://github.com/RS2002/LoFi.
 

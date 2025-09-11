@@ -44,7 +44,7 @@ featured: false
 # - name: 
 #   url: 
 
-url_pdf: ''
+url_pdf: 'https://symposia.cirrelt.ca/ISTDM2025/en/schedule/view_document/12764'
 url_code: ''
 url_dataset: ''
 url_poster: ''
