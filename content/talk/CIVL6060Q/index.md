@@ -1,5 +1,5 @@
 ---
-title: HKUST CIVL6060Q -- Deep Music
+title: HKUST CIVL6060Q -- Deep Music (Understanding, Generation, and Interaction)
 
 event: presentation
 event_url: 

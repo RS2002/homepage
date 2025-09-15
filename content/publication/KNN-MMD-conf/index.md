@@ -18,7 +18,7 @@ author_notes:
 
 
 date: '2025-06-26T00:00:00Z'
-doi: ''
+doi: '10.1109/ICCC65529.2025.11149311'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ''
@@ -48,9 +48,9 @@ featured: false
 # - name: 
 #   url: 
 
-url_pdf: ''
+url_pdf: 'https://ieeexplore.ieee.org/document/11149311'
 url_code: 'https://github.com/RS2002/KNN-MMD'
-url_slides: 'projects/Adv-MidiBERT.pptx'
+url_slides: 'projects/KNNMMD.pptx'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
