@@ -17,7 +17,7 @@ sections:
       title: Latest News
       subtitle: ''
       text: |-
-        <span style="font-weight: bold;">2025.09</span>: Our paper"<span style="color: blue;">Ride-Sharing Vehicle Dispatching with a Mixture of On-Demand and Pre-Booked Requests: A Multi-Agent Reinforcement Learning Approach</span>" has been submitted for possible publication.<br>
+        <span style="font-weight: bold;">2025.09</span>: Our papers "<span style="color: blue;">Ride-Sharing Vehicle Dispatching with a Mixture of On-Demand and Pre-Booked Requests: A Multi-Agent Reinforcement Learning Approach</span>" and "<span style="color: blue;">Zero-Effort Image-to-Music Generation: An Interpretable RAG-Based VLM Approach</span>" have been submitted for possible publication.<br>
         <span style="font-weight: bold;">2025.09</span>: Our proposal "<span style="color: blue;">Towards Fairness in Transportation Gig Markets: Identifying, Imitating, and Mitigating Algorithm Discrimination via Deep Reinforcement Learning</span>" has been submitted for possible publication.<br>
         <span style="font-weight: bold;">2025.09</span>: Our papers "<span style="color: blue;">LoFi: Vision-Aided Label Generator for Wi-Fi Localization and Tracking</span>" and "<span style="color: blue;">Modelling the 5G Energy Consumption using Real-world Data: Energy Fingerprint is All You Need</span>" have been accepted by <a href="https://globecom2025.ieee-globecom.org/">IEEE Globecom GenAI NGN Workshop 2025</a>. <br>
         <span style="font-weight: bold;">2025.09</span>: Our paper "<span style="color: blue;">IfWorld: A Multi-Agent Framework for Cross-Disciplinary Counterfactual Scenario Reasoning</span>" has been submitted for possible publication.<br>
