@@ -1,5 +1,5 @@
 ---
-title: 'The Impacts of Data Privacy Regulations on Food-Delivery Platforms", Transportation Research Part C: Emerging Technologies (TR\_C), 2025 (JCR-Q1) \href{}{[{\color'
+title: 'The Impacts of Data Privacy Regulations on Food-Delivery Platforms'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -38,7 +38,7 @@ summary:
 tags: []
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:
