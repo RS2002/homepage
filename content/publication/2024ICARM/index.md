@@ -1,5 +1,5 @@
 ---
-title: 'Autonomous Locomotion of a Rat Robot Based on Model-free Reinforcement Learning'
+title: 'Autonomous Locomotion of a Rat Robot Based on Model-Free Reinforcement Learning'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here

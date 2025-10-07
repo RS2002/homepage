@@ -1,5 +1,5 @@
 ---
-title: 'Finding the Missing Data: A BERT-inspired Approach Against Package Loss in Wireless Sensing'
+title: 'Finding the Missing Data: A BERT-Inspired Approach Against Package Loss in Wireless Sensing'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -16,7 +16,7 @@ authors:
 author_notes:
 
 
-date: '2024-02-06T00:00:00Z'
+date: '2024-05-20T00:00:00Z'
 doi: '10.1109/INFOCOMWKSHPS61880.2024.10620769'
 
 # Schedule page publish date (NOT publication's date).

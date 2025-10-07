@@ -1,5 +1,5 @@
 ---
-title: 'Zero-Effort Image-to-Music Generation: An Interpretable RAG-based VLM Approach'
+title: 'Zero-Effort Image-to-Music Generation: An Interpretable RAG-Based VLM Approach'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -14,7 +14,7 @@ author_notes:
 
 
 date: '2025-09-26T00:00:00Z'
-doi: ''
+doi: 'https://doi.org/10.48550/arXiv.2509.22378'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ''
@@ -44,7 +44,7 @@ featured: false
 # - name: 
 #   url: 
 
-url_pdf: ''
+url_pdf: 'https://arxiv.org/abs/2509.22378'
 url_code: 'https://github.com/RS2002/Image2Music'
 url_dataset: ''
 url_poster: ''

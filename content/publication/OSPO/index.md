@@ -1,5 +1,5 @@
 ---
-title: 'One Step is Enough: Multi-Agent Reinforcement Learning based on One-Step Policy Optimization for Order Dispatch on Ride-Sharing Platforms'
+title: 'One Step is Enough: Multi-Agent Reinforcement Learning Based on One-Step Policy Optimization for Order Dispatch on Ride-Sharing Platforms'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here

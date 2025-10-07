@@ -17,6 +17,7 @@ sections:
       title: Latest News
       subtitle: ''
       text: |-
+        <span style="font-weight: bold;">2025.10</span>: Our paper "<span style="color: blue;">Enhancing Reasoning Reliability through Formal Logic Verification in Reinforcement Learning</span>" has been submitted for possible publication.<br>
         <span style="font-weight: bold;">2025.09</span>: Our paper "<span style="color: blue;">The Impacts of Data Privacy Regulations on Food-Delivery Platforms</span>" has been accepted by <a href="https://www.sciencedirect.com/journal/transportation-research-part-c-emerging-technologies">Transportation Research Part C</a>. <br>
         <span style="font-weight: bold;">2025.09</span>: Our papers "<span style="color: blue;">Ride-Hailing Vehicle Dispatch with a Mixture of On-Demand and Pre-Booked Requests: A Multi-Agent Reinforcement Learning Approach</span>" and "<span style="color: blue;">Zero-Effort Image-to-Music Generation: An Interpretable RAG-Based VLM Approach</span>" have been submitted for possible publication.<br>
         <span style="font-weight: bold;">2025.09</span>: Our proposal "<span style="color: blue;">Towards Fairness in Transportation Gig Markets: Identifying, Imitating, and Mitigating Algorithm Discrimination via Deep Reinforcement Learning</span>" has been submitted for possible publication.<br>
@@ -80,7 +81,7 @@ sections:
         #  icon: newspaper
         #  icon_pack: fas
         - name: Research Service 
-          description: "<span style='display: block; text-align: left;'>Society Membership: IEEE Student Member, ACM Student Member, CCF Student Member</span><span style='display: block; text-align: left;'>TPC Membership: IEEE WCNC Workshop 2024-2025, IEEE PIMRC Workshop 2024-2025, IEEE Globecom Workshop 2025, IEEE/CIC ICCC Workshop 2025</span><span style='display: block; text-align: left;'>Technical Reviewer: AAAI 2026, ICLR 2025, ACL ARR 2025, IEEE ICASSP 2024-2026, IEEE ICME 2024-2025, HKSTS 2024-2025, IEEE Globecom 2025, IEEE IJCNN 2025, IEEE WCNC 2024-2025, IEEE/CIC ICCC 2025, IEEE AVSS 2025, IEEE MLSP 2025, IET IRC 2025, BTR 2025, IEEE PIMRC 2024, IEEE SMC 2023, IEEE TMC, IEEE WCL, MTAP, Bentham Science Book</span>"
+          description: "<span style='display: block; text-align: left;'>Society Membership: IEEE Student Member, ACM Student Member, CCF Student Member</span><span style='display: block; text-align: left;'>TPC Membership: IEEE WCNC Workshop 2024-2025, IEEE PIMRC Workshop 2024-2025, IEEE Globecom Workshop 2025, IEEE/CIC ICCC Workshop 2025</span><span style='display: block; text-align: left;'>Technical Reviewer: IEEE ICASSP 2024-2026, AAAI 2026, IEEE ICME 2024-2025, IEEE WCNC 2024-2025, IEEE PIMRC 2024-2025, HKSTS 2024-2025, ICLR 2025, ACL ARR 2025, IEEE Globecom 2025, IEEE IJCNN 2025, IEEE/CIC ICCC 2025, IEEE AVSS 2025, IEEE MLSP 2025, IET IRC 2025, BTR 2025, IEEE SMC 2023, IEEE TMC, IEEE WCL, MTAP, Bentham Science Book</span>"
           icon: book
           icon_pack: fas
 

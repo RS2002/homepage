@@ -1,5 +1,5 @@
 ---
-title: 'Modelling the 5G Energy Consumption using Real-world Data: Energy Fingerprint is All You Need'
+title: 'Modelling the 5G Energy Consumption using Real-World Data: Energy Fingerprint is All You Need'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here

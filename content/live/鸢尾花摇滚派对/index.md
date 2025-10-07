@@ -35,6 +35,7 @@ image:
   focal_point: Right
 
 url_slides: 'https://mp.weixin.qq.com/s/NPsq4FznD4zvFS89dOA4rA'
+url_video: 'https://www.xiaohongshu.com/explore/68e121a4000000000301ddbc?note_flow_source=wechat&xsec_token=CB1zzE8YOrAgMoAXd3aWfqUBVnYCIjrpfQv-x_VYVPmuA='
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.

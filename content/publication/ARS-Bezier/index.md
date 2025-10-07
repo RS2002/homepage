@@ -1,5 +1,5 @@
 ---
-title: 'A Trajectory-based Reinforcement Learning Approach for Autonomous Locomotion of a Rat Robot'
+title: 'A Trajectory-Based Reinforcement Learning Approach for Autonomous Locomotion of a Rat Robot'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here

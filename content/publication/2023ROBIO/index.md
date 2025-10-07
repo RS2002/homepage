@@ -20,7 +20,7 @@ date: '2023-10-02T00:00:00Z'
 doi: '10.1109/ROBIO58561.2023.10354896'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2023-12-22T00:00:00Z'
+publishDate: ''
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
