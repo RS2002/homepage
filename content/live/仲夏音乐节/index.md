@@ -1,13 +1,13 @@
 ---
-title: 新年音乐会
+title: 2025顺德北滘仲夏音乐节乐队风云榜初赛
 
 event: livehouse
 event_url: 
 
-location: 奥音空间
+location: ALSOLIVE
 address:
-  street: 海珠区艺苑南路13号布衣港电商产业园11栋一单元201B
-  city: 广州市
+  street: 顺德区怡和路6号
+  city: 佛山市
   region: 广东省
   postcode: ''
   country: 中国
@@ -17,12 +17,12 @@ abstract: ''
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2025-02-22T18:00:00Z'
-date_end: '2025-02-22T22:00:00Z'
+date: '2025-10-27T18:00:00Z'
+date_end: '2025-10-27T22:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2025-02-22T00:00:00Z'
+publishDate: '2025-10-14T00:00:00Z'
 
 authors: []
 tags: []
@@ -34,7 +34,7 @@ image:
   caption: ''
   focal_point: Right
 
-url_video: 'https://www.bilibili.com/video/BV1gW4yzfEXK/'
+url_video: ''
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.

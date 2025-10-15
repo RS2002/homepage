@@ -34,7 +34,7 @@ image:
   caption: ''
   focal_point: Right
 
-url_video: ''
+url_video: 'https://www.bilibili.com/video/BV1UP4uzREyD'
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.

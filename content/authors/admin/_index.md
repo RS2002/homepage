@@ -16,9 +16,10 @@ bio: PhD Student in HKUST
 
 # Interests to show in About widget
 interests:
-  - Deep Learning & Reinforcement Learning & Interdisciplinary AI
+  - Deep Learning & Machine Learning & Reinforcement Learning & Multi-Agent
+  - Interdisciplinary AI & AI Ethics & AI Arts
   - Smart City & Intelligent Transportation & Mobile Computing
-  - Integrated Sensing, AI, and Communication & Network/Edge Intelligence
+  - Integrated Sensing, AI, and Communication & Network and Edge Intelligence
   - Music Information Retrieval & Natural Language Processing & Multi-Modal & Multimedia 
 
 # Education to show in About widget
@@ -112,4 +113,4 @@ I'm currently a Ph.D. student in [Department of Civil and Environmental Engineer
 
 I received my B.Eng. degree from [School of Computer Science and Engineering](https://cse.sysu.edu.cn/) at [Sun Yat-sen University](https://www.sysu.edu.cn/) in 2024, mentored by [Prof. Kai Huang](https://cse.sysu.edu.cn/teacher/HuangKai) (Robot RL), [Prof. Ning Liu](https://cse.sysu.edu.cn/teacher/LiuNing) and [Prof. Chengying Gao](https://cse.sysu.edu.cn/teacher/GaoChengying) (Music AI). I was also a visiting student in [Shenzhen Research Institute of Big Data](http://www.sribd.cn/) at [The Chinese University of Hong Kong (Shenzhen)](https://www.cuhk.edu.cn/zh-hans)  from 2023 to 2024, under the guidance of [Prof. Guangxu Zhu](https://sites.google.com/view/guangxuzhu) (Deep Wireless Sensing).
 
-Aside from academics, I'm also the vocalist and guitarist for several metal and rock bands, including [Tokamak Disruption](https://tokamak-disruption.netlify.app/), [NEWS](https://music.163.com/#/artist?id=52253597) (personal band) and [Rights of Lethe](https://music.163.com/#/artist?id=52435898) (dissolved). If you are interested in collaborating with me (whether in academia or music), please feel free to reach out!
+Aside from academics, I'm also the vocalist and guitarist for several metal and rock bands, including [Tokamak Disruption](https://tokamak-disruption.netlify.app/), [NEWS](https://tokamak-disruption.netlify.app/author/news/) (personal band) and [Rights of Lethe](https://tokamak-disruption.netlify.app/author/rights-of-lethe/) (dissolved). If you are interested in collaborating with me (whether in academia or music), please feel free to reach out!
