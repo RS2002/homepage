@@ -34,7 +34,7 @@ image:
   caption: ''
   focal_point: Right
 
-url_video: 'https://www.xiaohongshu.com/explore/68e11d7a000000000300fea5?note_flow_source=wechat&xsec_token=CB1zzE8YOrAgMoAXd3aWfqUG-l-po6yfxV6l0iOSztnYw='
+url_video: 'https://www.bilibili.com/video/BV1UisVzaE8m/?spm_id_from=333.1007&vd_source=87c9e99eaa93dece80cb3f055168e9bc'
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
