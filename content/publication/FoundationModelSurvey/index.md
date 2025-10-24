@@ -50,7 +50,7 @@ featured: false
 # - name: 
 #   url: 
 
-url_pdf: 'https://www.sciengine.com/SCIS/doi/10.1007/s11432-025-4498-2'
+url_pdf: 'https://link.springer.com/article/10.1007/s11432-025-4498-2'
 url_code: ''
 url_dataset: ''
 url_poster: ''
