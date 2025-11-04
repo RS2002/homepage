@@ -17,6 +17,7 @@ sections:
       title: Latest News
       subtitle: ''
       text: |-
+        <span style="font-weight: bold;">2025.09</span>: Our proposal "<span style="color: blue;">Towards Fairness in Transportation Gig Markets: Identifying, Imitating, and Mitigating Algorithm Discrimination via Deep Reinforcement Learning</span>" has been accepted by <a href="https://aaai.org/conference/aaai/aaai-26/doctoral-consortium-call/">AAAI/SIGAI Doctoral Consortium 2026</a>. <br>
         <span style="font-weight: bold;">2025.10</span>: Our paper "<span style="color: blue;">Enhancing Reasoning Reliability through Formal Logic Verification in Reinforcement Learning</span>" has been submitted for possible publication.<br>
         <span style="font-weight: bold;">2025.09</span>: Our paper "<span style="color: blue;">The Impacts of Data Privacy Regulations on Food-Delivery Platforms</span>" has been accepted by <a href="https://www.sciencedirect.com/journal/transportation-research-part-c-emerging-technologies">Transportation Research Part C</a>. <br>
         <span style="font-weight: bold;">2025.09</span>: Our papers "<span style="color: blue;">Ride-Hailing Vehicle Dispatch with a Mixture of On-Demand and Pre-Booked Requests: A Multi-Agent Reinforcement Learning Approach</span>" and "<span style="color: blue;">Zero-Effort Image-to-Music Generation: An Interpretable RAG-Based VLM Approach</span>" have been submitted for possible publication.<br>
@@ -107,7 +108,7 @@ sections:
         #  date_start: '2024-09-01'
         #  date_end: ''
         #  description: 'Smart City Lab (Supervisor: <a href="https://www.smartcityhkust.com/">Prof. Sen Li</a>)'
-        - title: Industry-University-Research Student
+        - title: Industry-Academia-Research Student
           company: Likelihood Lab
           company_url: 'http://www.maxlikelihood.cn/'
           company_logo: Likelihood
