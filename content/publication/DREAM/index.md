@@ -51,8 +51,8 @@ featured: false
 # - name: 
 #   url: 
 
-url_pdf: 'https://arxiv.org/abs/2506.17104'
-url_code: ''
+url_pdf: 'https://aclanthology.org/2025.emnlp-main.628/'
+url_code: 'https://github.com/chuxuecao/dream-fol-prover'
 url_dataset: ''
 url_poster: ''
 url_project: ''
