@@ -1,5 +1,5 @@
 ---
-title: Bridging Transportation Researchers Conference 2025 -- Discriminatory Order Assignment and Payment-Setting of On-Demand Food-Delivery Platforms
+title: Bridging Transportation Researchers Conference 2025 and KKHTCNN Symposium on Civil Engineering 2025 -- Discriminatory Order Assignment and Payment-Setting of On-Demand Food-Delivery Platforms
 
 event: conference
 event_url: https://bridgingtransport.org/

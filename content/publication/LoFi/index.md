@@ -51,6 +51,8 @@ featured: false
 url_pdf: 'https://arxiv.org/abs/2412.05074'
 url_code: 'https://github.com/RS2002/LoFi'
 url_dataset: 'https://huggingface.co/datasets/RS2002/LoFi'
+url_slides: 'projects/LoFi.pptx'
+url_video: 'projects/LoFi.mp4'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

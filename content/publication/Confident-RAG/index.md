@@ -1,5 +1,5 @@
 ---
-title: 'Each to Their Own: Exploring the Optimal Embedding in RAG'
+title: 'Confident RAG: Enhancing the Reliability of LLMs for Mathematical Education through Multi-Embedding and Confidence Scoring'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here

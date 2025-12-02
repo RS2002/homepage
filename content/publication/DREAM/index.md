@@ -21,7 +21,7 @@ author_notes:
 
 
 date: '2025-06-20T00:00:00Z'
-doi: 'https://doi.org/10.48550/arXiv.2506.17104'
+doi: '10.18653/v1/2025.emnlp-main.628'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ''
