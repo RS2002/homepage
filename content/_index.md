@@ -17,6 +17,7 @@ sections:
       title: Latest News
       subtitle: ''
       text: |-
+        <span style="font-weight: bold;">2025.12</span>: Our paper "<span style="color: blue;">KNN-MMD: Cross Domain Wireless Sensing via Local Distribution Alignment</span>" has been accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755">IEEE TMC</a>. <br>
         <span style="font-weight: bold;">2024.12</span>: I have passed my Ph.D. Qualifying Examination with the proposal titled "<span style="color: blue;">Algorithmic Discrimination in On-Demand Food-Delivery Platforms using Multi-Agent Reinforcement Learning</span>".<br>
         <span style="font-weight: bold;">2025.12</span>: Our paper "<span style="color: blue;">CSI-BERT2: A BERT-inspired Framework for Efficient CSI Prediction and Classification in Wireless Communication and Sensing</span>" has been accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755">IEEE TMC</a>. <br>
         <span style="font-weight: bold;">2025.11</span>: Our proposal "<span style="color: blue;">Towards Fairness in Transportation Gig Markets: Identifying, Imitating, and Mitigating Algorithm Discrimination via Deep Reinforcement Learning</span>" has been accepted by <a href="https://aaai.org/conference/aaai/aaai-26/doctoral-consortium-call/">AAAI/SIGAI Doctoral Consortium 2026</a>. <br>
@@ -66,7 +67,7 @@ sections:
       title: Activity and Service
       items:
         - name: Skill
-          description: "<span style='display: block; text-align: left;'>**Code:** C/C++ (CCF-CSP:320, Top 0.8%), Python, Matlab</span> <span style='display: block; text-align: left;'>**Music:** Guitar, Bass, Keyboard</span>"
+          description: "<span style='display: block; text-align: left;'>**Code:** Python, C/C++ (CCF-CSP:320, Top 0.8%)</span> <span style='display: block; text-align: left;'>**Music:** Guitar, Bass, Keyboard</span>"
 # <span style='display: block; text-align: left;'>Proficient in: C/C++ (CCF-CSP:320, Top 0.8%), Python, Matlab, Pytorch</span><span style='display: block; text-align: left;'>Familiar with: MySQL, Git, Linux, ESP32</span><span style='display: block; text-align: left;'>Knowledgeable in: TensorFlow, Java, Assembly, Verilog, Lingo, Web Scraping, Flask, QT, Docker, Raspberry Pi, LLM API</span>
           icon: code
           icon_pack: fas

@@ -16,8 +16,8 @@ authors:
 author_notes:
 
 
-date: '2025-12-02T00:00:00Z'
-doi: 'https://doi.org/10.48550/arXiv.2412.06861'
+date: '2025-12-04T00:00:00Z'
+doi: '10.1109/TMC.2025.3640420'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ''
@@ -47,7 +47,7 @@ featured: true
 # - name: 
 #   url: 
 
-url_pdf: 'https://arxiv.org/abs/2412.06861'
+url_pdf: 'https://ieeexplore.ieee.org/document/11278110'
 url_code: 'https://github.com/RS2002/CSI-BERT2'
 url_dataset: 'https://huggingface.co/datasets/RS2002/WiCount'
 
