@@ -49,7 +49,7 @@ url_code: 'https://github.com/RS2002/ARS-Bezier'
 url_dataset: ''
 url_project: ''
 url_video: projects/ARS.mp4
-
+url_slides: projects/NeRmo.pptx
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

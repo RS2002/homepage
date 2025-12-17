@@ -1,5 +1,5 @@
 ---
-title: 'Confident RAG: Enhancing the Reliability of LLMs for Mathematical Education through Multi-Embedding and Confidence Scoring'
+title: 'Confident RAG: Enhancing the Performance of LLMs for Mathematics Question Answering through Multi-Embedding and Confidence Scoring'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here

@@ -17,8 +17,8 @@ authors:
 author_notes:
 
 
-date: '2025-12-13T00:00:00Z'
-doi: 'https://doi.org/10.48550/arXiv.2412.04783'
+date: '2025-12-16T00:00:00Z'
+doi: '10.1109/TMC.2025.3644902'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ''
@@ -48,7 +48,7 @@ featured: true
 # - name: 
 #   url: 
 
-url_pdf: 'https://arxiv.org/abs/2412.04783'
+url_pdf: 'https://ieeexplore.ieee.org/document/11301623'
 url_code: 'https://github.com/RS2002/KNN-MMD'
 url_slides: 'projects/KNNMMD.pptx'
 url_dataset: 'https://huggingface.co/datasets/RS2002/WiFall'
