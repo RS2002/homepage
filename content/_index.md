@@ -86,7 +86,7 @@ sections:
         #  icon: newspaper
         #  icon_pack: fas
         - name: Research Service 
-          description: "<span style='display: block; text-align: left;'>**Society Membership:** IEEE Student Member, ACM Student Member, AAAI Student Membership,CCF Student Member</span><span style='display: block; text-align: left;'>**TPC Membership:** IEEE WCNC Workshop 2024-2025, IEEE PIMRC Workshop 2024-2025, IEEE Globecom Workshop 2025, IEEE/CIC ICCC Workshop 2025</span><span style='display: block; text-align: left;'>**Technical Reviewer:** IEEE TPAMI, IEEE TMC, IEEE WCL, MTAP, Bentham Science Book, IEEE ICASSP 2024-2026, IEEE ICME 2024-2026, AAAI 2026, IEEE WCNC 2024-2025, IEEE PIMRC 2024-2025, HKSTS 2024-2025, ICLR 2025, ACL ARR 2025, IEEE Globecom 2025, IEEE IJCNN 2025, IEEE/CIC ICCC 2025, IEEE AVSS 2025, IEEE MLSP 2025, IET IRC 2025, BTR 2025, IEEE SMC 2023</span>"
+          description: "<span style='display: block; text-align: left;'>**Society Membership:** IEEE Student Member, ACM Student Member, AAAI Student Membership,CCF Student Member</span><span style='display: block; text-align: left;'>**TPC Membership:** IEEE WCNC Workshop 2024-2025, IEEE PIMRC Workshop 2024-2025, IEEE Globecom Workshop 2025, IEEE/CIC ICCC Workshop 2025</span><span style='display: block; text-align: left;'>**Technical Reviewer:** IEEE TPAMI, IEEE TMC, IEEE IOTJ, IEEE WCL, MTAP, Bentham Science Book, IEEE ICASSP 2024-2026, IEEE ICME 2024-2026, AAAI 2026, IEEE WCNC 2024-2025, IEEE PIMRC 2024-2025, HKSTS 2024-2025, ICLR 2025, ACL ARR 2025, IEEE Globecom 2025, IEEE IJCNN 2025, IEEE/CIC ICCC 2025, IEEE AVSS 2025, IEEE MLSP 2025, IET IRC 2025, BTR 2025, IEEE SMC 2023</span>"
           icon: book
           icon_pack: fas
 

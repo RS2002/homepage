@@ -3,10 +3,10 @@ title: Heart of Machine
 summary: 
 tags:
   - Tokamak Disruption
-date: '2025-03-01T00:00:00Z'
+date: '2025-12-24T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: ''
+external_link: 'https://music.163.com/#/album?id=351606467'
 
 
 # Slides (optional).
