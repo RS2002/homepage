@@ -1,5 +1,5 @@
 ---
-title: (IMT-2030(6G)推进组无线技术工作组第七次全会) 一种面向鲁棒无线感知的丢包CSI恢复技术
+title: (IMT-2030 6G 推进组无线技术工作组第七次全会) 一种面向鲁棒无线感知的丢包CSI恢复技术
 
 event: presentation
 event_url: https://mp.weixin.qq.com/s/w2JPtEYZl6tSoyJiZ3mPYQ
