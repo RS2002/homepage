@@ -44,8 +44,8 @@ featured: false
 
 url_pdf: ''
 url_code: 'https://github.com/RS2002/GDPR-Food-Delivery'
-url_slides: ''
-url_source: ''
+url_slides: 'projects/AAAI26_DC-8.pptx'
+url_poster: 'projects/AAAI26_DC-8.pdf'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

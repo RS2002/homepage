@@ -17,6 +17,7 @@ sections:
       title: Latest News
       subtitle: ''
       text: |-
+        <span style="font-weight: bold;">2025.12</span>: Our paper "<span style="color: blue;">Discriminatory Order Assignment and Payment-Setting on Food-Delivery Platforms: A Multi-Action and Multi-Agent Reinforcement Learning Framework</span>" has been accepted by <a href="https://www.sciencedirect.com/journal/transportation-research-part-e-logistics-and-transportation-review">Transportation Research Part E</a>. <br>
         <span style="font-weight: bold;">2025.12</span>: Our paper "<span style="color: blue;">Ride-Hailing Order Dispatching with A Mixture of On-Demand and Pre-Booked Requests via Reinforcement Learning</span>" has been accepted by <a href="https://cictp2026.sdjtu.edu.cn/index.htm">CICTP 2026</a>. <br>
         <span style="font-weight: bold;">2025.12</span>: Our paper "<span style="color: blue;">KNN-MMD: Cross Domain Wireless Sensing via Local Distribution Alignment</span>" has been accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755">IEEE TMC</a>. <br>
         <span style="font-weight: bold;">2024.12</span>: I have passed my Ph.D. Qualifying Examination with the proposal titled "<span style="color: blue;">Algorithmic Discrimination in On-Demand Food-Delivery Platforms using Multi-Agent Reinforcement Learning</span>".<br>
