@@ -1,5 +1,5 @@
 ---
-title: 哈三中第七届大学校友讲师团宣讲会
+title: [哈三中第七届大学校友讲师团宣讲会] 中山大学招生宣传
 
 event: volunteer activity
 event_url: https://mp.weixin.qq.com/s/FwIBRSy6kAG2Pc0LwkeGvQ

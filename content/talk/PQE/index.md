@@ -1,5 +1,5 @@
 ---
-title: HKUST Ph.D. Qualifying Exam -- Algorithmic Discrimination in On-Demand Food-Delivery Platforms using Multi-Agent Reinforcement Learning
+title: [HKUST Ph.D. Qualifying Exam] Algorithmic Discrimination in On-Demand Food-Delivery Platforms using Multi-Agent Reinforcement Learning
 
 event: presentation
 event_url: 
