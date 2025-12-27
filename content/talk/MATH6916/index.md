@@ -1,5 +1,5 @@
 ---
-title: [HKUST MATH6916] Wireless Sensing via Deep Learning
+title: (HKUST MATH6916) Wireless Sensing via Deep Learning
 
 event: presentation
 event_url: 
