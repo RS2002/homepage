@@ -106,7 +106,7 @@ highlight_name: true
 
 ---
 
-I'm a Ph.D. candidate in [Department of Civil and Environmental Engineering](https://www.ce.ust.hk/) and [Center for Scientific Computation](http://www.csc.ust.hk/scc/) at [The Hong Kong University of Science and Technology](https://hkust.edu.hk/), under the supervision of [Prof. Sen Li](https://www.smartcityhkust.com/). My current research primarily focuses on Deep Reinforcement Learning, Intelligent Transportation, Mobile Computing, and AI Ethics.
+I'm a Ph.D. candidate in [Department of Civil and Environmental Engineering](https://www.ce.ust.hk/) and [Center for Scientific Computation](http://www.csc.ust.hk/scc/) at [The Hong Kong University of Science and Technology](https://hkust.edu.hk/), under the supervision of [Prof. Sen Li](https://www.smartcityhkust.com/). My current research primarily focuses on Deep Reinforcement Learning, Intelligent Transportation, Smart City, and AI Ethics.
 
 I received my B.Eng. degree from [School of Computer Science and Engineering](https://cse.sysu.edu.cn/) at [Sun Yat-sen University](https://www.sysu.edu.cn/) in 2024, mentored by [Prof. Kai Huang](https://cse.sysu.edu.cn/teacher/HuangKai) (Robot RL), [Prof. Chengying Gao](https://cse.sysu.edu.cn/teacher/GaoChengying) and [Prof. Ning Liu](https://cse.sysu.edu.cn/teacher/LiuNing) (Music AI). I was also a visiting student in [Shenzhen Research Institute of Big Data](http://www.sribd.cn/) at [The Chinese University of Hong Kong (Shenzhen)](https://www.cuhk.edu.cn/zh-hans)  from 2023 to 2024, under the guidance of [Prof. Guangxu Zhu](https://sites.google.com/view/guangxuzhu) (Deep Wireless Sensing).
 
