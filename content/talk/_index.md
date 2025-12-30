@@ -1,5 +1,5 @@
 ---
-title: Talks
+title: Talks and Presentation
 cms_exclude: true
 
 # View.
