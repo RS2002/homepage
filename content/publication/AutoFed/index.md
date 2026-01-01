@@ -15,7 +15,7 @@ author_notes:
 
 
 date: '2025-12-31T00:00:00Z'
-doi: ''
+doi: 'https://doi.org/10.48550/arXiv.2512.24625'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ''
@@ -45,7 +45,7 @@ featured: false
 # - name: 
 #   url: 
 
-url_pdf: ''
+url_pdf: 'https://arxiv.org/abs/2512.24625'
 url_code: 'https://github.com/RS2002/AutoFed'
 url_dataset: ''
 url_poster: ''
