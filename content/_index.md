@@ -114,7 +114,7 @@ sections:
           location: Part-time
           date_start: '2026-01-01'
           date_end: ''
-          description: 'Project: Deep Learning Algorithms for Imbalanced Label Problem in High-Frequency Trading'
+          description: ''
         #- title: Ph.D. 
         #  company: Department of Civil and Environmental Engineering, School of Engineering, The Hong Kong University of Science and Technology (HKUST)
         #  company_url: 'https://www.ce.ust.hk/'
