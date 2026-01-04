@@ -50,7 +50,7 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ''
+url_source: 'https://hkustconnect-my.sharepoint.com/personal/lxieba_connect_ust_hk/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Flxieba%5Fconnect%5Fust%5Fhk%2FDocuments%2F12%2E5%20KKHTCNN%2FMaterial%2FImportan%20information%2F36th%5FKKHTCNN%5FProceedings%2Epdf&parent=%2Fpersonal%2Flxieba%5Fconnect%5Fust%5Fhk%2FDocuments%2F12%2E5%20KKHTCNN%2FMaterial%2FImportan%20information&ga=1'
 url_video: ''
 
 # Featured image

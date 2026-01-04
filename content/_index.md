@@ -17,7 +17,7 @@ sections:
       title: Latest News
       subtitle: ''
       text: |-
-        <span style="font-weight: bold;">2026.01</span>: Our paper "<span style="color: blue;">AutoFed: Manual-Free Federated Traffic Prediction via Personalized Prompt</span>" has been submitted for possible publication.<br>
+        <span style="font-weight: bold;">2026.01</span>: Our papers "<span style="color: blue;">Centralized Reinforcement Learning for Large-Scale Dynamic Trip-Vehicle Assignment</span>" and "<span style="color: blue;">AutoFed: Manual-Free Federated Traffic Prediction via Personalized Prompt</span>" have been submitted for possible publication.<br>
         <span style="font-weight: bold;">2025.12</span>: Our paper "<span style="color: blue;">OSPO: One-Step Policy Optimization for Real-Time Order Assignment on Ride-Sharing Platforms with Autonomous Vehicles</span>" has been submitted for possible publication.<br>
         <span style="font-weight: bold;">2025.12</span>: Our paper "<span style="color: blue;">Discriminatory Order Assignment and Payment-Setting on Food-Delivery Platforms: A Multi-Action and Multi-Agent Reinforcement Learning Framework</span>" has been accepted by <a href="https://www.sciencedirect.com/journal/transportation-research-part-e-logistics-and-transportation-review">Transportation Research Part E</a>. <br>
         <span style="font-weight: bold;">2025.12</span>: Our paper "<span style="color: blue;">Ride-Hailing Order Dispatching with A Mixture of On-Demand and Pre-Booked Requests via Reinforcement Learning</span>" has been accepted by <a href="https://cictp2026.sdjtu.edu.cn/index.htm">CICTP 2026</a>. <br>
@@ -107,6 +107,14 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
 
+        - title: Intern
+          company: Shenzhen Entropy Pact Intelligent Technology Co., Ltd.
+          company_url: 'https://aiqicha.baidu.com/company_detail_62868820599009'
+          company_logo: 
+          location: Part-time
+          date_start: '2026-01-01'
+          date_end: ''
+          description: 'Project: Deep Learning Algorithms for Imbalanced Label Problem in High-Frequency Trading'
         #- title: Ph.D. 
         #  company: Department of Civil and Environmental Engineering, School of Engineering, The Hong Kong University of Science and Technology (HKUST)
         #  company_url: 'https://www.ce.ust.hk/'
@@ -116,7 +124,7 @@ sections:
         #  date_end: ''
         #  description: 'Smart City Lab (Supervisor: <a href="https://www.smartcityhkust.com/">Prof. Sen Li</a>)'
         - title: Industry-Academia-Research Student
-          company: Likelihood Lab
+          company: Likelihood Lab, Guangzhou WenSight Intelligent Technology Co., Ltd.
           company_url: 'http://www.maxlikelihood.cn/'
           company_logo: Likelihood
           location: Online, Part-time
