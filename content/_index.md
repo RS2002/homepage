@@ -111,7 +111,7 @@ sections:
           company: Shenzhen Entropy Pact Intelligent Technology Co., Ltd.
           company_url: 'https://aiqicha.baidu.com/company_detail_62868820599009'
           company_logo: 
-          location: Part-time
+          location: Shenzhen, Part-time
           date_start: '2026-01-01'
           date_end: ''
           description: ''
@@ -130,7 +130,7 @@ sections:
           location: Online, Part-time
           date_start: '2024-02-01'
           date_end: '2024-08-01'
-          description: 'Project: Deep Learning Algorithms for Imbalanced Label Problem in High-Frequency Trading'
+          description: 'the first Elite Scholarship'
         #   - title: Writing Consultant & Graduate Application Mentor
         #     company: FLY Education; Compass Education
         #     company_url: 'https://www.linkedin.com/company/fly-education-ltd/'
@@ -188,14 +188,14 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: 
-          date_end: ''
-          date_start: '2025-02-07'
-          description: 'Bonus: 5,000 CNY'
-          organization: Likelihood Lab
-          organization_url: http://www.maxlikelihood.cn/
-          title: Elite Scholarship of Likelihood Lab
-          url: 'https://mp.weixin.qq.com/s/DZHHFvLfbbqndSUyoYBEjw'
+      #  - certificate_url: 
+      #    date_end: ''
+      #    date_start: '2025-02-07'
+      #    description: 'Bonus: 5,000 CNY'
+      #    organization: Likelihood Lab
+      #    organization_url: http://www.maxlikelihood.cn/
+      #    title: Elite Scholarship of Likelihood Lab
+      #    url: 'https://mp.weixin.qq.com/s/DZHHFvLfbbqndSUyoYBEjw'
         - certificate_url: 
           date_end: ''
           date_start: '2024-08-06'
