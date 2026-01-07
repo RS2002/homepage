@@ -16,11 +16,11 @@ bio: PhD Student in HKUST
 
 # Interests to show in About widget
 interests:
-  - Deep Learning & Machine Learning & Reinforcement Learning & Multi-Agent
-  - Interdisciplinary AI & AI Ethics & AI Arts
+  - Deep Learning & Reinforcement Learning & Multi-Agent
+  - Interdisciplinary AI & AI Ethics & AI Humanities
   - Smart City & Intelligent Transportation & Mobile Computing
   - Integrated Sensing, AI, and Communication & Network and Edge Intelligence
-  - Music Information Retrieval & Natural Language Processing & Multi-Modal & Multimedia 
+  - Music Information Retrieval & Natural Language Processing & Multi-Modal
 
 # Education to show in About widget
 education:
@@ -64,7 +64,7 @@ social:
     icon_pack: ai
     link: 'https://www.researchgate.net/profile/Zijian-Zhao-27'
   - icon: clarivate
-    icon_pack: ai
+    icon_pack: academicons
     link: 'https://www.webofscience.com/wos/author/record/LZH-9404-2025'
   - icon: ieee
     icon_pack: ai

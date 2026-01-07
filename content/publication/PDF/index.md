@@ -13,8 +13,8 @@ authors:
 author_notes:
 
 
-date: '2025-12-27T00:00:00Z'
-doi: ''
+date: '2026-01-06T00:00:00Z'
+doi: 'https://doi.org/10.1016/j.tre.2025.104653'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ''
@@ -44,7 +44,7 @@ featured: false
 # - name: 
 #   url: 
 
-url_pdf: ''
+url_pdf: 'https://www.sciencedirect.com/science/article/pii/S1366554525006751'
 url_code: 'https://github.com/RS2002/Discriminatory-Food-Delivery'
 url_dataset: https://github.com/RS2002/Discriminatory-Food-Delivery/main/data''
 url_poster: ''

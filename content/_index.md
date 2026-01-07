@@ -14,10 +14,10 @@ sections:
 
   - block: markdown
     content:
-      title: Latest News
+      title: Latest News (Last Yaer)
       subtitle: ''
       text: |-
-        <span style="font-weight: bold;">2026.01</span>: Our papers "<span style="color: blue;">Centralized Reinforcement Learning for Large-Scale Dynamic Trip-Vehicle Assignment</span>" and "<span style="color: blue;">AutoFed: Manual-Free Federated Traffic Prediction via Personalized Prompt</span>" have been submitted for possible publication.<br>
+        <span style="font-weight: bold;">2026.01</span>: Our papers "<span style="color: blue;">Centralized Reinforcement Learning for Large-Scale Dynamic Trip-Vehicle Assignment</span>", "<span style="color: blue;">Real-Time Order Assignment for Ride-Sharing Platforms with a Mixture of Pre-booked and On-Demand Requests</span>", and "<span style="color: blue;">AutoFed: Manual-Free Federated Traffic Prediction via Personalized Prompt</span>" have been submitted for possible publication.<br>
         <span style="font-weight: bold;">2025.12</span>: Our paper "<span style="color: blue;">OSPO: One-Step Policy Optimization for Real-Time Order Assignment on Ride-Sharing Platforms with Autonomous Vehicles</span>" has been submitted for possible publication.<br>
         <span style="font-weight: bold;">2025.12</span>: Our paper "<span style="color: blue;">Discriminatory Order Assignment and Payment-Setting on Food-Delivery Platforms: A Multi-Action and Multi-Agent Reinforcement Learning Framework</span>" has been accepted by <a href="https://www.sciencedirect.com/journal/transportation-research-part-e-logistics-and-transportation-review">Transportation Research Part E</a>. <br>
         <span style="font-weight: bold;">2025.12</span>: Our paper "<span style="color: blue;">Ride-Hailing Order Dispatching with A Mixture of On-Demand and Pre-Booked Requests via Reinforcement Learning</span>" has been accepted by <a href="https://cictp2026.sdjtu.edu.cn/index.htm">CICTP 2026</a>. <br>
@@ -71,7 +71,7 @@ sections:
       title: Activity and Service
       items:
         - name: Skill
-          description: "<span style='display: block; text-align: left;'>**Code:** Python, C/C++ (CCF-CSP:320, Top 0.8%)</span> <span style='display: block; text-align: left;'>**Music:** Guitar, Bass, Keyboard</span>"
+          description: "<span style='display: block; text-align: left;'>**Code:** Python, C/C++ (CCF-CSP:320, Top 0.8%), Java, Matlab, SQL</span> <span style='display: block; text-align: left;'>**Music:** Guitar, Keyboard, Bass, Ukulele</span>"
 # <span style='display: block; text-align: left;'>Proficient in: C/C++ (CCF-CSP:320, Top 0.8%), Python, Matlab, Pytorch</span><span style='display: block; text-align: left;'>Familiar with: MySQL, Git, Linux, ESP32</span><span style='display: block; text-align: left;'>Knowledgeable in: TensorFlow, Java, Assembly, Verilog, Lingo, Web Scraping, Flask, QT, Docker, Raspberry Pi, LLM API</span>
           icon: code
           icon_pack: fas
