@@ -45,7 +45,7 @@ featured: false
 url_pdf: ''
 url_code: 'https://github.com/RS2002/GDPR-Food-Delivery'
 url_slides: 'projects/AAAI26_DC-8.pptx'
-url_poster: 'projects/AAAI26_DC-8.pdf'
+url_poster: 'https://underline.io/lecture/138849-towards-fairness-in-transportation-gig-markets-identifying-imitating-and-mitigating-algorithm-discrimination-via-deep-reinforcement-learning'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

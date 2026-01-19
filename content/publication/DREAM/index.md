@@ -58,7 +58,7 @@ url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: ''
+url_video: 'https://underline.io/lecture/130380-towards-advanced-mathematical-reasoning-for-llms-via-first-order-logic-theorem-proving'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
