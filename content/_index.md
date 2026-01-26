@@ -17,7 +17,8 @@ sections:
       title: Latest News (Last Yaer)
       subtitle: ''
       text: |-
-        <span style="font-weight: bold;">2026.01</span>: Our papers "<span style="color: blue;">Beyond Multi‑Agent Reinforcement Learning: Scalable Centralized Control for Large-Scale Dynamic Trip-Vehicle Assignment</span>", "<span style="color: blue;">Real-Time Order Assignment for Ride-Sharing Platforms with a Mixture of Pre-booked and On-Demand Requests</span>", and "<span style="color: blue;">AutoFed: Manual-Free Federated Traffic Prediction via Personalized Prompt</span>" have been submitted for possible publication.<br>
+        <span style="font-weight: bold;">2026.01</span>: Our papers "<span style="color: blue;">Triple-BERT: Do We Really Need MARL for Ride-Sharing Order Dispatch?</span>" and "<span style="color: blue;">Automatic Stage Lighting Control: Is it a  Rule-Driven Process or a Generative Task?</span>" have been accepted by <a href="https://iclr.cc/">ICLR 2026</a>. <br>
+        <span style="font-weight: bold;">2026.01</span>: Our papers "<span style="color: blue;">Beyond Multi‑Agent Reinforcement Learning: Scalable Centralized Control for Large-Scale Dynamic Trip-Vehicle Assignment</span>" and "<span style="color: blue;">AutoFed: Manual-Free Federated Traffic Prediction via Personalized Prompt</span>" have been submitted for possible publication.<br>
         <span style="font-weight: bold;">2025.12</span>: Our paper "<span style="color: blue;">OSPO: One-Step Policy Optimization for Real-Time Order Assignment on Ride-Sharing Platforms with Autonomous Vehicles</span>" has been submitted for possible publication.<br>
         <span style="font-weight: bold;">2025.12</span>: Our paper "<span style="color: blue;">Discriminatory Order Assignment and Payment-Setting on Food-Delivery Platforms: A Multi-Action and Multi-Agent Reinforcement Learning Framework</span>" has been accepted by <a href="https://www.sciencedirect.com/journal/transportation-research-part-e-logistics-and-transportation-review">Transportation Research Part E</a>. <br>
         <span style="font-weight: bold;">2025.12</span>: Our paper "<span style="color: blue;">Ride-Hailing Order Dispatching with A Mixture of On-Demand and Pre-Booked Requests via Reinforcement Learning</span>" has been accepted by <a href="https://cictp2026.sdjtu.edu.cn/index.htm">CICTP 2026</a>. <br>
@@ -25,7 +26,7 @@ sections:
         <span style="font-weight: bold;">2025.12</span>: I have passed my Ph.D. Qualifying Examination with the proposal titled "<span style="color: blue;">Algorithmic Discrimination in On-Demand Food-Delivery Platforms using Multi-Agent Reinforcement Learning</span>".<br>
         <span style="font-weight: bold;">2025.12</span>: Our paper "<span style="color: blue;">CSI-BERT2: A BERT-inspired Framework for Efficient CSI Prediction and Classification in Wireless Communication and Sensing</span>" has been accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755">IEEE TMC</a>. <br>
         <span style="font-weight: bold;">2025.11</span>: Our proposal "<span style="color: blue;">Towards Fairness in Transportation Gig Markets: Identifying, Imitating, and Mitigating Algorithm Discrimination via Deep Reinforcement Learning</span>" has been accepted by <a href="https://aaai.org/conference/aaai/aaai-26/doctoral-consortium-call/">AAAI/SIGAI Doctoral Consortium 2026</a>. <br>
-        <span style="font-weight: bold;">2025.10</span>: Our paper "<span style="color: blue;">Enhancing Reasoning Reliability through Formal Logic Verification in Reinforcement Learning</span>" has been submitted for possible publication.<br>
+        <span style="font-weight: bold;">2025.10</span>: Our paper "<span style="color: blue;"Pushing the Boundaries of Natural Reasoning: Interleaved Bonus from Formal-Logic Verification</span>" has been submitted for possible publication.<br>
         <span style="font-weight: bold;">2025.09</span>: Our paper "<span style="color: blue;">The Impacts of Data Privacy Regulations on Food-Delivery Platforms</span>" has been accepted by <a href="https://www.sciencedirect.com/journal/transportation-research-part-c-emerging-technologies">Transportation Research Part C</a>. <br>
         <span style="font-weight: bold;">2025.09</span>: Our papers "<span style="color: blue;">Ride-Hailing Order Dispatching with A Mixture of On-Demand and Pre-Booked Requests via Reinforcement Learning</span>" and "<span style="color: blue;">Zero-Effort Image-to-Music Generation: An Interpretable RAG-Based VLM Approach</span>" have been submitted for possible publication.<br>
         <span style="font-weight: bold;">2025.09</span>: Our proposal "<span style="color: blue;">Towards Fairness in Transportation Gig Markets: Identifying, Imitating, and Mitigating Algorithm Discrimination via Deep Reinforcement Learning</span>" has been submitted for possible publication.<br>
@@ -111,7 +112,7 @@ sections:
           company: Shenzhen Entropy Pact Intelligent Technology Co., Ltd.
           company_url: 'https://aiqicha.baidu.com/company_detail_62868820599009'
           company_logo: 
-          location: Shenzhen, Part-time
+          location: Online, Part-time
           date_start: '2026-01-01'
           date_end: ''
           description: ''
