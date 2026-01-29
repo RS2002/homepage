@@ -14,9 +14,10 @@ sections:
 
   - block: markdown
     content:
-      title: Latest News (Last Yaer)
+      title: Latest News
       subtitle: ''
       text: |-
+        <span style="font-weight: bold;">2026.02</span>: Our paper "<span style="color: blue;">Real-Time Order Assignment for Ride-Sharing Platforms with a Mixture of Pre-booked and On-Demand Requests</span>" has been submitted for possible publication.<br>
         <span style="font-weight: bold;">2026.01</span>: Our papers "<span style="color: blue;">Triple-BERT: Do We Really Need MARL for Ride-Sharing Order Dispatch?</span>" and "<span style="color: blue;">Automatic Stage Lighting Control: Is it a  Rule-Driven Process or a Generative Task?</span>" have been accepted by <a href="https://iclr.cc/">ICLR 2026</a>. <br>
         <span style="font-weight: bold;">2026.01</span>: Our papers "<span style="color: blue;">Beyond Multi‑Agent Reinforcement Learning: Scalable Centralized Control for Large-Scale Dynamic Trip-Vehicle Assignment</span>" and "<span style="color: blue;">AutoFed: Manual-Free Federated Traffic Prediction via Personalized Prompt</span>" have been submitted for possible publication.<br>
         <span style="font-weight: bold;">2025.12</span>: Our paper "<span style="color: blue;">OSPO: One-Step Policy Optimization for Real-Time Order Assignment on Ride-Sharing Platforms with Autonomous Vehicles</span>" has been submitted for possible publication.<br>
@@ -45,8 +46,8 @@ sections:
         <span style="font-weight: bold;">2025.04</span>: Our paper "<span style="color: blue;">Multi-Agent Reinforcement Learning for Order Assignment and Payment Setting on Food-Delivery Platforms: The Implicit Algorithmic Biases</span>" has been accepted by <a href="https://symposia.cirrelt.ca/ISTDM2025/en/home">ISTDM 2025</a>. <br>
         <span style="font-weight: bold;">2025.04</span>: Our paper "<span style="color: blue;">The Impacts of Data Privacy Regulations on Food-Delivery Platforms</span>" has been submitted for possible publication.<br>
         <span style="font-weight: bold;">2025.03</span>: Our technical report "<span style="color: blue;">Label Unbalance in High-frequency Trading</span>" has been available in ArXiv and has been reported in <a href="https://mp.weixin.qq.com/s/Uhp8GDqV89cYzAoTNbpRQw">QuantML</a>.<br>
-        <span style="font-weight: bold;">2025.02</span>: We have uploaded the WiGesture dataset in <a href="http://www.sdp8.net/Dataset?id=5d4ee7ca-d0b0-45e3-9510-abb6e9cdebf9">Sensing Dataset Platform (SDP)</a>, which can be used for Wi-Fi gesture recognition, people identification, and cross-domain tasks.<br>
-        <span style="font-weight: bold;">2025.02</span>: Our paper "<span style="color: blue;">CrossFi: A Cross Domain Wi-Fi Sensing Framework Based on Siamese Network</span>" has been accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6488907">IEEE IOT-J</a>. <br>
+#        <span style="font-weight: bold;">2025.02</span>: We have uploaded the WiGesture dataset in <a href="http://www.sdp8.net/Dataset?id=5d4ee7ca-d0b0-45e3-9510-abb6e9cdebf9">Sensing Dataset Platform (SDP)</a>, which can be used for Wi-Fi gesture recognition, people identification, and cross-domain tasks.<br>
+#        <span style="font-weight: bold;">2025.02</span>: Our paper "<span style="color: blue;">CrossFi: A Cross Domain Wi-Fi Sensing Framework Based on Siamese Network</span>" has been accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6488907">IEEE IOT-J</a>. <br>
 #        <span style="font-weight: bold;">2025.02</span>: We have released the first stage lighting dataset <a href="https://zenodo.org/records/14854217?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjM5MDcwY2E5LTY0MzUtNGZhZC04NzA4LTczMjNhNTZiOGZmYSIsImRhdGEiOnt9LCJyYW5kb20iOiI1YWRkZmNiMmYyOGNiYzI4ZWUxY2QwNTAyY2YxNTY4ZiJ9.0Jr6GYfyyn02F96eVpkjOtcE-MM1wt-_ctOshdNGMUyUKI15-9Rfp9VF30_hYOTqv_9lLj-7Wj0qGyR3p9cA5w">Rock, Punk, Metal, Core - Livehouse Lighting (RPMC-L2)</a>. The corresponding paper will be avilable soon. <br>
 #        <span style="font-weight: bold;">2025.02</span>: I am awarded the Elite Scholarship from Likelihood Lab. <br>
 #        <span style="font-weight: bold;">2025.01</span>: Our papers "<span style="color: blue;">KNN-MMD: Cross Domain Wireless Sensing via Local Distribution Alignment</span>" and a conference version "<span style="color: blue;">Does MMD Really Align? A Cross Domain Wireless Sensing Method via Local Distribution</span>" and "<span style="color: blue;">LoFi: Vision-Aided Label Generator for Wi-Fi Localization and Tracking</span>" have been submitted for possible publication.<br> 
@@ -77,7 +78,7 @@ sections:
           icon: code
           icon_pack: fas
         - name: Teaching
-          description: "<span style='display: block; text-align: left;'>**Teaching Assistant:** HKUST CIVL 4640 Introduction to SmartCity Economics (Undergraduate, Spring 2026)</span><span style='display: block; text-align: left;'>**Interview:** HKUST JUPAS 2025</span>"
+          description: "<span style='display: block; text-align: left;'>**Teaching Assistant:** HKUST CIVL 4640 Introduction to Smart City Economics (Undergraduate, Spring 2026)</span><span style='display: block; text-align: left;'>**Interview:** HKUST JUPAS 2025</span>"
           icon: school
           icon_pack: fas
 #        - name: Music
@@ -90,7 +91,7 @@ sections:
         #  icon: newspaper
         #  icon_pack: fas
         - name: Research Service 
-          description: "<span style='display: block; text-align: left;'>**Society Membership:** IEEE Student Member, ACM Student Member, AAAI Student Membership,CCF Student Member</span><span style='display: block; text-align: left;'>**TPC Membership:** IEEE WCNC Workshop 2024-2026, IEEE PIMRC Workshop 2024-2025, IEEE Globecom Workshop 2025, IEEE/CIC ICCC Workshop 2025</span><span style='display: block; text-align: left;'>**Technical Reviewer:** IEEE TPAMI, IEEE TMC, IEEE IOTJ, IEEE WCL, MTAP, Bentham Science Book, IEEE ICASSP 2024-2026, IEEE ICME 2024-2026, IEEE WCNC 2024-2026, AAAI 2026, IEEE PIMRC 2024-2025, HKSTS 2024-2025, ICLR 2025, ACL ARR 2025, IEEE Globecom 2025, IEEE IJCNN 2025, IEEE/CIC ICCC 2025, IEEE AVSS 2025, IEEE MLSP 2025, IET IRC 2025, BTR 2025, IEEE SMC 2023</span>"
+          description: "<span style='display: block; text-align: left;'>**Society Membership:** IEEE Student Member, ACM Student Member, AAAI Student Membership,CCF Student Member</span><span style='display: block; text-align: left;'>**TPC Membership:** IEEE WCNC Workshop 2024-2026, IEEE PIMRC Workshop 2024-2025, IEEE Globecom Workshop 2025, IEEE/CIC ICCC Workshop 2025</span><span style='display: block; text-align: left;'>**Technical Reviewer:** IEEE TPAMI, IEEE TMC, IEEE IOTJ, IEEE WCL, MTAP, Bentham Science Book, IEEE ICASSP 2024-2026, IEEE ICME 2024-2026, IEEE WCNC 2024-2026, ACL ARR 2025-2026, ICML 2026, AAAI 2026, IEEE PIMRC 2024-2025, HKSTS 2024-2025, ICLR 2025, IEEE Globecom 2025, IEEE IJCNN 2025, IEEE/CIC ICCC 2025, IEEE AVSS 2025, IEEE MLSP 2025, IET IRC 2025, BTR 2025, IEEE SMC 2023</span>"
           icon: book
           icon_pack: fas
 
@@ -108,14 +109,14 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
 
-        - title: Intern
-          company: Shenzhen Entropy Pact Intelligent Technology Co., Ltd.
-          company_url: 'https://aiqicha.baidu.com/company_detail_62868820599009'
-          company_logo: 
-          location: Online, Part-time
-          date_start: '2026-01-01'
-          date_end: ''
-          description: ''
+        #- title: Intern
+        #  company: Shenzhen Entropy Pact Intelligent Technology Co., Ltd.
+        #  company_url: 'https://aiqicha.baidu.com/company_detail_62868820599009'
+        #  company_logo: 
+        #  location: Online, Part-time
+        #  date_start: '2026-01-01'
+        #  date_end: ''
+        #  description: ''
         #- title: Ph.D. 
         #  company: Department of Civil and Environmental Engineering, School of Engineering, The Hong Kong University of Science and Technology (HKUST)
         #  company_url: 'https://www.ce.ust.hk/'
