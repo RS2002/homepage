@@ -42,7 +42,7 @@ featured: false
 # - name: 
 #   url: 
 
-url_pdf: ''
+url_pdf: 'https://underline.io/events/501/sessions/22098/lecture/138849-955-towards-fairness-in-transportation-gig-markets-identifying-imitating-and-mitigating-algorithm-discrimination-via-deep-reinforcement-learning'
 url_code: 'https://github.com/RS2002/GDPR-Food-Delivery'
 url_slides: 'projects/AAAI26_DC-8.pptx'
 url_poster: 'https://underline.io/lecture/138849-towards-fairness-in-transportation-gig-markets-identifying-imitating-and-mitigating-algorithm-discrimination-via-deep-reinforcement-learning'
