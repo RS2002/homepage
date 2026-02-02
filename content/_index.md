@@ -17,6 +17,7 @@ sections:
       title: Latest News
       subtitle: ''
       text: |-
+        <span style="font-weight: bold;">2026.02</span>: An interview about my recent research has been released at <a href="https://aihub.org/2026/02/02/interview-with-zijian-zhao-labor-management-in-transportation-gig-systems-through-reinforcement-learning/">AIhub</a>.<br>
         <span style="font-weight: bold;">2026.01</span>: Our paper "<span style="color: blue;">Real-Time Order Assignment for Ride-Sharing Platforms with a Mixture of Pre-booked and On-Demand Requests</span>" has been submitted for possible publication.<br>
         <span style="font-weight: bold;">2026.01</span>: Our papers "<span style="color: blue;">Triple-BERT: Do We Really Need MARL for Ride-Sharing Order Dispatch?</span>" and "<span style="color: blue;">Automatic Stage Lighting Control: Is it a  Rule-Driven Process or a Generative Task?</span>" have been accepted by <a href="https://iclr.cc/">ICLR 2026</a>. <br>
         <span style="font-weight: bold;">2026.01</span>: Our papers "<span style="color: blue;">Beyond Multi‑Agent Reinforcement Learning: Scalable Centralized Control for Large-Scale Dynamic Trip-Vehicle Assignment</span>" and "<span style="color: blue;">AutoFed: Manual-Free Federated Traffic Prediction via Personalized Prompt</span>" have been submitted for possible publication.<br>

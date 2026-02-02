@@ -47,7 +47,7 @@ featured: true
 url_pdf: 'https://openreview.net/forum?id=symgW6FhA6&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2026%2FConference%2FAuthors%23your-submissions)'
 url_code: 'https://github.com/RS2002/Triple-BERT'
 url_dataset: ''
-url_poster: ''
+url_poster: 'projects/Triple_BERT_poster'
 url_project: ''
 url_slides: ''
 url_source: ''
