@@ -1,5 +1,5 @@
 ---
-title: Interview with Zijian Zhao -- Labor Management in Transportation Gig Systems Through Reinforcement Learning
+title: (AAAI-DC Interview) Labor Management in Transportation Gig Systems through Reinforcement Learning
 event: volunteer activity
 event_url: https://aihub.org/2026/02/02/interview-with-zijian-zhao-labor-management-in-transportation-gig-systems-through-reinforcement-learning/
 
