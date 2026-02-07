@@ -74,7 +74,7 @@ social:
     link: 'https://dl.acm.org/profile/99661639420'
   - icon: elsevier
     icon_pack: ai
-    link: 'https://www.scopus.com/authid/detail.uri?authorId=58817395200
+    link: https://www.scopus.com/authid/detail.uri?authorId=58817395200
   - icon: github
     icon_pack: fab
     link: https://github.com/RS2002
