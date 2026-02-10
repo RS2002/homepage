@@ -45,8 +45,8 @@ featured: false
 # - name: 
 #   url: 
 
-url_pdf: 'https://openreview.net/forum?id=BtwfpDb1OO'
-url_code: ''
+url_pdf: 'https://openreview.net/pdf?id=BtwfpDb1OO'
+url_code: 'https://github.com/CLaSLoVe/If-World'
 url_dataset: ''
 url_poster: ''
 url_project: ''
