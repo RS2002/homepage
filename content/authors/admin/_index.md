@@ -44,7 +44,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/Resume.pdf
   - icon: google-scholar
     icon_pack: ai
     link: 'https://scholar.google.com/citations?user=XkA3qCcAAAAJ'
