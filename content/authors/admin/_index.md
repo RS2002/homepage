@@ -63,8 +63,8 @@ social:
   - icon: researchgate
     icon_pack: ai
     link: 'https://www.researchgate.net/profile/Zijian-Zhao-27'
-  - icon: clarivate
-    icon_pack: custom
+  - icon: c
+    icon_pack: fas
     link: 'https://www.webofscience.com/wos/author/record/LZH-9404-2025'
   - icon: ieee
     icon_pack: ai

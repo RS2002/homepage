@@ -46,7 +46,7 @@ featured: true
 # - name: 
 #   url: 
 
-url_pdf: 'https://openreview.net/forum?id=a4Got6azjF&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2026%2FConference%2FAuthors%23your-submissions)'
+url_pdf: 'https://iclr.cc/virtual/2026/poster/10008746'
 url_code: 'https://github.com/RS2002/Skip-BART'
 url_dataset: 'https://huggingface.co/datasets/RS2002/RPMC-L2'
 url_poster: 'projects/Skip_BART_poster.pdf'
