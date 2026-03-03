@@ -12,7 +12,7 @@ author_notes:
 
 
 date: '2026-01-20T00:00:00Z'
-doi: ''
+doi: 'https://doi.org/10.48448/1rac-ff81'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2025-12-01T00:00:00Z'

@@ -84,6 +84,9 @@ social:
   - icon: face-laugh
     icon_pack: fas
     link: https://huggingface.co/RS2002
+  - icon: house
+    icon_pack: fas
+    link: https://tokamak-disruption.netlify.app/
   - icon: soundcloud
     icon_pack: fab
     link: https://music.163.com/#/artist?id=52253597
@@ -96,9 +99,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:zzhaock@connect.ust.hk'
-  - icon: house
-    icon_pack: fas
-    link: https://tokamak-disruption.netlify.app/
+
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
