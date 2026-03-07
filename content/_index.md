@@ -17,6 +17,8 @@ sections:
       title: Latest News
       subtitle: ''
       text: |-
+        <span style="font-weight: bold;">2026.03</span>: Our paper "<span style="color: blue;">Confident RAG: Enhancing the Performance of LLMs for Mathematics Question Answering through Multi-Embedding and Confidence Scoring</span>" has been accepted by <a href="https://iclr.cc/">ICLR LLM Reasoning Workshop 2026</a>. <br>
+        <span style="font-weight: bold;">2026.03</span>: Our paper "<span style="color: blue;">Discriminatory Order Assignment and Payment Setting on Food-Delivery Platforms: The Implicit Algorithmic Biases</span>" has been accepted by <a href="https://mitsloan.mit.edu/faculty/academic-groups/about-2026-transportation-science-and-logistics-conference">INFORMS TSL Conference 2026</a>. <br>
         <span style="font-weight: bold;">2026.02</span>: Our paper "<span style="color: blue;">Triple-BERT: Do We Really Need MARL for Ride-Sharing Order Dispatch?</span>" has been selected for an oral presentation at <a href="https://iclr.cc/">ICLR 2026</a>.<br>
         <span style="font-weight: bold;">2026.02</span>: An interview about my recent research titled "<span style="color: blue;">Labor Management in Transportation Gig Systems through Reinforcement Learning</span>" has been released at <a href="https://aihub.org/2026/02/02/interview-with-zijian-zhao-labor-management-in-transportation-gig-systems-through-reinforcement-learning/">AIhub</a>.<br>
         <span style="font-weight: bold;">2026.01</span>: Our paper "<span style="color: blue;">Real-Time Order Assignment for Ride-Sharing Platforms with a Mixture of Pre-booked and On-Demand Requests</span>" has been submitted for possible publication.<br>
