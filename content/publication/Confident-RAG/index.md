@@ -27,8 +27,8 @@ publishDate: '2025-07-23T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *ICLR LLM Reasoning Workshop 2026*
-publication_short: In *ICLR Logical Reasoning of Large Language Models Workshop 2026*
+publication: In *ICLR Logical Reasoning of Large Language Models Workshop 2026*
+publication_short: In *ICLR LLM Reasoning Workshop 2026*
 
 abstract: Recently, as Large Language Models (LLMs) have fundamentally impacted various fields, the methods for incorporating up-to-date information into LLMs or adding external knowledge to construct domain-specific models have garnered wide attention. Retrieval-Augmented Generation (RAG), serving as an inference-time scaling method, is notable for its low cost and minimal effort for parameter tuning. However, due to heterogeneous training data and model architecture, the variant embedding models used in RAG exhibit different benefits across various areas, often leading to different similarity calculation results and, consequently, varying response quality from LLMs. To address this problem, we propose and examine two approaches to enhance RAG by combining the benefits of multiple embedding models, named Mixture-Embedding RAG and Confident RAG. Mixture-Embedding RAG simply sorts and selects retrievals from multiple embedding models based on standardized similarity; however, it does not outperform vanilla RAG. In contrast, Confident RAG generates responses multiple times using different embedding models and then selects the responses with the highest confidence level, demonstrating average improvements of approximately 10% and 5% over vanilla LLMs and RAG, respectively. The consistent results across different LLMs and embedding models indicate that Confident RAG is an efficient plug-and-play approach for various domains. We will release our code upon publication.
 
@@ -45,7 +45,7 @@ featured: false
 # - name: 
 #   url: 
 
-url_pdf: 'https://arxiv.org/abs/2507.17442'
+url_pdf: 'https://openreview.net/forum?id=ulWkul8wWm'
 url_code: 'https://github.com/RS2002/Confident-RAG'
 url_dataset: ''
 url_poster: ''
