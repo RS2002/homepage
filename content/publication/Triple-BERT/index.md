@@ -49,7 +49,7 @@ url_code: 'https://github.com/RS2002/Triple-BERT'
 url_dataset: ''
 url_poster: 'projects/Triple_BERT_poster.pdf'
 url_project: ''
-url_slides: 'projects/Triple_BERT_slide.pdf'
+url_slides: 'https://iclr.cc/media/iclr-2026/Slides/10007021.pdf'
 url_source: ''
 url_video: ''
 
