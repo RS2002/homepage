@@ -86,7 +86,7 @@ social:
     link: https://huggingface.co/RS2002
   - icon: house
     icon_pack: fas
-    link: https://tokamak-disruption.netlify.app/
+    link: https://rs2002.github.io/MusicPage/
   - icon: soundcloud
     icon_pack: fab
     link: https://music.163.com/#/artist?id=52253597
@@ -114,4 +114,4 @@ I'm a Ph.D. candidate in [Department of Civil and Environmental Engineering](htt
 
 I received my B.Eng. degree from [School of Computer Science and Engineering](https://cse.sysu.edu.cn/) at [Sun Yat-sen University](https://www.sysu.edu.cn/) in 2024, mentored by [Prof. Kai Huang](https://cse.sysu.edu.cn/teacher/HuangKai) (Robot RL), [Prof. Chengying Gao](https://cse.sysu.edu.cn/teacher/GaoChengying) and [Prof. Ning Liu](https://cse.sysu.edu.cn/teacher/LiuNing) (Music AI). I was also a visiting student in [Shenzhen Research Institute of Big Data](http://www.sribd.cn/) at [The Chinese University of Hong Kong (Shenzhen)](https://www.cuhk.edu.cn/zh-hans)  from 2023 to 2024, under the guidance of [Prof. Guangxu Zhu](https://sites.google.com/view/guangxuzhu) (Deep Wireless Sensing).
 
-Aside from academics, I'm also the vocalist, guitarist, and bassist for several metal and rock bands, including [Tokamak Disruption](https://tokamak-disruption.netlify.app/), [NEWS](https://tokamak-disruption.netlify.app/author/news/) (personal band) and [Rights of Lethe](https://tokamak-disruption.netlify.app/author/rights-of-lethe/) (dissolved). If you are interested in collaborating with me (whether in academia or music), please feel free to reach out!
+Aside from academics, I'm also the vocalist, guitarist, and bassist for several metal and rock bands, including [Tokamak Disruption](https://tokamak-disruption.netlify.app/), [NEWS](https://tokamak-disruption.netlify.app/author/news/) (personal band) and [Rights of Lethe](https://tokamak-disruption.netlify.app/author/rights-of-lethe/) (dissolved). You can explore my musical work on [Longino • Independent Musician](https://rs2002.github.io/MusicPage/). If you are interested in collaborating with me (whether in academia or music), please feel free to reach out!
