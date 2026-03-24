@@ -48,7 +48,7 @@ featured: false
 url_pdf: 'https://openreview.net/forum?id=ulWkul8wWm'
 url_code: 'https://github.com/RS2002/Confident-RAG'
 url_dataset: ''
-url_poster: ''
+url_poster: 'projects/Confident_RAG_poster.pdf'
 url_project: ''
 url_slides: ''
 url_source: ''

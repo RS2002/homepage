@@ -54,9 +54,9 @@ featured: false
 url_pdf: 'https://aclanthology.org/2025.emnlp-main.628/'
 url_code: 'https://github.com/chuxuecao/dream-fol-prover'
 url_dataset: ''
-url_poster: ''
+url_poster: 'https://underline.io/lecture/130380-towards-advanced-mathematical-reasoning-for-llms-via-first-order-logic-theorem-proving'
 url_project: ''
-url_slides: ''
+url_slides: 'https://underline.io/lecture/130380-towards-advanced-mathematical-reasoning-for-llms-via-first-order-logic-theorem-proving'
 url_source: ''
 url_video: 'https://underline.io/lecture/130380-towards-advanced-mathematical-reasoning-for-llms-via-first-order-logic-theorem-proving'
 
