@@ -162,6 +162,7 @@ sections:
           organization: The Hong Kong University of Science and Technology
           organization_url: https://hkust.edu.hk
           title: Research Travel Grant by The Hong Kong University of Science and Technology (HKUST)
+          url: ''
         - certificate_url: 
           date_end: ''
           date_start: '2026-03-01'
@@ -169,6 +170,7 @@ sections:
           organization: Hong Kong Society for Transportation Studies
           organization_url: https://www.hksts.org
           title: PhD Student Travel Fund by Hong Kong Society for Transportation Studies (HKSTS)
+          url: ''
       #  - certificate_url: 
       #    date_end: ''
       #    date_start: '2025-02-07'
