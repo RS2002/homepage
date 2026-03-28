@@ -120,7 +120,7 @@ sections:
           location: Shenzhen, Full-time
           date_start: '2026-04-08'
           date_end: ''
-          description: 'the first Elite Scholarship'
+          description: '<a href="https://www.noahlab.com.hk">Noah's Ark Lab</a>, Central Research Institute, 2012 Lab'
         - title: Industry-Academia-Research Student
           company: Likelihood Lab, Guangzhou WenSight Intelligent Technology Co., Ltd.
           company_url: 'http://www.maxlikelihood.cn/'
