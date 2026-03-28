@@ -113,15 +113,6 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-
-        - title: Intern
-          company: Huawei
-          company_url: 'https://www.huawei.com/eu/'
-          company_logo: huawei
-          location: Shenzhen, Full-time
-          date_start: '2026-03-27'
-          date_end: ''
-          description: '<a href="https://www.noahlab.com.hk">Noah's Ark Lab</a>, Central Research Institute, 2012 Lab'
         - title: Industry-Academia-Research Student
           company: Likelihood Lab, Guangzhou WenSight Intelligent Technology Co., Ltd.
           company_url: 'http://www.maxlikelihood.cn/'
@@ -146,7 +137,7 @@ sections:
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Accomplish&shy;ments'
+      title: 'Awards;Grants'
       subtitle:
       # Date format: https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
