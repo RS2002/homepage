@@ -113,6 +113,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+
         - title: Intern
           company: Huawei
           company_url: 'https://www.huawei.com/eu/'
