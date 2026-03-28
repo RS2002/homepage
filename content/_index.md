@@ -118,8 +118,8 @@ sections:
           company_url: 'https://www.huawei.com/eu/'
           company_logo: huawei
           location: Shenzhen, Full-time
-          date_start: '2024-02-01'
-          date_end: '2024-08-01'
+          date_start: '2026-04-08'
+          date_end: ''
           description: 'the first Elite Scholarship'
         - title: Industry-Academia-Research Student
           company: Likelihood Lab, Guangzhou WenSight Intelligent Technology Co., Ltd.
