@@ -119,7 +119,7 @@ sections:
           company_url: 'https://www.huawei.com/eu/'
           company_logo: huawei
           location: Shenzhen, Full-time
-          date_start: '2026-03-28'
+          date_start: '2026-03-27'
           date_end: ''
           description: '<a href="https://www.noahlab.com.hk">Noah's Ark Lab</a>, Central Research Institute, 2012 Lab'
         - title: Industry-Academia-Research Student
