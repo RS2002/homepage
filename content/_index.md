@@ -113,11 +113,11 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Industry-Academia-Research Student
-          company: Likelihood Lab, Guangzhou WenSight Intelligent Technology Co., Ltd.
-          company_url: 'http://www.maxlikelihood.cn/'
-          company_logo: Likelihood
-          location: Online, Part-time
+        - title: Intern
+          company: Huawei
+          company_url: 'https://www.huawei.com/eu/'
+          company_logo: huawei
+          location: Shenzhen, Full-time
           date_start: '2024-02-01'
           date_end: '2024-08-01'
           description: 'the first Elite Scholarship'
