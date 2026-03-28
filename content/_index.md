@@ -17,9 +17,10 @@ sections:
       title: Latest News
       subtitle: ''
       text: |-
+        <span style="font-weight: bold;">2026.04</span>: I began my first internship at Noah's Ark Lab, Huawei.<br>
         <span style="font-weight: bold;">2026.03</span>: Our paper "<span style="color: blue;">Confident RAG: Enhancing the Performance of LLMs for Mathematics Question Answering through Multi-Embedding and Confidence Scoring</span>" has been accepted by <a href="https://iclr.cc/">ICLR LLM Reasoning Workshop 2026</a>. <br>
         <span style="font-weight: bold;">2026.03</span>: Our paper "<span style="color: blue;">Discriminatory Order Assignment and Payment Setting on Food-Delivery Platforms: The Implicit Algorithmic Biases</span>" has been accepted by <a href="https://mitsloan.mit.edu/faculty/academic-groups/about-2026-transportation-science-and-logistics-conference">INFORMS TSL Conference 2026</a>. <br>
-        <span style="font-weight: bold;">2026.02</span>: Our paper "<span style="color: blue;">Triple-BERT: Do We Really Need MARL for Ride-Sharing Order Dispatch?</span>" has been selected for an oral presentation at <a href="https://iclr.cc/">ICLR 2026</a>.<br>
+        <span style="font-weight: bold;">2026.02</span>: Our paper "<span style="color: blue;">Triple-BERT: Do We Really Need MARL for Ride-Sharing Order Dispatch?</span>" has been selected for an oral presentation at <a href="https://iclr.cc/">ICLR 2026</a>, supported by the Research Travel Grant from HKUST and the PhD Student Travel Fund from HKSTS.<br>
         <span style="font-weight: bold;">2026.02</span>: An interview about my recent research titled "<span style="color: blue;">Labor Management in Transportation Gig Systems through Reinforcement Learning</span>" has been released at <a href="https://aihub.org/2026/02/02/interview-with-zijian-zhao-labor-management-in-transportation-gig-systems-through-reinforcement-learning/">AIhub</a>.<br>
         <span style="font-weight: bold;">2026.01</span>: Our paper "<span style="color: blue;">Real-Time Order Assignment for Ride-Sharing Platforms with a Mixture of Pre-booked and On-Demand Requests</span>" has been submitted for possible publication.<br>
         <span style="font-weight: bold;">2026.01</span>: Our papers "<span style="color: blue;">Triple-BERT: Do We Really Need MARL for Ride-Sharing Order Dispatch?</span>" and "<span style="color: blue;">Automatic Stage Lighting Control: Is it a  Rule-Driven Process or a Generative Task?</span>" have been accepted by <a href="https://iclr.cc/">ICLR 2026</a>. <br>
@@ -46,8 +47,8 @@ sections:
         <span style="font-weight: bold;">2025.06</span>: Our paper "<span style="color: blue;">An Overview of Domain-Specific Foundation Model: Key Technologies, Applications and Challenges</span>" has been accepted by <a href="https://link.springer.com/journal/11432">Science China Information Sciences</a>. <br>
         <span style="font-weight: bold;">2025.05</span>: Our papers "<span style="color: blue;">Triple-BERT: Do We Really Need MARL for Ride-Sharing Order Dispatch?</span>", "<span style="color: blue;">Automatic Stage Lighting Control: Is it a Rule-Driven Process or Generative Task?</span>", and "<span style="color: blue;">Towards Advanced Mathematical Reasoning for LLMs via First-Order Logic Theorem Proving</span>" have been submitted for possible publication.<br>
         <span style="font-weight: bold;">2025.05</span>: Our technical report "<span style="color: blue;">A Short Overview of Multi-Modal Wi-Fi Sensing</span>" has been available in ArXiv.<br>
-        <span style="font-weight: bold;">2025.04</span>: Our paper "<span style="color: blue;">Let Network Decide What to Learn: Symbolic Music Understanding Model Based on Large-scale Adversarial Pre-training</span>" has been accepted by <a href="https://www.icmr-2025.org/">ACM ICMR 2025</a>. <br>
-        <span style="font-weight: bold;">2025.04</span>: Our paper "<span style="color: blue;">Multi-Agent Reinforcement Learning for Order Assignment and Payment Setting on Food-Delivery Platforms: The Implicit Algorithmic Biases</span>" has been accepted by <a href="https://symposia.cirrelt.ca/ISTDM2025/en/home">ISTDM 2025</a>. <br>
+#        <span style="font-weight: bold;">2025.04</span>: Our paper "<span style="color: blue;">Let Network Decide What to Learn: Symbolic Music Understanding Model Based on Large-scale Adversarial Pre-training</span>" has been accepted by <a href="https://www.icmr-2025.org/">ACM ICMR 2025</a>. <br>
+#        <span style="font-weight: bold;">2025.04</span>: Our paper "<span style="color: blue;">Multi-Agent Reinforcement Learning for Order Assignment and Payment Setting on Food-Delivery Platforms: The Implicit Algorithmic Biases</span>" has been accepted by <a href="https://symposia.cirrelt.ca/ISTDM2025/en/home">ISTDM 2025</a>. <br>
 #        <span style="font-weight: bold;">2025.04</span>: Our paper "<span style="color: blue;">The Impacts of Data Privacy Regulations on Food-Delivery Platforms</span>" has been submitted for possible publication.<br>
 #        <span style="font-weight: bold;">2025.03</span>: Our technical report "<span style="color: blue;">Label Unbalance in High-frequency Trading</span>" has been available in ArXiv and has been reported in <a href="https://mp.weixin.qq.com/s/Uhp8GDqV89cYzAoTNbpRQw">QuantML</a>.<br>
 #        <span style="font-weight: bold;">2025.02</span>: We have uploaded the WiGesture dataset in <a href="http://www.sdp8.net/Dataset?id=5d4ee7ca-d0b0-45e3-9510-abb6e9cdebf9">Sensing Dataset Platform (SDP)</a>, which can be used for Wi-Fi gesture recognition, people identification, and cross-domain tasks.<br>
@@ -57,7 +58,7 @@ sections:
 #        <span style="font-weight: bold;">2025.01</span>: Our papers "<span style="color: blue;">KNN-MMD: Cross Domain Wireless Sensing via Local Distribution Alignment</span>" and a conference version "<span style="color: blue;">Does MMD Really Align? A Cross Domain Wireless Sensing Method via Local Distribution</span>" and "<span style="color: blue;">LoFi: Vision-Aided Label Generator for Wi-Fi Localization and Tracking</span>" have been submitted for possible publication.<br> 
 #        <span style="font-weight: bold;">2025.01</span>: Our paper "<span style="color: blue;">Discriminatory Order Assignment and Payment-Setting of On-Demand Food-Delivery Platforms: A Multi-Action and Multi-Agent Reinforcement Learning Framework</span>" and a conference version "<span style="color: blue;">Multi-Agent Reinforcement Learning for Order Assignment and Payment Setting on Food-Delivery Platforms: The Implicit Algorithmic Biases</span>" have been submitted for possible publication.<br> 
 #        <span style="font-weight: bold;">2024.08</span>: Our papers "<span style="color: blue;">CrossFi: A Cross Domain Wi-Fi Sensing Framework Based on Siamese Network</span>" and "<span style="color: blue;">First Token Probability Guided RAG for Telecom Question Answering</span>" have been submitted for possible publication.<br>
-#        <span style="font-weight: bold;">2024.08</span>: I started my Ph.D. study in HKUST supervised by Prof. Sen Li. (HKUST RedBird Ph.D. Award)<br>
+#        <span style="font-weight: bold;">2024.08</span>: I began my Ph.D. study in HKUST supervised by Prof. Sen Li. (HKUST RedBird Ph.D. Award)<br>
 #        <span style="font-weight: bold;">2024.08</span>: Our paper "<span style="color: blue;">An Overview of Domain-specific Foundation Model: Key Technologies, Applications and Challenges</span>" has been submitted for possible publication.<br>
 #        <span style="font-weight: bold;">2024.07</span>: Our papers "<span style="color: blue;">Let Network Decide What to Learn: Symbolic Music Understanding Model Based on Large-scale Adversarial Pre-training</span>" and "<span style="color: blue;">Modelling the 5G Energy Consumption using Real-world Data: Energy Fingerprint is All You Need</span>" have been submitted for possible publication.<br> 
 #        <span style="font-weight: bold;">2024.04</span>: Our paper "<span style="color: blue;">Autonomous Locomotion of a Rat Robot Based on Model-free Reinforcement Learning</span>" has been accepted by <a href="http://www.ieee-arm.org/">IEEE ICARM 2024</a>.<br> 
@@ -95,7 +96,7 @@ sections:
         #  icon: newspaper
         #  icon_pack: fas
         - name: Research Service 
-          description: "<span style='display: block; text-align: left;'>**Society Membership:** IEEE Student Member, ACM Student Member, AAAI Student Membership,CCF Student Member</span><span style='display: block; text-align: left;'>**TPC Membership:** IEEE WCNC Workshop 2024-2026, IEEE PIMRC Workshop 2024-2025, IEEE GLOBECOM Workshop 2025, IEEE/CIC ICCC Workshop 2025</span><span style='display: block; text-align: left;'>**Technical Reviewer:** IEEE TPAMI, IEEE TMC, IEEE/ACM TON, IEEE IOTJ, IEEE WCL, MTAP, Bentham Science Book, IEEE ICASSP 2024-2026, IEEE ICME 2024-2026, IEEE WCNC 2024-2026, ICLR 2025-2026, ACL ARR 2025-2026, IEEE IJCNN 2025-2026, ICML 2026, AAAI 2026, CVPR 2026, ACM ICMR 2026, IEEE PIMRC 2024-2025, HKSTS 2024-2025, IEEE GLOBECOM 2025, IEEE/CIC ICCC 2025, IEEE AVSS 2025, IEEE MLSP 2025, IET IRC 2025, BTR 2025, IEEE SMC 2023</span>"
+          description: "<span style='display: block; text-align: left;'>**Society Membership:** IEEE Student Member, ACM Student Member, AAAI Student Membership,CCF Student Member</span><span style='display: block; text-align: left;'>**TPC Membership:** IEEE WCNC Workshop 2024-2026, IEEE PIMRC Workshop 2024-2025, IEEE GLOBECOM Workshop 2025, IEEE/CIC ICCC Workshop 2025</span><span style='display: block; text-align: left;'>**Technical Reviewer:** IEEE TPAMI, IEEE TMC, IEEE/ACM TON, IEEE IOTJ, IEEE WCL, MTAP, Bentham Science Book, IEEE ICASSP 2024-2026, IEEE ICME 2024-2026, IEEE WCNC 2024-2026, ICLR 2025-2026, ACL ARR 2025-2026, IEEE IJCNN 2025-2026, NeurIPS 2026, ICML 2026, AAAI 2026, CVPR 2026, ACM ICMR 2026, IEEE PIMRC 2024-2025, HKSTS 2024-2025, IEEE GLOBECOM 2025, IEEE/CIC ICCC 2025, IEEE AVSS 2025, IEEE MLSP 2025, IET IRC 2025, BTR 2025, IEEE SMC 2023</span>"
           icon: book
           icon_pack: fas
 
@@ -112,23 +113,14 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-
-        #- title: Intern
-        #  company: Shenzhen Entropy Pact Intelligent Technology Co., Ltd.
-        #  company_url: 'https://aiqicha.baidu.com/company_detail_62868820599009'
-        #  company_logo: 
-        #  location: Online, Part-time
-        #  date_start: '2026-01-01'
-        #  date_end: ''
-        #  description: ''
-        #- title: Ph.D. 
-        #  company: Department of Civil and Environmental Engineering, School of Engineering, The Hong Kong University of Science and Technology (HKUST)
-        #  company_url: 'https://www.ce.ust.hk/'
-        #  company_logo: HKUST-SENG
-        #  location: Hong Kong, Full-time
-        #  date_start: '2024-09-01'
-        #  date_end: ''
-        #  description: 'Smart City Lab (Supervisor: <a href="https://www.smartcityhkust.com/">Prof. Sen Li</a>)'
+        - title: Intern
+          company: Huawei
+          company_url: 'https://www.huawei.com/eu/'
+          company_logo: huawei
+          location: Shenzhen, Full-time
+          date_start: '2026-04-01'
+          date_end: ''
+          description: '<a href="https://www.noahlab.com.hk">Noah's Ark Lab</a>, Central Research Institute, 2012 Lab'
         - title: Industry-Academia-Research Student
           company: Likelihood Lab, Guangzhou WenSight Intelligent Technology Co., Ltd.
           company_url: 'http://www.maxlikelihood.cn/'
@@ -137,46 +129,15 @@ sections:
           date_start: '2024-02-01'
           date_end: '2024-08-01'
           description: 'the first Elite Scholarship'
-        #   - title: Writing Consultant & Graduate Application Mentor
-        #     company: FLY Education; Compass Education
-        #     company_url: 'https://www.linkedin.com/company/fly-education-ltd/'
-        #     company_logo: FLY
-        #     location: Online, Part-time
-        #     date_start: '2023-11-01'
-        #     date_end: '2024-08-01'
-        #     description: 'Assisted student in obtaining Master offer from HKU, CityU, and Edin'
         - title: Visiting Student 
-          company: Data-driven Intelligent Information System Laboratory and Center for Network System Optimization, Shenzhen Research Institute of Big Data (SRIBD)
+          company: Shenzhen Research Institute of Big Data (SRIBD)
           company_url: 'http://www.sribd.cn/'
           company_logo: SRIBD
           location: Shenzhen, Full-time
           date_start: '2023-08-01'
           date_end: '2024-08-01'
-          description: 'AI-RAN Lab (Supervisor: <a href="https://sites.google.com/view/guangxuzhu/home">Prof. Guangxu Zhu</a>); Associated with the <a href="https://www.cuhk.edu.cn/zh-hans">Chinese University of Hong Kong, Shenzhen (CUHKSZ)</a>'
-        #- title: B.Eng. (2rd~4th Grade)
-        #  company: School of Computer Science and Engineering, Sun Yat-sen University (SYSU)
-        #  company_url: 'https://cse.sysu.edu.cn/'
-        #  company_logo: SYSU-CS
-        #  location: Guangzhou, Full-time
-        #  date_start: '2021-07-01'
-        #  date_end: '2024-07-01'
-        #  description: 'GPA: 4.0/5.0 (90/100); Rank: Top 10% in Major; <a href="https://www.usilab.cn/">Robotic and Intelligence Computing Lab</a> (Supervisor: <a href="https://cse.sysu.edu.cn/content/2466">Prof. Kai Huang</a>), <a href="https://www.sysu-imsl.com/">Intelligent and Multimedia Science Laboratory</a> (<a href="https://cse.sysu.edu.cn/content/2537">Prof. Chengying Gao</a>, <a href="https://cse.sysu.edu.cn/node/2495">Prof. Ning Liu</a>)'
-        #   - title: Tutor
-        #     company: Zhangmen Education; Yousi Education
-        #     company_url: 'http://zhangmentalent.com/'
-        #     company_logo: ZM
-        #     location: Online, Part-time
-        #     date_start: '2020-12-01'
-        #     date_end: '2021-09-01'
-        #     description: 'Guided competition student; Helped student increase math score by 30 points in 3 months'
-        #- title: B.Eng. (1st Grade)
-        #  company: School of Electronics and Communication Engineering, Sun Yat-sen University (SYSU)
-        #  company_url: 'https://sece.sysu.edu.cn/'
-        #  company_logo: SYSU
-        #  location: Shenzhen, Full-time
-        #  date_start: '2020-09-01'
-        #  date_end: '2021-07-01'
-        #  description: 'GPA: 4.0/5.0 (90/100); Rank: Top 5% in Department'
+          description: 'AI-RAN Lab (Supervisor: <a href="https://sites.google.com/view/guangxuzhu/home">Prof. Guangxu Zhu</a>), Data-driven Intelligent Information System Laboratory and Center for Network System Optimization; Associated with the <a href="https://www.cuhk.edu.cn/zh-hans">Chinese University of Hong Kong, Shenzhen (CUHKSZ)</a>'
+
 
 
     design:
@@ -194,6 +155,20 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - certificate_url: 
+          date_end: ''
+          date_start: '2026-03-01'
+          description: 'Fund: 20,000 HKD'
+          organization: The Hong Kong University of Science and Technology
+          organization_url: https://hkust.edu.hk
+          title: Research Travel Grant by The Hong Kong University of Science and Technology (HKUST)
+        - certificate_url: 
+          date_end: ''
+          date_start: '2026-03-01'
+          description: 'Fund: 5,000 HKD'
+          organization: Hong Kong Society for Transportation Studies
+          organization_url: https://www.hksts.org
+          title: PhD Student Travel Fund by Hong Kong Society for Transportation Studies (HKSTS)
       #  - certificate_url: 
       #    date_end: ''
       #    date_start: '2025-02-07'
