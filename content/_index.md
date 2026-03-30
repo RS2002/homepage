@@ -96,7 +96,7 @@ sections:
         #  icon: newspaper
         #  icon_pack: fas
         - name: Research Service 
-          description: "<span style='display: block; text-align: left;'>**Society Membership:** IEEE Student Member, ACM Student Member, AAAI Student Membership,CCF Student Member</span><span style='display: block; text-align: left;'>**TPC Membership:** IEEE WCNC Workshop 2024-2026, IEEE PIMRC Workshop 2024-2025, IEEE GLOBECOM Workshop 2025, IEEE/CIC ICCC Workshop 2025</span><span style='display: block; text-align: left;'>**Technical Reviewer:** IEEE TPAMI, IEEE TMC, IEEE/ACM TON, IEEE IOTJ, IEEE WCL, MTAP, Bentham Science Book, IEEE ICASSP 2024-2026, IEEE ICME 2024-2026, IEEE WCNC 2024-2026, ICLR 2025-2026, ACL ARR 2025-2026, IEEE IJCNN 2025-2026, NeurIPS 2026, ICML 2026, AAAI 2026, CVPR 2026, ACM ICMR 2026, IEEE PIMRC 2024-2025, HKSTS 2024-2025, IEEE GLOBECOM 2025, IEEE/CIC ICCC 2025, IEEE AVSS 2025, IEEE MLSP 2025, IET IRC 2025, BTR 2025, IEEE SMC 2023</span>"
+          description: "<span style='display: block; text-align: left;'>**Society Membership:** IEEE Student Member, ACM Student Member, AAAI Student Membership,CCF Student Member</span><span style='display: block; text-align: left;'>**TPC Membership:** IEEE WCNC Workshop 2024-2026, IEEE PIMRC Workshop 2024-2025, IEEE GLOBECOM Workshop 2025, IEEE/CIC ICCC Workshop 2025</span><span style='display: block; text-align: left;'>**Technical Reviewer:** IEEE TPAMI, IEEE TMC, IEEE/ACM TON, IEEE IOTJ, IEEE WCL, Frontiers in AI, MTAP, Bentham Science Book, IEEE ICASSP 2024-2026, IEEE ICME 2024-2026, IEEE WCNC 2024-2026, ICLR 2025-2026, ACL ARR 2025-2026, IEEE IJCNN 2025-2026, NeurIPS 2026, ICML 2026, AAAI 2026, CVPR 2026, ACM ICMR 2026, IEEE PIMRC 2024-2025, HKSTS 2024-2025, IEEE GLOBECOM 2025, IEEE/CIC ICCC 2025, IEEE AVSS 2025, IEEE MLSP 2025, IET IRC 2025, BTR 2025, IEEE SMC 2023</span>"
           icon: book
           icon_pack: fas
 
@@ -113,7 +113,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Intern
+        - title: Research Intern
           company: Huawei
           company_url: 'https://www.huawei.com/eu/'
           company_logo: huawei
@@ -145,7 +145,7 @@ sections:
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Awards;Grants'
+      title: 'Awards &amp Grants'
       subtitle:
       # Date format: https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
