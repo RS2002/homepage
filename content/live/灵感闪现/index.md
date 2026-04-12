@@ -2,11 +2,11 @@
 title: 灵感闪现
 
 event: livehouse
-event_url: https://mp.weixin.qq.com/s/3gD1ZdbkdqE6FyMZhWhoRg
+event_url: https://mp.weixin.qq.com/s/eRUJuPjYnzVczbLgEFxBPA
 
-location: 太空间
+location: MAO
 address:
-  street: 海珠区太古仓54汇5号仓
+  street: 海珠区太古仓
   city: 广州市
   region: 广东省
   postcode: ''
@@ -17,8 +17,8 @@ abstract: ''
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2026-03-29T19:00:00Z'
-date_end: '2026-03-29T21:00:00Z'
+date: '2026-04-11T19:00:00Z'
+date_end: '2026-04-11T23:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -34,7 +34,7 @@ image:
   caption: ''
   focal_point: Right
 
-url_slides: 'https://mp.weixin.qq.com/s/3gD1ZdbkdqE6FyMZhWhoRg'
+url_slides: 'https://mp.weixin.qq.com/s/eRUJuPjYnzVczbLgEFxBPA'
 url_poster: ''
 url_video: ''
 
