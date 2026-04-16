@@ -17,14 +17,16 @@ sections:
       title: Latest News
       subtitle: ''
       text: |-
-        <span style="font-weight: bold;">2026.04</span>: I began my first internship at Noah's Ark Lab, Huawei.<br>
+        <span style="font-weight: bold;">2026.04</span>: Our paper "<span style="color: blue;">Zero-Effort Image-to-Music Generation: An Interpretable RAG-based VLM Approach</span>" has been accepted by <a href="https://www.icmr-2025.org/">ACM ICMR 2026</a>. <br>
+        <span style="font-weight: bold;">2026.04</span>: I began my first internship at Noah's Ark Lab (2012 Laboratories), Huawei.<br>
+        <span style="font-weight: bold;">2026.03</span>: Our paper "<span style="color: blue;">Personalized Federated Traffic Prediction via Prompt-Guided Global Representation and Node-Specific Adaptation</span>" has been submitted for possible publication.<br>
         <span style="font-weight: bold;">2026.03</span>: Our paper "<span style="color: blue;">Confident RAG: Enhancing the Performance of LLMs for Mathematics Question Answering through Multi-Embedding and Confidence Scoring</span>" has been accepted by <a href="https://iclr.cc/">ICLR LLM Reasoning Workshop 2026</a>. <br>
         <span style="font-weight: bold;">2026.03</span>: Our paper "<span style="color: blue;">Discriminatory Order Assignment and Payment Setting on Food-Delivery Platforms: The Implicit Algorithmic Biases</span>" has been accepted by <a href="https://mitsloan.mit.edu/faculty/academic-groups/about-2026-transportation-science-and-logistics-conference">INFORMS TSL Conference 2026</a>. <br>
         <span style="font-weight: bold;">2026.02</span>: Our paper "<span style="color: blue;">Triple-BERT: Do We Really Need MARL for Ride-Sharing Order Dispatch?</span>" has been selected for an oral presentation at <a href="https://iclr.cc/">ICLR 2026</a>, supported by the Research Travel Grant from HKUST and the PhD Student Travel Fund from HKSTS.<br>
         <span style="font-weight: bold;">2026.02</span>: An interview about my recent research titled "<span style="color: blue;">Labor Management in Transportation Gig Systems through Reinforcement Learning</span>" has been released at <a href="https://aihub.org/2026/02/02/interview-with-zijian-zhao-labor-management-in-transportation-gig-systems-through-reinforcement-learning/">AIhub</a>.<br>
         <span style="font-weight: bold;">2026.01</span>: Our paper "<span style="color: blue;">Real-Time Order Assignment for Ride-Sharing Platforms with a Mixture of Pre-booked and On-Demand Requests</span>" has been submitted for possible publication.<br>
         <span style="font-weight: bold;">2026.01</span>: Our papers "<span style="color: blue;">Triple-BERT: Do We Really Need MARL for Ride-Sharing Order Dispatch?</span>" and "<span style="color: blue;">Automatic Stage Lighting Control: Is it a  Rule-Driven Process or a Generative Task?</span>" have been accepted by <a href="https://iclr.cc/">ICLR 2026</a>. <br>
-        <span style="font-weight: bold;">2026.01</span>: Our papers "<span style="color: blue;">Beyond Multi‑Agent Reinforcement Learning: Scalable Centralized Control for Large-Scale Dynamic Trip-Vehicle Assignment</span>" and "<span style="color: blue;">AutoFed: Manual-Free Federated Traffic Prediction via Personalized Prompt</span>" have been submitted for possible publication.<br>
+        <span style="font-weight: bold;">2026.01</span>: Our papers "<span style="color: blue;">Beyond Multi‑Agent Reinforcement Learning: Scalable Centralized Control for Large-Scale Dynamic Trip-Vehicle Assignment</span>" and "<span style="color: blue;">AutoFed: Personalized Federated Traffic Prediction via Adaptive Prompt</span>" have been submitted for possible publication.<br>
         <span style="font-weight: bold;">2025.12</span>: Our paper "<span style="color: blue;">OSPO: One-Step Policy Optimization for Real-Time Order Assignment on Ride-Sharing Platforms with Autonomous Vehicles</span>" has been submitted for possible publication.<br>
         <span style="font-weight: bold;">2025.12</span>: Our paper "<span style="color: blue;">Discriminatory Order Assignment and Payment-Setting on Food-Delivery Platforms: A Multi-Action and Multi-Agent Reinforcement Learning Framework</span>" has been accepted by <a href="https://www.sciencedirect.com/journal/transportation-research-part-e-logistics-and-transportation-review">Transportation Research Part E</a>. <br>
         <span style="font-weight: bold;">2025.12</span>: Our paper "<span style="color: blue;">Ride-Hailing Order Dispatching with A Mixture of On-Demand and Pre-Booked Requests via Reinforcement Learning</span>" has been accepted by <a href="https://cictp2026.sdjtu.edu.cn/index.htm">CICTP 2026</a>. <br>
@@ -120,7 +122,7 @@ sections:
           location: Shenzhen, Full-time
           date_start: '2026-04-08'
           date_end: ''
-          description: '<a href="https://www.noahlab.com.hk">Noah Ark Lab</a> (Supervisor: <a href="https://openreview.net/profile?id=~Xialiang_Tong1">Xialiang Tong</a>), Central Research Institute, 2012 Lab'
+          description: '<a href="https://www.noahlab.com.hk">Noah Ark Lab</a> (Supervisor: <a href="https://openreview.net/profile?id=~Xialiang_Tong1">Xialiang Tong</a>), Central Research Institute, 2012 Laboratories'
         - title: Industry-Academia-Research Student
           company: Likelihood Lab, Guangzhou WenSight Intelligent Technology Co., Ltd.
           company_url: 'http://www.maxlikelihood.cn/'
