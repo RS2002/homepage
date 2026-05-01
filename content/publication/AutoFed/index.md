@@ -1,5 +1,5 @@
 ---
-title: 'AutoFed: Manual-Free Federated Traffic Prediction via Personalized Prompt'
+title: 'AutoFed: Personalized Federated Traffic Prediction via Adaptive Prompt'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
