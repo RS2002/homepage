@@ -17,7 +17,7 @@ sections:
       title: Latest News
       subtitle: ''
       text: |-
-        <span style="font-weight: bold;">2026.05</span>: Our paper "<span style="color: blue;">Pushing the Boundaries of Natural Reasoning: Interleaved Bonus from Formal-Logic Verification</span>" has been accepted by <a href="https://icml.cc/">ICML 2026</a>. <br>
+        <span style="font-weight: bold;">2026.05</span>: Our paper "<span style="color: blue;">Pushing the Boundaries of Natural Reasoning: Interleaved Bonus from Formal-Logic Verification</span>" has been accepted by <a href="https://icml.cc/">ICML 2026</a> , supported by the Student Travel Adward from ACM SIGMM.<br>
         <span style="font-weight: bold;">2026.05</span>: Our papers "<span style="color: blue;">Bridging MARL to SARL: An Order-Independent Multi-Agent Transformer via Latent Consensus</span>" and "<span style="color: blue;">Stage Light is Sequence²: Multi-Light Control via Imitation Learning</span>" have been submitted for possible publication.<br>
         <span style="font-weight: bold;">2026.04</span>: Our paper "<span style="color: blue;">Zero-Effort Image-to-Music Generation: An Interpretable RAG-based VLM Approach</span>" has been accepted by <a href="https://icmr2026.org/">ACM ICMR 2026</a>. <br>
         <span style="font-weight: bold;">2026.04</span>: I began my first internship at Noah's Ark Lab (2012 Laboratories), Huawei.<br>
@@ -159,6 +159,14 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - certificate_url: 
+          date_end: ''
+          date_start: '2026-05-01'
+          description: 'Fund: 20,000 USD'
+          organization: ACM SIGMM
+          organization_url: https://www.sigmm.org
+          title: ACM SIGMM Student Travel Award
+          url: ''
         - certificate_url: 
           date_end: ''
           date_start: '2026-03-01'
