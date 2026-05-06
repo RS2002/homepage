@@ -34,7 +34,7 @@ image:
   caption: ''
   focal_point: Right
 
-url_slides: ''
+url_slides: 'https://mp.weixin.qq.com/s/ksNghFZDIl-qOz30Cf36uQ'
 url_poster: ''
 url_video: ''
 

@@ -50,6 +50,7 @@ featured: true
 url_pdf: 'https://ieeexplore.ieee.org/document/11278110'
 url_code: 'https://github.com/RS2002/CSI-BERT2'
 url_dataset: 'https://huggingface.co/datasets/RS2002/WiCount'
+url_poster: 'https://mp.weixin.qq.com/s/VeVzhlMWntRDofDsvQVKHQ'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

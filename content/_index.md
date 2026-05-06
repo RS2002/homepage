@@ -17,9 +17,9 @@ sections:
       title: Latest News
       subtitle: ''
       text: |-
-        <span style="font-weight: bold;">2026.05</span>: Our paper "<span style="color: blue;">Pushing the Boundaries of Natural Reasoning: Interleaved Bonus from Formal-Logic Verification</span>" has been accepted by <a href="https://icml.cc/">ICML 2026</a> , supported by the Student Travel Adward from ACM SIGMM.<br>
+        <span style="font-weight: bold;">2026.05</span>: Our paper "<span style="color: blue;">Pushing the Boundaries of Natural Reasoning: Interleaved Bonus from Formal-Logic Verification</span>" has been accepted by <a href="https://icml.cc/">ICML 2026</a>.<br>
         <span style="font-weight: bold;">2026.05</span>: Our papers "<span style="color: blue;">Bridging MARL to SARL: An Order-Independent Multi-Agent Transformer via Latent Consensus</span>" and "<span style="color: blue;">Stage Light is Sequence²: Multi-Light Control via Imitation Learning</span>" have been submitted for possible publication.<br>
-        <span style="font-weight: bold;">2026.04</span>: Our paper "<span style="color: blue;">Zero-Effort Image-to-Music Generation: An Interpretable RAG-based VLM Approach</span>" has been accepted by <a href="https://icmr2026.org/">ACM ICMR 2026</a>. <br>
+        <span style="font-weight: bold;">2026.04</span>: Our paper "<span style="color: blue;">Zero-Effort Image-to-Music Generation: An Interpretable RAG-based VLM Approach</span>" has been accepted by <a href="https://icmr2026.org/">ACM ICMR 2026</a>, supported by the Student Travel Adward from ACM SIGMM.<br>
         <span style="font-weight: bold;">2026.04</span>: I began my first internship at Noah's Ark Lab (2012 Laboratories), Huawei.<br>
         <span style="font-weight: bold;">2026.03</span>: Our paper "<span style="color: blue;">Personalized Federated Traffic Prediction via Prompt-Guided Global Representation and Node-Specific Adaptation</span>" has been submitted for possible publication.<br>
         <span style="font-weight: bold;">2026.03</span>: Our paper "<span style="color: blue;">Confident RAG: Enhancing the Performance of LLMs for Mathematics Question Answering through Multi-Embedding and Confidence Scoring</span>" has been accepted by <a href="https://iclr.cc/">ICLR LLM Reasoning Workshop 2026</a>. <br>
