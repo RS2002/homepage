@@ -17,6 +17,7 @@ sections:
       title: Latest News
       subtitle: ''
       text: |-
+        <span style="font-weight: bold;">2026.05</span>: I was awarded the HKUST Red Bird Award 2026, thanks to the guidance, support, and nomination of Prof. Sen Li.<br>
         <span style="font-weight: bold;">2026.05</span>: Our paper "<span style="color: blue;">Pushing the Boundaries of Natural Reasoning: Interleaved Bonus from Formal-Logic Verification</span>" has been accepted by <a href="https://icml.cc/">ICML 2026</a>.<br>
         <span style="font-weight: bold;">2026.05</span>: Our papers "<span style="color: blue;">Bridging MARL to SARL: An Order-Independent Multi-Agent Transformer via Latent Consensus</span>" and "<span style="color: blue;">Stage Light is Sequence²: Multi-Light Control via Imitation Learning</span>" have been submitted for possible publication.<br>
         <span style="font-weight: bold;">2026.04</span>: Our paper "<span style="color: blue;">Zero-Effort Image-to-Music Generation: An Interpretable RAG-based VLM Approach</span>" has been accepted by <a href="https://icmr2026.org/">ACM ICMR 2026</a>, supported by the Student Travel Adward from ACM SIGMM.<br>
@@ -58,7 +59,7 @@ sections:
 #        <span style="font-weight: bold;">2025.02</span>: We have uploaded the WiGesture dataset in <a href="http://www.sdp8.net/Dataset?id=5d4ee7ca-d0b0-45e3-9510-abb6e9cdebf9">Sensing Dataset Platform (SDP)</a>, which can be used for Wi-Fi gesture recognition, people identification, and cross-domain tasks.<br>
 #        <span style="font-weight: bold;">2025.02</span>: Our paper "<span style="color: blue;">CrossFi: A Cross Domain Wi-Fi Sensing Framework Based on Siamese Network</span>" has been accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6488907">IEEE IOT-J</a>. <br>
 #        <span style="font-weight: bold;">2025.02</span>: We have released the first stage lighting dataset <a href="https://zenodo.org/records/14854217?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjM5MDcwY2E5LTY0MzUtNGZhZC04NzA4LTczMjNhNTZiOGZmYSIsImRhdGEiOnt9LCJyYW5kb20iOiI1YWRkZmNiMmYyOGNiYzI4ZWUxY2QwNTAyY2YxNTY4ZiJ9.0Jr6GYfyyn02F96eVpkjOtcE-MM1wt-_ctOshdNGMUyUKI15-9Rfp9VF30_hYOTqv_9lLj-7Wj0qGyR3p9cA5w">Rock, Punk, Metal, Core - Livehouse Lighting (RPMC-L2)</a>. The corresponding paper will be avilable soon. <br>
-#        <span style="font-weight: bold;">2025.02</span>: I am awarded the Elite Scholarship from Likelihood Lab. <br>
+#        <span style="font-weight: bold;">2025.02</span>: I was awarded the Elite Scholarship from Likelihood Lab. <br>
 #        <span style="font-weight: bold;">2025.01</span>: Our papers "<span style="color: blue;">KNN-MMD: Cross Domain Wireless Sensing via Local Distribution Alignment</span>" and a conference version "<span style="color: blue;">Does MMD Really Align? A Cross Domain Wireless Sensing Method via Local Distribution</span>" and "<span style="color: blue;">LoFi: Vision-Aided Label Generator for Wi-Fi Localization and Tracking</span>" have been submitted for possible publication.<br> 
 #        <span style="font-weight: bold;">2025.01</span>: Our paper "<span style="color: blue;">Discriminatory Order Assignment and Payment-Setting of On-Demand Food-Delivery Platforms: A Multi-Action and Multi-Agent Reinforcement Learning Framework</span>" and a conference version "<span style="color: blue;">Multi-Agent Reinforcement Learning for Order Assignment and Payment Setting on Food-Delivery Platforms: The Implicit Algorithmic Biases</span>" have been submitted for possible publication.<br> 
 #        <span style="font-weight: bold;">2024.08</span>: Our papers "<span style="color: blue;">CrossFi: A Cross Domain Wi-Fi Sensing Framework Based on Siamese Network</span>" and "<span style="color: blue;">First Token Probability Guided RAG for Telecom Question Answering</span>" have been submitted for possible publication.<br>
@@ -194,10 +195,10 @@ sections:
         - certificate_url: 
           date_end: ''
           date_start: '2024-08-06'
-          description: 'Bonus: 40,000 HKD'
+          description: 'Also won award in 2026, Bonus: 40,000 HKD'
           organization: The Hong Kong University of Science and Technology
           organization_url: https://hkust.edu.hk
-          title: HKUST RedBird PhD Award 2024-25
+          title: HKUST RedBird PhD Award
           url: 'https://fytgs.hkust.edu.hk/admissions/Admission-to-Hong-Kong-Campus/submitting-an-application/scholarships-and-fees#other-funding-and-scholarships'
         - certificate_url: 
           date_end: ''
