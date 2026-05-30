@@ -19,9 +19,9 @@ bio: PhD Student in HKUST
 # Interests to show in About widget
 interests:
   - Deep Learning & Reinforcement Learning & Multi-Agent
-  - Interdisciplinary AI & AI Ethics & AI Humanities
+  - Interdisciplinary AI & Applied AI & AI Humanities & AI Ethics
   - Smart City & Intelligent Transportation & Mobile Computing
-  - Integrated Sensing, AI, and Communication & Network and Edge Intelligence
+  - Integrated Sensing and Communication & Network and Edge Intelligence
   - Music Information Retrieval & Natural Language Processing & Multi-Modal
 
 # Education to show in About widget
@@ -116,6 +116,6 @@ I'm a Ph.D. candidate in [Department of Civil and Environmental Engineering](htt
 
 I received my B.Eng. degree from [School of Computer Science and Engineering](https://cse.sysu.edu.cn/) at [Sun Yat-sen University](https://www.sysu.edu.cn/) in 2024, mentored by [Prof. Kai Huang](https://cse.sysu.edu.cn/teacher/HuangKai) (Robot RL), [Prof. Chengying Gao](https://cse.sysu.edu.cn/teacher/GaoChengying) and [Prof. Ning Liu](https://cse.sysu.edu.cn/teacher/LiuNing) (Music AI). I was also a visiting student in [Shenzhen Research Institute of Big Data](http://www.sribd.cn/) at [The Chinese University of Hong Kong (Shenzhen)](https://www.cuhk.edu.cn/zh-hans)  from 2023 to 2024, under the guidance of [Prof. Guangxu Zhu](https://sites.google.com/view/guangxuzhu) (Deep Wireless Sensing).
 
-**I am seeking Postdoctoral or RAP opportunities starting after September 2027. If you are interested in my profile or have any suggestions, please feel free to contact me. Thank you!**
+**I am seeking Postdoctoral, RAP, or AP opportunities starting after September 2027. If you are interested in my profile or have any suggestions, please feel free to contact me. Thank you!**
 
 Aside from academics, I'm also the vocalist, guitarist, and bassist for several metal and rock bands, including [Tokamak Disruption](https://tokamak-disruption.netlify.app/), [NEWS](https://tokamak-disruption.netlify.app/author/news/) (personal band) and [Rights of Lethe](https://tokamak-disruption.netlify.app/author/rights-of-lethe/) (dissolved). You can explore my musical work on [Longino • Independent Musician](https://rs2002.github.io/MusicPage/). If you are interested in collaborating with me (whether in academia or music), please feel free to reach out!

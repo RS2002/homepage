@@ -124,7 +124,7 @@ sections:
           company_logo: huawei
           location: Shenzhen, Full-time
           date_start: '2026-04-08'
-          date_end: ''
+          date_end: '2026-10-08'
           description: '<a href="https://www.noahlab.com.hk">Noah Ark Lab</a> (Supervisor: <a href="https://openreview.net/profile?id=~Xialiang_Tong1">Xialiang Tong</a>), Central Research Institute, 2012 Laboratories'
         - title: Industry-Academia-Research Student
           company: Likelihood Lab, Guangzhou WenSight Intelligent Technology Co., Ltd.
@@ -150,7 +150,7 @@ sections:
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Awards &amp Grants'
+      title: 'Awards'
       subtitle:
       # Date format: https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
