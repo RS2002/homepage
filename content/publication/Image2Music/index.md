@@ -44,14 +44,14 @@ featured: false
 # - name: 
 #   url: 
 
-url_pdf: 'https://arxiv.org/abs/2509.22378'
+url_pdf: 'https://dl.acm.org/doi/10.1145/3805622.3810723'
 url_code: 'https://github.com/RS2002/Image2Music'
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: ''
+url_slides: projects/Iamge2Music.pptx
 url_source: ''
-url_video: ''
+url_video: projects/i2m.mp4
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

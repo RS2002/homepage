@@ -17,6 +17,7 @@ sections:
       title: Latest News
       subtitle: ''
       text: |-
+        <span style="font-weight: bold;">2026.06</span>: I will serve as the chair of Workshop on Sensing, Prediction, and Decision Management, <a href="https://www.iciscc.org/">ICISCC 2026</a>, held by Central South University. The call for paper is coming soon.<br>
         <span style="font-weight: bold;">2026.05</span>: I was awarded the HKUST Red Bird Award 2026, thanks to the guidance, support, and nomination of Prof. Sen Li.<br>
         <span style="font-weight: bold;">2026.05</span>: Our paper "<span style="color: blue;">Pushing the Boundaries of Natural Reasoning: Interleaved Bonus from Formal-Logic Verification</span>" has been accepted by <a href="https://icml.cc/">ICML 2026</a>.<br>
         <span style="font-weight: bold;">2026.05</span>: Our papers "<span style="color: blue;">Bridging MARL to SARL: An Order-Independent Multi-Agent Transformer via Latent Consensus</span>" and "<span style="color: blue;">Stage Light is Sequence²: Multi-Light Control via Imitation Learning</span>" have been submitted for possible publication.<br>
@@ -48,8 +49,8 @@ sections:
         <span style="font-weight: bold;">2025.08</span>: We have uploaded the code and paramters of CSI-BERT, CSI-BERT2, Adversarial-MidiBERT, PianoBART, and Skip-BART in <a href="https://huggingface.co/RS2002">Hugging Face</a>.<br>
         <span style="font-weight: bold;">2025.08</span>: Our paper "<span style="color: blue;">CSI-BERT2: A BERT-inspired Framework for Efficient CSI Prediction and Classification in Wireless Communication and Sensing</span>" has been submitted for possible publication.<br>
         <span style="font-weight: bold;">2025.07</span>: Our papers "<span style="color: blue;">One Step is Enough: Multi-Agent Reinforcement Learning based on One-Step Policy Optimization for Order Dispatch on Ride-Sharing Platforms</span>" and "<span style="color: blue;">Confident RAG: Enhancing the Performance of LLMs for Mathematics Question Answering through Multi-Embedding and Confidence Scoring</span>" have been submitted for possible publication.<br>
-        <span style="font-weight: bold;">2025.06</span>: Our paper "<span style="color: blue;">Does MMD Really Align? A Cross Domain Wireless Sensing Method via Local Distribution</span>" has been accepted by <a href="https://iccc2025.ieee-iccc.org/">IEEE/CIC ICCC 2025</a>. <br>
-        <span style="font-weight: bold;">2025.06</span>: Our paper "<span style="color: blue;">An Overview of Domain-Specific Foundation Model: Key Technologies, Applications and Challenges</span>" has been accepted by <a href="https://link.springer.com/journal/11432">Science China Information Sciences</a>. <br>
+#        <span style="font-weight: bold;">2025.06</span>: Our paper "<span style="color: blue;">Does MMD Really Align? A Cross Domain Wireless Sensing Method via Local Distribution</span>" has been accepted by <a href="https://iccc2025.ieee-iccc.org/">IEEE/CIC ICCC 2025</a>. <br>
+#        <span style="font-weight: bold;">2025.06</span>: Our paper "<span style="color: blue;">An Overview of Domain-Specific Foundation Model: Key Technologies, Applications and Challenges</span>" has been accepted by <a href="https://link.springer.com/journal/11432">Science China Information Sciences</a>. <br>
 #        <span style="font-weight: bold;">2025.05</span>: Our papers "<span style="color: blue;">Triple-BERT: Do We Really Need MARL for Ride-Sharing Order Dispatch?</span>", "<span style="color: blue;">Automatic Stage Lighting Control: Is it a Rule-Driven Process or Generative Task?</span>", and "<span style="color: blue;">Towards Advanced Mathematical Reasoning for LLMs via First-Order Logic Theorem Proving</span>" have been submitted for possible publication.<br>
 #        <span style="font-weight: bold;">2025.05</span>: Our technical report "<span style="color: blue;">A Short Overview of Multi-Modal Wi-Fi Sensing</span>" has been available in ArXiv.<br>
 #        <span style="font-weight: bold;">2025.04</span>: Our paper "<span style="color: blue;">Let Network Decide What to Learn: Symbolic Music Understanding Model Based on Large-scale Adversarial Pre-training</span>" has been accepted by <a href="https://www.icmr-2025.org/">ACM ICMR 2025</a>. <br>
@@ -101,7 +102,7 @@ sections:
         #  icon: newspaper
         #  icon_pack: fas
         - name: Research Service 
-          description: "<span style='display: block; text-align: left;'>**Society Membership:** IEEE Student Member, ACM Student Member, AAAI Student Membership,CCF Student Member</span><span style='display: block; text-align: left;'>**TPC Membership:** IEEE WCNC Workshop 2024-2026, IEEE PIMRC Workshop 2024-2025, IEEE GLOBECOM Workshop 2025, IEEE/CIC ICCC Workshop 2025</span><span style='display: block; text-align: left;'>**Technical Reviewer:** IEEE TPAMI, IEEE TMC, IEEE/ACM TON, IEEE IOTJ, IEEE WCL, IEEE CL, Frontiers in AI, MTAP, Bentham Science Book, IEEE ICASSP 2024-2026, IEEE ICME 2024-2026, IEEE WCNC 2024-2026, ICLR 2025-2026, ACL ARR 2025-2026, IEEE IJCNN 2025-2026, IEEE MLSP 2025-2026, NeurIPS 2026, ICML 2026, AAAI 2026, CVPR 2026, ACM ICMR 2026, IEEE PIMRC 2024-2025, HKSTS 2024-2025, IEEE GLOBECOM 2025, IEEE/CIC ICCC 2025, IEEE AVSS 2025, IET IRC 2025, BTR 2025, IEEE SMC 2023</span>"
+          description: "<span style='display: block; text-align: left;'>**Society Membership:** IEEE Student Member, ACM Student Member, AAAI Student Membership,CCF Student Member</span><span style='display: block; text-align: left;'>**Conference Chair:** ICISCC Workshop 2026</span><span style='display: block; text-align: left;'>**TPC Membership:** IEEE WCNC Workshop 2024-2026, IEEE PIMRC Workshop 2024-2025, IEEE GLOBECOM Workshop 2025, IEEE/CIC ICCC Workshop 2025</span><span style='display: block; text-align: left;'>**Technical Reviewer:** IEEE TPAMI, IEEE TMC, IEEE/ACM TON, IEEE IOTJ, IEEE WCL, IEEE CL, Frontiers in AI, MTAP, Bentham Science Book, IEEE ICASSP 2024-2026, IEEE ICME 2024-2026, IEEE WCNC 2024-2026, ICLR 2025-2026, ACL ARR 2025-2026, IEEE IJCNN 2025-2026, IEEE MLSP 2025-2026, NeurIPS 2026, ICML 2026, AAAI 2026, CVPR 2026, ACM ICMR 2026, IEEE PIMRC 2024-2025, HKSTS 2024-2025, IEEE GLOBECOM 2025, IEEE/CIC ICCC 2025, IEEE AVSS 2025, IET IRC 2025, BTR 2025, IEEE SMC 2023</span>"
           icon: book
           icon_pack: fas
 
@@ -125,7 +126,7 @@ sections:
           location: Shenzhen, Full-time
           date_start: '2026-04-08'
           date_end: '2026-10-08'
-          description: '<a href="https://www.noahlab.com.hk">Noah Ark Lab</a> (Supervisor: <a href="https://openreview.net/profile?id=~Xialiang_Tong1">Xialiang Tong</a>), Central Research Institute, 2012 Laboratories'
+          description: '<a href="https://www.noahlab.com.hk">Noah Ark Lab</a> (Mentor: <a href="https://openreview.net/profile?id=~Xialiang_Tong1">Xialiang Tong</a>), Central Research Institute, 2012 Laboratories'
         - title: Industry-Academia-Research Student
           company: Likelihood Lab, Guangzhou WenSight Intelligent Technology Co., Ltd.
           company_url: 'http://www.maxlikelihood.cn/'
