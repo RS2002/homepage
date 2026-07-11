@@ -17,6 +17,7 @@ sections:
       title: Latest News
       subtitle: ''
       text: |-
+        <span style="font-weight: bold;">2026.07</span>: Our papers "<span style="color: blue;">RideGym: A Standardized Interface for Real-World Large-Scale Ride-Sharing System</span>" and "<span style="color: blue;">Optimizing Denoising Trajectories in DLLMs: A Lightweight Evolutionary Heuristic Approach</span>" have been submitted for possible publication.<br>
         <span style="font-weight: bold;">2026.07</span>: We have released the first real-world large-scale ride-sharing simulator <a href="https://pypi.org/project/ride-gym/">RideGym</a> with standardized interface. The corresponding paper will be avilable soon. <br>
         <span style="font-weight: bold;">2026.07</span>: Our papers "<span style="color: blue;">Discriminatory Labor Management for On-Demand Meal Delivery Platforms with a Mixed Fleet of AVs and Human Couriers</span>" and "<span style="color: blue;">Joint Infrastructure Planning and Order Assignment for On-Demand Food-Delivery Services with Coordinated Drones and Human Couriers</span>" have been submitted for possible publication.<br>
         <span style="font-weight: bold;">2026.06</span>: I will serve as the chair of Workshop on Sensing, Prediction, and Decision Management, <a href="https://www.iciscc.org/">ICISCC 2026</a>, held by Central South University. The call for paper is now available <a href="https://mp.weixin.qq.com/s/v8UrpG8G_4H8yeYHBvPPWA">here</a>.<br>

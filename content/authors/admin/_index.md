@@ -86,9 +86,12 @@ social:
   - icon: face-laugh
     icon_pack: fas
     link: https://huggingface.co/RS2002
+  - icon: publons
+    icon_pack: ai
+    link: https://pypi.org/user/Longino
   - icon: house
     icon_pack: fas
-    link: https://rs2002.github.io/MusicPage/
+    link: https://rs2002.github.io/MusicPage
   - icon: soundcloud
     icon_pack: fab
     link: https://music.163.com/#/artist?id=52253597
@@ -97,7 +100,7 @@ social:
     link: https://space.bilibili.com/349124347?spm_id_from=333.1007.0.0
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/zijian-zhao-link/
+    link: https://www.linkedin.com/in/zijian-zhao-link
   - icon: envelope
     icon_pack: fas
     link: 'mailto:zzhaock@connect.ust.hk'
