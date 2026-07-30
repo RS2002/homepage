@@ -18,7 +18,7 @@ author_notes:
 
 
 date: '2025-12-08T00:00:00Z'
-doi: 'https://doi.org/10.48550/arXiv.2412.05074'
+doi: '10.1109/GCWkshps68340.2025.11590894'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ''
@@ -48,7 +48,7 @@ featured: false
 # - name: 
 #   url: 
 
-url_pdf: 'https://arxiv.org/abs/2412.05074'
+url_pdf: 'https://ieeexplore.ieee.org/document/11590894'
 url_code: 'https://github.com/RS2002/LoFi'
 url_dataset: 'https://huggingface.co/datasets/RS2002/LoFi'
 url_slides: 'projects/LoFi.pptx'

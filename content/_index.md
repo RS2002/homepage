@@ -14,7 +14,7 @@ sections:
 
   - block: markdown
     content:
-      title: Latest News
+      title: Recent News
       subtitle: ''
       text: |-
         <span style="font-weight: bold;">2026.07</span>: Our papers "<span style="color: blue;">RideGym: A Standardized Interface for Real-World Large-Scale Ride-Sharing System</span>" and "<span style="color: blue;">Optimizing Denoising Trajectories in DLLMs: A Lightweight Evolutionary Heuristic Approach</span>" have been submitted for possible publication.<br>
@@ -47,10 +47,10 @@ sections:
         <span style="font-weight: bold;">2025.09</span>: Our proposal "<span style="color: blue;">Towards Fairness in Transportation Gig Markets: Identifying, Imitating, and Mitigating Algorithm Discrimination via Deep Reinforcement Learning</span>" has been submitted for possible publication.<br>
         <span style="font-weight: bold;">2025.09</span>: Our papers "<span style="color: blue;">LoFi: Vision-Aided Label Generator for Wi-Fi Localization and Tracking</span>" and "<span style="color: blue;">Modelling the 5G Energy Consumption using Real-world Data: Energy Fingerprint is All You Need</span>" have been accepted by <a href="https://globecom2025.ieee-globecom.org/">IEEE GLOBECOM GenAI NGN Workshop 2025</a>. <br>
         <span style="font-weight: bold;">2025.09</span>: Our paper "<span style="color: blue;">IfWorld: A Multi-Agent Framework for Cross-Disciplinary Counterfactual Scenario Reasoning</span>" has been submitted for possible publication.<br>
-        <span style="font-weight: bold;">2025.08</span>: We have uploaded the datasets WiGesture, WiFall, WiCount, LoFi, and RPMC-L2 in <a href="https://huggingface.co/RS2002">Hugging Face</a>.<br>
-        <span style="font-weight: bold;">2025.08</span>: Our paper "<span style="color: blue;">Towards Advanced Mathematical Reasoning for LLMs via First-Order Logic Theorem Proving</span>" has been accepted by <a href="https://2025.emnlp.org/">EMNLP 2025 (main conference)</a>. <br>
-        <span style="font-weight: bold;">2025.08</span>: We have uploaded the code and paramters of CSI-BERT, CSI-BERT2, Adversarial-MidiBERT, PianoBART, and Skip-BART in <a href="https://huggingface.co/RS2002">Hugging Face</a>.<br>
-        <span style="font-weight: bold;">2025.08</span>: Our paper "<span style="color: blue;">CSI-BERT2: A BERT-inspired Framework for Efficient CSI Prediction and Classification in Wireless Communication and Sensing</span>" has been submitted for possible publication.<br>
+#        <span style="font-weight: bold;">2025.08</span>: We have uploaded the datasets WiGesture, WiFall, WiCount, LoFi, and RPMC-L2 in <a href="https://huggingface.co/RS2002">Hugging Face</a>.<br>
+#        <span style="font-weight: bold;">2025.08</span>: Our paper "<span style="color: blue;">Towards Advanced Mathematical Reasoning for LLMs via First-Order Logic Theorem Proving</span>" has been accepted by <a href="https://2025.emnlp.org/">EMNLP 2025 (main conference)</a>. <br>
+#        <span style="font-weight: bold;">2025.08</span>: We have uploaded the code and paramters of CSI-BERT, CSI-BERT2, Adversarial-MidiBERT, PianoBART, and Skip-BART in <a href="https://huggingface.co/RS2002">Hugging Face</a>.<br>
+#        <span style="font-weight: bold;">2025.08</span>: Our paper "<span style="color: blue;">CSI-BERT2: A BERT-inspired Framework for Efficient CSI Prediction and Classification in Wireless Communication and Sensing</span>" has been submitted for possible publication.<br>
 #        <span style="font-weight: bold;">2025.07</span>: Our papers "<span style="color: blue;">One Step is Enough: Multi-Agent Reinforcement Learning based on One-Step Policy Optimization for Order Dispatch on Ride-Sharing Platforms</span>" and "<span style="color: blue;">Confident RAG: Enhancing the Performance of LLMs for Mathematics Question Answering through Multi-Embedding and Confidence Scoring</span>" have been submitted for possible publication.<br>
 #        <span style="font-weight: bold;">2025.06</span>: Our paper "<span style="color: blue;">Does MMD Really Align? A Cross Domain Wireless Sensing Method via Local Distribution</span>" has been accepted by <a href="https://iccc2025.ieee-iccc.org/">IEEE/CIC ICCC 2025</a>. <br>
 #        <span style="font-weight: bold;">2025.06</span>: Our paper "<span style="color: blue;">An Overview of Domain-Specific Foundation Model: Key Technologies, Applications and Challenges</span>" has been accepted by <a href="https://link.springer.com/journal/11432">Science China Information Sciences</a>. <br>
@@ -87,7 +87,7 @@ sections:
       title: Activity and Service
       items:
         - name: Skill
-          description: "<span style='display: block; text-align: left;'>**Code:** Python, C/C++ (CCF-CSP:320, Top 0.8%), Java, Matlab, SQL</span> <span style='display: block; text-align: left;'>**Music:** Guitar, Keyboard, Bass, Ukulele</span>"
+          description: "<span style='display: block; text-align: left;'>**Code:** Python, C/C++ (CCF-CSP:320, Top 0.8%), Java, Matlab, SQL</span> <span style='display: block; text-align: left;'>**Music:** Guitar, Keyboard, Bass, Drum, Ukulele</span>"
 # <span style='display: block; text-align: left;'>Proficient in: C/C++ (CCF-CSP:320, Top 0.8%), Python, Matlab, Pytorch</span><span style='display: block; text-align: left;'>Familiar with: MySQL, Git, Linux, ESP32</span><span style='display: block; text-align: left;'>Knowledgeable in: TensorFlow, Java, Assembly, Verilog, Lingo, Web Scraping, Flask, QT, Docker, Raspberry Pi, LLM API</span>
           icon: code
           icon_pack: fas
@@ -105,7 +105,7 @@ sections:
         #  icon: newspaper
         #  icon_pack: fas
         - name: Research Service 
-          description: "<span style='display: block; text-align: left;'>**Society Membership:** IEEE Student Member, ACM Student Member, AAAI Student Membership,CCF Student Member</span><span style='display: block; text-align: left;'>**Conference Chair:** ICISCC Workshop 2026</span><span style='display: block; text-align: left;'>**TPC Membership:** IEEE WCNC Workshop 2024-2026, IEEE PIMRC Workshop 2024-2025, IEEE GLOBECOM Workshop 2025, IEEE/CIC ICCC Workshop 2025</span><span style='display: block; text-align: left;'>**Technical Reviewer:** IEEE TPAMI, IEEE TMC, IEEE/ACM TON, IEEE IOTJ, IEEE OJCOMS, IEEE WCL, IEEE CL, Transportation Research Part E, Frontiers in AI, MTAP, Bentham Science Book, IEEE IJCNN 2025-2027, AAAI 2026-2027, IEEE ICASSP 2024-2026, IEEE ICME 2024-2026, IEEE WCNC 2024-2026, ICLR 2025-2026, ACL ARR 2025-2026, IEEE MLSP 2025-2026, NeurIPS 2026, ICML 2026, CVPR 2026, ACM ICMR 2026, IEEE PIMRC 2024-2025, HKSTS 2024-2025, IEEE GLOBECOM 2025, IEEE/CIC ICCC 2025, IEEE AVSS 2025, IET IRC 2025, BTR 2025, IEEE SMC 2023</span>"
+          description: "<span style='display: block; text-align: left;'>**Society Membership:** IEEE Student Member, ACM Student Member, AAAI Student Membership,CCF Student Member</span><span style='display: block; text-align: left;'>**Conference Chair:** ICISCC Workshop 2026</span><span style='display: block; text-align: left;'>**TPC Membership:** IEEE WCNC Workshop 2024-2026, IEEE PIMRC Workshop 2024-2025, IEEE GLOBECOM Workshop 2025, IEEE/CIC ICCC Workshop 2025</span><span style='display: block; text-align: left;'>**Technical Reviewer:** IEEE TPAMI, IEEE TMC, IEEE/ACM TON, IEEE TCOM, IEEE IOTJ, IEEE OJCOMS, IEEE WCL, IEEE CL, Transportation Research Part E, Frontiers in AI, MTAP, Bentham Science Book, IEEE IJCNN 2025-2027, AAAI 2026-2027, IEEE ICASSP 2024-2026, IEEE ICME 2024-2026, IEEE WCNC 2024-2026, ICLR 2025-2026, ACL ARR 2025-2026, IEEE MLSP 2025-2026, NeurIPS 2026, ICML 2026, CVPR 2026, ACM ICMR 2026, IEEE PIMRC 2024-2025, HKSTS 2024-2025, IEEE GLOBECOM 2025, IEEE/CIC ICCC 2025, IEEE AVSS 2025, IET IRC 2025, BTR 2025, IEEE SMC 2023</span>"
           icon: book
           icon_pack: fas
 
@@ -122,13 +122,21 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+      #  - title: Visiting Student
+      #    company: University of California, Berkeley
+      #    company_url: 'https://www.berkeley.edu/'
+      #    company_logo: UCB
+      #    location: Berkeley, Full-time
+      #    date_start: '2026-11-01'
+      #    date_end: '2027-04-30'
+      #    description: '<a href="https://ce.berkeley.edu/">Department of Civil and Environmental Engineering</a> (Host: <a href="https://sites.google.com/view/manxi-wu/home">Prof. Manxi Wu</a>)'
         - title: Research Intern
           company: Huawei
           company_url: 'https://www.huawei.com/eu/'
           company_logo: huawei
           location: Shenzhen, Full-time
-          date_start: '2026-04-08'
-          date_end: '2026-10-08'
+          date_start: '2026-04-01'
+          date_end: '2026-09-30'
           description: '<a href="https://www.noahlab.com.hk">Noah Ark Lab</a> (Mentor: <a href="https://openreview.net/profile?id=~Xialiang_Tong1">Xialiang Tong</a>), Central Research Institute, 2012 Laboratories'
         - title: Industry-Academia-Research Student
           company: Likelihood Lab, Guangzhou WenSight Intelligent Technology Co., Ltd.
@@ -136,7 +144,7 @@ sections:
           company_logo: Likelihood
           location: Online, Part-time
           date_start: '2024-02-01'
-          date_end: '2024-08-01'
+          date_end: '2024-07-31'
           description: 'the first Elite Scholarship'
         - title: Visiting Student 
           company: Shenzhen Research Institute of Big Data (SRIBD)
@@ -144,8 +152,8 @@ sections:
           company_logo: SRIBD
           location: Shenzhen, Full-time
           date_start: '2023-08-01'
-          date_end: '2024-08-01'
-          description: 'AI-RAN Lab (Supervisor: <a href="https://sites.google.com/view/guangxuzhu/home">Prof. Guangxu Zhu</a>), Data-driven Intelligent Information System Laboratory and Center for Network System Optimization; Associated with the <a href="https://www.cuhk.edu.cn/zh-hans">Chinese University of Hong Kong, Shenzhen (CUHKSZ)</a>'
+          date_end: '2024-07-31'
+          description: 'AI-RAN Lab (Host: <a href="https://sites.google.com/view/guangxuzhu/home">Prof. Guangxu Zhu</a>), Data-driven Intelligent Information System Laboratory and Center for Network System Optimization; Associated with the <a href="https://www.cuhk.edu.cn/zh-hans">Chinese University of Hong Kong, Shenzhen (CUHKSZ)</a>'
 
 
 

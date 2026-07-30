@@ -19,7 +19,7 @@ author_notes:
 
 
 date: '2025-12-08T00:00:00Z'
-doi: 'https://doi.org/10.48550/arXiv.2406.16929'
+doi: '10.1109/GCWkshps68340.2025.11590940'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ''
@@ -49,7 +49,7 @@ featured: false
 # - name: 
 #   url: 
 
-url_pdf: 'https://arxiv.org/abs/2406.16929'
+url_pdf: 'https://ieeexplore.ieee.org/document/11590940/'
 url_code: 'https://github.com/RS2002/ARL'
 url_slides: 'https://github.com/ITU-AI-ML-in-5G-Challenge/5G-Energy-Consumption-Modelling-CAKE-Team-Solution/blob/main/CAKE_Slides.pdf'
 
