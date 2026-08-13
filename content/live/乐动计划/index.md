@@ -1,36 +1,30 @@
 ---
-title: 基于少样本学习的模型对数据分类的方法及相关设备（深圳大数据研究院，专利号：ZL2024108392137，2026）
+title: 乐动计划
 
-event: patent
-event_url:
+event: livehouse
+event_url: 
 
-location: 
+location: 原鼓Live
 address:
-  street: 
-  city: 
-  region: 
+  street: 南山区沙河街道东方社区深湾二路82号
+  city: 深圳市
+  region: 广东省
   postcode: ''
-  country: 
+  country: 中国
 
-summary: 赵子健，朱光旭，韩凯峰，李晓阳，李航 “基于少样本学习的模型对数据分类的方法及相关设备”
+summary: 
 abstract: ''
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2026-07-03T00:00:00Z'
-date_end: ''
+date: '2026-09-12T20:00:00Z'
+date_end: '2026-09-12T22:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: ''
+publishDate: '2026-04-23T00:00:00Z'
 
-authors:
-  - admin
-  - 朱光旭
-  - 韩凯峰
-  - 李晓阳
-  - 李航
-
+authors: []
 tags: []
 
 # Is this a featured talk? (true/false)
@@ -40,6 +34,9 @@ image:
   caption: ''
   focal_point: Right
 
+url_slides: ''
+url_poster: ''
+url_video: ''
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.

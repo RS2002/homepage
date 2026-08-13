@@ -17,8 +17,9 @@ sections:
       title: Recent News
       subtitle: ''
       text: |-
+        <span style="font-weight: bold;">2026.08</span>: Our paper "<span style="color: blue;">Association Between Phthalate Exposure and Immunosenescence, The Moderating Role of Physical Activity: A Population-Based Cross-Sectional Study</span>" has been submitted for possible publication.<br>
         <span style="font-weight: bold;">2026.07</span>: Our papers "<span style="color: blue;">RideGym: A Standardized Interface for Real-World Large-Scale Ride-Sharing System</span>" and "<span style="color: blue;">Optimizing Denoising Trajectories in DLLMs: A Lightweight Evolutionary Heuristic Approach</span>" have been submitted for possible publication.<br>
-        <span style="font-weight: bold;">2026.07</span>: We have released the first real-world large-scale ride-sharing simulator <a href="https://pypi.org/project/ride-gym/">RideGym</a> with standardized interface. The corresponding paper will be avilable soon. <br>
+        <span style="font-weight: bold;">2026.07</span>: We have released the first real-world large-scale ride-sharing simulator <a href="https://pypi.org/project/ride-gym/">RideGym</a> with standardized Gym interface.<br>
         <span style="font-weight: bold;">2026.07</span>: Our papers "<span style="color: blue;">Discriminatory Labor Management for On-Demand Meal Delivery Platforms with a Mixed Fleet of AVs and Human Couriers</span>" and "<span style="color: blue;">Joint Infrastructure Planning and Order Assignment for On-Demand Food-Delivery Services with Coordinated Drones and Human Couriers</span>" have been submitted for possible publication.<br>
         <span style="font-weight: bold;">2026.06</span>: I will serve as the chair of Workshop on Sensing, Prediction, and Decision Management, <a href="https://www.iciscc.org/">ICISCC 2026</a>, held by Central South University. The call for paper is now available <a href="https://mp.weixin.qq.com/s/v8UrpG8G_4H8yeYHBvPPWA">here</a>.<br>
         <span style="font-weight: bold;">2026.05</span>: I was awarded the HKUST Red Bird Award 2026, thanks to the guidance, support, and nomination of Prof. Sen Li.<br>
@@ -105,7 +106,7 @@ sections:
         #  icon: newspaper
         #  icon_pack: fas
         - name: Research Service 
-          description: "<span style='display: block; text-align: left;'>**Society Membership:** IEEE Student Member, ACM Student Member, AAAI Student Membership,CCF Student Member</span><span style='display: block; text-align: left;'>**Conference Chair:** ICISCC Workshop 2026</span><span style='display: block; text-align: left;'>**TPC Membership:** IEEE WCNC Workshop 2024-2026, IEEE PIMRC Workshop 2024-2025, IEEE GLOBECOM Workshop 2025, IEEE/CIC ICCC Workshop 2025</span><span style='display: block; text-align: left;'>**Technical Reviewer:** IEEE TPAMI, IEEE TMC, IEEE/ACM TON, IEEE TCOM, IEEE IOTJ, IEEE OJCOMS, IEEE WCL, IEEE CL, Transportation Research Part E, Frontiers in AI, MTAP, Bentham Science Book, IEEE IJCNN 2025-2027, AAAI 2026-2027, IEEE ICASSP 2024-2026, IEEE ICME 2024-2026, IEEE WCNC 2024-2026, ICLR 2025-2026, ACL ARR 2025-2026, IEEE MLSP 2025-2026, NeurIPS 2026, ICML 2026, CVPR 2026, ACM ICMR 2026, IEEE PIMRC 2024-2025, HKSTS 2024-2025, IEEE GLOBECOM 2025, IEEE/CIC ICCC 2025, IEEE AVSS 2025, IET IRC 2025, BTR 2025, IEEE SMC 2023</span>"
+          description: "<span style='display: block; text-align: left;'>**Society Membership:** IEEE Student Member, ACM Student Member, AAAI Student Membership,CCF Student Member</span><span style='display: block; text-align: left;'>**Conference Chair:** ICISCC Workshop 2026</span><span style='display: block; text-align: left;'>**TPC Membership:** IEEE WCNC Workshop 2024-2026, IEEE PIMRC Workshop 2024-2025, IEEE GLOBECOM Workshop 2025, IEEE/CIC ICCC Workshop 2025</span><span style='display: block; text-align: left;'>**Technical Reviewer:** IEEE TPAMI, IEEE TMC, IEEE/ACM TON, IEEE TCOM, IEEE IOT-J, IEEE OJ-COMS, IEEE WCL, IEEE CL, Transportation Research Part E, Frontiers in AI, MTAP, Bentham Science Book, IEEE IJCNN 2025-2027, AAAI 2026-2027, KDD 2027, IEEE ICASSP 2024-2026, IEEE ICME 2024-2026, IEEE WCNC 2024-2026, ICLR 2025-2026, ACL ARR 2025-2026, IEEE MLSP 2025-2026, NeurIPS 2026, ICML 2026, CVPR 2026, ACM ICMR 2026, IEEE PIMRC 2024-2025, HKSTS 2024-2025, IEEE GLOBECOM 2025, IEEE/CIC ICCC 2025, IEEE AVSS 2025, IET IRC 2025, BTR 2025, IEEE SMC 2023</span>"
           icon: book
           icon_pack: fas
 
@@ -122,14 +123,14 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-      #  - title: Visiting Student
-      #    company: University of California, Berkeley
-      #    company_url: 'https://www.berkeley.edu/'
-      #    company_logo: UCB
-      #    location: Berkeley, Full-time
-      #    date_start: '2026-11-01'
-      #    date_end: '2027-04-30'
-      #    description: '<a href="https://ce.berkeley.edu/">Department of Civil and Environmental Engineering</a> (Host: <a href="https://sites.google.com/view/manxi-wu/home">Prof. Manxi Wu</a>)'
+        - title: Visiting Student
+          company: University of California, Berkeley
+          company_url: 'https://www.berkeley.edu/'
+          company_logo: UCB
+          location: Berkeley, Full-time
+          date_start: '2026-11-01'
+          date_end: '2027-04-30'
+          description: '<a href="https://ce.berkeley.edu/">Department of Civil and Environmental Engineering</a> (Host: <a href="https://sites.google.com/view/manxi-wu/home">Prof. Manxi Wu</a>)'
         - title: Research Intern
           company: Huawei
           company_url: 'https://www.huawei.com/eu/'
@@ -145,7 +146,7 @@ sections:
           location: Online, Part-time
           date_start: '2024-02-01'
           date_end: '2024-07-31'
-          description: 'the first Elite Scholarship'
+          description: 'The first Elite Scholarship'
         - title: Visiting Student 
           company: Shenzhen Research Institute of Big Data (SRIBD)
           company_url: 'http://www.sribd.cn/'
@@ -316,14 +317,14 @@ sections:
         #  organization_url: https://www.sysu.edu.cn/
         #  title: Second-class Scholarship for Outstanding Student of Sun Yat-sen University
         #  url: ''
-        - certificate_url:
-          date_end: ''
-          date_start: '2022-07-01'
-          description: 'Team Member: Haoyao He (team leader), Xiangyu Tan, Zijian Zhao; Supervisor: Prof. Qi Liang, Prof. Ruyu Wang'
-          organization: Statistical Education Society of China
-          organization_url: http://www.stats.gov.cn/zt_18555/xhwz/tjjyxh/
-          title: Provincial Second Prize in SPSS University Contest in Modeling
-          url: 'http://tjjmds.ai-learning.net/'
+        #- certificate_url:
+        #  date_end: ''
+        #  date_start: '2022-07-01'
+        #  description: 'Team Member: Haoyao He (team leader), Xiangyu Tan, Zijian Zhao; Supervisor: Prof. Qi Liang, Prof. Ruyu Wang'
+        #  organization: Statistical Education Society of China
+        #  organization_url: http://www.stats.gov.cn/zt_18555/xhwz/tjjyxh/
+        #  title: Provincial Second Prize in SPSS University Contest in Modeling
+        #  url: 'http://tjjmds.ai-learning.net/'
         #- certificate_url:
         #  date_end: ''
         #  date_start: '2022-04-01'
@@ -348,14 +349,14 @@ sections:
         #  organization_url: http://www.csfs.org.cn/
         #  title: Successful Participant in China College Algorithm Design & Program Challenge Contest
         #  url: ''
-        - certificate_url:
-          date_end: ''
-          date_start: '2021-12-01'
-          description: 'Team Member: Zijian Zhao (team leader), Haoyao He, Fanqi Zhang'
-          organization: Beijing Society of Image and Graphics
-          organization_url: http://www.bsig.org.cn/
-          title: Second Prize in Asia and Pacific Mathematical Contest in Modeling
-          url: 'http://www.apmcm.org/'
+        #- certificate_url:
+        #  date_end: ''
+        #  date_start: '2021-12-01'
+        #  description: 'Team Member: Zijian Zhao (team leader), Haoyao He, Fanqi Zhang'
+        #  organization: Beijing Society of Image and Graphics
+        #  organization_url: http://www.bsig.org.cn/
+        #  title: Second Prize in Asia and Pacific Mathematical Contest in Modeling
+        #  url: 'http://www.apmcm.org/'
         - certificate_url:
           date_end: ''
           date_start: '2021-10-01'
@@ -364,19 +365,19 @@ sections:
           organization_url: http://www.cms.org.cn/
           title: Provincial First Prize in the Chinese Mathematics Competitions
           url: 'http://www.cmathc.cn/'
-        - certificate_url:
-          date_end: ''
-          date_start: '2021-10-01'
-          description: 'Won the award twice. Team Member: Zijian Zhao (team leader), Yifeng Zhao, Ziwan Liu; Supervisor: Prof. Bingpeng Zhou'
-          organization: China Society for Industrial and Applied Mathematics, Education Department of Guangdong Province
-          organization_url: https://www.csiam.org.cn/
-          title: Provincial Third Prize in the Chinese Mathematics Competitions 
-          url: 'http://www.mcm.edu.cn/'
+        #- certificate_url:
+        #  date_end: ''
+        #  date_start: '2021-10-01'
+        #  description: 'Won the award twice. Team Member: Zijian Zhao (team leader), Yifeng Zhao, Ziwan Liu; Supervisor: Prof. Bingpeng Zhou'
+        #  organization: China Society for Industrial and Applied Mathematics, Education Department of Guangdong Province
+        #  organization_url: https://www.csiam.org.cn/
+        #  title: Provincial Third Prize in the Chinese Mathematics Competitions 
+        #  url: 'http://www.mcm.edu.cn/'
         - certificate_url:
           date_end: ''
           date_start: '2021-10-01'
           description: 'Also won scholarship in 2022, 2023. Bonus: 4,000 CNY'
-          organization: Sun Yat-sen University
+          organization: Sun Yat-Sen University
           organization_url: https://www.sysu.edu.cn/
           title: First-class Scholarship for Outstanding Student of Sun Yat-sen University
           url: ''

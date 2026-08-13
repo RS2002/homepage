@@ -18,11 +18,11 @@ bio: PhD Student in HKUST
 
 # Interests to show in About widget
 interests:
-  - Deep Learning & Reinforcement Learning & Multi-Agent & Large Models
+  - Deep Learning & Reinforcement Learning & Transfer Learning & Multi-Agent & Large Models
   - Interdisciplinary AI & Applied AI & AI Humanities & AI Ethics
-  - Smart City & Intelligent Transportation & Mobile Computing
+  - Smart City & Intelligent Transportation & Operations Research
   - Integrated Sensing and Communication & Network and Edge Intelligence
-  - Music Information Retrieval & Natural Language Processing & Multi-Modal
+  - Music Information Retrieval & Natural Language Processing & Multi-Modal & Human-Computer Interaction
 
 # Education to show in About widget
 education:
