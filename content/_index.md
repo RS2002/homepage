@@ -17,7 +17,7 @@ sections:
       title: Recent News
       subtitle: ''
       text: |-
-        <span style="font-weight: bold;">2026.08</span>: Our paper "<span style="color: blue;">Association Between Phthalate Exposure and Immunosenescence, The Moderating Role of Physical Activity: A Population-Based Cross-Sectional Study</span>" has been submitted for possible publication.<br>
+        <span style="font-weight: bold;">2026.08</span>: Our paper "<span style="color: blue;">Association Between Phthalate Exposure and Immunosenescence: The Moderating Role of Physical Activity in US Adults</span>" has been submitted for possible publication.<br>
         <span style="font-weight: bold;">2026.07</span>: Our papers "<span style="color: blue;">RideGym: A Standardized Interface for Real-World Large-Scale Ride-Sharing System</span>" and "<span style="color: blue;">Optimizing Denoising Trajectories in DLLMs: A Lightweight Evolutionary Heuristic Approach</span>" have been submitted for possible publication.<br>
         <span style="font-weight: bold;">2026.07</span>: We have released the first real-world large-scale ride-sharing simulator <a href="https://pypi.org/project/ride-gym/">RideGym</a> with standardized Gym interface.<br>
         <span style="font-weight: bold;">2026.07</span>: Our papers "<span style="color: blue;">Discriminatory Labor Management for On-Demand Meal Delivery Platforms with a Mixed Fleet of AVs and Human Couriers</span>" and "<span style="color: blue;">Joint Infrastructure Planning and Order Assignment for On-Demand Food-Delivery Services with Coordinated Drones and Human Couriers</span>" have been submitted for possible publication.<br>
@@ -123,14 +123,14 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-      #  - title: Visiting Student
-      #    company: University of California, Berkeley
-      #    company_url: 'https://www.berkeley.edu/'
-      #    company_logo: UCB
-      #    location: Berkeley, Full-time
-      #    date_start: '2026-11-01'
-      #    date_end: '2027-04-30'
-      #    description: '<a href="https://ce.berkeley.edu/">Department of Civil and Environmental Engineering</a> (Host: <a href="https://sites.google.com/view/manxi-wu/home">Prof. Manxi Wu</a>)'
+        - title: Visiting Student
+          company: University of California, Berkeley
+          company_url: 'https://www.berkeley.edu/'
+          company_logo: UCB
+          location: Berkeley, Full-time
+          date_start: '2027-01-01'
+          date_end: '2027-06-30'
+          description: '<a href="https://ce.berkeley.edu/">Department of Civil and Environmental Engineering</a> (Host: <a href="https://sites.google.com/view/manxi-wu/home">Prof. Manxi Wu</a>)'
         - title: Research Intern
           company: Huawei
           company_url: 'https://www.huawei.com/eu/'
