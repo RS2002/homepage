@@ -47,7 +47,7 @@ featured: false
 # - name: 
 #   url: 
 
-url_pdf: ''
+url_pdf: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7347559'
 url_code: 'https://github.com/RS2002/Evo-Denoise'
 url_dataset: ''
 url_poster: ''
