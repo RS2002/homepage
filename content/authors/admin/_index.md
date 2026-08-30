@@ -49,7 +49,7 @@ social:
     link: uploads/Resume.pdf
   - icon: google-scholar
     icon_pack: ai
-    link: 'https://scholar.google.com/citations?user=XkA3qCcAAAAJ'
+    link: 'https://scholar.google.com/citations?user=XkA3qCcAAAAJ&hl=en'
   - icon: orcid
     icon_pack: ai
     link: 'https://orcid.org/0000-0002-3326-9650'
