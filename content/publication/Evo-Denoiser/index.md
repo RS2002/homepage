@@ -17,7 +17,7 @@ author_notes:
 
 
 date: '2026-07-15T00:00:00Z'
-doi: ''
+doi: 'https://dx.doi.org/10.2139/ssrn.7347559'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ''
