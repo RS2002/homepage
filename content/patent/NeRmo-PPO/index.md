@@ -1,5 +1,5 @@
 ---
-title: 一种基于强化学习的小型仿生鼠机器人的运动控制方法（人工智能与数字经济广东省实验室（广州）& 中山大学，申请号：2023116499786，2023）
+title: 一种基于强化学习的小型仿生鼠机器人的运动控制方法（人工智能与数字经济广东省实验室（广州）& 中山大学，专利号：2023116499786）
 
 event: patent
 event_url: 
@@ -17,7 +17,7 @@ abstract: ''
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2023-03-01T00:00:00Z'
+date: '2026-08-28T00:00:00Z'
 date_end: ''
 all_day: false
 

@@ -6,7 +6,6 @@ title: 'RideSkill: A Hierarchical Algorithm for Generalized Ride Sharing with LL
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Dian Jin
   - Xialiang Tong
   - Sen Li
   - Mingxuan Yuan

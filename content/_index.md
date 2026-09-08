@@ -177,7 +177,7 @@ sections:
         - certificate_url: 
           date_end: ''
           date_start: '2026-05-01'
-          description: 'Fund: 20,000 USD'
+          description: 'Fund: 2,000 USD'
           organization: ACM SIGMM
           organization_url: https://www.sigmm.org
           title: ACM SIGMM Student Travel Award
