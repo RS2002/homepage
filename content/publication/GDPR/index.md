@@ -47,7 +47,7 @@ featured: false
 
 url_pdf: 'https://www.sciencedirect.com/science/article/pii/S0968090X25003687'
 url_code: 'https://github.com/RS2002/GDPR-Food-Delivery'
-url_dataset: https://github.com/RS2002/GDPR-Food-Delivery/tree/main/data''
+url_dataset: 'https://github.com/RS2002/GDPR-Food-Delivery/tree/main/data'
 url_poster: ''
 url_project: ''
 url_slides: ''

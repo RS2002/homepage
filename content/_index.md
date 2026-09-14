@@ -17,7 +17,7 @@ sections:
       title: Recent News
       subtitle: ''
       text: |-
-        <span style="font-weight: bold;">2026.09</span>: I began my internship at Keeta (Beidou Talent Program), Meituan.<br>
+        <span style="font-weight: bold;">2026.09</span>: I began my internship at Keeta, Meituan (Beidou Talent Program).<br>
         <span style="font-weight: bold;">2026.09</span>: Our paper "<span style="color: blue;">Real-Time Order Assignment for Ride-Sharing Platforms with a Mixture of Pre-booked and On-Demand Requests</span>" has been accepted by <a href="https://www.sciencedirect.com/journal/transportation-research-part-c-emerging-technologies">Transportation Research Part C</a>. <br>
         <span style="font-weight: bold;">2026.09</span>: Our papers "<span style="color: blue;">RideSkill: A Hierarchical Algorithm for Generalized Ride Sharing with LLM-Driven Automatic Evolution</span>", "<span style="color: blue;">Aggregate in the Advantage, Not the Ratio: A Canonical-Form Analysis of Cooperative Multi-Agent Policy Optimization</span>", "<span style="color: blue;">Low-Interaction-Rank Learning: Unifying Multiplicative Dual-Encoder Heads</span>" and "<span style="color: blue;">Is Per-Agent Policy Composition Safe? Rethinking Successor-Feature Transfer in Cooperative Multi-Agent Reinforcement Learning</span>" have been submitted for possible publication.<br>
         <span style="font-weight: bold;">2026.08</span>: Our paper "<span style="color: blue;">Association Between Phthalate Exposure and Immunosenescence: The Moderating Role of Physical Activity in US Adults: A Population-Based Cross-Sectional Study</span>" has been submitted for possible publication.<br>
