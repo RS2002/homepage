@@ -17,6 +17,8 @@ sections:
       title: Recent News
       subtitle: ''
       text: |-
+        <span style="font-weight: bold;">2026.09</span>: I began my internship at Keeta (Beidou Talent Program), Meituan.<br>
+        <span style="font-weight: bold;">2026.09</span>: Our paper "<span style="color: blue;">Real-Time Order Assignment for Ride-Sharing Platforms with a Mixture of Pre-booked and On-Demand Requests</span>" has been accepted by <a href="https://www.sciencedirect.com/journal/transportation-research-part-c-emerging-technologies">Transportation Research Part C</a>. <br>
         <span style="font-weight: bold;">2026.09</span>: Our papers "<span style="color: blue;">RideSkill: A Hierarchical Algorithm for Generalized Ride Sharing with LLM-Driven Automatic Evolution</span>", "<span style="color: blue;">Aggregate in the Advantage, Not the Ratio: A Canonical-Form Analysis of Cooperative Multi-Agent Policy Optimization</span>", "<span style="color: blue;">Low-Interaction-Rank Learning: Unifying Multiplicative Dual-Encoder Heads</span>" and "<span style="color: blue;">Is Per-Agent Policy Composition Safe? Rethinking Successor-Feature Transfer in Cooperative Multi-Agent Reinforcement Learning</span>" have been submitted for possible publication.<br>
         <span style="font-weight: bold;">2026.08</span>: Our paper "<span style="color: blue;">Association Between Phthalate Exposure and Immunosenescence: The Moderating Role of Physical Activity in US Adults: A Population-Based Cross-Sectional Study</span>" has been submitted for possible publication.<br>
         <span style="font-weight: bold;">2026.07</span>: Our papers "<span style="color: blue;">RideGym: A Standardized Interface for Real-World Large-Scale Ride-Sharing System</span>" and "<span style="color: blue;">Optimizing Denoising Trajectories in DLLMs: A Lightweight Evolutionary Heuristic Approach</span>" have been submitted for possible publication.<br>
@@ -27,7 +29,7 @@ sections:
         <span style="font-weight: bold;">2026.05</span>: Our paper "<span style="color: blue;">Pushing the Boundaries of Natural Reasoning: Interleaved Bonus from Formal-Logic Verification</span>" has been accepted by <a href="https://icml.cc/">ICML 2026</a>.<br>
         <span style="font-weight: bold;">2026.05</span>: Our papers "<span style="color: blue;">Bridging MARL to SARL: An Order-Independent Multi-Agent Transformer via Latent Consensus</span>" and "<span style="color: blue;">Stage Light is Sequence²: Multi-Light Control via Imitation Learning</span>" have been submitted for possible publication.<br>
         <span style="font-weight: bold;">2026.04</span>: Our paper "<span style="color: blue;">Zero-Effort Image-to-Music Generation: An Interpretable RAG-based VLM Approach</span>" has been accepted by <a href="https://icmr2026.org/">ACM ICMR 2026</a>, supported by the Student Travel Adward from ACM SIGMM.<br>
-        <span style="font-weight: bold;">2026.04</span>: I began my first internship at Noah's Ark Lab (2012 Laboratories), Huawei.<br>
+        <span style="font-weight: bold;">2026.04</span>: I began my internship at Noah's Ark Lab (2012 Laboratories), Huawei.<br>
         <span style="font-weight: bold;">2026.03</span>: Our paper "<span style="color: blue;">Personalized Federated Traffic Prediction via Prompt-Guided Global Representation and Node-Specific Adaptation</span>" has been submitted for possible publication.<br>
         <span style="font-weight: bold;">2026.03</span>: Our paper "<span style="color: blue;">Confident RAG: Enhancing the Performance of LLMs for Mathematics Question Answering through Multi-Embedding and Confidence Scoring</span>" has been accepted by <a href="https://iclr.cc/">ICLR LLM Reasoning Workshop 2026</a>. <br>
         <span style="font-weight: bold;">2026.03</span>: Our paper "<span style="color: blue;">Discriminatory Order Assignment and Payment Setting on Food-Delivery Platforms: The Implicit Algorithmic Biases</span>" has been accepted by <a href="https://mitsloan.mit.edu/faculty/academic-groups/about-2026-transportation-science-and-logistics-conference">INFORMS TSL Conference 2026</a>. <br>
@@ -132,6 +134,14 @@ sections:
           date_start: '2027-01-01'
           date_end: '2027-06-30'
           description: '<a href="https://ce.berkeley.edu/">Department of Civil and Environmental Engineering</a> (Host: <a href="https://sites.google.com/view/manxi-wu/home">Prof. Manxi Wu</a>)'
+        - title: Research Intern
+          company: Meituan
+          company_url: 'https://www.meituan.com/en-US/about-us'
+          company_logo: keeta
+          location: Shenzhen, Full-time
+          date_start: '2026-10-01'
+          date_end: '2026-12-30'
+          description: 'Beidou Talent Program, <a href="https://www.keeta-global.com/">Keeta</a>'
         - title: Research Intern
           company: Huawei
           company_url: 'https://www.huawei.com/eu/'
