@@ -17,7 +17,7 @@ sections:
       title: Recent News
       subtitle: ''
       text: |-
-        <span style="font-weight: bold;">2026.09</span>: I began my internship at Keeta, Meituan (Beidou Talent Program).<br>
+        <span style="font-weight: bold;">2026.10</span>: I began my internship at Keeta, Meituan (Beidou Talent Program).<br>
         <span style="font-weight: bold;">2026.09</span>: Our paper "<span style="color: blue;">Real-Time Order Assignment for Ride-Sharing Platforms with a Mixture of Pre-booked and On-Demand Requests</span>" has been accepted by <a href="https://www.sciencedirect.com/journal/transportation-research-part-c-emerging-technologies">Transportation Research Part C</a>. <br>
         <span style="font-weight: bold;">2026.09</span>: Our papers "<span style="color: blue;">RideSkill: A Hierarchical Algorithm for Generalized Ride Sharing with LLM-Driven Automatic Evolution</span>", "<span style="color: blue;">Aggregate in the Advantage, Not the Ratio: A Canonical-Form Analysis of Cooperative Multi-Agent Policy Optimization</span>", "<span style="color: blue;">Low-Interaction-Rank Learning: Unifying Multiplicative Dual-Encoder Heads</span>" and "<span style="color: blue;">Is Per-Agent Policy Composition Safe? Rethinking Successor-Feature Transfer in Cooperative Multi-Agent Reinforcement Learning</span>" have been submitted for possible publication.<br>
         <span style="font-weight: bold;">2026.08</span>: Our paper "<span style="color: blue;">Association Between Phthalate Exposure and Immunosenescence: The Moderating Role of Physical Activity in US Adults: A Population-Based Cross-Sectional Study</span>" has been submitted for possible publication.<br>
@@ -109,7 +109,7 @@ sections:
         #  icon: newspaper
         #  icon_pack: fas
         - name: Research Service 
-          description: "<span style='display: block; text-align: left;'>**Society Membership:** IEEE Student Member, ACM Student Member, AAAI Student Membership,CCF Student Member</span><span style='display: block; text-align: left;'>**Workshop Chair:** ICISCC Workshop 2026</span><span style='display: block; text-align: left;'>**TPC Membership:** IEEE WCNC Workshop 2024-2026, IEEE PIMRC Workshop 2024-2025, IEEE GLOBECOM Workshop 2025, IEEE/CIC ICCC Workshop 2025</span><span style='display: block; text-align: left;'>**Technical Reviewer:** IEEE TPAMI, IEEE TMC, IEEE/ACM TON, IEEE TCOM, IEEE IOT-J, IEEE OJ-COMS, IEEE WCL, IEEE CL, Transportation Research Part E, Frontiers in AI, MTAP, Bentham Science Book, ICLR 2025-2027, IEEE IJCNN 2025-2027, AAAI 2026-2027, KDD 2027, IEEE ICASSP 2024-2026, IEEE ICME 2024-2026, IEEE WCNC 2024-2026, ACL ARR 2025-2026, IEEE MLSP 2025-2026, NeurIPS 2026, ICML 2026, CVPR 2026, ACM ICMR 2026, IEEE PIMRC 2024-2025, HKSTS 2024-2025, IEEE GLOBECOM 2025, IEEE/CIC ICCC 2025, IEEE AVSS 2025, IET IRC 2025, BTR 2025, IEEE SMC 2023</span>"
+          description: "<span style='display: block; text-align: left;'>**Society Membership:** IEEE Student Member, ACM Student Member, AAAI Student Membership,CCF Student Member</span><span style='display: block; text-align: left;'>**Workshop Chair:** ICISCC Workshop 2026</span><span style='display: block; text-align: left;'>**TPC Membership:** IEEE WCNC Workshop 2024-2026, IEEE PIMRC Workshop 2024-2025, IEEE GLOBECOM Workshop 2025, IEEE/CIC ICCC Workshop 2025</span><span style='display: block; text-align: left;'>**Technical Reviewer:** IEEE TPAMI, IEEE TMC, IEEE/ACM TON, IEEE TCOM, IEEE IOT-J, IEEE OJ-COMS, IEEE WCL, IEEE CL, Transportation Research Part E, Frontiers in AI, MTAP, Bentham Science Book, IEEE ICASSP 2024-2027, ICLR 2025-2027, IEEE IJCNN 2025-2027, AAAI 2026-2027, KDD 2027, IEEE ICME 2024-2026, IEEE WCNC 2024-2026, ACL ARR 2025-2026, IEEE MLSP 2025-2026, NeurIPS 2026, ICML 2026, CVPR 2026, ACM ICMR 2026, IEEE PIMRC 2024-2025, HKSTS 2024-2025, IEEE GLOBECOM 2025, IEEE/CIC ICCC 2025, IEEE AVSS 2025, IET IRC 2025, BTR 2025, IEEE SMC 2023</span>"
           icon: book
           icon_pack: fas
 
@@ -582,14 +582,14 @@ sections:
 #       columns: '1'
 
 
-  - block: markdown
-    content:
-      title: Visitors
-      subtitle: ''
-      text: |-
-        <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=QUo4CK3quudq08jfoIegrx0bJVK2lXDx0thb7Z1-7Tc&cl=ffffff&w=a"></script>
-    design:
-      columns: '1'
+#  - block: markdown
+#    content:
+#      title: Visitors
+#      subtitle: ''
+#      text: |-
+#        <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=QUo4CK3quudq08jfoIegrx0bJVK2lXDx0thb7Z1-7Tc&cl=ffffff&w=a"></script>
+#    design:
+#      columns: '1'
 
 
 ---

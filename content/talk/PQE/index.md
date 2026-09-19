@@ -1,10 +1,10 @@
 ---
-title: (HKUST Ph.D. Qualifying Exam) Algorithmic Discrimination in On-Demand Food-Delivery Platforms using Multi-Agent Reinforcement Learning
+title: (BTR 2025) Algorithmic Discrimination in On-Demand Food-Delivery Platforms using Multi-Agent Reinforcement Learning
 
 event: presentation
-event_url: 
+event_url: https://bridgingtransport.org/archive-directory/archive-of-btr-7-august-2025/
 
-location: Hong Kong
+location: online
 address:
   street: 
   city: 
@@ -17,12 +17,12 @@ abstract: ''
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2025-12-02T14:00:00Z'
-date_end: '2025-12-02T15:00:00Z'
+date: '2025-08-12T14:00:00Z'
+date_end: '2025-08-12T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2025-11-25T00:00:00Z'
+publishDate: '2025-08-01T00:00:00Z'
 
 authors:
   - admin

@@ -15,7 +15,7 @@ author_notes:
 
 
 date: '2026-09-14T00:00:00Z'
-doi: ''
+doi: '10.1016/j.trc.2026.106036'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ''
@@ -46,7 +46,7 @@ featured: false
 # - name: 
 #   url: 
 
-url_pdf: ''
+url_pdf: 'https://www.sciencedirect.com/science/article/pii/S0968090X2600522X?via%3Dihub'
 url_code: 'https://github.com/RS2002/Prebooked-Ride-Sharing'
 url_dataset: ''
 url_poster: ''
