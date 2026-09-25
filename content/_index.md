@@ -143,7 +143,7 @@ sections:
           location: Shenzhen, Full-time
           date_start: '2026-09-01'
           date_end: '2026-12-30'
-          description: 'Beidou Talent Program, <a href="https://www.keeta-global.com/">Keeta</a>'
+          description: 'Beidou Talent Program, <a href="https://www.keeta-global.com/">Keeta</a> (Mentor: <a href="https://scholar.google.com/citations?user=dAPPORAAAAAJ">Huanyu Zheng</a>)'
         - title: Research Intern
           company: Huawei
           company_url: 'https://www.huawei.com/eu/'
