@@ -1,5 +1,5 @@
 ---
-title: (Northeastern University Seminar 2026) MARL Is Not the Only Answer: Exploring Different Paradigms for Large-Scale Ride-Sharing Order Dispatch
+title: (Northeastern University Seminar 2026) MARL Is Not the Only Answer -- Exploring Different Paradigms for Large-Scale Ride-Sharing Order Dispatch
 
 event: presentation
 event_url: 
