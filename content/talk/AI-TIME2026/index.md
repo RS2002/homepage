@@ -1,10 +1,10 @@
 ---
-title: (BTR 2025) Algorithmic Discrimination in On-Demand Food-Delivery Platforms using Multi-Agent Reinforcement Learning
+title: (AI TIME) Triple-BERT: Do We Really Need MARL for Ride-Sharing Order Dispatch?
 
 event: presentation
-event_url: https://bridgingtransport.org/archive-directory/archive-of-btr-7-august-2025/
+event_url: https://mp.weixin.qq.com/s/Zi4Tr4hY2rL1T__fXC926A
 
-location: online
+location: Online
 address:
   street: 
   city: 
@@ -17,12 +17,12 @@ abstract: ''
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2025-08-12T14:00:00Z'
-date_end: '2025-08-12T15:00:00Z'
+date: '2026-10-21T14:00:00Z'
+date_end: '2026-10-21T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2025-08-01T00:00:00Z'
+publishDate: '2026-10-01T00:00:00Z'
 
 authors:
   - admin

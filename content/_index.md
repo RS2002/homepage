@@ -46,7 +46,7 @@ sections:
         <span style="font-weight: bold;">2025.12</span>: Our paper "<span style="color: blue;">KNN-MMD: Cross Domain Wireless Sensing via Local Distribution Alignment</span>" has been accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755">IEEE TMC</a>. <br>
         <span style="font-weight: bold;">2025.12</span>: I have passed my Ph.D. Qualifying Examination with the proposal titled "<span style="color: blue;">Algorithmic Discrimination in On-Demand Food-Delivery Platforms using Multi-Agent Reinforcement Learning</span>".<br>
         <span style="font-weight: bold;">2025.12</span>: Our paper "<span style="color: blue;">CSI-BERT2: A BERT-inspired Framework for Efficient CSI Prediction and Classification in Wireless Communication and Sensing</span>" has been accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755">IEEE TMC</a>. <br>
-        <span style="font-weight: bold;">2025.11</span>: Our proposal "<span style="color: blue;">Towards Fairness in Transportation Gig Markets: Identifying, Imitating, and Mitigating Algorithm Discrimination via Deep Reinforcement Learning</span>" has been accepted by <a href="https://aaai.org/conference/aaai/aaai-26/doctoral-consortium-call/">AAAI/SIGAI Doctoral Consortium 2026</a>. <br>
+#        <span style="font-weight: bold;">2025.11</span>: Our proposal "<span style="color: blue;">Towards Fairness in Transportation Gig Markets: Identifying, Imitating, and Mitigating Algorithm Discrimination via Deep Reinforcement Learning</span>" has been accepted by <a href="https://aaai.org/conference/aaai/aaai-26/doctoral-consortium-call/">AAAI/SIGAI Doctoral Consortium 2026</a>. <br>
 #        <span style="font-weight: bold;">2025.10</span>: Our paper "<span style="color: blue;">Pushing the Boundaries of Natural Reasoning: Interleaved Bonus from Formal-Logic Verification</span>" has been submitted for possible publication.<br>
 #        <span style="font-weight: bold;">2025.09</span>: Our paper "<span style="color: blue;">The Impacts of Data Privacy Regulations on Food-Delivery Platforms</span>" has been accepted by <a href="https://www.sciencedirect.com/journal/transportation-research-part-c-emerging-technologies">Transportation Research Part C</a>. <br>
 #        <span style="font-weight: bold;">2025.09</span>: Our papers "<span style="color: blue;">Ride-Hailing Order Dispatching with A Mixture of On-Demand and Pre-Booked Requests via Reinforcement Learning</span>" and "<span style="color: blue;">Zero-Effort Image-to-Music Generation: An Interpretable RAG-Based VLM Approach</span>" have been submitted for possible publication.<br>
@@ -111,7 +111,7 @@ sections:
         #  icon: newspaper
         #  icon_pack: fas
         - name: Research Service 
-          description: "<span style='display: block; text-align: left;'>**Society Membership:** IEEE Student Member, ACM Student Member, AAAI Student Membership,CCF Student Member</span><span style='display: block; text-align: left;'>**Workshop Chair:** ICISCC Workshop 2026</span><span style='display: block; text-align: left;'>**TPC Membership:** IEEE WCNC Workshop 2024-2026, IEEE PIMRC Workshop 2024-2025, IEEE GLOBECOM Workshop 2025, IEEE/CIC ICCC Workshop 2025</span><span style='display: block; text-align: left;'>**Technical Reviewer:** IEEE TPAMI, IEEE TMC, IEEE/ACM TON, IEEE TCOM, IEEE IOT-J, IEEE OJ-COMS, IEEE WCL, IEEE CL, Transportation Research Part E, Frontiers in AI, MTAP, Bentham Science Book, IEEE ICASSP 2024-2027, ICLR 2025-2027, IEEE IJCNN 2025-2027, AAAI 2026-2027, KDD 2027, IEEE ICME 2024-2026, IEEE WCNC 2024-2026, ACL ARR 2025-2026, IEEE MLSP 2025-2026, NeurIPS 2026, ICML 2026, CVPR 2026, ACM ICMR 2026, IEEE PIMRC 2024-2025, HKSTS 2024-2025, IEEE GLOBECOM 2025, IEEE/CIC ICCC 2025, IEEE AVSS 2025, IET IRC 2025, BTR 2025, IEEE SMC 2023</span>"
+          description: "<span style='display: block; text-align: left;'>**Society Membership:** IEEE Student Member, ACM Student Member, AAAI Student Membership,CCF Student Member</span><span style='display: block; text-align: left;'>**Workshop Chair:** ICISCC Workshop 2026</span><span style='display: block; text-align: left;'>**TPC Membership:** IEEE WCNC Workshop 2024-2026, IEEE PIMRC Workshop 2024-2025, IEEE GLOBECOM Workshop 2025, IEEE/CIC ICCC Workshop 2025</span><span style='display: block; text-align: left;'>**Technical Reviewer:** IEEE TPAMI, IEEE TMC, IEEE/ACM TON, IEEE TCOM, IEEE IOT-J, IEEE OJ-COMS, IEEE WCL, IEEE CL, Transportation Research Part E, ACM TOMM, Frontiers in AI, MTAP, Bentham Science Book, IEEE ICASSP 2024-2027, ICLR 2025-2027, IEEE IJCNN 2025-2027, AAAI 2026-2027, ACM KDD 2027, ACM WWW 2027, IEEE ICME 2024-2026, IEEE WCNC 2024-2026, ACL ARR 2025-2026, IEEE MLSP 2025-2026, NeurIPS 2026, ICML 2026, CVPR 2026, ACM ICMR 2026, IEEE PIMRC 2024-2025, HKSTS 2024-2025, IEEE GLOBECOM 2025, IEEE/CIC ICCC 2025, IEEE AVSS 2025, IET IRC 2025, BTR 2025, IEEE SMC 2023</span>"
           icon: book
           icon_pack: fas
 
@@ -128,14 +128,14 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Visiting Student
-          company: University of California, Berkeley
-          company_url: 'https://www.berkeley.edu/'
-          company_logo: UCB
-          location: Berkeley, Full-time
-          date_start: '2027-01-01'
-          date_end: '2027-06-30'
-          description: '<a href="https://ce.berkeley.edu/">Department of Civil and Environmental Engineering</a> (Host: <a href="https://sites.google.com/view/manxi-wu/home">Prof. Manxi Wu</a>)'
+      # - title: Visiting Student
+      #    company: University of California, Berkeley
+      #    company_url: 'https://www.berkeley.edu/'
+      #    company_logo: UCB
+      #    location: Berkeley, Full-time
+      #    date_start: '2027-01-01'
+      #    date_end: '2027-06-30'
+      #    description: '<a href="https://ce.berkeley.edu/">Department of Civil and Environmental Engineering</a> (Host: <a href="https://sites.google.com/view/manxi-wu/home">Prof. Manxi Wu</a>)'
         - title: Research Intern
           company: Meituan
           company_url: 'https://www.meituan.com/en-US/about-us'
@@ -143,7 +143,7 @@ sections:
           location: Shenzhen, Full-time
           date_start: '2026-09-01'
           date_end: '2026-12-30'
-          description: 'Beidou Talent Program, <a href="https://www.keeta-global.com/">Keeta</a> (Mentor: <a href="https://scholar.google.com/citations?user=dAPPORAAAAAJ">Huanyu Zheng</a>)'
+          description: 'Beidou Talent Program, <a href="https://www.keeta-global.com/">Keeta</a> (Mentor: <a href="https://github.com/yanghl96">Haolin Yang</a>, <a href="https://scholar.google.com/citations?user=dAPPORAAAAAJ">Huanyu Zheng</a>)'
         - title: Research Intern
           company: Huawei
           company_url: 'https://www.huawei.com/eu/'
@@ -152,7 +152,7 @@ sections:
           date_start: '2026-04-01'
           date_end: '2026-08-31'
           description: '<a href="https://www.noahlab.com.hk">Noah Ark Lab</a> (Mentor: <a href="https://openreview.net/profile?id=~Xialiang_Tong1">Xialiang Tong</a>), Central Research Institute, 2012 Laboratories'
-        - title: Industry-Academia-Research Student
+        - title: Research Student
           company: Likelihood Lab, Guangzhou WenSight Intelligent Technology Co., Ltd.
           company_url: 'http://www.maxlikelihood.cn/'
           company_logo: Likelihood

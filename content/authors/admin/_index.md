@@ -21,8 +21,8 @@ interests:
   - Deep Learning & Reinforcement Learning & Transfer Learning & Multi-Agent & Large Models
   - Interdisciplinary AI & Applied AI & AI Humanities & AI Ethics
   - Smart City & Intelligent Transportation & Smart Grid & Operations Research
-  - Integrated Sensing and Communication & Network and Edge Intelligence
-  - Music Information Retrieval & Natural Language Processing & Multi-Modal & Human-Computer Interaction
+#  - Integrated Sensing and Communication & Network and Edge Intelligence
+#  - Music Information Retrieval & Natural Language Processing & Multi-Modal & Human-Computer Interaction
 
 # Education to show in About widget
 education:
@@ -31,7 +31,7 @@ education:
       institution: The Hong Kong University of Science and Technology (Clearwater Bay Campus, Hong Kong)
       year: 2024~
     - course: B.Eng. in Computer Science and Technology (National Basic Subject Talent Training Plan)
-      institution: Sun Yat-sen University (Guangzhou Campus)
+      institution: Sun Yat-sen University (Guangzhou Campus, Guangdong)
       year: 2020~2024
 
 
@@ -115,7 +115,7 @@ highlight_name: true
 
 ---
 
-I'm a Ph.D. candidate in [Department of Civil and Environmental Engineering](https://www.ce.ust.hk/) and [Center for Scientific Computation](http://www.csc.ust.hk/scc/) at [The Hong Kong University of Science and Technology](https://hkust.edu.hk/), under the supervision of [Prof. Sen Li](https://www.smartcityhkust.com/). I'm also a research intern in [Keeta](https://www.keeta-global.com/) at [Meituan](https://www.meituan.com/en-US/about-us) (Beidou Talent Program), mentored by [‪Huanyu Zheng‬‬](https://scholar.google.com/citations?user=dAPPORAAAAAJ). My current research focuses on operations research for intelligent transportation, leveraging MARL and LLMs. 
+I'm a Ph.D. candidate in [Department of Civil and Environmental Engineering](https://www.ce.ust.hk/) and [Center for Scientific Computation](http://www.csc.ust.hk/scc/) at [The Hong Kong University of Science and Technology](https://hkust.edu.hk/), under the supervision of [Prof. Sen Li](https://www.smartcityhkust.com/). I'm also a research intern in [Keeta](https://www.keeta-global.com/) at [Meituan](https://www.meituan.com/en-US/about-us) (Beidou Talent Program), mentored by [Haolin Yang](https://github.com/yanghl96) and [‪Huanyu Zheng‬‬](https://scholar.google.com/citations?user=dAPPORAAAAAJ). My current research focuses on operations research for intelligent transportation, leveraging MARL and LLMs. 
 
 I received my B.Eng. degree from [School of Computer Science and Engineering](https://cse.sysu.edu.cn/) at [Sun Yat-sen University](https://www.sysu.edu.cn/) in 2024, supervised by [Prof. Kai Huang](https://cse.sysu.edu.cn/teacher/HuangKai), [Prof. Chengying Gao](https://cse.sysu.edu.cn/teacher/GaoChengying) and [Prof. Ning Liu](https://cse.sysu.edu.cn/teacher/LiuNing). I was also a visiting student in [Shenzhen Research Institute of Big Data](http://www.sribd.cn/) at [The Chinese University of Hong Kong (Shenzhen)](https://www.cuhk.edu.cn/zh-hans)  from 2023 to 2024, under the guidance of [Prof. Guangxu Zhu](https://sites.google.com/view/guangxuzhu). Moreover, I was a research intern in [Noah's Ark Lab (2012 Laboratories)](https://www.noahlab.com.hk/) at [Huawei](https://www.huawei.com/eu/) in 2026, mentored by [Xialiang Tong](https://openreview.net/profile?id=~Xialiang_Tong1).
 
