@@ -1,5 +1,5 @@
 ---
-title: (AI TIME) Triple-BERT: Do We Really Need MARL for Ride-Sharing Order Dispatch?
+title: (AI TIME) Triple-BERT -- Do We Really Need MARL for Ride-Sharing Order Dispatch?
 
 event: presentation
 event_url: https://mp.weixin.qq.com/s/Zi4Tr4hY2rL1T__fXC926A
